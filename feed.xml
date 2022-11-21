@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-21T09:06:09Z</updated>
+  <updated>2022-11-21T10:30:37Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -151,6 +151,24 @@ Register: Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (C
 Service: Webservice, Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 25816&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25849</id>
+    <title
+      type="text">MAT,EBR og EJF har afbrydelse i den normale dataopdatering .</title>
+    <updated>2022-11-21T10:30:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25849" />
+    <content
+      type="text">Besked: MAT, EBR og EJF har afbrydelse i den normale dataopdatering.
+
+21.11.2022 klokken 11:15: Der arbejdets på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 25849&#xD;
 </content>
   </entry>
   <entry>
