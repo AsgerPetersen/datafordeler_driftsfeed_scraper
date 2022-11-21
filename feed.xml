@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-21T07:25:39Z</updated>
+  <updated>2022-11-21T08:09:35Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -143,12 +143,14 @@ Sagsreference: 25779&#xD;
     <id>25841</id>
     <title
       type="text">Utilgængelighed på alle Datafordelerens services.</title>
-    <updated>2022-11-21T07:25:39Z</updated>
+    <updated>2022-11-21T08:09:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25841" />
     <content
       type="text">Besked: Utilgængelighed på alle Datafordelerens services
+
+21-11-2022 klokken 09:15: Der arbejdes på at løse problemet. Ny status følger.
 21-11-2022 klokken 08:30: Der kan i øjeblikket opleves utilgængelighed på alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen. Der arbejdes på at løse problemet. Ny status følger.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
