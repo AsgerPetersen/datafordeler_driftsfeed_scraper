@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2022-11-21T07:25:39Z</updated>
+  <entry>
+    <id>25674</id>
+    <title
+      type="text">Skærmkort data er planlagt til at opdatere november uge 47</title>
+    <updated>2022-11-18T09:03:14Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25674" />
+    <content
+      type="text">Besked: Skærmkort data er planlagt til at opdatere november uge 48&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 25674&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25582</id>
+    <title
+      type="text">Indbyggertal er ikke opdateret</title>
+    <updated>2022-11-02T09:51:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25582" />
+    <content
+      type="text">Besked: Indbyggertal er ikke opdateret
+
+Det er fortsat indbyggertal for 2021 der vises.
+Ønsker man at få de opdaterede indbyggertal for 2022, kan man skrive til danskestednavne@sdfi.dk.&#xD;
+Register: Danske Stednavne&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 25582&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25831</id>
+    <title
+      type="text">Advi til anvendere på DAF - EJF foretager en større datarettelse af Hist. ejerskaber uden tilknyttet ejerskifter</title>
+    <updated>2022-11-18T10:47:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25831" />
+    <content
+      type="text">Besked: Ejerfortegnelsen foretager en større datarettelse af 'Historiske ejerskaber uden et tilknyttet ejerskifte'
+
+Datarettelsen påbegyndes, mandag den 21. november og forventes at tage 4 dage. 
+
+Der vil der ses en stigning i data ift. filudtræk (Ejerskifte Delta) og hændelser (EjerskifteCreate). Vær opmærksom på at forretningshændelsen for datarettelsen vil være ”Landsdækkende kørsel”.
+
+Efter en analyse af Ejerfortegnelsens data er der fundet ejerskaber, som er status = historiske, men mangler et tilknyttet ejerskifte til ændringen fra gældende til historisk. Antallet findes på omkring 122.000+ BFE'er, hvilket betyder der kan blive oprettet mere end et ejerskifte pr. BFE, men kun for de aktive rækker, altså rækker som har registreringTil og virkningTil = "NULL".
+
+Ejerfortegnelsen fortager en datarettelse for at løse dette. Det manglende ejerskifte vil blive oprettet til det historiske ejerskab for de ca. 122.000+ BFE'er hvor der allerede eksisterer et ejerskab.
+
+ &#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Filudtræk, Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 25831&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25766</id>
+    <title
+      type="text">Danmarks Topografiske Kortværk bliver opdateret i 2023</title>
+    <updated>2022-11-16T08:41:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25766" />
+    <content
+      type="text">Besked: Danmarks Topografiske Kortværk bliver opdateret i 2023
+Næste opdatering af data fra Danmarks Topografiske Kortværk (DTK) på Datafordeleren bliver i juli/august 2023 med både 2022 og 2023 data.
+Dermed er seneste data fra 2021 i webservices og filudtræk, indtil opdateringen er udført.
+Det er ikke er muligt at gennemføre en opdatering af data tidligere på grund af den igangværende transition af Datafordeleren til den nye driftsleverandør Netcompany. 
+
+Læs mere om transition og modernisering af Datafordeleren&#xD;
+Register: Danmarks Topografiske Kortværk (DTK)&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Forventet&#xD;
+Sagsreference: 25766&#xD;
+Forventet fra: 15-07-2023 22:00:00&#xD;
+Forventet til: 14-08-2023 22:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25825</id>
+    <title
+      type="text">Test03 og Test04 servicevinduer. Rel. 36</title>
+    <updated>2022-11-17T08:29:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25825" />
+    <content
+      type="text">Besked: TEST03 og TEST04 servicevinduer i uge  47
+
+Der vil være planlagte servicevinduer:
+
+	TEST03 tirsdag den 22. november, fra kl. 09:00 til  kl.15.00.
+	TEST04 torsdag den 24. november, fra kl. 09:00 til  kl.15.00
+
+
+
+I tidsrummene vil testmiljørene være helt eller delvis utilgængelige.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 25825&#xD;
+Periode start: 22-11-2022 09:00:00&#xD;
+Periode slut: 22-11-2022 15:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25779</id>
+    <title
+      type="text">BBR Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2022-11-17T07:51:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25779" />
+    <content
+      type="text">Besked: BBR Dataopdatering stoppet i produktionsmiljøet.
+
+17.11.2022 klokken 09:00: Dataopdateringen er tilbage i normal drift.
+
+16.11.2022 klokken 09:00: Der arbejdes fortsat på at løse problemet.
+
+14.11.2022 klokken 09:00: Der arbejdes på løse problemet, sidste opdatering var 13.11.2022 klokken 18:05:43&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 25779&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25841</id>
+    <title
+      type="text">Utilgængelighed på alle Datafordelerens services.</title>
+    <updated>2022-11-21T07:25:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25841" />
+    <content
+      type="text">Besked: Utilgængelighed på alle Datafordelerens services
+21-11-2022 klokken 08:30: Der kan i øjeblikket opleves utilgængelighed på alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen. Der arbejdes på at løse problemet. Ny status følger.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 25841&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25816</id>
+    <title
+      type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
+    <updated>2022-11-16T07:44:28Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25816" />
+    <content
+      type="text">Besked: Tildeling af adgange til adgangsbegrænsede tjenester fejler.
+
+Vi oplever en fejl i administrationen af  adgange til adgangsbegrænsede tjenester på Datafordeleren. Det påvirker anvendere der har anmodet om adgang til flg. registre: CPR, CVR, Ejerfortegnelsen og Ejendomsvurdering.
+
+Der bliver arbejdet på at løse fejlen&#xD;
+Register: Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 25816&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25473</id>
+    <title
+      type="text">Afbrydelse i den normale dataopdatering for VUR.</title>
+    <updated>2022-11-17T11:21:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25473" />
+    <content
+      type="text">Besked: Den normale dataopdatering af VUR registerdata er i øjeblikket stoppet
+
+17.11.2022 klokken 12:00: Dataopdateringen er tilbage i normal drift.
+
+16.11.2022 klokken 12:00: VUR data er stadig ikke blevet opdateret, der arbejdets fortsat på at løse problemet.
+
+11.11.2022 klokken 13:10: VUR dataopdatering inklusiv nye vurderinger forventes genoptaget igen mandag den 14. november.
+
+03.11.2022 klokken 9:00: VUR data opdateres stadig ikke. Der arbejdes på at løse problemet og forventningen er at dataopdateringen vil blive genoptaget ultimo uge 45.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 25473&#xD;
+</content>
+  </entry>
+</feed>
