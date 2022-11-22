@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-22T13:34:57Z</updated>
+  <updated>2022-11-22T14:19:52Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -94,7 +94,7 @@ Forventet til: 14-08-2023 22:00:00&#xD;
     <id>25873</id>
     <title
       type="text">Test03 Servicevindue</title>
-    <updated>2022-11-22T13:34:57Z</updated>
+    <updated>2022-11-22T14:19:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25873" />
@@ -110,7 +110,7 @@ Der vil være planlagt servicevindue:
 I tidsrummet vil testmiljøet være helt eller delvis utilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Ikke planlagt&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 25873&#xD;
 Periode start: 24-11-2022 09:00:00&#xD;
 Periode slut: 25-11-2022 09:00:00&#xD;
