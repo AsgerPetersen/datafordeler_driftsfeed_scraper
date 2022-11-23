@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-22T17:29:33Z</updated>
+  <updated>2022-11-23T12:27:23Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -203,12 +203,14 @@ Sagsreference: 25849&#xD;
     <id>25877</id>
     <title
       type="text">EJF Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2022-11-22T15:17:27Z</updated>
+    <updated>2022-11-23T12:27:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25877" />
     <content
       type="text">Besked: EJF Dataopdatering stoppet i produktionsmiljøet
+
+22.11.2022 klokken 13:30: Det arbejdes fortsat på at løse problemet.
 
 22.11.2022 klokken 16:00: Der arbejdes på løse problemet, sidste opdatering var 22.11.2022 klokken 15:24:47&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
