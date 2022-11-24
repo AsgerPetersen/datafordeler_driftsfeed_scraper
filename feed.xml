@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-24T08:42:41Z</updated>
+  <updated>2022-11-24T08:59:37Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -26,12 +26,14 @@ Sagsreference: 25674&#xD;
     <id>25902</id>
     <title
       type="text">GeoDanmark Ortofoto for 2022 er nu tilgængelig på Datafordeleren</title>
-    <updated>2022-11-24T08:42:41Z</updated>
+    <updated>2022-11-24T08:57:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25902" />
     <content
-      type="text">Besked: GeoDanmark Ortofoto for 2022 kan nu tilgås via webservice eller filudtræk.&#xD;
+      type="text">Besked: GeoDanmark Ortofoto for 2022 er nu tilgængelig på Datafordeleren
+
+GeoDanmark Ortofoto for 2022 kan nu tilgås via webservice eller filudtræk.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -219,14 +221,16 @@ Sagsreference: 25849&#xD;
     <id>25877</id>
     <title
       type="text">EJF Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2022-11-23T12:27:23Z</updated>
+    <updated>2022-11-24T08:59:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25877" />
     <content
       type="text">Besked: EJF Dataopdatering stoppet i produktionsmiljøet
 
-22.11.2022 klokken 13:30: Det arbejdes fortsat på at løse problemet.
+24.11.2022 klokken 10:00: Det arbejdes fortsat på at løse problemet.
+
+23.11.2022 klokken 13:30: Det arbejdes fortsat på at løse problemet.
 
 22.11.2022 klokken 16:00: Der arbejdes på løse problemet, sidste opdatering var 22.11.2022 klokken 15:24:47&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
