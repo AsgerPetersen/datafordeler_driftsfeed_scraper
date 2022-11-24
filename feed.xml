@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-23T12:27:23Z</updated>
+  <updated>2022-11-24T08:42:41Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -20,6 +20,22 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 25674&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25902</id>
+    <title
+      type="text">GeoDanmark Ortofoto for 2022 er nu tilgængelig på Datafordeleren</title>
+    <updated>2022-11-24T08:42:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25902" />
+    <content
+      type="text">Besked: GeoDanmark Ortofoto for 2022 kan nu tilgås via webservice eller filudtræk.&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 25902&#xD;
 </content>
   </entry>
   <entry>
