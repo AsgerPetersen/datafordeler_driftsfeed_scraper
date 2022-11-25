@@ -109,27 +109,6 @@ Forventet til: 14-08-2023 22:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>25841</id>
-    <title
-      type="text">Utilgængelighed på alle Datafordelerens services.</title>
-    <updated>2022-11-25T11:21:54Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25841" />
-    <content
-      type="text">Besked: Utilgængelighed på alle Datafordelerens services
-
-21-11-2022 klokken 10:00: Problemet er løst. Alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen er tilgængelig igen.
-
-21-11-2022 klokken 09:15: Der arbejdes på at løse problemet. Ny status følger.
-21-11-2022 klokken 08:30: Der kan i øjeblikket opleves utilgængelighed på alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen. Der arbejdes på at løse problemet. Ny status følger.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 25841&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25816</id>
     <title
       type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
