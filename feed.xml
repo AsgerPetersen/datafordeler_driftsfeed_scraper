@@ -5,17 +5,17 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-25T10:18:44Z</updated>
+  <updated>2022-11-25T11:24:52Z</updated>
   <entry>
     <id>25674</id>
     <title
       type="text">Skærmkort data er planlagt til at opdatere november uge 47</title>
-    <updated>2022-11-18T09:03:14Z</updated>
+    <updated>2022-11-25T11:24:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25674" />
     <content
-      type="text">Besked: Skærmkort data er planlagt til at opdatere november uge 48&#xD;
+      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i november, uge 48&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -26,7 +26,7 @@ Sagsreference: 25674&#xD;
     <id>25902</id>
     <title
       type="text">GeoDanmark Ortofoto for 2022 er nu tilgængelig på Datafordeleren</title>
-    <updated>2022-11-24T08:57:37Z</updated>
+    <updated>2022-11-25T11:21:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25902" />
@@ -36,7 +36,7 @@ Sagsreference: 25674&#xD;
 GeoDanmark Ortofoto for 2022 kan nu tilgås via webservice eller filudtræk.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 25902&#xD;
 </content>
   </entry>
@@ -109,67 +109,17 @@ Forventet til: 14-08-2023 22:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>25873</id>
-    <title
-      type="text">Test03 Servicevindue</title>
-    <updated>2022-11-25T07:53:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25873" />
-    <content
-      type="text">Besked: Test03 Servicevindue
-
-25-11-2022: Servicevinduet er gennemført.{}
-
-Der vil være planlagt servicevindue:
-
-	TEST03 torsdag den 24. november, fra kl. 09:00 til  fredag den 25.novemver kl. 09.00.
-
-
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængelige.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 25873&#xD;
-Periode start: 24-11-2022 09:00:00&#xD;
-Periode slut: 25-11-2022 09:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>25779</id>
-    <title
-      type="text">BBR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2022-11-17T07:51:31Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25779" />
-    <content
-      type="text">Besked: BBR Dataopdatering stoppet i produktionsmiljøet.
-
-17.11.2022 klokken 09:00: Dataopdateringen er tilbage i normal drift.
-
-16.11.2022 klokken 09:00: Der arbejdes fortsat på at løse problemet.
-
-14.11.2022 klokken 09:00: Der arbejdes på løse problemet, sidste opdatering var 13.11.2022 klokken 18:05:43&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 25779&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25841</id>
     <title
       type="text">Utilgængelighed på alle Datafordelerens services.</title>
-    <updated>2022-11-21T09:06:09Z</updated>
+    <updated>2022-11-25T11:21:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25841" />
     <content
       type="text">Besked: Utilgængelighed på alle Datafordelerens services
 
-21-1-2022 klokken 10:00: Problemet er løst. Alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen er tilgængelig igen.
+21-11-2022 klokken 10:00: Problemet er løst. Alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen er tilgængelig igen.
 
 21-11-2022 klokken 09:15: Der arbejdes på at løse problemet. Ny status følger.
 21-11-2022 klokken 08:30: Der kan i øjeblikket opleves utilgængelighed på alle webtjenester, filudtræk, hændelser og adgang til selvbetjenings- og administrationsportalen. Der arbejdes på at løse problemet. Ny status følger.&#xD;
@@ -247,7 +197,7 @@ Sagsreference: 25877&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2022-11-25T10:04:00Z</updated>
+    <updated>2022-11-25T11:20:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
@@ -256,37 +206,13 @@ Sagsreference: 25877&#xD;
 
 Sidste dato for tilgængelighed var 14/11.
 
-Der arbejdets på løse problemet.
+Der arbejdets på at løse problemet.
 
  &#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 25927&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>25473</id>
-    <title
-      type="text">Afbrydelse i den normale dataopdatering for VUR.</title>
-    <updated>2022-11-17T11:21:01Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25473" />
-    <content
-      type="text">Besked: Den normale dataopdatering af VUR registerdata er i øjeblikket stoppet
-
-17.11.2022 klokken 12:00: Dataopdateringen er tilbage i normal drift.
-
-16.11.2022 klokken 12:00: VUR data er stadig ikke blevet opdateret, der arbejdets fortsat på at løse problemet.
-
-11.11.2022 klokken 13:10: VUR dataopdatering inklusiv nye vurderinger forventes genoptaget igen mandag den 14. november.
-
-03.11.2022 klokken 9:00: VUR data opdateres stadig ikke. Der arbejdes på at løse problemet og forventningen er at dataopdateringen vil blive genoptaget ultimo uge 45.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 25473&#xD;
 </content>
   </entry>
 </feed>
