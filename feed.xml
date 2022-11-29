@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-11-28T08:19:38Z</updated>
+  <updated>2022-11-29T08:04:04Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -108,6 +108,36 @@ Status: Forventet&#xD;
 Sagsreference: 25766&#xD;
 Forventet fra: 15-07-2023 22:00:00&#xD;
 Forventet til: 14-08-2023 22:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25825</id>
+    <title
+      type="text">Test03 og Test04 servicevinduer. Rel. 36 - flyttes</title>
+    <updated>2022-11-29T08:04:04Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25825" />
+    <content
+      type="text">Besked: TEST04 servicevindue
+
+29-11-2022, kl. 9:00: Servicevinduet rykkes til i morgen.
+
+Der vil være planlagt servicevindue:
+
+	TEST04 onsdag den 30. november, fra kl. 09:00 til ons kl.15.00
+
+
+
+I tidsrummene vil testmiljøret være helt eller delvis utilgængeligt.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 25825&#xD;
+Periode start: 30-11-2022 09:00:00&#xD;
+Periode slut: 29-11-2022 15:00:00&#xD;
 </content>
   </entry>
   <entry>
