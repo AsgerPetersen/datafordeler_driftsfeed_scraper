@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-01T08:13:19Z</updated>
+  <updated>2022-12-01T12:27:34Z</updated>
   <entry>
     <id>25674</id>
     <title
@@ -144,12 +144,14 @@ Periode slut: 29-11-2022 15:00:00&#xD;
     <id>25816</id>
     <title
       type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
-    <updated>2022-11-16T07:44:28Z</updated>
+    <updated>2022-12-01T12:27:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25816" />
     <content
       type="text">Besked: Tildeling af adgange til adgangsbegrænsede tjenester fejler.
+
+01-12-2022: Der arbejdes fortsat på at løse fejlen.
 
 Vi oplever en fejl i administrationen af  adgange til adgangsbegrænsede tjenester på Datafordeleren. Det påvirker anvendere der har anmodet om adgang til flg. registre: CPR, CVR, Ejerfortegnelsen og Ejendomsvurdering.
 
