@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-02T09:14:29Z</updated>
+  <updated>2022-12-02T11:25:09Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -80,14 +80,14 @@ Sagsreference: 25582&#xD;
     <id>25831</id>
     <title
       type="text">Advi til anvendere på DAF - EJF foretager en større datarettelse af Hist. ejerskaber uden tilknyttet ejerskifter</title>
-    <updated>2022-12-02T09:11:18Z</updated>
+    <updated>2022-12-02T11:25:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25831" />
     <content
       type="text">Besked: Ejerfortegnelsen foretager en større datarettelse af 'Historiske ejerskaber uden et tilknyttet ejerskifte'
 
-02-12-2022: Datarettelsen er gennemført.
+02-12-2022: Datarettelsen er fortsat sat på midlertidig pause.
 
 25-11-2022: Datarettelsen er sat på midlertidig pause. Ny opdatering følger når datarettelsen genoptages.
 
@@ -102,7 +102,7 @@ Ejerfortegnelsen fortager en datarettelse for at løse dette. Det manglende ejer
  &#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Filudtræk, Hændelser&#xD;
-Status: Løst&#xD;
+Status: I gang&#xD;
 Sagsreference: 25831&#xD;
 </content>
   </entry>
