@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-02T13:53:54Z</updated>
+  <updated>2022-12-02T13:57:52Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -133,7 +133,7 @@ Forventet til: 14-08-2023 22:00:00&#xD;
     <id>26021</id>
     <title
       type="text">Test03 ekstra servicevindue rel. 36.0.1</title>
-    <updated>2022-12-02T13:53:54Z</updated>
+    <updated>2022-12-02T13:57:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26021" />
@@ -146,7 +146,7 @@ Der vil være ekstraordinært servicevindue på Test03.
 
 
 
-I tidsrummene vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
+I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Ikke planlagt&#xD;
