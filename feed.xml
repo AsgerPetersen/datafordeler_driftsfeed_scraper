@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-02T09:11:18Z</updated>
+  <updated>2022-12-02T09:14:29Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -152,26 +152,6 @@ Sagsreference: 25816&#xD;
 </content>
   </entry>
   <entry>
-    <id>25849</id>
-    <title
-      type="text">MAT,EBR og EJF har afbrydelse i den normale dataopdatering .</title>
-    <updated>2022-11-21T12:51:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25849" />
-    <content
-      type="text">Besked: MAT, EBR og EJF har afbrydelse i den normale dataopdatering.
-
-21.11.2022 klokken 14:00: Dataopdateringen er tilbage i normal drift.
-
-21.11.2022 klokken 11:15: Der arbejdets på at løse problemet.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 25849&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25877</id>
     <title
       type="text">EJF Dataopdatering stoppet i produktionsmiljøet</title>
@@ -197,16 +177,16 @@ Sagsreference: 25877&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2022-11-25T11:20:07Z</updated>
+    <updated>2022-12-02T09:14:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-Sidste dato for tilgængelighed var 14/11.
+25.11.2022: Der arbejdets på at løse problemet.
 
-Der arbejdets på at løse problemet.
+Sidste dato for tilgængelighed var 14/11.
 
  &#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
