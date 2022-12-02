@@ -5,20 +5,37 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-01T12:27:34Z</updated>
+  <updated>2022-12-02T08:43:21Z</updated>
+  <entry>
+    <id>26013</id>
+    <title
+      type="text">Skærmkort data er planlagt til at blive opdateret i Januar, uge 4</title>
+    <updated>2022-12-02T08:41:17Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26013" />
+    <content
+      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Januar, uge 4&#xD;
+Register: Skærmkortet&#xD;
+Status: I gang&#xD;
+Sagsreference: 26013&#xD;
+</content>
+  </entry>
   <entry>
     <id>25674</id>
     <title
       type="text">Skærmkort data er planlagt til at opdatere november uge 47</title>
-    <updated>2022-11-25T11:24:52Z</updated>
+    <updated>2022-12-02T08:43:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25674" />
     <content
-      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i november, uge 48&#xD;
+      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i november, uge 48
+
+Opdatering er gennemført i prod den 22.11.2022&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 25674&#xD;
 </content>
   </entry>
