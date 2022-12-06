@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-06T12:36:30Z</updated>
+  <updated>2022-12-06T13:22:47Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -133,14 +133,14 @@ Forventet til: 14-08-2023 22:00:00&#xD;
     <id>26056</id>
     <title
       type="text">Planlagt Datafordeler produktion service vindue torsdag den 15. december, i tidsrummet klokken 20:00-03:00</title>
-    <updated>2022-12-06T12:36:30Z</updated>
+    <updated>2022-12-06T13:22:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26056" />
     <content
       type="text">Besked: Planlagt Datafordeler produktion service vindue torsdag den 15. december, i tidsrummet klokken 20:00-03:00
 
-I tidsrummet vil der kunne opleves utilgængelighed på filudtræk, hændelser, web tjenester, administration- og selvbetjeningsportal. Der vil ikke blive opdateret registerdata i tidsrummet.&#xD;
+I tidsrummet vil der kunne opleves utilgængelighed på filudtræk, hændelser, web tjenester, administrations- og selvbetjeningsportal. Der vil ikke blive opdateret registerdata i tidsrummet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
