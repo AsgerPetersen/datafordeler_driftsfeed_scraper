@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-08T10:27:07Z</updated>
+  <updated>2022-12-08T11:52:27Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -74,6 +74,30 @@ Register: Danske Stednavne&#xD;
 Service: Webservice, Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 25582&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26075</id>
+    <title
+      type="text">Datafordeleren anvender ikke MitID endnu</title>
+    <updated>2022-12-08T11:52:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26075" />
+    <content
+      type="text">Besked: Datafordeleren anvender ikke MitID endnu.
+
+Ved log ind til Datafordeleren med NemLog-in, kan der endnu ikke anvendes MitID.
+
+Der skal stadig logges ind med NemID nøglefil eller nøglekort. 
+
+Ved log ind med MitID , kommer der ikke en fejlmeddelelse, men webrugeroplysningerne er tomme og der er ingen organisatorisk tilknytning brugeren.
+
+Planen er, at det vil blive muligt at logge ind med MitID i slutningen af 1. kvartal i 2023. ** &#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26075&#xD;
 </content>
   </entry>
   <entry>
