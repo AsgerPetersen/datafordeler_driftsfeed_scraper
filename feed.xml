@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-12T09:53:41Z</updated>
+  <updated>2022-12-12T12:28:25Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -203,17 +203,19 @@ Sagsreference: 26030&#xD;
     <id>26098</id>
     <title
       type="text">CVR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2022-12-12T09:53:41Z</updated>
+    <updated>2022-12-12T12:28:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26098" />
     <content
       type="text">Besked: CVR dataopdateringen er stoppet i Datafordeler produktionsmiljøet
 
+12.12.2022 klokken 13:30: Problemet et løst og dataopdateringen er tilbage i normal drift.
+
 12.12.2022 klokken 10:30: Der arbejdes på at få CVR dataopdateringen tilbage i normal drift. &#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26098&#xD;
 </content>
   </entry>
