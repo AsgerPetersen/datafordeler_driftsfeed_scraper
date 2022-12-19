@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2022-12-16T15:32:04Z</updated>
+  <updated>2022-12-19T08:08:43Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -143,17 +143,18 @@ Periode slut: 16-12-2022 03:00:00&#xD;
     <id>26146</id>
     <title
       type="text">Dataopdateringen for Ejerfortegnelsen stoppet i Datafordeler PROD.</title>
-    <updated>2022-12-16T15:32:04Z</updated>
+    <updated>2022-12-19T08:08:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26146" />
     <content
       type="text">Besked: Den normale register dataopdatering for Ejerfortegnelsen er stoppet
 
+19.12.2022 klokken 09:00: Registerdata opdateres igen.
 16.12.2022 klokken 16:30: Der arbejdes på at få løst problemet. Seneste dataopdatering var klokken 13:31:28 d. 16/12/2022.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26146&#xD;
 </content>
   </entry>
