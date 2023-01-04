@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-04T07:58:04Z</updated>
+  <updated>2023-01-04T08:43:40Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -153,14 +153,14 @@ Periode slut: 05-01-2023 09:00:00&#xD;
     <id>26222</id>
     <title
       type="text">Test04 9. januar, rel. 36.01.</title>
-    <updated>2023-01-04T07:58:04Z</updated>
+    <updated>2023-01-04T08:43:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26222" />
     <content
-      type="text">Besked: Test06 servicevindue
+      type="text">Besked: Test04 servicevindue
 
-Der vil være planlagt servicevindue på Test03.
+Der vil være planlagt servicevindue på Test04.
 
 	Mandag den 9. januar, kl. 9:00 til kl. 15:00
 
