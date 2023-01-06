@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-06T07:32:18Z</updated>
+  <updated>2023-01-06T09:58:59Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -228,36 +228,17 @@ Periode slut: 10-01-2023 23:59:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>26146</id>
-    <title
-      type="text">Dataopdateringen for Ejerfortegnelsen stoppet i Datafordeler PROD.</title>
-    <updated>2022-12-19T08:08:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26146" />
-    <content
-      type="text">Besked: Den normale register dataopdatering for Ejerfortegnelsen er stoppet
-
-19.12.2022 klokken 09:00: Registerdata opdateres igen.
-16.12.2022 klokken 16:30: Der arbejdes på at få løst problemet. Seneste dataopdatering var klokken 13:31:28 d. 16/12/2022.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 26146&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25816</id>
     <title
       type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
-    <updated>2022-12-23T09:04:55Z</updated>
+    <updated>2023-01-06T09:58:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25816" />
     <content
       type="text">Besked: Tildeling af adgange til adgangsbegrænsede tjenester fejler.
 
-23-12-2022: Der arbejdes fortsat på at løse fejlen.
+06-01-2023: Der arbejdes fortsat på at løse fejlen.
 
 16-11-2022: Vi oplever en fejl i administrationen af  adgange til adgangsbegrænsede tjenester på Datafordeleren. Det påvirker anvendere der har anmodet om adgang til flg. registre: CPR, CVR, Ejerfortegnelsen og Ejendomsvurdering.
 
@@ -272,14 +253,14 @@ Sagsreference: 25816&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2022-12-23T09:05:15Z</updated>
+    <updated>2023-01-06T09:58:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-23.12.2022: Der arbejdets fortsat på at løse problemet.
+06.01.2023: Der arbejdets fortsat på at løse problemet.
 
 25.11.2022: Der arbejdets på at løse problemet.
 
