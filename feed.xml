@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-10T12:29:10Z</updated>
+  <updated>2023-01-11T08:54:50Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -259,6 +259,29 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 26273&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26313</id>
+    <title
+      type="text">Telefonopkald til supporten fungerer ikke i øjeblikket</title>
+    <updated>2023-01-11T08:54:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26313" />
+    <content
+      type="text">Besked: Telefonopkald til supporten fungerer ikke i øjeblikket
+
+Det er i øjeblikket ikke muligt at ringe til supporten. Telefonen melder, at nummeret ikke eksisterer.
+
+Vi arbejder med at løse fejlen.
+
+ 
+
+ &#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 26313&#xD;
 </content>
   </entry>
   <entry>
