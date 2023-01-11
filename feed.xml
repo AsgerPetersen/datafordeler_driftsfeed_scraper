@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-11T08:54:50Z</updated>
+  <updated>2023-01-11T09:00:19Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -265,7 +265,7 @@ Sagsreference: 26273&#xD;
     <id>26313</id>
     <title
       type="text">Telefonopkald til supporten fungerer ikke i øjeblikket</title>
-    <updated>2023-01-11T08:54:50Z</updated>
+    <updated>2023-01-11T09:00:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26313" />
@@ -274,7 +274,9 @@ Sagsreference: 26273&#xD;
 
 Det er i øjeblikket ikke muligt at ringe til supporten. Telefonen melder, at nummeret ikke eksisterer.
 
-Vi arbejder med at løse fejlen.
+Skriv i stedet til supporten via formularen på https://datafordeler.dk/support/.
+
+Vi arbejder på at løse fejlen.
 
  
 
