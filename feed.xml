@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-13T09:42:33Z</updated>
+  <updated>2023-01-13T10:40:31Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -125,14 +125,14 @@ Forventet til: 14-08-2023 22:00:00&#xD;
     <id>26297</id>
     <title
       type="text">Datafordeler TEST03 er i øjeblikket utilgængeligt.</title>
-    <updated>2023-01-13T09:38:28Z</updated>
+    <updated>2023-01-13T10:40:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26297" />
     <content
       type="text">Besked: Datafordeler TEST03 er i øjeblikket utilgængeligt.
 
-13.01.2023 klokken 10:30: Ny opdatering følger når miljøjet er tilgængeligt igen.&#xD;
+13.01.2023 klokken 10:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen. Ny opdatering følger.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: I gang&#xD;
