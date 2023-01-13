@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-12T15:06:31Z</updated>
+  <updated>2023-01-13T08:57:29Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -247,12 +247,14 @@ Sagsreference: 25816&#xD;
     <id>26335</id>
     <title
       type="text">Dataopdateringen for EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-01-12T14:00:19Z</updated>
+    <updated>2023-01-13T08:57:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26335" />
     <content
       type="text">Besked: Den normale dataopdatering for EJF er i øjeblikket stoppet i produktionsmiljøet
+
+13.01.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
 12.01.2023 klokken 15:00: Der arbejdes på at løse problemet. Seneste dataopdatering er indlæst den 12/01-2023 klokken 14:13:14.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
