@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-16T09:28:06Z</updated>
+  <updated>2023-01-16T09:30:13Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -96,17 +96,16 @@ Sagsreference: 25831&#xD;
     <id>25766</id>
     <title
       type="text">Danmarks Topografiske Kortværk bliver opdateret i 2023</title>
-    <updated>2022-11-22T17:29:33Z</updated>
+    <updated>2023-01-16T09:30:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25766" />
     <content
       type="text">Besked: Danmarks Topografiske Kortværk bliver opdateret i 2023
-Næste opdatering af data fra Danmarks Topografiske Kortværk (DTK) på Datafordeleren bliver i juli/august 2023 med både 2022 og 2023 data.
-Dermed er seneste data fra 2021 i webservices og filudtræk, indtil opdateringen er udført.
-Det er ikke er muligt at gennemføre en opdatering af data tidligere på grund af den igangværende transition af Datafordeleren til den nye driftsleverandør Netcompany. 
 
-Læs mere om transition og modernisering af Datafordeleren&#xD;
+Læs mere her https://datafordeler.dk/support/?faq=26338
+
+ &#xD;
 Register: Danmarks Topografiske Kortværk (DTK)&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
 Status: Forventet&#xD;
