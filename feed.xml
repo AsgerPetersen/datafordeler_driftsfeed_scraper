@@ -1,1 +1,230 @@
-{"Message":"An error has occurred."}
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2023-01-16T09:28:06Z</updated>
+  <entry>
+    <id>26013</id>
+    <title
+      type="text">Skærmkort data er planlagt til at blive opdateret i Januar, uge 4</title>
+    <updated>2022-12-09T09:05:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26013" />
+    <content
+      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Januar 2023, uge 4&#xD;
+Register: Skærmkortet&#xD;
+Status: I gang&#xD;
+Sagsreference: 26013&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25582</id>
+    <title
+      type="text">Indbyggertal er ikke opdateret</title>
+    <updated>2022-11-02T09:51:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25582" />
+    <content
+      type="text">Besked: Indbyggertal er ikke opdateret
+
+Det er fortsat indbyggertal for 2021 der vises.
+Ønsker man at få de opdaterede indbyggertal for 2022, kan man skrive til danskestednavne@sdfi.dk.&#xD;
+Register: Danske Stednavne&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 25582&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26075</id>
+    <title
+      type="text">Datafordeleren anvender ikke MitID endnu</title>
+    <updated>2023-01-16T09:28:06Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26075" />
+    <content
+      type="text">Besked: Datafordeleren anvender ikke MitID endnu.
+
+Læs mere her https://datafordeler.dk/support/?faq=26350 &#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26075&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25831</id>
+    <title
+      type="text">Advi til anvendere på DAF - EJF foretager en større datarettelse af Hist. ejerskaber uden tilknyttet ejerskifter</title>
+    <updated>2023-01-10T12:29:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25831" />
+    <content
+      type="text">Besked: Ejerfortegnelsen foretager en større datarettelse af 'Historiske ejerskaber uden et tilknyttet ejerskifte'
+
+10-01-2023: Datarettelsen er færdig. 
+
+20-12-2022: Datarettelsen rykkes, forventes genoptaget den 3. januar 2023
+
+16-12-2022: Datarettelsen forventes genoptaget i uge 51
+
+25-11-2022: Datarettelsen er sat på midlertidig pause. Ny opdatering følger når datarettelsen genoptages.
+
+Datarettelsen påbegyndes, mandag den 21. november og forventes at tage 4 dage. 
+
+Der vil der ses en stigning i data ift. filudtræk (Ejerskifte Delta) og hændelser (EjerskifteCreate). Vær opmærksom på at forretningshændelsen for datarettelsen vil være ”Landsdækkende kørsel”.
+
+Efter en analyse af Ejerfortegnelsens data er der fundet ejerskaber, som er status = historiske, men mangler et tilknyttet ejerskifte til ændringen fra gældende til historisk. Antallet findes på omkring 122.000+ BFE'er, hvilket betyder der kan blive oprettet mere end et ejerskifte pr. BFE, men kun for de aktive rækker, altså rækker som har registreringTil og virkningTil = "NULL".
+
+Ejerfortegnelsen fortager en datarettelse for at løse dette. Det manglende ejerskifte vil blive oprettet til det historiske ejerskab for de ca. 122.000+ BFE'er hvor der allerede eksisterer et ejerskab.
+
+ &#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Filudtræk, Hændelser&#xD;
+Status: Løst&#xD;
+Sagsreference: 25831&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25766</id>
+    <title
+      type="text">Danmarks Topografiske Kortværk bliver opdateret i 2023</title>
+    <updated>2022-11-22T17:29:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25766" />
+    <content
+      type="text">Besked: Danmarks Topografiske Kortværk bliver opdateret i 2023
+Næste opdatering af data fra Danmarks Topografiske Kortværk (DTK) på Datafordeleren bliver i juli/august 2023 med både 2022 og 2023 data.
+Dermed er seneste data fra 2021 i webservices og filudtræk, indtil opdateringen er udført.
+Det er ikke er muligt at gennemføre en opdatering af data tidligere på grund af den igangværende transition af Datafordeleren til den nye driftsleverandør Netcompany. 
+
+Læs mere om transition og modernisering af Datafordeleren&#xD;
+Register: Danmarks Topografiske Kortværk (DTK)&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Forventet&#xD;
+Sagsreference: 25766&#xD;
+Forventet fra: 15-07-2023 22:00:00&#xD;
+Forventet til: 14-08-2023 22:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26297</id>
+    <title
+      type="text">Datafordeler TEST03 er i øjeblikket utilgængeligt.</title>
+    <updated>2023-01-13T10:40:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26297" />
+    <content
+      type="text">Besked: Datafordeler TEST03 er i øjeblikket utilgængeligt.
+
+13.01.2023 klokken 10:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen. Ny opdatering følger.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26297&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25816</id>
+    <title
+      type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
+    <updated>2023-01-13T09:40:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25816" />
+    <content
+      type="text">Besked: Tildeling af adgange til adgangsbegrænsede tjenester fejler.
+
+13-01-2023: Problemet er løst.
+
+10-01-2023: Der arbejdes fortsat på at løse fejlen.
+
+06-01-2023: Der arbejdes fortsat på at løse fejlen.
+
+16-11-2022: Vi oplever en fejl i administrationen af  adgange til adgangsbegrænsede tjenester på Datafordeleren. Det påvirker anvendere der har anmodet om adgang til flg. registre: CPR, CVR, Ejerfortegnelsen og Ejendomsvurdering.
+
+Der bliver arbejdet på at løse fejlen&#xD;
+Register: Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: Løst&#xD;
+Sagsreference: 25816&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26335</id>
+    <title
+      type="text">Dataopdateringen for EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
+    <updated>2023-01-13T15:10:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26335" />
+    <content
+      type="text">Besked: Den normale dataopdatering for EJF er i øjeblikket stoppet i produktionsmiljøet
+
+13.01.2023 klokken 16:15: Problemet er løst og dataopdateringen er tilbage i normal drift.
+
+13.01.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
+
+12.01.2023 klokken 15:00: Der arbejdes på at løse problemet. Seneste dataopdatering er indlæst den 12/01-2023 klokken 14:13:14.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 26335&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26273</id>
+    <title
+      type="text">Fejl 400 ved opdatering af certifikat</title>
+    <updated>2023-01-13T09:42:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26273" />
+    <content
+      type="text">Besked: Fejl 400 ved opdatering af certifikat
+
+13-01-2023: Status på løsning kan følges her https://datafordeler.dk/support/?faq=26317
+
+Der kan forekomme en fejl 400, når brugerne vil opdatere certifikater på tjenestebrugere via datafordeler.dk. Brug i stedet Selvbetjeningen på https://selfservice.datafordeler.dk/ for at opdatere certifikat.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26273&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>25927</id>
+    <title
+      type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
+    <updated>2023-01-10T12:25:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/25927" />
+    <content
+      type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
+
+10.01.2023: Der arbejdets fortsat på at løse problemet.
+
+06.01.2023: Der arbejdets fortsat på at løse problemet.
+
+25.11.2022: Der arbejdets på at løse problemet.
+
+Sidste dato for tilgængelighed var 14/11.
+
+ &#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 25927&#xD;
+</content>
+  </entry>
+</feed>
