@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-19T07:34:15Z</updated>
+  <updated>2023-01-20T09:19:12Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -25,15 +25,14 @@ Sagsreference: 26013&#xD;
     <id>25582</id>
     <title
       type="text">Indbyggertal er ikke opdateret</title>
-    <updated>2022-11-02T09:51:26Z</updated>
+    <updated>2023-01-20T09:19:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25582" />
     <content
       type="text">Besked: Indbyggertal er ikke opdateret
 
-Det er fortsat indbyggertal for 2021 der vises.
-Ønsker man at få de opdaterede indbyggertal for 2022, kan man skrive til danskestednavne@sdfi.dk.&#xD;
+Læs mere her: https://datafordeler.dk/support/?faq=26408&#xD;
 Register: Danske Stednavne&#xD;
 Service: Webservice, Filudtræk&#xD;
 Status: I gang&#xD;
