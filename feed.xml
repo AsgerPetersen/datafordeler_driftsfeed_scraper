@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-20T09:19:12Z</updated>
+  <updated>2023-01-20T09:53:20Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -55,40 +55,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 26075&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>25831</id>
-    <title
-      type="text">Advi til anvendere på DAF - EJF foretager en større datarettelse af Hist. ejerskaber uden tilknyttet ejerskifter</title>
-    <updated>2023-01-10T12:29:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25831" />
-    <content
-      type="text">Besked: Ejerfortegnelsen foretager en større datarettelse af 'Historiske ejerskaber uden et tilknyttet ejerskifte'
-
-10-01-2023: Datarettelsen er færdig. 
-
-20-12-2022: Datarettelsen rykkes, forventes genoptaget den 3. januar 2023
-
-16-12-2022: Datarettelsen forventes genoptaget i uge 51
-
-25-11-2022: Datarettelsen er sat på midlertidig pause. Ny opdatering følger når datarettelsen genoptages.
-
-Datarettelsen påbegyndes, mandag den 21. november og forventes at tage 4 dage. 
-
-Der vil der ses en stigning i data ift. filudtræk (Ejerskifte Delta) og hændelser (EjerskifteCreate). Vær opmærksom på at forretningshændelsen for datarettelsen vil være ”Landsdækkende kørsel”.
-
-Efter en analyse af Ejerfortegnelsens data er der fundet ejerskaber, som er status = historiske, men mangler et tilknyttet ejerskifte til ændringen fra gældende til historisk. Antallet findes på omkring 122.000+ BFE'er, hvilket betyder der kan blive oprettet mere end et ejerskifte pr. BFE, men kun for de aktive rækker, altså rækker som har registreringTil og virkningTil = "NULL".
-
-Ejerfortegnelsen fortager en datarettelse for at løse dette. Det manglende ejerskifte vil blive oprettet til det historiske ejerskab for de ca. 122.000+ BFE'er hvor der allerede eksisterer et ejerskab.
-
- &#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 25831&#xD;
 </content>
   </entry>
   <entry>
@@ -153,54 +119,6 @@ Sagsreference: 26297&#xD;
 </content>
   </entry>
   <entry>
-    <id>25816</id>
-    <title
-      type="text">Tildeling af adgange til adgangsbegænsede tjenester fejler</title>
-    <updated>2023-01-13T09:40:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25816" />
-    <content
-      type="text">Besked: Tildeling af adgange til adgangsbegrænsede tjenester fejler.
-
-13-01-2023: Problemet er løst.
-
-10-01-2023: Der arbejdes fortsat på at løse fejlen.
-
-06-01-2023: Der arbejdes fortsat på at løse fejlen.
-
-16-11-2022: Vi oplever en fejl i administrationen af  adgange til adgangsbegrænsede tjenester på Datafordeleren. Det påvirker anvendere der har anmodet om adgang til flg. registre: CPR, CVR, Ejerfortegnelsen og Ejendomsvurdering.
-
-Der bliver arbejdet på at løse fejlen&#xD;
-Register: Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF)&#xD;
-Service: Webservice, Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 25816&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26335</id>
-    <title
-      type="text">Dataopdateringen for EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-01-13T15:10:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26335" />
-    <content
-      type="text">Besked: Den normale dataopdatering for EJF er i øjeblikket stoppet i produktionsmiljøet
-
-13.01.2023 klokken 16:15: Problemet er løst og dataopdateringen er tilbage i normal drift.
-
-13.01.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
-
-12.01.2023 klokken 15:00: Der arbejdes på at løse problemet. Seneste dataopdatering er indlæst den 12/01-2023 klokken 14:13:14.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 26335&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26273</id>
     <title
       type="text">Fejl 400 ved opdatering af certifikat</title>
@@ -224,14 +142,14 @@ Sagsreference: 26273&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-01-10T12:25:43Z</updated>
+    <updated>2023-01-20T09:53:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-10.01.2023: Der arbejdets fortsat på at løse problemet.
+20.01.2023: Der arbejdets fortsat på at løse problemet.
 
 06.01.2023: Der arbejdets fortsat på at løse problemet.
 
