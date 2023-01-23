@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-20T14:26:09Z</updated>
+  <updated>2023-01-23T09:21:02Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -163,6 +163,26 @@ Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 25927&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26432</id>
+    <title
+      type="text">Driftsproblemer på NemLog-in</title>
+    <updated>2023-01-23T09:21:02Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26432" />
+    <content
+      type="text">Besked: Driftsproblemer på NemLog-in
+
+Man kan i øjeblikket opleve problemer med log in via Nemlog-in på datafordeler.dk i produktion og alle test miljøer. 
+
+ &#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26432&#xD;
 </content>
   </entry>
 </feed>
