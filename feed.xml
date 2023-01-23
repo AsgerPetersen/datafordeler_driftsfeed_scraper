@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-23T09:21:02Z</updated>
+  <updated>2023-01-23T09:31:09Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -169,7 +169,7 @@ Sagsreference: 25927&#xD;
     <id>26432</id>
     <title
       type="text">Driftsproblemer på NemLog-in</title>
-    <updated>2023-01-23T09:21:02Z</updated>
+    <updated>2023-01-23T09:31:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26432" />
@@ -177,6 +177,11 @@ Sagsreference: 25927&#xD;
       type="text">Besked: Driftsproblemer på NemLog-in
 
 Man kan i øjeblikket opleve problemer med log in via Nemlog-in på datafordeler.dk i produktion og alle test miljøer. 
+
+MOCES/VOCES/POCES Webbrugere vil være påvirkede, men dem der allerede er logget ind vil fortsat være det (dvs. de stadig har en gyldig token)
+
+Information om status på driftsforstyrrelsen fra NemLog-in supporten:
+https://www.digitaliser.dk/news/7607294
 
  &#xD;
 Register: Alle&#xD;
