@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-23T09:31:09Z</updated>
+  <updated>2023-01-23T11:02:29Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -169,12 +169,14 @@ Sagsreference: 25927&#xD;
     <id>26432</id>
     <title
       type="text">Driftsproblemer på NemLog-in</title>
-    <updated>2023-01-23T09:31:09Z</updated>
+    <updated>2023-01-23T11:02:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26432" />
     <content
       type="text">Besked: Driftsproblemer på NemLog-in
+
+23.01.2023 klokken 12:00: Problemet er løst og Nemlog-in er tilbage i normal drift.
 
 Man kan i øjeblikket opleve problemer med log in via Nemlog-in på datafordeler.dk i produktion og alle test miljøer. 
 
@@ -186,7 +188,7 @@ https://www.digitaliser.dk/news/7607294
  &#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26432&#xD;
 </content>
   </entry>
