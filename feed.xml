@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-01-24T08:51:05Z</updated>
+  <updated>2023-01-24T09:48:42Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -144,19 +144,21 @@ Sagsreference: 26273&#xD;
     <id>26445</id>
     <title
       type="text">Test06: Selvbetjenings- og Administrationsportalerne er utilgængelige</title>
-    <updated>2023-01-24T08:51:05Z</updated>
+    <updated>2023-01-24T09:48:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26445" />
     <content
       type="text">Besked: Test06: Selvbetjenings- og Administrationsportalerne er utilgængelige
 
+24-01-2023, kl. 10:45: Fejlen er løst, portalerne på Test06 er igen tilgængelige. 
+
 Både selvbetjenings og administrationsportalerne er i øjeblikket utilgængelige på Test06.
 
 Der arbejdes på at løse fejlen.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26445&#xD;
 </content>
   </entry>
