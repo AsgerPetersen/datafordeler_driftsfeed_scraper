@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-01T11:47:56Z</updated>
+  <updated>2023-02-01T14:48:55Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -127,17 +127,19 @@ Sagsreference: 26297&#xD;
     <id>26557</id>
     <title
       type="text">Danske Stednavne dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2023-01-31T14:07:11Z</updated>
+    <updated>2023-02-01T14:48:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26557" />
     <content
       type="text">Besked: Den normale register dataopdatering for Danske Stednavne er stoppet
 
+01.02.2023 klokken 15:00: Problemet er løst og dataopdateringen er tilbage i normal drift.
+
 31.01.2023 klokken 15:00: Der arbejdes på at få løst problemet. Seneste dataopdatering var klokken 12:06:51 d. 31.01.2023. &#xD;
 Register: Danske Stednavne&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26557&#xD;
 </content>
   </entry>
