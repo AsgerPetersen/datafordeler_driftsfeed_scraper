@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-01T10:45:44Z</updated>
+  <updated>2023-02-01T11:47:56Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -39,6 +39,26 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 26491&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26596</id>
+    <title
+      type="text">Afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI</title>
+    <updated>2023-02-01T11:47:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26596" />
+    <content
+      type="text">Besked: Planlagt afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI i produktionsmiljøet
+
+01.02 2023: Tirsdag den 7. februar i tidsrummet kl. 16:00 til kl. 21:00, vil der være afbrydelse i den normale dataopdatering for registrene Ejerfortegnelsen, Matriklen, Danske stednavne, Ejendomsbeliggenhed og DAGI.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 26596&#xD;
+Forventet fra: 07-02-2023 16:00:00&#xD;
+Forventet til: 07-02-2023 21:00:00&#xD;
 </content>
   </entry>
   <entry>
