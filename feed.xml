@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-02T08:02:00Z</updated>
+  <updated>2023-02-02T08:54:16Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -27,14 +27,14 @@ Sagsreference: 26013&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-01-25T16:20:21Z</updated>
+    <updated>2023-02-02T08:54:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af hændelser for Ejerfortegnelsen
 
-25.01.2023 klokken 16:15: Der er i øjeblikket en større forsinkelse for udsendelsen af hændelser for Ejerfortegnelsen, fra en hændelse registreres modtaget på Datafordeleren, til den bliver gjort tilgængelig via PUSH og PULL hændelsestjenesten. Dette har medført en opbygget kø på udsendelsen af hændelser på ca. 4 måneder. Der arbejdes med høj prioritet for at få løst problemet til forsinkelsen og få nedbragt køen. Ny status følger.&#xD;
+25.01.2023 klokken 16:15: Der er i øjeblikket en større forsinkelse for udsendelsen af hændelser for Ejerfortegnelsen, fra en hændelse registreres modtaget på Datafordeleren, til den bliver gjort tilgængelig via PUSH hændelsestjenesten. Dette har medført en opbygget kø på udsendelsen af hændelser på ca. 4 måneder. Der arbejdes med høj prioritet for at få løst problemet til forsinkelsen og få nedbragt køen. Ny status følger.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Hændelser&#xD;
 Status: I gang&#xD;
