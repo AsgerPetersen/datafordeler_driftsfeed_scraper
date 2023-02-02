@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-02T07:55:28Z</updated>
+  <updated>2023-02-02T08:02:00Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -45,42 +45,20 @@ Sagsreference: 26491&#xD;
     <id>26596</id>
     <title
       type="text">Afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI</title>
-    <updated>2023-02-01T11:47:56Z</updated>
+    <updated>2023-02-02T08:02:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26596" />
     <content
       type="text">Besked: Planlagt afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI i produktionsmiljøet
 
-01.02 2023: Tirsdag den 7. februar i tidsrummet kl. 16:00 til kl. 21:00, vil der være afbrydelse i den normale dataopdatering for registrene Ejerfortegnelsen, Matriklen, Danske stednavne, Ejendomsbeliggenhed og DAGI.&#xD;
+Tirsdag den 7. februar i tidsrummet kl. 16:00 til kl. 21:00, vil der være afbrydelse i den normale dataopdatering for registrene Ejerfortegnelsen, Matriklen, Danske stednavne, Ejendomsbeliggenhed og DAGI.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 26596&#xD;
 Forventet fra: 07-02-2023 16:00:00&#xD;
 Forventet til: 07-02-2023 21:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26371</id>
-    <title
-      type="text">Planlagt Datafordeler produktion service vindue søndag den 29. januar.</title>
-    <updated>2023-01-30T08:17:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26371" />
-    <content
-      type="text">Besked: Planlagt Datafordeler produktion service vindue fra klokken 10:00 søndag den 29. januar, til klokken 10:00 mandag den 30 januar
-
-30.01.2023: Service vindue gennemført som planlagt og afsluttet. Hændelser og register dataopdateringer er tilbage i normal drift.
-
-I tidsrummet vil hændelser være utilgængelige, registerdata vil ikke blive opdateret og der vil kunne opleves længere svartider på web tjenesterne, samt ved brugen af selvbetjenings- og administrationsportalen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26371&#xD;
-Periode start: 29-01-2023 10:00:00&#xD;
-Periode slut: 30-01-2023 10:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -105,7 +83,7 @@ Periode slut: 26-03-2023 10:00:00&#xD;
     <id>26608</id>
     <title
       type="text">Test04 og Test06 servicevindue 10. februar kl. 9 til 15</title>
-    <updated>2023-02-02T07:55:28Z</updated>
+    <updated>2023-02-02T07:56:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26608" />
@@ -122,7 +100,7 @@ I tidsrummet vil dataopdateringer, hændelser, webservices og filudtræk være d
 
  &#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Ikke planlagt&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 26608&#xD;
 Periode start: 10-02-2023 09:00:00&#xD;
 Periode slut: 10-02-2023 15:00:00&#xD;
