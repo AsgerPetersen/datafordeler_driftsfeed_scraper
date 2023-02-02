@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-02T11:50:55Z</updated>
+  <updated>2023-02-02T13:27:03Z</updated>
   <entry>
     <id>26013</id>
     <title
@@ -44,6 +44,28 @@ Sagsreference: 26491&#xD;
 </content>
   </entry>
   <entry>
+    <id>26621</id>
+    <title
+      type="text">Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater</title>
+    <updated>2023-02-02T13:27:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26621" />
+    <content
+      type="text">Besked: Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater
+
+Derfor skal du fra den 15. februar 2023 ændre dine abonnementer på filudtræk i JSON-og XML-formater fra Datafordeleren. Abonnementerne skal være ændret senest den 15. maj 2023, hvor de hidtidige tjenester til filudtræk vil blive udfaset.
+
+Læs mere på Ændringer
+
+ &#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Matriklen (MAT), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 26621&#xD;
+</content>
+  </entry>
+  <entry>
     <id>26596</id>
     <title
       type="text">Afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI</title>
@@ -61,6 +83,30 @@ Status: Planlagt&#xD;
 Sagsreference: 26596&#xD;
 Forventet fra: 07-02-2023 16:00:00&#xD;
 Forventet til: 07-02-2023 21:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26621</id>
+    <title
+      type="text">Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater</title>
+    <updated>2023-02-02T13:18:55Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26621" />
+    <content
+      type="text">Besked: Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater
+
+Derfor skal du fra den 15. februar 2023 ændre dine abonnementer på filudtræk i JSON-og XML-formater fra Datafordeleren. Abonnementerne skal være ændret senest den 15. maj 2023, hvor de hidtidige tjenester til filudtræk vil blive udfaset.
+
+Læs mere på Ændringer
+
+ &#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Matriklen (MAT), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Filudtræk&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 26621&#xD;
+Forventet fra: 15-02-2023 13:12:00&#xD;
+Forventet til: 15-05-2023 12:12:00&#xD;
 </content>
   </entry>
   <entry>
