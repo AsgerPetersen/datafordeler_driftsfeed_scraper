@@ -5,24 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-07T09:24:49Z</updated>
-  <entry>
-    <id>26013</id>
-    <title
-      type="text">Skærmkort data er planlagt til at blive opdateret i Januar, uge 4</title>
-    <updated>2023-02-01T10:39:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26013" />
-    <content
-      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Januar 2023, uge 4
-
-01.02.2023 klokken 10:00: Skærmkortet er opdateret&#xD;
-Register: Skærmkortet&#xD;
-Status: Løst&#xD;
-Sagsreference: 26013&#xD;
-</content>
-  </entry>
+  <updated>2023-02-08T08:54:33Z</updated>
   <entry>
     <id>26491</id>
     <title
@@ -71,7 +54,7 @@ Sagsreference: 26621&#xD;
     <id>26596</id>
     <title
       type="text">Afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI</title>
-    <updated>2023-02-07T09:24:49Z</updated>
+    <updated>2023-02-08T08:54:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26596" />
@@ -81,7 +64,7 @@ Sagsreference: 26621&#xD;
 Tirsdag den 7. februar i tidsrummet kl. 16:00 til kl. 21:00, vil der være afbrydelse i den normale dataopdatering for registrene Ejerfortegnelsen, Matriklen, Danske stednavne, Ejendomsbeliggenhed og DAGI.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 26596&#xD;
 Forventet fra: 07-02-2023 16:00:00&#xD;
 Forventet til: 07-02-2023 21:00:00&#xD;
