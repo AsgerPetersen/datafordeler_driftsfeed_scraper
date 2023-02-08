@@ -5,7 +5,33 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-08T08:54:33Z</updated>
+  <updated>2023-02-08T09:16:56Z</updated>
+  <entry>
+    <id>26609</id>
+    <title
+      type="text">Overgang fra OCES2 til OCES3 </title>
+    <updated>2023-02-08T09:16:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26609" />
+    <content
+      type="text">Besked: Information om overgang fra OCES2 til OCES3 certifikater på Datafordeleren
+
+Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren.
+
+OCES2 certifikater udfases den 30. juni 2023, certifikaterne virker frem til denne dato. Som anvender af tjenestebruger med FOCES eller VOCES på Datafordeleren skal du derfor foretage et certifikatskifte på dine tjenestebrugere, når Datafordeleren melder klar til skiftet.
+
+Læs mere hos Digitaliseringsstyrelsen: https://www.digitaliser.dk/news/7524217
+
+Ændringen vil blive gennemført på Datafordeleren, inden OCES2 certifikaterne udfases. Vi melder dato ud, når vi ved mere.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 26609&#xD;
+</content>
+  </entry>
   <entry>
     <id>26491</id>
     <title
