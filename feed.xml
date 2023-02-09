@@ -142,48 +142,6 @@ Periode slut: 10-02-2023 15:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>26297</id>
-    <title
-      type="text">Datafordeler TEST03 er i øjeblikket utilgængeligt.</title>
-    <updated>2023-02-03T09:20:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26297" />
-    <content
-      type="text">Besked: Datafordeler TEST03 er i øjeblikket utilgængeligt.
-
-02.02.2023 klokken 12:45: WFS-tjenesterne er igen tilgængelige
-
-
-24.01.2023 klokken 13:00: Miljøet er tilgængelig igen. Dog er WFS-tjenesterne utilgængelige hvilket der arbejdes på at løse.
-13.01.2023 klokken 10:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen. Ny opdatering følger.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 26297&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26557</id>
-    <title
-      type="text">Danske Stednavne dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2023-02-01T14:48:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26557" />
-    <content
-      type="text">Besked: Den normale register dataopdatering for Danske Stednavne er stoppet
-
-01.02.2023 klokken 15:00: Problemet er løst og dataopdateringen er tilbage i normal drift.
-
-31.01.2023 klokken 15:00: Der arbejdes på at få løst problemet. Seneste dataopdatering var klokken 12:06:51 d. 31.01.2023. &#xD;
-Register: Danske Stednavne&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 26557&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
