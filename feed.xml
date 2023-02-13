@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-13T08:00:17Z</updated>
+  <updated>2023-02-13T09:26:06Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -190,6 +190,24 @@ Status: Planlagt&#xD;
 Sagsreference: 26608&#xD;
 Periode start: 10-02-2023 09:00:00&#xD;
 Periode slut: 10-02-2023 15:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26714</id>
+    <title
+      type="text">DAR Dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-02-13T09:26:06Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26714" />
+    <content
+      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet
+
+13.02.2023 klokken 10:00: Der arbejdes på løse problemet, sidste opdatering var 10.02.2023 klokken 12:35:45&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 26714&#xD;
 </content>
   </entry>
   <entry>
