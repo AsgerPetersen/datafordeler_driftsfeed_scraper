@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-13T09:26:06Z</updated>
+  <updated>2023-02-13T12:16:41Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,12 +36,14 @@ Sagsreference: 26609&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-02-07T08:55:49Z</updated>
+    <updated>2023-02-13T12:16:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af hændelser for Ejerfortegnelsen
+
+13.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
 07.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
@@ -74,26 +76,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 26621&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26596</id>
-    <title
-      type="text">Afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI</title>
-    <updated>2023-02-08T08:54:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26596" />
-    <content
-      type="text">Besked: Planlagt afbrydelse i den normale dataopdatering for EJF, MAT, DS, EBR og DAGI i produktionsmiljøet
-
-Tirsdag den 7. februar i tidsrummet kl. 16:00 til kl. 21:00, vil der være afbrydelse i den normale dataopdatering for registrene Ejerfortegnelsen, Matriklen, Danske stednavne, Ejendomsbeliggenhed og DAGI.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26596&#xD;
-Forventet fra: 07-02-2023 16:00:00&#xD;
-Forventet til: 07-02-2023 21:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -166,33 +148,6 @@ Periode slut: 26-03-2023 10:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>26608</id>
-    <title
-      type="text">Test04 og Test06 servicevindue 10. februar kl. 9 til 15</title>
-    <updated>2023-02-02T07:56:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26608" />
-    <content
-      type="text">Besked: Test04 og Test06 servicevindue, den 10. februar
-
-Der gennemføres servicevindue:
-
-	Fredag den 10. februar fra kl. 09:00 til kl. 15:00
-
-
-
-I tidsrummet vil dataopdateringer, hændelser, webservices og filudtræk være delvist utilgængelige i tidsrummet på Test04 og Test06.
-
- &#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 26608&#xD;
-Periode start: 10-02-2023 09:00:00&#xD;
-Periode slut: 10-02-2023 15:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26714</id>
     <title
       type="text">DAR Dataopdatering stoppet i produktionsmiljøet</title>
@@ -214,12 +169,14 @@ Sagsreference: 26714&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-02-07T08:56:39Z</updated>
+    <updated>2023-02-13T12:16:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
+
+13.02.2023: Der arbejdes fortsat på at løse problemet.
 
 07.02.2023: Der arbejdes fortsat på at løse problemet.
 
