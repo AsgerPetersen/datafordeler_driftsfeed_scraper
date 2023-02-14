@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-14T08:05:23Z</updated>
+  <updated>2023-02-14T09:16:58Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -127,6 +127,26 @@ Status: Planlagt&#xD;
 Sagsreference: 26711&#xD;
 Periode start: 14-02-2023 09:00:00&#xD;
 Periode slut: 14-02-2023 15:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26728</id>
+    <title
+      type="text">Planlagt Datafordeler produktion service vindue onsdag den 22. februar, i tidsrummet klokken 20:00-23:59</title>
+    <updated>2023-02-14T09:16:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26728" />
+    <content
+      type="text">Besked: Planlagt Datafordeler produktion service vindue onsdag den 22. februar, i tidsrummet klokken 20:00-23:59
+
+I tidsrummet vil filudtræk, webtjenester, hændelser samt portaler være utilgængelig, og dataopdateringerne vil være på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 26728&#xD;
+Periode start: 22-02-2023 20:00:00&#xD;
+Periode slut: 23-02-2023 00:00:00&#xD;
 </content>
   </entry>
   <entry>
