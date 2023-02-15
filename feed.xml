@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-14T09:24:02Z</updated>
+  <updated>2023-02-15T11:51:42Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -60,12 +60,14 @@ Sagsreference: 26491&#xD;
     <id>26621</id>
     <title
       type="text">Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater</title>
-    <updated>2023-02-06T08:45:57Z</updated>
+    <updated>2023-02-15T11:51:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26621" />
     <content
       type="text">Besked: Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater
+
+15.02.2023: Der er åbnet for de nye filudtræk på BBR, DAR, EBR, EJF, MAT og SVR i produktion. Der er endnu ikke åbnet for VUR-filudtræk på grund af en generel fejl i de prædefinerede filudtræk for VUR, som der arbejdes på at blive løst. 
 
 Derfor kan du fra den 15. februar 2023 ændre dine abonnementer på filudtræk i JSON-og XML-formater fra Datafordeleren. Abonnementerne skal være ændret senest den 15. maj 2023, hvor de hidtidige tjenester til filudtræk vil blive udfaset.
 
