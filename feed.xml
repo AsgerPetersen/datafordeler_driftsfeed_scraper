@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-15T12:38:26Z</updated>
+  <updated>2023-02-16T13:31:04Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -187,6 +187,25 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 26714&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26760</id>
+    <title
+      type="text">Driftsforstyrrelser på NemLog-in test - påvirker Test04</title>
+    <updated>2023-02-16T13:31:04Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26760" />
+    <content
+      type="text">Besked: Driftsforstyrrelser på NemLog-in test, påvirker Test04
+
+Man kan i øjeblikket opleve problemer med at logge på Selvbetjeningen og Adminstrationsportalen via Nemlog-in test på Test04.
+
+Information om status på driftsforstyrrelsen fra NemLog-in supporten: https://www.digitaliser.dk/news/7690428#comment_7697513&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 26760&#xD;
 </content>
   </entry>
   <entry>
