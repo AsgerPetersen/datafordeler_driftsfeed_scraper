@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-23T07:30:01Z</updated>
+  <updated>2023-02-24T09:42:46Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,18 +36,14 @@ Sagsreference: 26609&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-02-13T12:16:41Z</updated>
+    <updated>2023-02-24T09:42:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af hændelser for Ejerfortegnelsen
 
-13.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
-
-07.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
-
-02.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
+24.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
 25.01.2023 klokken 16:15: Der er i øjeblikket en større forsinkelse for udsendelsen af hændelser for Ejerfortegnelsen, fra en hændelse registreres modtaget på Datafordeleren, til den bliver gjort tilgængelig via PUSH hændelsestjenesten. Dette har medført en opbygget kø på udsendelsen af hændelser på ca. 4 måneder. Der arbejdes med høj prioritet for at få løst problemet til forsinkelsen og få nedbragt køen. Ny status følger.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
@@ -78,57 +74,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 26621&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26710</id>
-    <title
-      type="text">Test03 servicevindue 13. februar 2023 kl. 9 - 15</title>
-    <updated>2023-02-14T08:05:23Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26710" />
-    <content
-      type="text">Besked: Test03 servicevindue
-
-Der vil være planlagt servicevindue på Test03.
-
-	Mandag den 13. februar, kl. 9:00 til kl. 15:00
-
-
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26710&#xD;
-Periode start: 13-02-2023 09:00:00&#xD;
-Periode slut: 13-02-2023 15:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26711</id>
-    <title
-      type="text">Test04 servicevindue den 14. februar 2023 kl 9 -15, rel. 36.1</title>
-    <updated>2023-02-15T12:38:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26711" />
-    <content
-      type="text">Besked: Test04 servicevindue
-
-Der vil være planlagt servicevindue på Test04.
-
-	Tirsdag den 14. februar, kl. 9:00 til kl. 15:00
-
-
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26711&#xD;
-Periode start: 14-02-2023 09:00:00&#xD;
-Periode slut: 14-02-2023 15:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -172,64 +117,17 @@ Periode slut: 26-03-2023 10:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>26714</id>
-    <title
-      type="text">DAR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-02-13T13:05:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26714" />
-    <content
-      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet
-
-13.02.2023 klokken 13:00: Problemet er løst og dataopdateringen er tilbage i normal drift.
-
-13.02.2023 klokken 10:00: Der arbejdes på løse problemet, sidste opdatering var 10.02.2023 klokken 12:35:45&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 26714&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26760</id>
-    <title
-      type="text">Driftsforstyrrelser på NemLog-in test - påvirker Test04</title>
-    <updated>2023-02-17T13:22:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26760" />
-    <content
-      type="text">Besked: Driftsforstyrrelser på NemLog-in test, påvirker Test04
-
-17.02.2023 klokken 14:00: Problemet er løst og Nemlog-in skulle være tilbage i normal drift.
-
-Man kan i øjeblikket opleve problemer med at logge på Selvbetjeningen og Adminstrationsportalen via Nemlog-in test på Test04.
-
-Information om status på driftsforstyrrelsen fra NemLog-in supporten: https://www.digitaliser.dk/news/7690428#comment_7697513
-
- &#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 26760&#xD;
-</content>
-  </entry>
-  <entry>
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-02-13T12:16:18Z</updated>
+    <updated>2023-02-24T09:42:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-13.02.2023: Der arbejdes fortsat på at løse problemet.
-
-07.02.2023: Der arbejdes fortsat på at løse problemet.
-
-27.01.2023: Der arbejdets fortsat på at løse problemet.
+24.02.2023: Der arbejdes fortsat på at løse problemet.
 
 20.01.2023: Der arbejdets fortsat på at løse problemet.
 
