@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-02-24T11:40:56Z</updated>
+  <updated>2023-03-02T11:34:27Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,14 +36,14 @@ Sagsreference: 26609&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-02-24T09:42:28Z</updated>
+    <updated>2023-03-02T11:34:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af hændelser for Ejerfortegnelsen
 
-24.02.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
+02.03.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
 25.01.2023 klokken 16:15: Der er i øjeblikket en større forsinkelse for udsendelsen af hændelser for Ejerfortegnelsen, fra en hændelse registreres modtaget på Datafordeleren, til den bliver gjort tilgængelig via PUSH hændelsestjenesten. Dette har medført en opbygget kø på udsendelsen af hændelser på ca. 4 måneder. Der arbejdes med høj prioritet for at få løst problemet til forsinkelsen og få nedbragt køen. Ny status følger.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
@@ -77,28 +77,6 @@ Sagsreference: 26621&#xD;
 </content>
   </entry>
   <entry>
-    <id>26728</id>
-    <title
-      type="text">Planlagt Datafordeler produktion service vindue onsdag den 22. februar, i tidsrummet klokken 20:00-23:59</title>
-    <updated>2023-02-23T07:30:01Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26728" />
-    <content
-      type="text">Besked: Planlagt Datafordeler produktion service vindue onsdag den 22. februar, i tidsrummet klokken 20:00-23:59
-
-23.02.2023: Service vindue gennemført og afsluttet.
-
-14.02.2023: I tidsrummet vil filudtræk, webtjenester, hændelser samt portaler være utilgængelig, og dataopdateringerne vil være på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26728&#xD;
-Periode start: 22-02-2023 20:00:00&#xD;
-Periode slut: 23-02-2023 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26584</id>
     <title
       type="text">Skærmkort data er planlagt til at blive opdateret i Marts, uge 12</title>
@@ -120,16 +98,16 @@ Periode slut: 26-03-2023 10:00:00&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-02-24T09:42:46Z</updated>
+    <updated>2023-03-02T11:33:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-24.02.2023: Der arbejdes fortsat på at løse problemet.
+02.03.2023: Der arbejdets fortsat på at løse problemet.
 
-20.01.2023: Der arbejdets fortsat på at løse problemet.
+24.02.2023: Der arbejdes fortsat på at løse problemet.
 
 Sidste dato for tilgængelighed var 14/11.
 
