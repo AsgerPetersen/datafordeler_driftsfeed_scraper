@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-02T11:34:27Z</updated>
+  <updated>2023-03-02T11:41:47Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,12 +36,12 @@ Sagsreference: 26609&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-03-02T11:34:27Z</updated>
+    <updated>2023-03-02T11:41:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
-      type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af hændelser for Ejerfortegnelsen
+      type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af PUSH hændelser for Ejerfortegnelsen
 
 02.03.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
