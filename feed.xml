@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-02T12:49:32Z</updated>
+  <updated>2023-03-06T08:03:32Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,7 +36,7 @@ Sagsreference: 26609&#xD;
     <id>26918</id>
     <title
       type="text">Mat og EBR dataopdatering stoppet i perioden 03/03 klokkken 14 til 06/03 klokken 08</title>
-    <updated>2023-03-02T12:49:32Z</updated>
+    <updated>2023-03-06T08:03:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26918" />
@@ -44,7 +44,7 @@ Sagsreference: 26609&#xD;
       type="text">Besked: MAT og EBR dataopdatering stopper i perioden 03/03 klokkken 14 til 06/03 klokken 08&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 26918&#xD;
 </content>
   </entry>
