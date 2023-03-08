@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-06T08:03:32Z</updated>
+  <updated>2023-03-08T12:45:07Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -108,6 +108,24 @@ Status: Planlagt&#xD;
 Sagsreference: 26584&#xD;
 Periode start: 20-03-2023 10:00:00&#xD;
 Periode slut: 26-03-2023 10:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26974</id>
+    <title
+      type="text">Mat, DS, EBR, EJF, DAGI har afbrydelse i den normale dataopdatering .</title>
+    <updated>2023-03-08T12:45:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/26974" />
+    <content
+      type="text">Besked: MAT, DS, EBR, EJF, DAGI har afbrydelse i den normale dataopdatering.
+
+08.03.2023 klokken 12:00: Der arbejdets på at løse problemet.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 26974&#xD;
 </content>
   </entry>
   <entry>
