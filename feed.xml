@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-09T09:40:37Z</updated>
+  <updated>2023-03-14T11:29:11Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -33,33 +33,17 @@ Sagsreference: 26609&#xD;
 </content>
   </entry>
   <entry>
-    <id>26918</id>
-    <title
-      type="text">Mat og EBR dataopdatering stoppet i perioden 03/03 klokkken 14 til 06/03 klokken 08</title>
-    <updated>2023-03-06T08:03:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26918" />
-    <content
-      type="text">Besked: MAT og EBR dataopdatering stopper i perioden 03/03 klokkken 14 til 06/03 klokken 08&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 26918&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-03-02T11:41:47Z</updated>
+    <updated>2023-03-14T11:28:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af PUSH hændelser for Ejerfortegnelsen
 
-02.03.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
+14.03.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
 25.01.2023 klokken 16:15: Der er i øjeblikket en større forsinkelse for udsendelsen af hændelser for Ejerfortegnelsen, fra en hændelse registreres modtaget på Datafordeleren, til den bliver gjort tilgængelig via PUSH hændelsestjenesten. Dette har medført en opbygget kø på udsendelsen af hændelser på ca. 4 måneder. Der arbejdes med høj prioritet for at få løst problemet til forsinkelsen og få nedbragt køen. Ny status følger.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
@@ -136,14 +120,14 @@ Sagsreference: 26974&#xD;
     <id>25927</id>
     <title
       type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-03-02T11:33:52Z</updated>
+    <updated>2023-03-14T11:29:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
 
-02.03.2023: Der arbejdets fortsat på at løse problemet.
+14.03.2023: Der arbejdets fortsat på at løse problemet.
 
 24.02.2023: Der arbejdes fortsat på at løse problemet.
 
