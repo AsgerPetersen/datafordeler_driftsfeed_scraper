@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-17T10:28:03Z</updated>
+  <updated>2023-03-17T14:44:25Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -118,12 +118,14 @@ Periode slut: 26-03-2023 10:00:00&#xD;
     <id>27069</id>
     <title
       type="text">DAR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-03-17T08:12:34Z</updated>
+    <updated>2023-03-17T14:44:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27069" />
     <content
       type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet
+
+17.03.2023 klokken 15:30: DAR data opdateres igen og en opbygget kø af dataopdateringer er ved at blive indlæst.
 
 17.03.2023 klokken 09:00: Der arbejdes på løse problemet, sidste opdatering var 16.03.2023 klokken 18:57:30&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
