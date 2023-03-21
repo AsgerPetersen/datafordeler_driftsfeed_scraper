@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-21T08:08:47Z</updated>
+  <updated>2023-03-21T11:57:12Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -55,21 +55,21 @@ Sagsreference: 27072&#xD;
   <entry>
     <id>27084</id>
     <title
-      type="text">EJF-766 - advi om landsdækkende kørsel</title>
-    <updated>2023-03-21T08:08:47Z</updated>
+      type="text">Ejerfortegnelsen foretager en landsdækkende kørsel </title>
+    <updated>2023-03-21T11:57:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27084" />
     <content
-      type="text">Besked: Ejerfortegnelsen foretager en Landsdækkende kørsel, starter den 23. marts 2023 
+      type="text">Besked: Ejerfortegnelsen foretager en landsdækkende kørsel, der starter den 23. marts 2023 
 
 Ejerfortegnelsen vil udføre en datarettelse med indsættelse af "ejer" på alle vejlitra.
-Her vil ejer, en fiktiv P/V, fremgå som "Offentlig vej" og med en overtagelsesdato, som er sat til d. 1/1-1800.
-Der tale om lidt over 80.000 ejendomme.
+Her vil ejer, en fiktiv P/V, fremgå som "Offentlig vej" og med en overtagelsesdato, som er sat til den 1/1-1800.
+Der er tale om lidt over 80.000 ejendomme.
 
 Dette vil påvirke filudtræk og hændelser med ekstra data, efter datarettelsen er gennemført.
 
-Datarettelsen vil blive udført om natten og tager ca. tre nætter.
+Datarettelsen vil blive udført om natten og tager cirka tre nætter.
 
  &#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
