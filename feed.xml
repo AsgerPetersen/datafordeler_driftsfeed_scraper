@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-23T14:13:27Z</updated>
+  <updated>2023-03-23T17:51:40Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -33,6 +33,21 @@ Sagsreference: 26609&#xD;
 </content>
   </entry>
   <entry>
+    <id>27200</id>
+    <title
+      type="text">Test af meddelelser</title>
+    <updated>2023-03-23T17:51:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27200" />
+    <content
+      type="text">Besked: Dette er en test af mail fra meddelelser. Test bliver gennemført, fordi sagsbehandlingssystemet i SDFI er opdateret.&#xD;
+Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Status: I gang&#xD;
+Sagsreference: 27200&#xD;
+</content>
+  </entry>
+  <entry>
     <id>27072</id>
     <title
       type="text">DAGI fortager små justeringer af geometrierne.</title>
@@ -56,7 +71,7 @@ Sagsreference: 27072&#xD;
     <id>27084</id>
     <title
       type="text">Ejerfortegnelsen foretager en landsdækkende kørsel </title>
-    <updated>2023-03-21T11:57:12Z</updated>
+    <updated>2023-03-23T17:51:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27084" />
@@ -158,29 +173,6 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 27069&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27087</id>
-    <title
-      type="text">Test04 - fejl ved login med certifikat til selvbetjenings og administrationsportalerne</title>
-    <updated>2023-03-23T14:13:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27087" />
-    <content
-      type="text">Besked: Test04 - fejl ved login med certifikat på selvbetjenings og administrationsportalerne
-
-23.03.2023 klokken 15:10: Problemet er løst, det igen muligt at logge ind med  webbruger oprettet med certifikat på Test04 portalerne.
-
-Login til selvbetjenings- og administrationsportalerne på Test04 fejler med webbruger oprettet med certifikat.
-
-Det er muligt at logge ind på selvbetjeningsportalen på Test04 med webbruger oprettet med brugernavn og kodeord.
-
-Der arbejdes på at løse problemet.&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 27087&#xD;
 </content>
   </entry>
   <entry>
