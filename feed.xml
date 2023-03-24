@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-24T11:38:35Z</updated>
+  <updated>2023-03-24T14:14:35Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -36,12 +36,14 @@ Sagsreference: 26609&#xD;
     <id>27072</id>
     <title
       type="text">DAGI fortager små justeringer af geometrierne.</title>
-    <updated>2023-03-22T09:51:44Z</updated>
+    <updated>2023-03-24T14:14:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27072" />
     <content
       type="text">Besked: DAGI fortager små justeringer af geometrierne.
+
+24.03.2023 klokken 15:00: DAGI har fredag den 24.3 foretaget små justeringer på de fleste temaer. Dette betyder at næste hændelse fra DAGI vil indeholde en stor mængde objekter.
 
 Onsdag den 22. marts 2023 cirka klokken 17 vil der blive indlæst små justeringer til DAGI geometrierne, og det bevirker, at næsten alle objekter vil blive opdateret.
 
