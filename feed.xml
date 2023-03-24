@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-24T08:54:22Z</updated>
+  <updated>2023-03-24T11:38:35Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -158,6 +158,24 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 27069&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27205</id>
+    <title
+      type="text">Manglende notifikationer om fildownload</title>
+    <updated>2023-03-24T11:38:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27205" />
+    <content
+      type="text">Besked: Manglende udsendelse af e-mail notifikation ved abonnement på filudtræk.
+
+24.03.2023 klokken 12:30: Man kan i øjeblikket opleve at der ikke udsendes en e-mail notifikation, når et filudtræk er klar til hentning via FTP, på baggrund af et opsat abonnement. Der arbejdes på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 27205&#xD;
 </content>
   </entry>
   <entry>
