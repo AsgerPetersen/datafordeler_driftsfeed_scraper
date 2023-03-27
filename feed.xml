@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-24T14:14:35Z</updated>
+  <updated>2023-03-27T08:32:01Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -58,12 +58,14 @@ Sagsreference: 27072&#xD;
     <id>27084</id>
     <title
       type="text">Ejerfortegnelsen foretager en landsdækkende kørsel </title>
-    <updated>2023-03-23T17:51:40Z</updated>
+    <updated>2023-03-27T08:32:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27084" />
     <content
       type="text">Besked: Ejerfortegnelsen foretager en landsdækkende kørsel, der starter den 23. marts 2023 
+
+27.03.2023 klokken 10:30: Den landdækkende kørsel er gennemført og blev afsluttet den 25. marts 2023.
 
 Ejerfortegnelsen vil udføre en datarettelse med indsættelse af "ejer" på alle vejlitra.
 Her vil ejer, en fiktiv P/V, fremgå som "Offentlig vej" og med en overtagelsesdato, som er sat til den 1/1-1800.
@@ -76,7 +78,7 @@ Datarettelsen vil blive udført om natten og tager cirka tre nætter.
  &#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Filudtræk, Hændelser&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27084&#xD;
 </content>
   </entry>
