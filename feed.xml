@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-28T07:44:01Z</updated>
+  <updated>2023-03-28T07:55:38Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -205,21 +205,18 @@ Sagsreference: 27205&#xD;
   <entry>
     <id>25927</id>
     <title
-      type="text">VUR Predefineret filudtræk ikke tilgængelig i øjeblikket</title>
-    <updated>2023-03-24T08:54:11Z</updated>
+      type="text">Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket</title>
+    <updated>2023-03-28T07:55:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
-      type="text">Besked: VUR Predefineret filudtræk er ikke tilgængelig i øjeblikket.
+      type="text">Besked: Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket.
 
-24.03.2023: Der arbejdets fortsat på at løse problemet.
-
+28.03.2023: Der arbejdets fortsat på at løse problemet.
 24.02.2023: Der arbejdes fortsat på at løse problemet.
 
-Sidste dato for tilgængelighed var 14/11.
-
- &#xD;
+Sidste dato for tilgængelighed var 14/11.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
