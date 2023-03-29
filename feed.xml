@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-29T07:24:18Z</updated>
+  <updated>2023-03-29T11:28:47Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -143,6 +143,30 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 26621&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27238</id>
+    <title
+      type="text">Test03 servicevindue, torsdag den 30. marts, kl. 11:00 til kl. 15:00</title>
+    <updated>2023-03-29T11:28:47Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27238" />
+    <content
+      type="text">Besked: Test03 servicevindue, torsdag den 30. marts, kl. 11:00 til kl. 15:00
+
+Der vil være planlagt servicevindue i morgen på Test03.
+
+I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Ikke planlagt&#xD;
+Sagsreference: 27238&#xD;
+Periode start: 30-03-2023 11:00:00&#xD;
+Periode slut: 30-03-2023 15:00:00&#xD;
 </content>
   </entry>
   <entry>
