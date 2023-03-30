@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-29T11:28:47Z</updated>
+  <updated>2023-03-30T08:16:23Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -105,12 +105,14 @@ Sagsreference: 27211&#xD;
     <id>26491</id>
     <title
       type="text">Forsinkelse på udsendelse af Ejerfortegnelsen hændelser</title>
-    <updated>2023-03-24T08:54:22Z</updated>
+    <updated>2023-03-30T08:08:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26491" />
     <content
       type="text">Besked: Større forsinkelse og en opbygget kø for udsendelsen af PUSH hændelser for Ejerfortegnelsen
+
+30.03.2023 klokken 10:15: Den opbygget kø på udsendelsen af hændelser forventes at være nedbragt inden for de næste 2 uger.
 
 24.03.2023 klokken 10:00: Der arbejdes fortsat på at løse problemet.
 
@@ -149,7 +151,7 @@ Sagsreference: 26621&#xD;
     <id>27238</id>
     <title
       type="text">Test03 servicevindue, torsdag den 30. marts, kl. 11:00 til kl. 15:00</title>
-    <updated>2023-03-29T11:28:47Z</updated>
+    <updated>2023-03-30T08:10:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27238" />
@@ -163,7 +165,7 @@ I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Ikke planlagt&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 27238&#xD;
 Periode start: 30-03-2023 11:00:00&#xD;
 Periode slut: 30-03-2023 15:00:00&#xD;
@@ -173,38 +175,20 @@ Periode slut: 30-03-2023 15:00:00&#xD;
     <id>26584</id>
     <title
       type="text">Skærmkort data er planlagt til at blive opdateret i Marts, uge 12</title>
-    <updated>2023-02-01T10:45:44Z</updated>
+    <updated>2023-03-30T08:12:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26584" />
     <content
-      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Marts, uge 12&#xD;
+      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Marts, uge 12
+
+30.03.2023 klokken 10:15: Skærmkort data er blevet opdateret.&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 26584&#xD;
-Periode start: 20-03-2023 10:00:00&#xD;
-Periode slut: 26-03-2023 10:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27069</id>
-    <title
-      type="text">DAR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-03-20T09:06:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27069" />
-    <content
-      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet
-
-17.03.2023 klokken 15:30: DAR data opdateres igen og en opbygget kø af dataopdateringer er ved at blive indlæst.
-
-17.03.2023 klokken 09:00: Der arbejdes på løse problemet, sidste opdatering var 16.03.2023 klokken 18:57:30&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27069&#xD;
+Periode start: 20-03-2023 11:00:00&#xD;
+Periode slut: 26-03-2023 12:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -242,6 +226,22 @@ Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27233&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27242</id>
+    <title
+      type="text">Skærmkort data er planlagt til at blive opdateret i slutningen af Maj 2023</title>
+    <updated>2023-03-30T08:16:23Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27242" />
+    <content
+      type="text">Besked: Næste planlagte opdatering af Skærmkort data: ultimo maj 2023.&#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 27242&#xD;
 </content>
   </entry>
   <entry>
