@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-30T20:18:02Z</updated>
+  <updated>2023-03-31T06:13:11Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -289,15 +289,18 @@ Sagsreference: 25927&#xD;
     <id>27249</id>
     <title
       type="text">Nedbrud på Datafordelerens tjenester</title>
-    <updated>2023-03-30T20:18:02Z</updated>
+    <updated>2023-03-31T06:13:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27249" />
     <content
       type="text">Besked: Nedbrud på Datafordelerens tjenester
 
+31.03.2023 klokken 08:00
+Der er stadig ustabil drift på REST tjenesterne på Datafordeleren. Webservices med geodata, abonnementer på filudtræk og dataopdatering er utilgængelige. Fejlen er identificeret, og der bliver arbejdet på at få alle tjenester op at køre. Der er endnu ikke et forventet tidspunkt for, hvornår tjenesterne igen er i drift. Vi sender meddelelser, når der er ændret status. Forventet næste meddelelse cirka klokken 9:00. Følg med på https://datafordeler.dk/Drift/
+
 30.03.2023 klokken 22:00 - Ændret 22:15
-REST tjenesterne på Datafordeleren er i drift, men kører ustabilt. Webservices med geodata, abonnementer på filudtræk og dataopdatering er utilgængelige. Fejlen er identificeret, og der bliver arbejdet på at få alle tjenester op at køre. Der er endnu ikke et forventet tidspunkt for, hvornår tjenesterne igen er i drift. Vi sender meddelelser, når der er ændret status. Forventet næste meddelelse fredag morgen tidligst muligt. Følg med på https://datafordeler.dk/Drift/
+REST tjenesterne på Datafordeleren er i drift, men kører ustabilt. Webservices med geodata, abonnementer på filudtræk og dataopdatering er utilgængelige. Fejlen er identificeret, og der bliver arbejdet på at få alle tjenester op at køre. Der er endnu ikke et forventet tidspunkt for, hvornår tjenesterne igen er i drift. Vi sender meddelelser, når der er ændret status. Forventet næste meddelelse fredag morgen tidligst muligt.
 
 30.03.2023 klokken 20:00
 REST tjenesterne på Datafordeleren er i drift, men kører ustabilt. Der bliver arbejdet på at få alle tjenester op at køre. Der er endnu ikke et forventet tidspunkt for, hvornår tjenesterne igen er i drift.
