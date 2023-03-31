@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-03-31T13:15:31Z</updated>
+  <updated>2023-03-31T16:41:19Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -265,12 +265,14 @@ Sagsreference: 25927&#xD;
     <id>27249</id>
     <title
       type="text">Nedbrud på Datafordelerens tjenester</title>
-    <updated>2023-03-31T13:15:31Z</updated>
+    <updated>2023-03-31T16:41:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27249" />
     <content
       type="text">Besked: Nedbrud på Datafordelerens tjenester
+
+31.03.2023 klokken 18:40: Der arbejdes fortsat på at normalisere Datafordeler driften.
 
 31.03.2023 klokken 15:00: Der arbejdes fortsat på at få Datafordeler driften normaliseret. Udsendelse af hændelser, webservices med geodata og abonnementer på filudtræk er utilgængelig og register dataopdateringen er stoppet.  Næste status senest ca. kl. 18:30.
 
