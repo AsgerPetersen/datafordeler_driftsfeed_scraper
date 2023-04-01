@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-01T07:26:10Z</updated>
+  <updated>2023-04-01T10:16:36Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -265,12 +265,14 @@ Sagsreference: 25927&#xD;
     <id>27249</id>
     <title
       type="text">Nedbrud på Datafordelerens tjenester</title>
-    <updated>2023-04-01T07:26:10Z</updated>
+    <updated>2023-04-01T10:16:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27249" />
     <content
       type="text">Besked: Nedbrud på Datafordelerens tjenester
+
+01.04.2023 klokken 12.15: Datafordeleren er tilbage i normal drift. En opbygget kø af register daraopdateringer vil blive indlæst.
 
 01.04.2023 klokken 06:45: Der er adgang til registerdata via webservices men der kan opleves utilgængelighed og en nedsat performance. Filudtræk generes igen og bliver løbende gjort tilgængelige. Selv- og administrationsportalen er tilgængelig. Register dataopdatering er fortsat stoppet. Arbejde pågår med at normalisere driften og en næste ny status vil blive ca. kl. 11:30.
 
