@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-03T06:43:25Z</updated>
+  <updated>2023-04-03T07:48:13Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -206,12 +206,16 @@ Sagsreference: 27205&#xD;
     <id>27265</id>
     <title
       type="text">Den normale dataopdatering for VUR, BBR og EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-03T06:43:25Z</updated>
+    <updated>2023-04-03T07:48:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27265" />
     <content
       type="text">Besked: Den normale dataopdatering for VUR, BBR og EJF er i øjeblikket stoppet i produktionsmiljøet.
+
+03.04.2023 klokken 09:45
+
+BBR dataopteringen er normal.
 
 03.04.2023 klokken 08:00:
 
