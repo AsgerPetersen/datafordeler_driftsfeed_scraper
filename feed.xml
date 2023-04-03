@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-03T06:06:02Z</updated>
+  <updated>2023-04-03T06:43:25Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -205,21 +205,22 @@ Sagsreference: 27205&#xD;
   <entry>
     <id>27265</id>
     <title
-      type="text">Den normale dataopdatering for VUR og EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-03T06:06:02Z</updated>
+      type="text">Den normale dataopdatering for VUR, BBR og EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-03T06:43:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27265" />
     <content
-      type="text">Besked: Den normale dataopdatering for VUR og EJF er i øjeblikket stoppet i produktionsmiljøet.
+      type="text">Besked: Den normale dataopdatering for VUR, BBR og EJF er i øjeblikket stoppet i produktionsmiljøet.
 
 03.04.2023 klokken 08:00:
 
 Seneste dataopdatering for EJF var: 30.03.2023 15:37:12.
 Seneste dataopdatering for VUR var: 30.03.2023 10:00:48.
+Seneste dataopdatering for BBR var: 01.04.22023 12:38:07
 
 Der arbejdes på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF)&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 27265&#xD;
