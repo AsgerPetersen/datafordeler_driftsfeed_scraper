@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-03T09:22:06Z</updated>
+  <updated>2023-04-03T11:09:58Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -207,17 +207,17 @@ Sagsreference: 27205&#xD;
   <entry>
     <id>27265</id>
     <title
-      type="text">Den normale dataopdatering for VUR og EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-03T09:07:11Z</updated>
+      type="text">Den normale dataopdatering for VUR, CPR og EJF er i øjeblikket stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-03T11:09:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27265" />
     <content
-      type="text">Besked: Den normale dataopdatering for VUR og EJF er i øjeblikket stoppet i produktionsmiljøet.
+      type="text">Besked: Den normale dataopdatering for VUR, CPR og EJF er i øjeblikket stoppet i produktionsmiljøet.
 
-03.04.2023 klokken 09:45
+03.04.2023 klokken 13:15: Den normale dataopdatering for CPR er stoppet hvilket der arbejdes på at få løst, og tilsvarende for EJF og VUR.
 
-BBR dataopteringen er normal.
+03.04.2023 klokken 09:45: BBR dataopteringen er normal igen.
 
 03.04.2023 klokken 08:00:
 
