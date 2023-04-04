@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-04T04:39:50Z</updated>
+  <updated>2023-04-04T08:24:41Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -237,6 +237,24 @@ Register: Bygnings- og Boligregisteret (BBR), Ejendomsvurdering (VUR), Ejerforte
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 27265&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27266</id>
+    <title
+      type="text">Datafordeler TEST03 er i øjeblikket utilgængeligt.</title>
+    <updated>2023-04-04T08:24:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27266" />
+    <content
+      type="text">Besked: Datafordeler TEST03 er i øjeblikket utilgængeligt.
+
+04.04.2023 klokken 10:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 27266&#xD;
 </content>
   </entry>
   <entry>
