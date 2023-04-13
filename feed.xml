@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-13T08:59:51Z</updated>
+  <updated>2023-04-13T15:27:44Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -313,17 +313,19 @@ Sagsreference: 27278&#xD;
     <id>27285</id>
     <title
       type="text">Manglende udsendelse af e-mail notifikation ved abonnement på filudtræk.</title>
-    <updated>2023-04-13T08:59:51Z</updated>
+    <updated>2023-04-13T15:27:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27285" />
     <content
       type="text">Besked: Manglende udsendelse af e-mail notifikation ved abonnement på filudtræk.
 
+13.04.2023 klokken 17:30: Problemet er løst og e-mail notifikation udsendes igen. Samtidigt vil en opbygget kø af notifikationer i perioden fejlen var tilstede, blive udsendt.
+
 13.04.2023 klokken 11:00: Der udsendes ikke i øjeblikket en e-mail notifikation når et filudtræk er klar til hentning via FTP, på baggrund af et opsat abonnement. Der arbejdes på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27285&#xD;
 </content>
   </entry>
