@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-12T08:53:41Z</updated>
+  <updated>2023-04-13T05:27:36Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -291,17 +291,19 @@ Sagsreference: 27266&#xD;
     <id>27278</id>
     <title
       type="text">Den normale dataopdatering for DAGI er i øjeblikket stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-11T13:52:11Z</updated>
+    <updated>2023-04-13T05:27:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27278" />
     <content
       type="text">Besked: Den normale dataopdatering for DAGI er i øjeblikket stoppet i produktionsmiljøet.
 
+13.04.2023 klokken 07:30: Problemet er løst. DAGI dataopdateringen er tilbage i normal drift.
+
 11.04.2023 klokken 15:45: Der arbejdes på at løse problemet.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27278&#xD;
 </content>
   </entry>
