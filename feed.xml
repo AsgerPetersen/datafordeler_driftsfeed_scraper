@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-13T15:27:44Z</updated>
+  <updated>2023-04-14T09:57:20Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -168,30 +168,6 @@ Sagsreference: 26621&#xD;
 </content>
   </entry>
   <entry>
-    <id>27238</id>
-    <title
-      type="text">Test03 servicevindue, torsdag den 13. april, kl. 10:00 til kl. 14:00</title>
-    <updated>2023-04-12T08:53:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27238" />
-    <content
-      type="text">Besked: Test03 servicevindue, torsdag den 13. april, kl. 10:00 til kl. 14:00
-
-Der vil være planlagt servicevindue i morgen på Test03.
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 27238&#xD;
-Periode start: 13-04-2023 10:00:00&#xD;
-Periode slut: 13-04-2023 14:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26584</id>
     <title
       type="text">Skærmkort data er planlagt til at blive opdateret i Marts, uge 12</title>
@@ -270,26 +246,6 @@ Sagsreference: 27265&#xD;
 </content>
   </entry>
   <entry>
-    <id>27266</id>
-    <title
-      type="text">Datafordeler TEST03 er i øjeblikket utilgængeligt.</title>
-    <updated>2023-04-04T10:47:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27266" />
-    <content
-      type="text">Besked: Datafordeler TEST03 er i øjeblikket utilgængeligt.
-
-04.04.2023 klokken 12:45: Problemet er løst og miljøet er tilgængelig igen.
-
-04.04.2023 klokken 10:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 27266&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27278</id>
     <title
       type="text">Den normale dataopdatering for DAGI er i øjeblikket stoppet i produktionsmiljøet.</title>
@@ -333,12 +289,14 @@ Sagsreference: 27285&#xD;
     <id>27233</id>
     <title
       type="text">EBR prædefineret daglige deltafiler leveres ikke i øjeblikket</title>
-    <updated>2023-03-29T07:24:18Z</updated>
+    <updated>2023-04-14T09:57:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27233" />
     <content
       type="text">Besked: EBR prædefineret EBR_DeltaDaily (json og xml) leveres ikke i øjeblikket
+
+14.04.2023: Der arbejdes fortsat på at løse problemet.
 
 29.03.2023: Der arbejdes på at løse problemet. Deltafil er senest leveret den 23. marts 2023.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
@@ -386,32 +344,6 @@ Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 25927&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27249</id>
-    <title
-      type="text">Nedbrud på Datafordelerens tjenester</title>
-    <updated>2023-04-03T09:22:06Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27249" />
-    <content
-      type="text">Besked: Nedbrud på Datafordelerens tjenester
-
-01.04.2023 klokken 12.15: Datafordeleren er tilbage i normal drift. En opbygget kø af register daraopdateringer vil blive indlæst.
-
-01.04.2023 klokken 06:45: Der er adgang til registerdata via webservices men der kan opleves utilgængelighed og en nedsat performance. Filudtræk generes igen og bliver løbende gjort tilgængelige. Selv- og administrationsportalen er tilgængelig. Register dataopdatering er fortsat stoppet. Arbejde pågår med at normalisere driften og en næste ny status vil blive ca. kl. 11:30.
-
-31.03.2023 klokken 23:30: Arbejde pågår med at få normaliseret Datafordeler driften. Der er sporadisk adgang til registerdata via webservices. 
-
-31.03.2023 klokken 18:40: Der arbejdes fortsat på at normalisere Datafordeler driften.
-
-31.03.2023 klokken 15:00: Der arbejdes fortsat på at få Datafordeler driften normaliseret. Udsendelse af hændelser, webservices med geodata og abonnementer på filudtræk er utilgængelig og register dataopdateringen er stoppet.  Næste status senest ca. kl. 18:30.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27249&#xD;
 </content>
   </entry>
 </feed>
