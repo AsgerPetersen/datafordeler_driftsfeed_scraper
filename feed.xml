@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-14T09:57:20Z</updated>
+  <updated>2023-04-14T09:59:56Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -30,56 +30,6 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 26609&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27072</id>
-    <title
-      type="text">DAGI fortager små justeringer af geometrierne.</title>
-    <updated>2023-03-24T14:14:35Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27072" />
-    <content
-      type="text">Besked: DAGI fortager små justeringer af geometrierne.
-
-24.03.2023 klokken 15:00: DAGI har fredag den 24.3 foretaget små justeringer på de fleste temaer. Dette betyder at næste hændelse fra DAGI vil indeholde en stor mængde objekter.
-
-Onsdag den 22. marts 2023 cirka klokken 17 vil der blive indlæst små justeringer til DAGI geometrierne, og det bevirker, at næsten alle objekter vil blive opdateret.
-
-Dette vil medføre en udsendelse af en større mængde DAGI-hændelser.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 27072&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27084</id>
-    <title
-      type="text">Ejerfortegnelsen foretager en landsdækkende kørsel </title>
-    <updated>2023-03-27T08:32:01Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27084" />
-    <content
-      type="text">Besked: Ejerfortegnelsen foretager en landsdækkende kørsel, der starter den 23. marts 2023 
-
-27.03.2023 klokken 10:30: Den landdækkende kørsel er gennemført og blev afsluttet den 25. marts 2023.
-
-Ejerfortegnelsen vil udføre en datarettelse med indsættelse af "ejer" på alle vejlitra.
-Her vil ejer, en fiktiv P/V, fremgå som "Offentlig vej" og med en overtagelsesdato, som er sat til den 1/1-1800.
-Der er tale om lidt over 80.000 ejendomme.
-
-Dette vil påvirke filudtræk og hændelser med ekstra data, efter datarettelsen er gennemført.
-
-Datarettelsen vil blive udført om natten og tager cirka tre nætter.
-
- &#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 27084&#xD;
 </content>
   </entry>
   <entry>
@@ -147,12 +97,14 @@ Sagsreference: 26491&#xD;
     <id>26621</id>
     <title
       type="text">Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater</title>
-    <updated>2023-02-15T11:51:42Z</updated>
+    <updated>2023-04-14T09:58:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/26621" />
     <content
       type="text">Besked: Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater
+
+14.04.2023: Der er endnu ikke åbnet for VUR-filudtræk på grund af en generel fejl i de prædefinerede filudtræk for VUR, som der arbejdes på at blive løst.
 
 15.02.2023: Der er åbnet for de nye filudtræk på BBR, DAR, EBR, EJF, MAT og SVR i produktion. Der er endnu ikke åbnet for VUR-filudtræk på grund af en generel fejl i de prædefinerede filudtræk for VUR, som der arbejdes på at blive løst. 
 
@@ -165,26 +117,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 26621&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26584</id>
-    <title
-      type="text">Skærmkort data er planlagt til at blive opdateret i Marts, uge 12</title>
-    <updated>2023-03-30T08:12:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26584" />
-    <content
-      type="text">Besked: Skærmkort data er planlagt til at blive opdateret i Marts, uge 12
-
-30.03.2023 klokken 10:15: Skærmkort data er blevet opdateret.&#xD;
-Register: Skærmkortet&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26584&#xD;
-Periode start: 20-03-2023 11:00:00&#xD;
-Periode slut: 26-03-2023 12:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -329,13 +261,14 @@ Sagsreference: 27247&#xD;
     <id>25927</id>
     <title
       type="text">Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket</title>
-    <updated>2023-03-28T07:55:38Z</updated>
+    <updated>2023-04-14T09:59:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/25927" />
     <content
       type="text">Besked: Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket.
 
+14.04.2023: Problemet er ikke løst endnu hvilket der arbejdes på.
 28.03.2023: Der arbejdets fortsat på at løse problemet.
 24.02.2023: Der arbejdes fortsat på at løse problemet.
 
