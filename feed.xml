@@ -164,30 +164,6 @@ Periode slut: 28-04-2023 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>27205</id>
-    <title
-      type="text">Manglende notifikationer om fildownload</title>
-    <updated>2023-04-04T09:04:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27205" />
-    <content
-      type="text">Besked: Manglende udsendelse af e-mail notifikation ved abonnement på filudtræk.
-
-04.04.2023 klokken 11:00: Problemet er løst men, fildownloads der skulle oprettes (udføres) i løbet af torsdag kl. 15.00 og mandag kl. 11.00 blev ikke oprettet og vil ikke blive leveret. Planlagte filer kører efter tidsplanen. Brugerdefinerede abonnementer oprettet mellem torsdag 15:00 og mandag 11:30 skal genskabes.
-
-03.04.2023 klokken 14:30: Man kan i øjeblikket opleve at der ikke udsendes en e-mail notifikation, når et filudtræk er klar til hentning via FTP, på baggrund af et opsat abonnement. Der arbejdes på at løse problemet.
-
-28.03.2023 klokken 09:45: Problemet er blevet løst.
-
-24.03.2023 klokken 12:30: Man kan i øjeblikket opleve at der ikke udsendes en e-mail notifikation, når et filudtræk er klar til hentning via FTP, på baggrund af et opsat abonnement. Der arbejdes på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 27205&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27265</id>
     <title
       type="text">Den normale dataopdatering for VUR er i øjeblikket stoppet i produktionsmiljøet.</title>
