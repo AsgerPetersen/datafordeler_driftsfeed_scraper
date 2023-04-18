@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-17T10:42:14Z</updated>
+  <updated>2023-04-18T07:51:30Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -241,19 +241,21 @@ Sagsreference: 27285&#xD;
     <id>27233</id>
     <title
       type="text">EBR prædefineret daglige deltafiler leveres ikke i øjeblikket</title>
-    <updated>2023-04-14T09:57:20Z</updated>
+    <updated>2023-04-18T07:51:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27233" />
     <content
       type="text">Besked: EBR prædefineret EBR_DeltaDaily (json og xml) leveres ikke i øjeblikket
 
+18.04.2023: Problemet er løst og EBR_Deltadaily(json og xml) bliver leveret igen.
+
 14.04.2023: Der arbejdes fortsat på at løse problemet.
 
 29.03.2023: Der arbejdes på at løse problemet. Deltafil er senest leveret den 23. marts 2023.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27233&#xD;
 </content>
   </entry>
