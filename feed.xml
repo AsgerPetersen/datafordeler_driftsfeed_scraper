@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-18T08:10:14Z</updated>
+  <updated>2023-04-19T10:23:18Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -122,13 +122,13 @@ Sagsreference: 26621&#xD;
   <entry>
     <id>27292</id>
     <title
-      type="text">Test04 servicevindue, torsdag den 20. april, kl. 10:00 til kl. 14:00</title>
-    <updated>2023-04-17T07:44:44Z</updated>
+      type="text">Test04 servicevindue, torsdag den 20. april, kl. 11:00 til kl. 15:00</title>
+    <updated>2023-04-19T10:16:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27292" />
     <content
-      type="text">Besked: Test04 servicevindue, torsdag den 20. april, kl. 10:00 til kl. 14:00
+      type="text">Besked: Test04 servicevindue, torsdag den 20. april, kl. 11:00 til kl. 15:00
 
 Der vil være planlagt servicevindue på torsdag
 
@@ -139,8 +139,8 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 27292&#xD;
-Periode start: 20-04-2023 10:00:00&#xD;
-Periode slut: 20-04-2023 14:00:00&#xD;
+Periode start: 20-04-2023 11:00:00&#xD;
+Periode slut: 20-04-2023 15:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -161,6 +161,28 @@ Status: Planlagt&#xD;
 Sagsreference: 27291&#xD;
 Periode start: 27-04-2023 20:00:00&#xD;
 Periode slut: 28-04-2023 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27336</id>
+    <title
+      type="text">Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00</title>
+    <updated>2023-04-19T10:23:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27336" />
+    <content
+      type="text">Besked: Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00
+
+Der vil være planlagt servicevindue  morgen torsdag.
+
+I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Ikke planlagt&#xD;
+Sagsreference: 27336&#xD;
+Periode start: 20-04-2023 12:00:00&#xD;
+Periode slut: 20-04-2023 14:00:00&#xD;
 </content>
   </entry>
   <entry>
