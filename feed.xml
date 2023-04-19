@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-19T10:23:18Z</updated>
+  <updated>2023-04-19T12:47:33Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -167,16 +167,29 @@ Periode slut: 28-04-2023 00:00:00&#xD;
     <id>27336</id>
     <title
       type="text">Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00</title>
-    <updated>2023-04-19T10:23:18Z</updated>
+    <updated>2023-04-19T12:47:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27336" />
     <content
       type="text">Besked: Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00
 
-Der vil være planlagt servicevindue  morgen torsdag.
+Der er et planlagt servicevindue i morgen torsdag.
 
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
+I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
+
+Efter servicevinduet på Test03 er CPR datmodellen på miljøet opdateret, det betyder at:
+
+	De nuværende CPR tjenester vil ikke fungere som forventet
+	Ejerfortegnelsens tjenester med stamoplysninger, vil ikke fungere som forventet, da integrationen til CPR er brudt.
+
+
+
+Indholdet i servicevinduet er delvis deployering af 'Kommende ændring til CPR' Ændringer
+
+CPR på Test03 vil være reserveret til registerets test af ny datamodel og nye tjenester.
+
+ &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
 Status: Ikke planlagt&#xD;
