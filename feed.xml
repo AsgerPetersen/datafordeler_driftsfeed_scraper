@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-19T12:47:33Z</updated>
+  <updated>2023-04-19T13:10:27Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -167,7 +167,7 @@ Periode slut: 28-04-2023 00:00:00&#xD;
     <id>27336</id>
     <title
       type="text">Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00</title>
-    <updated>2023-04-19T12:47:33Z</updated>
+    <updated>2023-04-19T13:10:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27336" />
@@ -178,20 +178,18 @@ Der er et planlagt servicevindue i morgen torsdag.
 
 I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
 
-Efter servicevinduet på Test03 er CPR datmodellen på miljøet opdateret, det betyder at:
+Efter servicevinduet på Test03 er CPR datamodellen på miljøet opdateret, hvilket vil betyde at man kan opleve at:
 
-	De nuværende CPR tjenester vil ikke fungere som forventet
-	Ejerfortegnelsens tjenester med stamoplysninger, vil ikke fungere som forventet, da integrationen til CPR er brudt.
+	De nuværende CPR tjenester ikke returnerer korrekte data eller fejler
+	Ejerfortegnelsens tjenester med stamoplysninger, ikke returnerer korrekte data eller fejler, da integrationen til CPR er brudt.
 
 
 
-Indholdet i servicevinduet er delvis deployering af 'Kommende ændring til CPR' Ændringer
-
-CPR på Test03 vil være reserveret til registerets test af ny datamodel og nye tjenester.
+Indholdet i servicevinduet er delvis deployering af 'Kommende ændring til CPR' Ændringer , og gennemføres for at understøtte en planlagt registertest af ny CPR datamodel og nye og opdaterede CPR tjenester.
 
  &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Register: Det Centrale Personregister (CPR), Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice&#xD;
 Status: Ikke planlagt&#xD;
 Sagsreference: 27336&#xD;
 Periode start: 20-04-2023 12:00:00&#xD;
