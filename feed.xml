@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-19T13:16:51Z</updated>
+  <updated>2023-04-20T14:24:25Z</updated>
   <entry>
     <id>26609</id>
     <title
@@ -197,6 +197,26 @@ Periode slut: 20-04-2023 14:00:00&#xD;
 </content>
   </entry>
   <entry>
+    <id>27364</id>
+    <title
+      type="text">DAR Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-20T14:24:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27364" />
+    <content
+      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet.
+
+20.04.2023 klokken 16:00: DAR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 19.04.2023 klokken 21:21:56
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 27364&#xD;
+</content>
+  </entry>
+  <entry>
     <id>27278</id>
     <title
       type="text">Den normale dataopdatering for DAGI er i øjeblikket stoppet i produktionsmiljøet.</title>
@@ -276,6 +296,26 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27365</id>
+    <title
+      type="text">BBR Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-20T14:24:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27365" />
+    <content
+      type="text">Besked: BBR Dataopdatering stoppet i produktionsmiljøet.
+
+20.04.2023 klokken 16:00: BBR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 20.04.2023 klokken 01:15:16
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 27365&#xD;
 </content>
   </entry>
   <entry>
