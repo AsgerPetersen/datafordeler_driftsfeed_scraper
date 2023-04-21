@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-21T08:44:42Z</updated>
+  <updated>2023-04-21T09:28:53Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -294,6 +294,26 @@ Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 27365&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27367</id>
+    <title
+      type="text">Dagi Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-21T09:28:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27367" />
+    <content
+      type="text">Besked: DAGI Dataopdatering stoppet i produktionsmiljøet.
+
+21.04.2023 klokken 11:00: DAGI Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 20.04.2023 klokken 09:48:54
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 27367&#xD;
 </content>
   </entry>
   <entry>
