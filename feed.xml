@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-21T12:12:26Z</updated>
+  <updated>2023-04-21T13:46:05Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -197,6 +197,28 @@ Sagsreference: 27364&#xD;
 </content>
   </entry>
   <entry>
+    <id>27366</id>
+    <title
+      type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
+    <updated>2023-04-21T13:46:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27366" />
+    <content
+      type="text">Besked: Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.
+
+14.04.2023: De prædefinerede VUR-filudtræk er stadig utilgængelige på grund af en generel fejl for VUR. Der arbejdets fortsat på at løse problemet.
+
+I stedet kan Ejendomsvurdering Totaludtræk Flad benyttes.
+
+Sidste dato for tilgængelighed for VUR var 14/11.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 27366&#xD;
+</content>
+  </entry>
+  <entry>
     <id>27278</id>
     <title
       type="text">Den normale dataopdatering for DAGI er i øjeblikket stoppet i produktionsmiljøet.</title>
@@ -318,28 +340,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 27367&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>25927</id>
-    <title
-      type="text">Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket</title>
-    <updated>2023-04-14T09:59:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/25927" />
-    <content
-      type="text">Besked: Prædefineret "VUR Filudtraek Complete" er ikke tilgængelig i øjeblikket.
-
-14.04.2023: Problemet er ikke løst endnu hvilket der arbejdes på.
-28.03.2023: Der arbejdets fortsat på at løse problemet.
-24.02.2023: Der arbejdes fortsat på at løse problemet.
-
-Sidste dato for tilgængelighed var 14/11.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 25927&#xD;
 </content>
   </entry>
   <entry>
