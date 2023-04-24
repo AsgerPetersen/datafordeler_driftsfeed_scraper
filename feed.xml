@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-21T14:09:49Z</updated>
+  <updated>2023-04-24T06:52:38Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -218,6 +218,26 @@ Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27366&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27374</id>
+    <title
+      type="text">MAT Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-04-24T06:52:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27374" />
+    <content
+      type="text">Besked: MAT Dataopdatering stoppet i produktionsmiljøet.
+
+24.04.2023 klokken 09:00: MAT Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 22.04.2023 klokken 16:24:45
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 27374&#xD;
 </content>
   </entry>
   <entry>
