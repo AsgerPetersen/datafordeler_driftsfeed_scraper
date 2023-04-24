@@ -70,58 +70,6 @@ Sagsreference: 27373&#xD;
 </content>
   </entry>
   <entry>
-    <id>26621</id>
-    <title
-      type="text">Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater</title>
-    <updated>2023-04-14T09:58:54Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/26621" />
-    <content
-      type="text">Besked: Datafordeleren ændrer tjenester med filudtræk i JSON-og XML-formater
-
-14.04.2023: Der er endnu ikke åbnet for VUR-filudtræk på grund af en generel fejl i de prædefinerede filudtræk for VUR, som der arbejdes på at blive løst.
-
-15.02.2023: Der er åbnet for de nye filudtræk på BBR, DAR, EBR, EJF, MAT og SVR i produktion. Der er endnu ikke åbnet for VUR-filudtræk på grund af en generel fejl i de prædefinerede filudtræk for VUR, som der arbejdes på at blive løst. 
-
-Derfor kan du fra den 15. februar 2023 ændre dine abonnementer på filudtræk i JSON-og XML-formater fra Datafordeleren. Abonnementerne skal være ændret senest den 15. maj 2023, hvor de hidtidige tjenester til filudtræk vil blive udfaset.
-
-Læs mere på Ændringer
-
- &#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Matriklen (MAT), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 26621&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27292</id>
-    <title
-      type="text">Test04 servicevindue, torsdag den 20. april, kl. 11:00 til kl. 15:00</title>
-    <updated>2023-04-21T08:43:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27292" />
-    <content
-      type="text">Besked: Test04 servicevindue, torsdag den 20. april, kl. 11:00 til kl. 15:00
-
-21.04.2023: Service vinduet gennemført og afsluttet som planlagt
-
-Der vil være planlagt servicevindue på torsdag
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27292&#xD;
-Periode start: 20-04-2023 11:00:00&#xD;
-Periode slut: 20-04-2023 15:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27291</id>
     <title
       type="text">Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00</title>
