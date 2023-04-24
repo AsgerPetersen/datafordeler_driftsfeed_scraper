@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-24T06:58:12Z</updated>
+  <updated>2023-04-24T08:03:07Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -73,7 +73,7 @@ Sagsreference: 27373&#xD;
     <id>27291</id>
     <title
       type="text">Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00</title>
-    <updated>2023-04-14T11:08:15Z</updated>
+    <updated>2023-04-24T07:56:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27291" />
@@ -82,7 +82,6 @@ Sagsreference: 27373&#xD;
 
 I tidsrummet vil de web baseret tjenester, filudtræk, hændelser, selvbetjening- og administrationsportalen være utilgængelig for anvendelse. Alle register dataopdateringer vil være på pause.&#xD;
 Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 27291&#xD;
 Periode start: 27-04-2023 20:00:00&#xD;
@@ -280,19 +279,21 @@ Sagsreference: 27365&#xD;
     <id>27367</id>
     <title
       type="text">Dagi Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-21T09:28:53Z</updated>
+    <updated>2023-04-24T08:03:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27367" />
     <content
       type="text">Besked: DAGI Dataopdatering stoppet i produktionsmiljøet.
 
+24.04.2023 klokken 10:00: Problemet er løst. DAGI dataopdateringen kører igen.
+
 21.04.2023 klokken 11:00: DAGI Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 20.04.2023 klokken 09:48:54
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27367&#xD;
 </content>
   </entry>
