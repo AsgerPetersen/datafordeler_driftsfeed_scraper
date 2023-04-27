@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-24T08:30:49Z</updated>
+  <updated>2023-04-27T08:20:09Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -92,12 +92,14 @@ Periode slut: 28-04-2023 00:00:00&#xD;
     <id>27375</id>
     <title
       type="text">Test03 servicevindue, tirsdag den 25. april, kl. 11:00 til kl. 13:00</title>
-    <updated>2023-04-24T06:58:12Z</updated>
+    <updated>2023-04-27T08:20:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27375" />
     <content
       type="text">Besked: Test03 servicevindue, tirsdag den 25. april, kl. 11:00 til kl. 13:00
+
+27.04.2023: Service vinduet gennemført og afsluttet som planlagt
 
 Der er et planlagt servicevindue i morgen tirsdag.
 
@@ -106,7 +108,7 @@ I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 27375&#xD;
 Periode start: 25-04-2023 11:00:00&#xD;
 Periode slut: 25-04-2023 13:00:00&#xD;
@@ -297,26 +299,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 27367&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27293</id>
-    <title
-      type="text">CVR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-17T10:42:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27293" />
-    <content
-      type="text">Besked: CVR Dataopdatering stoppet i produktionsmiljøet
-
-17.04.2023 klokken 12:45: Problemet er løst. CVR dataopdateringen kører igen.
-
-17.04.2023 klokken 10:00: CVR Dataopdatering stoppet i produktionsmiljøet. sidste dataopdatering var 17.04.2023 klokken 00:11:08&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27293&#xD;
 </content>
   </entry>
 </feed>
