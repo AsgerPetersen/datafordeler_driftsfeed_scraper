@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-27T08:20:09Z</updated>
+  <updated>2023-04-28T06:38:49Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -175,7 +175,7 @@ Sagsreference: 27364&#xD;
     <id>27366</id>
     <title
       type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
-    <updated>2023-04-21T13:46:05Z</updated>
+    <updated>2023-04-28T06:38:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27366" />
@@ -186,7 +186,9 @@ Sagsreference: 27364&#xD;
 
 I stedet kan Ejendomsvurdering Totaludtræk Flad benyttes.
 
-Sidste dato for tilgængelighed for VUR var 14/11.&#xD;
+Sidste dato for tilgængelighed for VUR var 14/11.
+
+28.04.2023: Der arbejdets fortsat på at løse problemet.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -241,7 +243,7 @@ Sagsreference: 27233&#xD;
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
-    <updated>2023-03-30T13:49:03Z</updated>
+    <updated>2023-04-28T06:38:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27247" />
@@ -250,7 +252,7 @@ Sagsreference: 27233&#xD;
 
 Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
 
-Der arbejdes på at løse problemet.&#xD;
+28.04.2023: Der arbejdes fortsat på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
