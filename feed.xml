@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-01T06:49:04Z</updated>
+  <updated>2023-05-01T08:23:37Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -45,7 +45,7 @@ Sagsreference: 27211&#xD;
     <id>27373</id>
     <title
       type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
-    <updated>2023-04-21T14:09:49Z</updated>
+    <updated>2023-05-01T08:23:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27373" />
@@ -54,7 +54,7 @@ Sagsreference: 27211&#xD;
 
 Ændringen bliver implementeret på Datafordeleren i produktion den 9. juni 2023.
 
-Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren. Efter implementeringen vil der være paralleldrift med OCES2 og OCES3, indtil OCES2 certifikater udfases den 30. juni 2023.
+Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren. Efter implementeringen vil der være paralleldrift med OCES2 og OCES3, indtil OCES2 certifikater udfases den 31. oktober 2023. Vi anbefaler du skifter certifikater snarest muligt efter implementeringen på Datafordeleren.
 
 Som anvender af tjenestebruger med FOCES eller VOCES på Datafordeleren skal du derfor foretage et certifikatskifte på dine tjenestebrugere, når Datafordeleren melder klar til skiftet.
 
@@ -64,7 +64,7 @@ Vi melder dato ud, når vi kender datoen for implementering i test.
 
  &#xD;
 Register: Alle&#xD;
-Service: Filudtræk&#xD;
+Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 27373&#xD;
 </content>
