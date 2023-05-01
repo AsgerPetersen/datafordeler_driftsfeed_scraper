@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-04-28T08:32:10Z</updated>
+  <updated>2023-05-01T06:49:04Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -73,16 +73,18 @@ Sagsreference: 27373&#xD;
     <id>27291</id>
     <title
       type="text">Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00</title>
-    <updated>2023-04-24T07:56:55Z</updated>
+    <updated>2023-05-01T06:49:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27291" />
     <content
       type="text">Besked: Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00
 
+01.05.2023: Servicevinduet er gennemført.
+
 I tidsrummet vil de web baseret tjenester, filudtræk, hændelser, selvbetjening- og administrationsportalen være utilgængelig for anvendelse. Alle register dataopdateringer vil være på pause.&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 27291&#xD;
 Periode start: 27-04-2023 20:00:00&#xD;
 Periode slut: 28-04-2023 00:00:00&#xD;
@@ -112,63 +114,6 @@ Status: Gennemført&#xD;
 Sagsreference: 27375&#xD;
 Periode start: 25-04-2023 11:00:00&#xD;
 Periode slut: 25-04-2023 13:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27336</id>
-    <title
-      type="text">Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00</title>
-    <updated>2023-04-21T08:44:42Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27336" />
-    <content
-      type="text">Besked: Test03 servicevindue, torsdag den 20. april, kl. 12:00 til kl. 14:00
-
-21.04.2023: Service vinduet gennemført og afsluttet som planlagt
-
-Der er et planlagt servicevindue i morgen torsdag.
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.
-
-Efter servicevinduet på Test03 er CPR datamodellen på miljøet opdateret, hvilket vil betyde at man kan opleve at:
-
-	De nuværende CPR tjenester ikke returnerer korrekte data eller fejler
-	Ejerfortegnelsens tjenester med stamoplysninger, ikke returnerer korrekte data eller fejler, da integrationen til CPR er brudt.
-
-
-
-Indholdet i servicevinduet er delvis deployering af 'Kommende ændring til CPR' Ændringer , og gennemføres for at understøtte en planlagt registertest af ny CPR datamodel og nye og opdaterede CPR tjenester.
-
- &#xD;
-Register: Det Centrale Personregister (CPR), Ejerfortegnelsen (EJF)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27336&#xD;
-Periode start: 20-04-2023 12:00:00&#xD;
-Periode slut: 20-04-2023 14:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27364</id>
-    <title
-      type="text">DAR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-21T12:12:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27364" />
-    <content
-      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet.
-
-21.04.2023 klokken 14:00: Problemet er løst og en opbygget kø af data opdateringer er i gang med at blive indlæst.
-
-20.04.2023 klokken 16:00: DAR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 19.04.2023 klokken 21:21:56
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27364&#xD;
 </content>
   </entry>
   <entry>
@@ -218,28 +163,6 @@ Sagsreference: 27374&#xD;
 </content>
   </entry>
   <entry>
-    <id>27233</id>
-    <title
-      type="text">EBR prædefineret daglige deltafiler leveres ikke i øjeblikket</title>
-    <updated>2023-04-18T08:10:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27233" />
-    <content
-      type="text">Besked: EBR prædefineret EBR_DeltaDaily (json og xml) leveres ikke i øjeblikket
-
-18.04.2023: Problemet er løst og EBR_Deltadaily(json og xml) bliver leveret igen.
-
-14.04.2023: Der arbejdes fortsat på at løse problemet.
-
-29.03.2023: Der arbejdes på at løse problemet. Deltafil er senest leveret den 23. marts 2023.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 27233&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
@@ -257,28 +180,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27365</id>
-    <title
-      type="text">BBR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-21T12:12:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27365" />
-    <content
-      type="text">Besked: BBR Dataopdatering stoppet i produktionsmiljøet.
-
-21.04.2023 klokken 14:00: Problemet er løst og en opbygget kø af data opdateringer er i gang med at blive indlæst.
-
-20.04.2023 klokken 16:00: BBR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 20.04.2023 klokken 01:15:16
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27365&#xD;
 </content>
   </entry>
   <entry>
