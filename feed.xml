@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-02T08:12:38Z</updated>
+  <updated>2023-05-02T13:05:49Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -128,6 +128,31 @@ Status: Planlagt&#xD;
 Sagsreference: 27534&#xD;
 Periode start: 03-05-2023 11:00:00&#xD;
 Periode slut: 03-05-2023 13:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27576</id>
+    <title
+      type="text">DHM WMS/WFS mangler 0,25 m referencekurver </title>
+    <updated>2023-05-02T13:05:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27576" />
+    <content
+      type="text">Besked: DHM WMS/WFS mangler 0,25 m referencekurver 
+
+Data vises ikke for ** 0,25 m referencekurver tjenesterne
+
+	WMS: DHMNedboer
+	WFS: DHMhoejdekurver_GML3
+
+
+
+Vi arbejder på at løse problemet.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 27576&#xD;
 </content>
   </entry>
   <entry>
