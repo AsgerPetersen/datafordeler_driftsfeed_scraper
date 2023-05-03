@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-03T08:46:43Z</updated>
+  <updated>2023-05-03T12:41:10Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -176,6 +176,24 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27606</id>
+    <title
+      type="text">CPR Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-05-03T12:41:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27606" />
+    <content
+      type="text">Besked: Forsinkelse i opdatering af CPR data.
+
+Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til onsdag den 3. maj, i tidsrummet klokken 01:00-03:00, men vil blive indlæst med den næste indlæsning natten til torsdag den 4. maj. Seneste CPR dataopdatering var natten til tirsdag den 2. maj.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 27606&#xD;
 </content>
   </entry>
 </feed>
