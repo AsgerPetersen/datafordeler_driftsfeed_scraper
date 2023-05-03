@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-02T13:20:32Z</updated>
+  <updated>2023-05-03T08:46:43Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -67,27 +67,6 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 27373&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27291</id>
-    <title
-      type="text">Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00</title>
-    <updated>2023-05-01T06:49:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27291" />
-    <content
-      type="text">Besked: Planlagt Datafordeler produktion service vindue torsdag den 27. april i tidsrummet klokken 20:00-24:00
-
-01.05.2023: Servicevinduet er gennemført.
-
-I tidsrummet vil de web baseret tjenester, filudtræk, hændelser, selvbetjening- og administrationsportalen være utilgængelig for anvendelse. Alle register dataopdateringer vil være på pause.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27291&#xD;
-Periode start: 27-04-2023 20:00:00&#xD;
-Periode slut: 28-04-2023 00:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -159,20 +138,20 @@ Sagsreference: 27576&#xD;
     <id>27366</id>
     <title
       type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
-    <updated>2023-04-28T06:38:49Z</updated>
+    <updated>2023-05-03T08:46:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27366" />
     <content
       type="text">Besked: Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.
 
+03.05.2023: Der arbejdets fortsat på at løse problemet.
+
 14.04.2023: De prædefinerede VUR-filudtræk er stadig utilgængelige på grund af en generel fejl for VUR. Der arbejdets fortsat på at løse problemet.
 
 I stedet kan Ejendomsvurdering Totaludtræk Flad benyttes.
 
-Sidste dato for tilgængelighed for VUR var 14/11.
-
-28.04.2023: Der arbejdets fortsat på at løse problemet.&#xD;
+Sidste dato for tilgængelighed for VUR var 14/11.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -180,32 +159,10 @@ Sagsreference: 27366&#xD;
 </content>
   </entry>
   <entry>
-    <id>27374</id>
-    <title
-      type="text">MAT Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-24T08:30:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27374" />
-    <content
-      type="text">Besked: MAT Dataopdatering stoppet i produktionsmiljøet.
-
-24.04.2023 klokken 10:30: Problemet er løst. MAT dataopdateringen er tilbage i normalt drift.
-
-24.04.2023 klokken 09:00: MAT Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 22.04.2023 klokken 16:24:45
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27374&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
-    <updated>2023-04-28T06:38:07Z</updated>
+    <updated>2023-05-03T08:46:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27247" />
@@ -214,33 +171,11 @@ Sagsreference: 27374&#xD;
 
 Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
 
-28.04.2023: Der arbejdes fortsat på at løse problemet.&#xD;
+03.05.2023: Der arbejdes fortsat på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27367</id>
-    <title
-      type="text">Dagi Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-04-24T08:03:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27367" />
-    <content
-      type="text">Besked: DAGI Dataopdatering stoppet i produktionsmiljøet.
-
-24.04.2023 klokken 10:00: Problemet er løst. DAGI dataopdateringen kører igen.
-
-21.04.2023 klokken 11:00: DAGI Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 20.04.2023 klokken 09:48:54
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 27367&#xD;
 </content>
   </entry>
 </feed>
