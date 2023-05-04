@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-04T07:41:52Z</updated>
+  <updated>2023-05-04T08:39:35Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -73,12 +73,14 @@ Sagsreference: 27373&#xD;
     <id>27533</id>
     <title
       type="text">Test06 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00</title>
-    <updated>2023-05-04T06:32:23Z</updated>
+    <updated>2023-05-04T08:39:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27533" />
     <content
       type="text">Besked: Test06 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00
+
+04.05.2023: Service vinduet gennemført og afsluttet som planlagt
 
 Der vil være planlagt servicevindue i morgen på Test06.
 
@@ -93,12 +95,14 @@ Periode slut: 03-05-2023 13:00:00&#xD;
     <id>27534</id>
     <title
       type="text">Test04 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00</title>
-    <updated>2023-05-04T06:32:17Z</updated>
+    <updated>2023-05-04T08:39:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27534" />
     <content
       type="text">Besked: Test04 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00
+
+04.05.2023: Service vinduet gennemført og afsluttet som planlagt
 
 Der vil være planlagt servicevindue i morgen på Test04.
 
