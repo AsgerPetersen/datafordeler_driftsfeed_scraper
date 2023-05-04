@@ -5,7 +5,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-04T08:39:35Z</updated>
+  <updated>2023-05-04T09:07:54Z</updated>
+  <entry>
+    <id>27629</id>
+    <title
+      type="text">Ejerfortegnelsen ansøgningsdokument update</title>
+    <updated>2023-05-04T09:07:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27629" />
+    <content
+      type="text">Besked: Ejerfortegnelsen ansøgningsdokument update
+
+Ejerfortegnelsen har opdateret deres dokument for ”anmodning om dataadgang”. Hvis man allerede har adgang og har sendt sin anmodning, som er skrevet på en tidligere version af adgangsdokumentet, skal man ikke sende en ny. Derimod nye ansøgninger til adgang skal anvende det nye dokument&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 27629&#xD;
+</content>
+  </entry>
   <entry>
     <id>27243</id>
     <title
