@@ -88,50 +88,6 @@ Sagsreference: 27373&#xD;
 </content>
   </entry>
   <entry>
-    <id>27533</id>
-    <title
-      type="text">Test06 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00</title>
-    <updated>2023-05-04T08:39:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27533" />
-    <content
-      type="text">Besked: Test06 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00
-
-04.05.2023: Service vinduet gennemført og afsluttet som planlagt
-
-Der vil være planlagt servicevindue i morgen på Test06.
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27533&#xD;
-Periode start: 03-05-2023 11:00:00&#xD;
-Periode slut: 03-05-2023 13:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27534</id>
-    <title
-      type="text">Test04 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00</title>
-    <updated>2023-05-04T08:39:35Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27534" />
-    <content
-      type="text">Besked: Test04 servicevindue, onsdag den 03. maj, kl. 11:00 til kl. 13:00
-
-04.05.2023: Service vinduet gennemført og afsluttet som planlagt
-
-Der vil være planlagt servicevindue i morgen på Test04.
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27534&#xD;
-Periode start: 03-05-2023 11:00:00&#xD;
-Periode slut: 03-05-2023 13:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27576</id>
     <title
       type="text">DHM WMS/WFS mangler 0,25 m referencekurver </title>
