@@ -5,19 +5,21 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-08T13:02:21Z</updated>
+  <updated>2023-05-12T08:25:25Z</updated>
   <entry>
     <id>27629</id>
     <title
       type="text">Ejerfortegnelsen ansøgningsdokument update</title>
-    <updated>2023-05-04T09:07:54Z</updated>
+    <updated>2023-05-12T08:25:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27629" />
     <content
       type="text">Besked: Ejerfortegnelsen ansøgningsdokument update
 
-Ejerfortegnelsen har opdateret deres dokument for ”anmodning om dataadgang”. Hvis man allerede har adgang og har sendt sin anmodning, som er skrevet på en tidligere version af adgangsdokumentet, skal man ikke sende en ny. Derimod nye ansøgninger til adgang skal anvende det nye dokument&#xD;
+Ejerfortegnelsen har opdateret deres dokument for ”anmodning om dataadgang”. Hvis man allerede har adgang og har sendt sin anmodning, som er skrevet på en tidligere version af adgangsdokumentet, skal man ikke sende en ny. Derimod nye ansøgninger til adgang skal anvende det nye dokument
+
+Adgang til Ejerfortegnelsen (gst.dk)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dokumentation&#xD;
 Status: I gang&#xD;
@@ -91,7 +93,7 @@ Sagsreference: 27373&#xD;
     <id>27576</id>
     <title
       type="text">DHM WMS/WFS mangler 0,25 m referencekurver </title>
-    <updated>2023-05-02T13:20:32Z</updated>
+    <updated>2023-05-12T08:23:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27576" />
@@ -105,10 +107,10 @@ Data vises ikke for 0,25 m referencekurver tjenesterne
 
 
 
-Vi arbejder på at løse problemet.&#xD;
+12.05.2023: Problemet er løst og der vises 0,25 m referencekurver på begge tjenester igen.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27576&#xD;
 </content>
   </entry>
