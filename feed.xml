@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-12T12:38:03Z</updated>
+  <updated>2023-05-16T07:43:31Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -163,7 +163,7 @@ Sagsreference: 27366&#xD;
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
-    <updated>2023-05-03T08:46:43Z</updated>
+    <updated>2023-05-16T07:43:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27247" />
@@ -172,7 +172,9 @@ Sagsreference: 27366&#xD;
 
 Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
 
-03.05.2023: Der arbejdes fortsat på at løse problemet.&#xD;
+03.05.2023: Der arbejdes fortsat på at løse problemet.
+
+16.05.2023: Problemet bliver rettet på Datafordeleren den 7. juni 2023&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
