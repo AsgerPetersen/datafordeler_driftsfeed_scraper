@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-17T08:22:43Z</updated>
+  <updated>2023-05-17T11:10:07Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -24,6 +24,26 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dokumentation&#xD;
 Status: I gang&#xD;
 Sagsreference: 27629&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27733</id>
+    <title
+      type="text">DHM 2022 dataopdatering i DAF PROD</title>
+    <updated>2023-05-17T11:10:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27733" />
+    <content
+      type="text">Besked: Danmarks Højdemodel (DHM) - opdatering af 2022 data.
+
+DHM er opdateret på Datafordeleren med data indsamlet i 2022. På Flyfotos og laserscanning (sdfi.dk) kan man følge status for højdemodellen.
+
+Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 27733&#xD;
 </content>
   </entry>
   <entry>
