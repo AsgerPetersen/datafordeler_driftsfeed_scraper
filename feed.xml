@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-17T11:10:07Z</updated>
+  <updated>2023-05-22T06:52:54Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -130,6 +130,28 @@ Status: Gennemført&#xD;
 Sagsreference: 27704&#xD;
 Periode start: 16-05-2023 10:00:00&#xD;
 Periode slut: 16-05-2023 14:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27743</id>
+    <title
+      type="text">Test04 servicevindue, onsdag den 24. maj, kl. 11:30 til 14:30</title>
+    <updated>2023-05-22T06:52:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27743" />
+    <content
+      type="text">Besked: Test04 servicevindue, onsdag den 24. maj, kl. 11:30 til 14:30
+
+Der er planlagt servicevindue på onsdag den 24. maj.
+
+I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 27743&#xD;
+Periode start: 24-05-2023 11:30:00&#xD;
+Periode slut: 24-05-2023 14:30:00&#xD;
 </content>
   </entry>
   <entry>
