@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-22T06:52:54Z</updated>
+  <updated>2023-05-22T12:35:26Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -223,6 +223,28 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28131</id>
+    <title
+      type="text">Test03 miljøet er utilgængeligt </title>
+    <updated>2023-05-22T12:35:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28131" />
+    <content
+      type="text">Besked: Test03 miljøet er utilgængeligt 
+
+22.05.2023: Test03 miljøet er utilgængeligt i øjeblikket
+
+Det gælder selvbetjeningsportalen og webtjenester
+
+Der bliver arbejdet på at løse problemet og få Test03 tilbage i normal drift igen.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 28131&#xD;
 </content>
   </entry>
 </feed>
