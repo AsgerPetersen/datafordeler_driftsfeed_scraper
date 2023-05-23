@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-22T12:35:26Z</updated>
+  <updated>2023-05-23T11:57:15Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -229,12 +229,14 @@ Sagsreference: 27247&#xD;
     <id>28131</id>
     <title
       type="text">Test03 miljøet er utilgængeligt </title>
-    <updated>2023-05-22T12:35:26Z</updated>
+    <updated>2023-05-23T11:57:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28131" />
     <content
       type="text">Besked: Test03 miljøet er utilgængeligt 
+
+23.05.2023: kl. 14:00: Problemet er løst og Test03 er tilgængeligt igen.
 
 22.05.2023: Test03 miljøet er utilgængeligt i øjeblikket
 
@@ -243,7 +245,7 @@ Det gælder selvbetjeningsportalen og webtjenester
 Der bliver arbejdet på at løse problemet og få Test03 tilbage i normal drift igen.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 28131&#xD;
 </content>
   </entry>
