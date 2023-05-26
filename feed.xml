@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-26T08:40:33Z</updated>
+  <updated>2023-05-26T09:07:13Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -112,20 +112,33 @@ Sagsreference: 27373&#xD;
   <entry>
     <id>28274</id>
     <title
-      type="text">Planlagt DAF TEST06 service vindue fra tirsdag den 30. maj til den 12. juni </title>
-    <updated>2023-05-26T08:40:33Z</updated>
+      type="text">Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni </title>
+    <updated>2023-05-26T09:07:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28274" />
     <content
-      type="text">Besked: Planlagt TEST06 service vindue tirsdag den 30. maj.
-Der vil gennem dagen kunne opleves utilgængelighed på portalerne, og filudtræk vil ikke blive genereret.&#xD;
+      type="text">Besked: Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni
+
+Opdateret 26.05.2023{}
+
+I perioden vil webservices være tilgængelige, men der kan opleves kortere udfald eller længere svartider.
+
+Følgende vil ikke være tilgængeligt på Test06 miljøet:
+
+	Selvbetjeningsportalen og administrationsportalen vil være lukket.
+	Filudtræk vil ikke blive genereret i perioden, de genereres først efter den 12. juni.
+	Dataopdateringer og generering af hændelser vil være stoppet i perioden.
+
+
+
+ &#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 28274&#xD;
 Periode start: 30-05-2023 08:00:00&#xD;
-Periode slut: 30-05-2023 16:00:00&#xD;
+Periode slut: 12-06-2023 16:00:00&#xD;
 </content>
   </entry>
   <entry>
