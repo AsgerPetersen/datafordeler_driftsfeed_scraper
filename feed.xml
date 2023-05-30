@@ -142,30 +142,6 @@ Periode slut: 12-06-2023 16:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>27743</id>
-    <title
-      type="text">Test04 servicevindue, onsdag den 24. maj, kl. 11:30 til 14:30</title>
-    <updated>2023-05-25T08:35:38Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27743" />
-    <content
-      type="text">Besked: Test04 servicevindue, onsdag den 24. maj, kl. 11:30 til 14:30
-
-25.05.2023: Service vinduet gennemført og afsluttet som planlagt
-
-Der er planlagt servicevindue på onsdag den 24. maj.
-
-I tidsrummet vil testmiljøet være helt eller delvis utilgængeligt.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 27743&#xD;
-Periode start: 24-05-2023 11:30:00&#xD;
-Periode slut: 24-05-2023 14:30:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27366</id>
     <title
       type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
