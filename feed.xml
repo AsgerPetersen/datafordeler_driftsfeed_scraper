@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-30T08:39:01Z</updated>
+  <updated>2023-05-30T09:35:19Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -139,6 +139,25 @@ Status: I gang&#xD;
 Sagsreference: 28274&#xD;
 Periode start: 30-05-2023 08:00:00&#xD;
 Periode slut: 12-06-2023 16:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28316</id>
+    <title
+      type="text">Problemer med filudtræk</title>
+    <updated>2023-05-30T09:35:19Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28316" />
+    <content
+      type="text">Besked: Problemer med filudtræk
+
+Man kan i weekenden have oplevet ikke at have modtaget filudtræk
+Der bliver arbejdet på at løse problemet og med at levere de manglende filudtræk.  &#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 28316&#xD;
 </content>
   </entry>
   <entry>
