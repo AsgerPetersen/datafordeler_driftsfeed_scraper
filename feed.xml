@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-05-30T09:35:19Z</updated>
+  <updated>2023-05-30T11:56:48Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -145,12 +145,14 @@ Periode slut: 12-06-2023 16:00:00&#xD;
     <id>28316</id>
     <title
       type="text">Problemer med filudtræk</title>
-    <updated>2023-05-30T09:35:19Z</updated>
+    <updated>2023-05-30T11:56:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28316" />
     <content
       type="text">Besked: Problemer med filudtræk
+
+30.05.2023 kl 14:00: Problemet er løst, men der er opbygget en kø af filudtræk der i gang med at bliver kørt igennem.
 
 Man kan i weekenden have oplevet ikke at have modtaget filudtræk
 Der bliver arbejdet på at løse problemet og med at levere de manglende filudtræk.  &#xD;
