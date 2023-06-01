@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-01T11:42:58Z</updated>
+  <updated>2023-06-01T11:54:23Z</updated>
   <entry>
     <id>27629</id>
     <title
@@ -164,7 +164,7 @@ Periode slut: 12-06-2023 16:00:00&#xD;
     <id>28316</id>
     <title
       type="text">Problemer med filudtræk</title>
-    <updated>2023-05-31T10:05:49Z</updated>
+    <updated>2023-06-01T11:54:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28316" />
@@ -177,7 +177,7 @@ Man kan i weekenden have oplevet ikke at have modtaget filudtræk
 Der bliver arbejdet på at løse problemet og med at levere de manglende filudtræk.  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 28316&#xD;
 </content>
   </entry>
@@ -225,30 +225,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 27247&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>28131</id>
-    <title
-      type="text">Test03 miljøet er utilgængeligt </title>
-    <updated>2023-05-23T11:57:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28131" />
-    <content
-      type="text">Besked: Test03 miljøet er utilgængeligt 
-
-23.05.2023: kl. 14:00: Problemet er løst og Test03 er tilgængeligt igen.
-
-22.05.2023: Test03 miljøet er utilgængeligt i øjeblikket
-
-Det gælder selvbetjeningsportalen og webtjenester
-
-Der bliver arbejdet på at løse problemet og få Test03 tilbage i normal drift igen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 28131&#xD;
 </content>
   </entry>
   <entry>
