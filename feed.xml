@@ -5,27 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-01T12:37:32Z</updated>
-  <entry>
-    <id>27629</id>
-    <title
-      type="text">Ejerfortegnelsen ansøgningsdokument update</title>
-    <updated>2023-05-12T08:25:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27629" />
-    <content
-      type="text">Besked: Ejerfortegnelsen ansøgningsdokument update
-
-Ejerfortegnelsen har opdateret deres dokument for ”anmodning om dataadgang”. Hvis man allerede har adgang og har sendt sin anmodning, som er skrevet på en tidligere version af adgangsdokumentet, skal man ikke sende en ny. Derimod nye ansøgninger til adgang skal anvende det nye dokument
-
-Adgang til Ejerfortegnelsen (gst.dk)&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dokumentation&#xD;
-Status: I gang&#xD;
-Sagsreference: 27629&#xD;
-</content>
-  </entry>
+  <updated>2023-06-02T08:30:39Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -209,7 +189,7 @@ Sagsreference: 27366&#xD;
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
-    <updated>2023-05-25T08:30:58Z</updated>
+    <updated>2023-06-02T08:30:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27247" />
@@ -218,9 +198,7 @@ Sagsreference: 27366&#xD;
 
 Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
 
-25.05.2023: Der arbejdes fortsat på at løse problemet.
-
-16.05.2023: Problemet bliver rettet på Datafordeleren den 7. juni 2023&#xD;
+02.06.2023: Problemet bliver rettet på Datafordeleren den 7. juni 2023&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
