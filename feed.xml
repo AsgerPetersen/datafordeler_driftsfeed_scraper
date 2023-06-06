@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-06T11:44:22Z</updated>
+  <updated>2023-06-06T11:45:02Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -165,12 +165,14 @@ Sagsreference: 28316&#xD;
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-06-06T10:41:14Z</updated>
+    <updated>2023-06-06T11:45:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28408" />
     <content
-      type="text">Besked: 06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.
+      type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
+
+06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.
 
 Der arbejdes på at få opdateringer til at fungere igen.&#xD;
 Register: Matriklen (MAT)&#xD;
