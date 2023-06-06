@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-06T11:45:02Z</updated>
+  <updated>2023-06-06T12:42:51Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -29,13 +29,17 @@ Sagsreference: 27733&#xD;
   <entry>
     <id>27243</id>
     <title
-      type="text">Næste planlagte opdatering af Skærmkort data: 7 juni 2023</title>
-    <updated>2023-05-25T13:05:29Z</updated>
+      type="text">Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29 </title>
+    <updated>2023-06-06T12:42:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27243" />
     <content
-      type="text">Besked: Næste planlagte opdatering af Skærmkort data: 7 juni 2023&#xD;
+      type="text">Besked: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
+
+06-06-2023: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
+
+ &#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
