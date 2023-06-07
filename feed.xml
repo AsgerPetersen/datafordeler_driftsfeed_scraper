@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-06T17:15:16Z</updated>
+  <updated>2023-06-07T07:40:03Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -213,19 +213,21 @@ Sagsreference: 27366&#xD;
     <id>28410</id>
     <title
       type="text">CPR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-06-06T11:44:22Z</updated>
+    <updated>2023-06-07T07:40:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28410" />
     <content
       type="text">Besked: CPR Dataopdatering stoppet i produktionsmiljøet
 
+07.05.2023 klokken 09:30: Problemet er løst. CPR dataopdateringen er tilbage i normalt drift.
+
 06.06.2023 klokken 13:30: CPR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 01.06.2023 klokken 01:00:04
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 28410&#xD;
 </content>
   </entry>
