@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T08:12:38Z</updated>
+  <updated>2023-06-08T08:36:52Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -69,12 +69,14 @@ Sagsreference: 27211&#xD;
     <id>27373</id>
     <title
       type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
-    <updated>2023-06-01T12:37:32Z</updated>
+    <updated>2023-06-08T08:36:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27373" />
     <content
       type="text">Besked: Overgang fra OCES2 til OCES3 certifikater på Datafordeleren.
+
+08.06.2023: Ændringen er implementeret i produktion og det er nu muligt at skifte til OCES3 certifikater til tjenestebrugere FOCES, (OCES3: Systemcertifikat) og VOCES (OCES3: Organisationscertifikat).
 
 Ændringen bliver implementeret på Datafordeleren i produktion den 7. juni 2023. Bemærk at det først er muligt at skifte til OCES3 certifikater efter denne dato. Der kommer en fejl 400, hvis man prøver at skifte certifikat til OCES3, inden systemet er sat op.
 
@@ -89,7 +91,7 @@ Vi melder dato ud, når vi kender datoen for implementering i test.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27373&#xD;
 </content>
   </entry>
@@ -237,19 +239,21 @@ Sagsreference: 28410&#xD;
     <id>27247</id>
     <title
       type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
-    <updated>2023-06-02T08:30:39Z</updated>
+    <updated>2023-06-08T08:32:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27247" />
     <content
       type="text">Besked: Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.
 
+08.06.2023: Fejlen er nu rettet, så det nu er muligt at oprette brugerdefinerede filudtræk med SSH2-nøgle/SFTP for alle filudtræk.
+
 Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
 
 02.06.2023: Problemet bliver rettet på Datafordeleren den 7. juni 2023&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27247&#xD;
 </content>
   </entry>
