@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T08:54:39Z</updated>
+  <updated>2023-06-08T09:03:52Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -235,6 +235,24 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 28410&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28518</id>
+    <title
+      type="text">CVR Dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-06-08T09:03:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28518" />
+    <content
+      type="text">Besked: CVR Dataopdatering stoppet i produktionsmiljøet
+
+08.06.2023 klokken 11:00: CVR Dataopdatering stoppet i produktionsmiljøet. sidste dataopdatering var 07.06.2023 klokken 21:44:42&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 28518&#xD;
 </content>
   </entry>
   <entry>
