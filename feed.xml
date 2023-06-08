@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T08:36:52Z</updated>
+  <updated>2023-06-08T08:54:39Z</updated>
   <entry>
     <id>27733</id>
     <title
@@ -193,12 +193,14 @@ Sagsreference: 28408&#xD;
     <id>27366</id>
     <title
       type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
-    <updated>2023-05-25T08:30:34Z</updated>
+    <updated>2023-06-08T08:54:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27366" />
     <content
       type="text">Besked: Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.
+
+08.06.2023: Problemet er løst og VUR filudtræk leveres igen.
 
 25.05.2023: Der arbejdets fortsat på at løse problemet.
 
@@ -209,7 +211,7 @@ I stedet kan Ejendomsvurdering Totaludtræk Flad benyttes.
 Sidste dato for tilgængelighed for VUR var 14/11.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 27366&#xD;
 </content>
   </entry>
