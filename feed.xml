@@ -149,27 +149,6 @@ Periode slut: 12-06-2023 16:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>28316</id>
-    <title
-      type="text">Problemer med filudtræk</title>
-    <updated>2023-06-01T11:54:23Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28316" />
-    <content
-      type="text">Besked: Problemer med filudtræk
-
-30.05.2023 kl 14:00: Problemet er løst, men der er opbygget en kø af filudtræk der i gang med at bliver kørt igennem.
-
-Man kan i weekenden have oplevet ikke at have modtaget filudtræk
-Der bliver arbejdet på at løse problemet og med at levere de manglende filudtræk.  &#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 28316&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
@@ -277,28 +256,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: Løst&#xD;
 Sagsreference: 27247&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>28371</id>
-    <title
-      type="text">DAR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-06-01T11:42:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28371" />
-    <content
-      type="text">Besked: DAR Dataopdatering stoppet i produktionsmiljøet
-
-01.06.2023 klokken 13:30: Problemet er løst og en opbygget kø af data opdateringer er i gang med at blive indlæst.
-
-01.06.2023 klokken 10:00: DAR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 31.05.2023 klokken 20:59:35
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 28371&#xD;
 </content>
   </entry>
 </feed>
