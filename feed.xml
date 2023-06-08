@@ -5,27 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T10:19:45Z</updated>
-  <entry>
-    <id>27733</id>
-    <title
-      type="text">DHM 2022 dataopdatering i DAF PROD</title>
-    <updated>2023-05-17T11:10:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27733" />
-    <content
-      type="text">Besked: Danmarks Højdemodel (DHM) - opdatering af 2022 data.
-
-DHM er opdateret på Datafordeleren med data indsamlet i 2022. På Flyfotos og laserscanning (sdfi.dk) kan man følge status for højdemodellen.
-
-Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
-Register: Danmarks Højdemodel&#xD;
-Service: Webservice, Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 27733&#xD;
-</content>
-  </entry>
+  <updated>2023-06-08T11:29:59Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -234,6 +214,24 @@ Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 28518&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28524</id>
+    <title
+      type="text">Fejl i DHM prædefinerede filudtræk</title>
+    <updated>2023-06-08T11:29:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28524" />
+    <content
+      type="text">Besked: Fejl i DHM prædefinerede filudtræk
+
+Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 28524&#xD;
 </content>
   </entry>
   <entry>
