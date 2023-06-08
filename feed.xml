@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T11:29:59Z</updated>
+  <updated>2023-06-08T14:04:27Z</updated>
   <entry>
     <id>27243</id>
     <title
@@ -254,6 +254,23 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ej
 Service: Filudtræk&#xD;
 Status: Løst&#xD;
 Sagsreference: 27247&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28525</id>
+    <title
+      type="text">Identisk bynavn DAGI</title>
+    <updated>2023-06-08T14:04:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28525" />
+    <content
+      type="text">Besked: Identisk bynavn DAGI
+
+Det supplerende bynavn Halgårde er ved en fejl blevet oprettet to gange med identisk geomtri. Det overflødige supplerende bynavn med id_lokalid 748496 er blevet opdateret og er ikke længere gældende. Hvis man anvender hændelser til håndtering af supplerende bynavne skal man være opmærksom på, at der ikke blev sendt en hændelse ud om nedlæggelsen.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Status: I gang&#xD;
+Sagsreference: 28525&#xD;
 </content>
   </entry>
 </feed>
