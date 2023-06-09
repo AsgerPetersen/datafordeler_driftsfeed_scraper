@@ -5,7 +5,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-08T14:04:27Z</updated>
+  <updated>2023-06-09T13:37:21Z</updated>
+  <entry>
+    <id>28534</id>
+    <title
+      type="text">Ændring af certifikat til PUSH abonnement på hændelser</title>
+    <updated>2023-06-09T13:37:21Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28534" />
+    <content
+      type="text">Besked: Ændring af certifikat til PUSH abonnement på hændelser
+
+Vær opmærksom på at certifikatet til at modtage hændelser i produktion på Datafordeleren er skiftet på Datafordeleren i forbindelse med Release 38.0.0, den 7. juni 2023, i forbindelse med implementering af OCES3 certifikater.
+
+Du kan hente det nye certifikat på https://confluence.sdfi.dk/x/LoBQAQ&#xD;
+Register: Alle&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 28534&#xD;
+</content>
+  </entry>
   <entry>
     <id>27243</id>
     <title
