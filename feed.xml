@@ -1,1 +1,275 @@
-{"Message":"An error has occurred."}
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2023-06-09T13:37:21Z</updated>
+  <entry>
+    <id>28534</id>
+    <title
+      type="text">Ændring af certifikat til PUSH abonnement på hændelser</title>
+    <updated>2023-06-09T13:37:21Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28534" />
+    <content
+      type="text">Besked: Ændring af certifikat til PUSH abonnement på hændelser
+
+Vær opmærksom på at certifikatet til at modtage hændelser i produktion på Datafordeleren er skiftet på Datafordeleren i forbindelse med Release 38.0.0, den 7. juni 2023, i forbindelse med implementering af OCES3 certifikater.
+
+Du kan hente det nye certifikat på https://confluence.sdfi.dk/x/LoBQAQ&#xD;
+Register: Alle&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 28534&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27243</id>
+    <title
+      type="text">Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29 </title>
+    <updated>2023-06-06T17:15:16Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27243" />
+    <content
+      type="text">Besked: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
+
+06-06-2023: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
+
+ &#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 27243&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27211</id>
+    <title
+      type="text">Ejerfortegnelsen indfører mulighed for at overtagelsesdatoen kan ligge før en ejendom er gældende i Matriklen</title>
+    <updated>2023-03-27T11:11:02Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27211" />
+    <content
+      type="text">Besked: Ejerfortegnelsen indfører mulighed for at overtagelsesdatoen kan ligge før en ejendom er gældende i Matriklen. 
+
+Dette er for at udstille den korrekte overtagelsesdato for den tinglyste adkomst, der i mange tilfælde vil være delsalg/udstykning.
+
+Releasedatoen er den 03-07-2023.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Status: I gang&#xD;
+Sagsreference: 27211&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27373</id>
+    <title
+      type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
+    <updated>2023-06-08T08:36:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27373" />
+    <content
+      type="text">Besked: Overgang fra OCES2 til OCES3 certifikater på Datafordeleren.
+
+08.06.2023: Ændringen er implementeret i produktion og det er nu muligt at skifte til OCES3 certifikater til tjenestebrugere FOCES, (OCES3: Systemcertifikat) og VOCES (OCES3: Organisationscertifikat).
+
+Ændringen bliver implementeret på Datafordeleren i produktion den 7. juni 2023. Bemærk at det først er muligt at skifte til OCES3 certifikater efter denne dato. Der kommer en fejl 400, hvis man prøver at skifte certifikat til OCES3, inden systemet er sat op.
+
+Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren.
+
+Læs mere om ændringen under ændringsmeddelelser her: https://datafordeler.dk/drift/aendringer 
+
+ 
+
+Vi melder dato ud, når vi kender datoen for implementering i test.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 27373&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28274</id>
+    <title
+      type="text">Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni </title>
+    <updated>2023-05-30T08:39:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28274" />
+    <content
+      type="text">Besked: Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni
+
+Opdateret 26.05.2023  
+
+I perioden vil webservices være tilgængelige, men der kan opleves kortere udfald eller længere svartider.
+
+Følgende vil ikke være tilgængeligt på Test06 miljøet:
+
+	Selvbetjeningsportalen og administrationsportalen vil være lukket.
+	Filudtræk vil ikke blive genereret i perioden, de genereres først efter den 12. juni.
+	Dataopdateringer og generering af hændelser vil være stoppet i perioden.
+
+
+
+ &#xD;
+Register: Alle&#xD;
+Service: Filudtræk, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 28274&#xD;
+Periode start: 30-05-2023 08:00:00&#xD;
+Periode slut: 12-06-2023 16:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28408</id>
+    <title
+      type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
+    <updated>2023-06-06T11:45:02Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28408" />
+    <content
+      type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
+
+06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.
+
+Der arbejdes på at få opdateringer til at fungere igen.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 28408&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27366</id>
+    <title
+      type="text">Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.</title>
+    <updated>2023-06-08T08:54:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27366" />
+    <content
+      type="text">Besked: Prædefinerede VUR Filudtræk  er ikke tilgængelige i øjeblikket.
+
+08.06.2023: Problemet er løst og VUR filudtræk leveres igen.
+
+25.05.2023: Der arbejdets fortsat på at løse problemet.
+
+14.04.2023: De prædefinerede VUR-filudtræk er stadig utilgængelige på grund af en generel fejl for VUR. Der arbejdets fortsat på at løse problemet.
+
+I stedet kan Ejendomsvurdering Totaludtræk Flad benyttes.
+
+Sidste dato for tilgængelighed for VUR var 14/11.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Filudtræk&#xD;
+Status: Løst&#xD;
+Sagsreference: 27366&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28410</id>
+    <title
+      type="text">CPR Dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-06-07T07:40:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28410" />
+    <content
+      type="text">Besked: CPR Dataopdatering stoppet i produktionsmiljøet
+
+07.05.2023 klokken 09:30: Problemet er løst. CPR dataopdateringen er tilbage i normalt drift.
+
+06.06.2023 klokken 13:30: CPR Dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 01.06.2023 klokken 01:00:04
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 28410&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28518</id>
+    <title
+      type="text">CVR Dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-06-08T10:19:45Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28518" />
+    <content
+      type="text">Besked: CVR Dataopdatering stoppet i produktionsmiljøet
+
+08.06.2023 klokken 12:30: Problemet er løst. CVR dataopdateringen er tilbage i normalt drift.
+
+08.06.2023 klokken 10:30: CVR Dataopdatering stoppet i produktionsmiljøet. sidste dataopdatering var 07.06.2023 klokken 21:44:42&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 28518&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28524</id>
+    <title
+      type="text">Fejl i DHM prædefinerede filudtræk</title>
+    <updated>2023-06-08T11:29:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28524" />
+    <content
+      type="text">Besked: Fejl i DHM prædefinerede filudtræk
+
+Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 28524&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>27247</id>
+    <title
+      type="text">Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.</title>
+    <updated>2023-06-08T08:32:45Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/27247" />
+    <content
+      type="text">Besked: Manglende levering af brugerdefineret filudtræk oprettet efter den 15. marts 2023, og med SSH2-nøgle til SFTP.
+
+08.06.2023: Fejlen er nu rettet, så det nu er muligt at oprette brugerdefinerede filudtræk med SSH2-nøgle/SFTP for alle filudtræk.
+
+Man kan i øjeblikket opleve ikke at modtage brugerdefineret filudtræk oprettet efter den 15. marts 2023 og med SSH2-nøgle til SFTP, fra følgende registre: BBR, DAR, EBR, MAT og VUR.
+
+02.06.2023: Problemet bliver rettet på Datafordeleren den 7. juni 2023&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: Løst&#xD;
+Sagsreference: 27247&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28525</id>
+    <title
+      type="text">Identisk bynavn DAGI</title>
+    <updated>2023-06-08T14:04:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28525" />
+    <content
+      type="text">Besked: Identisk bynavn DAGI
+
+Det supplerende bynavn Halgårde er ved en fejl blevet oprettet to gange med identisk geomtri. Det overflødige supplerende bynavn med id_lokalid 748496 er blevet opdateret og er ikke længere gældende. Hvis man anvender hændelser til håndtering af supplerende bynavne skal man være opmærksom på, at der ikke blev sendt en hændelse ud om nedlæggelsen.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Status: I gang&#xD;
+Sagsreference: 28525&#xD;
+</content>
+  </entry>
+</feed>
