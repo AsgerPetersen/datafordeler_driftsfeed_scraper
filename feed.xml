@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-12T10:00:04Z</updated>
+  <updated>2023-06-12T12:14:32Z</updated>
   <entry>
     <id>28534</id>
     <title
@@ -93,6 +93,30 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 27373&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>28543</id>
+    <title
+      type="text">Matriklen2 åbner på Datafordeleren</title>
+    <updated>2023-06-12T12:14:32Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/28543" />
+    <content
+      type="text">Besked: Matriklen2 åbner på Datafordeleren
+
+Der åbner en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
+
+Matriklen2 vil køre i paralleldrift med de eksisterende tjenester fra Matriklen frem til den 15. december 2023. Herefter lukker de eksisterende tjenester i Matriklen, og Matriklen2 fortsætter.
+
+Matriklen2 indeholder en modelændring, som retter op på fejl og en række uhensigtsmæssigheder, samt tilføjer data med stedfæstelse af bygning på fremmed grund.
+
+Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Webservice, Filudtræk, Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 28543&#xD;
 </content>
   </entry>
   <entry>
