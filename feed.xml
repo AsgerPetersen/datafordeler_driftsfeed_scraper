@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-13T07:53:45Z</updated>
+  <updated>2023-06-13T07:57:49Z</updated>
   <entry>
     <id>28534</id>
     <title
@@ -122,15 +122,15 @@ Sagsreference: 28543&#xD;
   <entry>
     <id>28274</id>
     <title
-      type="text">Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni - forlænges </title>
-    <updated>2023-06-13T07:53:45Z</updated>
+      type="text">TEST06 service vindue fra tirsdag den 30. maj til den 12. juni - forlænges </title>
+    <updated>2023-06-13T07:57:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28274" />
     <content
-      type="text">Besked: Planlagt TEST06 service vindue fra tirsdag den 30. maj til den 12. juni - forlænges
+      type="text">Besked: TEST06 service vindue fra tirsdag den 30. maj til den 12. juni - forlænges
 
-Opdateret 26.05.2023  
+13.06.2023 Servicevinduet på TEST06 forlænges til den 21. juni. Beklager de gener det måtte give.
 
 I perioden vil webservices være tilgængelige, men der kan opleves kortere udfald eller længere svartider.
 
@@ -148,7 +148,7 @@ Service: Filudtræk, Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 28274&#xD;
 Periode start: 30-05-2023 08:00:00&#xD;
-Periode slut: 12-06-2023 16:00:00&#xD;
+Periode slut: 21-06-2023 16:00:00&#xD;
 </content>
   </entry>
   <entry>
