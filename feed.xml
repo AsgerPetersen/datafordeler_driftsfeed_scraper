@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-12T12:14:32Z</updated>
+  <updated>2023-06-13T06:47:01Z</updated>
   <entry>
     <id>28534</id>
     <title
@@ -300,17 +300,19 @@ Sagsreference: 28525&#xD;
     <id>28536</id>
     <title
       type="text">Mat, DS, EBR, EJF, DAGI har afbrydelse i den normale dataopdatering .</title>
-    <updated>2023-06-12T10:00:04Z</updated>
+    <updated>2023-06-13T06:47:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28536" />
     <content
       type="text">Besked: Mat, DS, EBR, EJF, DAGI har afbrydelse i den normale dataopdatering.
 
+13.06.2022 klokken 09:00: Dataopdateringen er tilbage i normal drift.
+
 12.06.2023 Klokken 11:15: Der arbejdets på at løse problemet.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 28536&#xD;
 </content>
   </entry>
