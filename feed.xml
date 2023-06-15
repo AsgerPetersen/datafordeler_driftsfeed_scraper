@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-13T11:22:22Z</updated>
+  <updated>2023-06-15T10:29:51Z</updated>
   <entry>
     <id>28534</id>
     <title
@@ -100,21 +100,47 @@ Sagsreference: 27373&#xD;
   <entry>
     <id>28543</id>
     <title
-      type="text">Matriklen2 åbner på Datafordeleren</title>
-    <updated>2023-06-12T12:14:32Z</updated>
+      type="text">Matriklen2 åbnet på Datafordeleren</title>
+    <updated>2023-06-15T10:29:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28543" />
     <content
-      type="text">Besked: Matriklen2 åbner på Datafordeleren
+      type="text">Besked: Matriklen2 åbnet på Datafordeleren
 
-Der åbner en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
+Der er åbnet en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
 
-Matriklen2 vil køre i paralleldrift med de eksisterende tjenester fra Matriklen frem til den 15. december 2023. Herefter lukker de eksisterende tjenester i Matriklen, og Matriklen2 fortsætter.
+Der er paralleldrift mellem Matriklen2 og de eksisterende tjenester fra Matriklen frem til den 15. december 2023. Herefter lukker de eksisterende tjenester i Matriklen, og Matriklen2 fortsætter.
+
+Dataopdateringen for Matriklen2 og Matriklen er planlagt til synkron opdatering.
 
 Matriklen2 indeholder en modelændring, som retter op på fejl og en række uhensigtsmæssigheder, samt tilføjer data med stedfæstelse af bygning på fremmed grund.
 
-Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Der er fundet følgende fejl i forbindelse med lanceringen af det nye register. Fejlene forventes rettet efter transitionen til ny leverandør af Datafordeleren.
+
+	Dataopdateringen på Matriklen2 kører langsommere i produktionsmiljøet end for Matriklen. Data er derfor ikke synkrone mellem de to registres tjenester. Der arbejdes på at løse problemet med langsom dataopdatering for Matriklen2.
+
+
+
+
+
+	Det kommunale prædefinerede filudtræk MATkortdataGaeldendeKommuneComplete endnu ikke er implementeret pga. en fejl.
+
+
+
+
+
+	Hændelser for Bygning På Fremmed Grund Punkt udsendes ikke
+
+
+
+
+
+	Matriklen2: Ingen data på Test06
+
+
+
+Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
