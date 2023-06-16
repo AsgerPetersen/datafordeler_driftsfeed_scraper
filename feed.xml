@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-15T10:29:51Z</updated>
+  <updated>2023-06-16T08:47:47Z</updated>
   <entry>
     <id>28534</id>
     <title
@@ -24,26 +24,6 @@ Register: Alle&#xD;
 Service: Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 28534&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>27243</id>
-    <title
-      type="text">Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29 </title>
-    <updated>2023-06-06T17:15:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27243" />
-    <content
-      type="text">Besked: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
-
-06-06-2023: Data er opdateret for maj 2023 og næste opdatering forventes i uge 28/29  
-
- &#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 27243&#xD;
 </content>
   </entry>
   <entry>
@@ -183,16 +163,16 @@ Periode slut: 21-06-2023 16:00:00&#xD;
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-06-06T11:45:02Z</updated>
+    <updated>2023-06-16T08:47:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28408" />
     <content
       type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
 
-06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.
+16-06-2023: Der arbejdes på at få løst problemet.
 
-Der arbejdes på at få opdateringer til at fungere igen.&#xD;
+06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
