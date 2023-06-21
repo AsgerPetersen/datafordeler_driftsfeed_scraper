@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-21T09:28:23Z</updated>
+  <updated>2023-06-21T10:54:49Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -254,12 +254,14 @@ Sagsreference: 28524&#xD;
     <id>29393</id>
     <title
       type="text">Fejl i oprettelse af prædefinerede filudtræk for Matriklen2 på datafordeler.dk</title>
-    <updated>2023-06-21T09:28:23Z</updated>
+    <updated>2023-06-21T10:54:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29393" />
     <content
       type="text">Besked: Fejl i oprettelse af prædefinerede filudtræk for Matriklen2 på datafordeler.dk
+
+21.06.2023, kl. 12:35: Fejlen er løst.
 
 Der fås en fejl ved ved oprettelse af abonnement for prædefinerede filudtræk for Matrikle2 på datafordeler.dk.
 
@@ -270,7 +272,7 @@ Der arbejdes på at løse fejlen.
  &#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29393&#xD;
 </content>
   </entry>
