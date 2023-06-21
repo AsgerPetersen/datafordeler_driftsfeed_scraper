@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-21T10:55:08Z</updated>
+  <updated>2023-06-21T12:25:43Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -145,6 +145,37 @@ Register: Matriklen (MAT)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 28543&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29400</id>
+    <title
+      type="text">BBR kører et datafiks</title>
+    <updated>2023-06-21T12:25:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29400" />
+    <content
+      type="text">Besked: BBR kører et datafiks
+
+BBR kører et datafiks der vil ændre nogle tomme strenge til NULL i BBR databasen. 
+Datafiks vil blive implementeret den 30-06-2023.
+
+Dette vil medføre en større ændring af mange forskellige objekter:
+
+Cirka 100.000 Byggesag objekter
+Cirka 100.000 EjendomsRelation objekter
+Cirka 120.000 Enhed objekter
+Cirka 6.000 Bygning objekter
+Cirka 200 Etage objekter
+
+(OBS! Numrene er baseret på en lokal DB-backup som sidst blev opdateret den 21-08-2022)
+
+Dette bliver gjort for at forbedre validering af felter der bruger kodeliste-værdier.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 29400&#xD;
 </content>
   </entry>
   <entry>
