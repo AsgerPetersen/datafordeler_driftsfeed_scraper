@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-22T10:45:33Z</updated>
+  <updated>2023-06-22T13:22:51Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -24,6 +24,30 @@ Datarettelsen vil blive afviklet onsdag d. 21-06-23 kl 08:45.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Status: I gang&#xD;
 Sagsreference: 29387&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29508</id>
+    <title
+      type="text">FME filudtræk lukker - Har du skiftet til Hangfire?</title>
+    <updated>2023-06-22T13:22:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29508" />
+    <content
+      type="text">Besked: FME filudtræk lukker - Har du skiftet til Hangfire?
+
+Vi lukker den 23. juni 2023 for de filudtræk, som bliver leveret via FME service i JSON-og XML-formater. Det fremgår ikke af filnavnet, at de er leveret via FME.
+
+Data fra filudtræk er tilgængelige via Hangfire service, og det fremgår af filnavnet, at de bliver leveret via Hangfire. Filnavnet er tilføjet "_HF". Modtager du ikke dine filudtræk som forventet, skal du tjekke filnavn på det sidste, du har modtaget. Mangler tilføjelsen "_HF", skal du oprette nyt abonnement.
+
+Fredag den 23. juni 2023 bliver filudtræk via FME på BBR, DAR, EBR, EJF, SVR og VUR lukket.
+
+Læs mere om ændringen under Ændringer&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29508&#xD;
 </content>
   </entry>
   <entry>
