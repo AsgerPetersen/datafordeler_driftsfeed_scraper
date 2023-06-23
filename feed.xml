@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-23T11:29:45Z</updated>
+  <updated>2023-06-23T11:59:20Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -231,6 +231,28 @@ Register: Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28408&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29551</id>
+    <title
+      type="text">Fejl med visning af lag DHM Oprindelse</title>
+    <updated>2023-06-23T11:59:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29551" />
+    <content
+      type="text">Besked: Danmarks Højdemodel
+
+23-6-2023
+
+Der er fejl med laget DHM oprindelse, hvorfor det vil opleves som tomt.
+
+Der arbejdes på at løse fejlen.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 29551&#xD;
 </content>
   </entry>
   <entry>
