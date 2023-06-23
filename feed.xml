@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-22T13:22:51Z</updated>
+  <updated>2023-06-23T11:29:45Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -186,12 +186,14 @@ Sagsreference: 29400&#xD;
     <id>29313</id>
     <title
       type="text">TEST06 service vindue på torsdag den 22. juni fra kl 10-14</title>
-    <updated>2023-06-22T10:45:06Z</updated>
+    <updated>2023-06-23T11:29:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29313" />
     <content
       type="text">Besked: TEST06 service vindue på torsdag den 22. juni fra kl 10-14
+
+23.06.2023: Service vinduet gennemført og afsluttet.
 
 I perioden vil webservices være tilgængelige, men der kan opleves kortere udfald eller længere svartider.
 
@@ -205,7 +207,7 @@ Følgende vil ikke være tilgængeligt på Test06 miljøet:
 
  &#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 29313&#xD;
 Periode start: 22-06-2023 10:00:00&#xD;
 Periode slut: 22-06-2023 14:00:00&#xD;
