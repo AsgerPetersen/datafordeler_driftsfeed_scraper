@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-26T07:28:41Z</updated>
+  <updated>2023-06-26T12:27:41Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -155,19 +155,19 @@ Sagsreference: 28543&#xD;
     <id>29570</id>
     <title
       type="text">Der sendes i øjeblikket IKKE mails ud om filudtræk</title>
-    <updated>2023-06-26T06:33:08Z</updated>
+    <updated>2023-06-26T12:15:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29570" />
     <content
       type="text">Besked: Der sendes i øjeblikket IKKE mails ud om filudtræk
 
-26-06-2023.
+26-06-2023, kl. 14:14: Der sendes igen mails ud om filudtræk.
 
 Der sendes ikke mails ud om færdige filudtræk. Der arbejdes på at få mails i gang igen.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29570&#xD;
 </content>
   </entry>
@@ -257,21 +257,21 @@ Sagsreference: 28408&#xD;
     <id>29551</id>
     <title
       type="text">Fejl med visning af lag DHM Oprindelse</title>
-    <updated>2023-06-23T11:59:20Z</updated>
+    <updated>2023-06-26T12:27:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29551" />
     <content
       type="text">Besked: Danmarks Højdemodel
 
-23-6-2023
+26.06.2023, kl. 14:25: Fejlen er løst og  der er igen polygoner i DHM oprindelse.
 
 Der er fejl med laget DHM oprindelse, hvorfor det vil opleves som tomt.
 
 Der arbejdes på at løse fejlen.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29551&#xD;
 </content>
   </entry>
@@ -325,12 +325,14 @@ Sagsreference: 29393&#xD;
     <id>29572</id>
     <title
       type="text">Filudtræk bliver ikke leveret</title>
-    <updated>2023-06-26T07:28:41Z</updated>
+    <updated>2023-06-26T12:13:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29572" />
     <content
       type="text">Besked: Filudtræk bliver ikke leveret
+
+26.06.2023, kl.14:15: Problemet er løst, fildutræk leveres igen.
 
 Der er et generelt problem med leverancen af filudtræk på Datafordeleren.
 
@@ -341,7 +343,7 @@ Der bliver arbejdet på at løse problemet.
  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29572&#xD;
 </content>
   </entry>
