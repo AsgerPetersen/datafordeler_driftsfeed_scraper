@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-23T11:59:20Z</updated>
+  <updated>2023-06-26T06:33:08Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -149,6 +149,26 @@ Register: Matriklen (MAT)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 28543&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29570</id>
+    <title
+      type="text">Der sendes i øjeblikket IKKE mails ud om filudtræk</title>
+    <updated>2023-06-26T06:33:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29570" />
+    <content
+      type="text">Besked: Der sendes i øjeblikket IKKE mails ud om filudtræk
+
+26-06-2023.
+
+Der sendes ikke mails ud om færdige filudtræk. Der arbejdes på at få mails i gang igen.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29570&#xD;
 </content>
   </entry>
   <entry>
