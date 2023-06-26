@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-26T06:33:08Z</updated>
+  <updated>2023-06-26T07:28:41Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -319,6 +319,30 @@ Register: Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: Løst&#xD;
 Sagsreference: 29393&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29572</id>
+    <title
+      type="text">Filudtræk bliver ikke leveret</title>
+    <updated>2023-06-26T07:28:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29572" />
+    <content
+      type="text">Besked: Filudtræk bliver ikke leveret
+
+Der er et generelt problem med leverancen af filudtræk på Datafordeleren.
+
+Vi formoder, fejlen på leverancerne begyndte i løbet af weekenden.
+
+Der bliver arbejdet på at løse problemet.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29572&#xD;
 </content>
   </entry>
   <entry>
