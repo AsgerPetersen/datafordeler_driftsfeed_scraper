@@ -5,17 +5,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-26T12:27:41Z</updated>
+  <updated>2023-06-27T08:24:27Z</updated>
   <entry>
     <id>29387</id>
     <title
       type="text">EJF retter en fejl i bunkesalg</title>
-    <updated>2023-06-20T11:13:36Z</updated>
+    <updated>2023-06-27T08:24:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29387" />
     <content
       type="text">Besked: EJF retter en fejl i bunkesalg
+
+Datarettelsen er rykket til at blive færdig d. 06-07-2023
 
 EJF retter en fejl i bunkesalg, hvor der er oprettet et andet handelsoplysningsid i stedet for, anvende den samme handelsoplysningsid, som de resterende handler.
 Denne rettelse påvirker 353 bunkesalg. Hvorfor man vil få rettelser i handelsoplysningsdeltafiler, samt ejerskifteUdates.
