@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-29T11:05:24Z</updated>
+  <updated>2023-06-29T11:49:21Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -337,6 +337,26 @@ Det supplerende bynavn Halgårde er ved en fejl blevet oprettet to gange med ide
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Status: I gang&#xD;
 Sagsreference: 28525&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29755</id>
+    <title
+      type="text">Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret</title>
+    <updated>2023-06-29T11:49:21Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29755" />
+    <content
+      type="text">Besked: Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret
+
+Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret og seneste leverance er fra 03.06.2023.
+
+28.06.2023: Der arbejdets på at løse problemet&#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29755&#xD;
 </content>
   </entry>
 </feed>
