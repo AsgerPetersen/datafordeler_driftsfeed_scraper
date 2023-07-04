@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-06-30T08:32:32Z</updated>
+  <updated>2023-07-04T07:36:10Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -32,12 +32,14 @@ Sagsreference: 29387&#xD;
     <id>29508</id>
     <title
       type="text">FME filudtræk lukker - Har du skiftet til Hangfire?</title>
-    <updated>2023-06-27T11:19:30Z</updated>
+    <updated>2023-07-04T07:36:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29508" />
     <content
       type="text">Besked: FME filudtræk lukker - Har du skiftet til Hangfire?
+
+04.07.2023: Filudtræk fra BBR og VUR vil først blive udfaset efter transitionen til ny leverandør den 4. september 2023.
 
 27.06.2023: Bemærk når vi lukker, modtager du en mail fra Datafordeleren med for eksempel "Dit abonnement EJFfortroligTotal_kah er blevet midlertidigt blokeret". Det betyder blot, at abonnementet er blevet deaktiveret.
 
