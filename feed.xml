@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-04T12:04:11Z</updated>
+  <updated>2023-07-05T06:43:58Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -304,17 +304,19 @@ Sagsreference: 29393&#xD;
     <id>29823</id>
     <title
       type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-07-04T12:04:11Z</updated>
+    <updated>2023-07-05T06:43:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29823" />
     <content
       type="text">Besked: MAT2 afbrydelse af dataopdatering i produktionsmiljøet. 
 
-Der har været afbrydelse af MAT2 dataopdatering fra tidsrummet 03.07.2023 kl. 18:00 til 04.07.2023 kl. 14:00. Problemet er løst men der opbygget en kø af data der i gang med at blive indlæst.&#xD;
+Der har været afbrydelse af MAT2 dataopdatering fra tidsrummet 03.07.2023 kl. 18:00 til 04.07.2023 kl. 14:00. Problemet er løst men der opbygget en kø af data der i gang med at blive indlæst.
+
+05.07.2023: Køen er blevet indlæst og dataopdatering er tilbage i normal drift&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29823&#xD;
 </content>
   </entry>
