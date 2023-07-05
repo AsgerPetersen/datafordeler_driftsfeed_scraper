@@ -275,32 +275,6 @@ Sagsreference: 28524&#xD;
 </content>
   </entry>
   <entry>
-    <id>29393</id>
-    <title
-      type="text">Fejl i oprettelse af prædefinerede filudtræk for Matriklen2 på datafordeler.dk</title>
-    <updated>2023-06-21T10:55:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29393" />
-    <content
-      type="text">Besked: Fejl i oprettelse af prædefinerede filudtræk for Matriklen2 på datafordeler.dk
-
-21.06.2023, kl. 12:35: Fejlen er løst.
-
-Der fås en fejl ved ved oprettelse af abonnement for prædefinerede filudtræk for Matrikle2 på datafordeler.dk.
-
-Alternativt kan abonnement for Matiklen2 prædefinerede filudtræk oprettes på Selvbetjeningen.
-
-Der arbejdes på at løse fejlen.
-
- &#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29393&#xD;
-</content>
-  </entry>
-  <entry>
     <id>29823</id>
     <title
       type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet.</title>
