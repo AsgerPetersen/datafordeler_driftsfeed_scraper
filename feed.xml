@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-05T06:43:58Z</updated>
+  <updated>2023-07-06T07:49:30Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -335,6 +335,26 @@ Det supplerende bynavn Halgårde er ved en fejl blevet oprettet to gange med ide
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Status: I gang&#xD;
 Sagsreference: 28525&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29831</id>
+    <title
+      type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
+    <updated>2023-07-06T07:49:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29831" />
+    <content
+      type="text">Besked: Fejl i nogle HF tjenester med tomme værdier.
+
+Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
+
+06.07.2023: Der arbejdets på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29831&#xD;
 </content>
   </entry>
   <entry>
