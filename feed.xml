@@ -5,17 +5,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-06T07:49:30Z</updated>
+  <updated>2023-07-07T08:26:16Z</updated>
   <entry>
     <id>29387</id>
     <title
       type="text">EJF retter en fejl i bunkesalg</title>
-    <updated>2023-06-27T08:24:27Z</updated>
+    <updated>2023-07-07T08:26:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29387" />
     <content
       type="text">Besked: EJF retter en fejl i bunkesalg
+
+07.07.2023:Rettelsen er gennemført
 
 Datarettelsen er rykket til at blive færdig d. 06-07-2023
 
@@ -24,7 +26,7 @@ Denne rettelse påvirker 353 bunkesalg. Hvorfor man vil få rettelser i handelso
 
 Datarettelsen vil blive afviklet onsdag d. 21-06-23 kl 08:45.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29387&#xD;
 </content>
   </entry>
@@ -162,57 +164,6 @@ Sagsreference: 28543&#xD;
 </content>
   </entry>
   <entry>
-    <id>29570</id>
-    <title
-      type="text">Der sendes i øjeblikket IKKE mails ud om filudtræk</title>
-    <updated>2023-06-26T12:15:42Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29570" />
-    <content
-      type="text">Besked: Der sendes i øjeblikket IKKE mails ud om filudtræk
-
-26-06-2023, kl. 14:14: Der sendes igen mails ud om filudtræk.
-
-Der sendes ikke mails ud om færdige filudtræk. Der arbejdes på at få mails i gang igen.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29570&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29400</id>
-    <title
-      type="text">BBR kører et datafiks</title>
-    <updated>2023-06-21T12:25:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29400" />
-    <content
-      type="text">Besked: BBR kører et datafiks
-
-BBR kører et datafiks der vil ændre nogle tomme strenge til NULL i BBR databasen. 
-Datafiks vil blive implementeret den 30-06-2023.
-
-Dette vil medføre en større ændring af mange forskellige objekter:
-
-Cirka 100.000 Byggesag objekter
-Cirka 100.000 EjendomsRelation objekter
-Cirka 120.000 Enhed objekter
-Cirka 6.000 Bygning objekter
-Cirka 200 Etage objekter
-
-(OBS! Numrene er baseret på en lokal DB-backup som sidst blev opdateret den 21-08-2022)
-
-Dette bliver gjort for at forbedre validering af felter der bruger kodeliste-værdier.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Webservice&#xD;
-Status: I gang&#xD;
-Sagsreference: 29400&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
@@ -230,28 +181,6 @@ Register: Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28408&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29551</id>
-    <title
-      type="text">Fejl med visning af lag DHM Oprindelse</title>
-    <updated>2023-06-26T12:27:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29551" />
-    <content
-      type="text">Besked: Danmarks Højdemodel
-
-26.06.2023, kl. 14:25: Fejlen er løst og  der er igen polygoner i DHM oprindelse.
-
-Der er fejl med laget DHM oprindelse, hvorfor det vil opleves som tomt.
-
-Der arbejdes på at løse fejlen.&#xD;
-Register: Danmarks Højdemodel&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 29551&#xD;
 </content>
   </entry>
   <entry>
@@ -292,32 +221,6 @@ Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 29823&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29572</id>
-    <title
-      type="text">Filudtræk bliver ikke leveret</title>
-    <updated>2023-06-26T12:13:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29572" />
-    <content
-      type="text">Besked: Filudtræk bliver ikke leveret
-
-26.06.2023, kl.14:15: Problemet er løst, fildutræk leveres igen.
-
-Der er et generelt problem med leverancen af filudtræk på Datafordeleren.
-
-Vi formoder, fejlen på leverancerne begyndte i løbet af weekenden.
-
-Der bliver arbejdet på at løse problemet.
-
- &#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29572&#xD;
 </content>
   </entry>
   <entry>
