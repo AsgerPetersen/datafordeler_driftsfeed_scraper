@@ -5,12 +5,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-07T08:26:16Z</updated>
+  <updated>2023-07-12T09:17:49Z</updated>
   <entry>
     <id>29387</id>
     <title
       type="text">EJF retter en fejl i bunkesalg</title>
-    <updated>2023-07-07T08:26:16Z</updated>
+    <updated>2023-07-12T09:17:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29387" />
@@ -19,12 +19,12 @@
 
 07.07.2023:Rettelsen er gennemført
 
-Datarettelsen er rykket til at blive færdig d. 06-07-2023
+Datarettelsen er rykket til at blive færdig den 06-07-2023
 
 EJF retter en fejl i bunkesalg, hvor der er oprettet et andet handelsoplysningsid i stedet for, anvende den samme handelsoplysningsid, som de resterende handler.
 Denne rettelse påvirker 353 bunkesalg. Hvorfor man vil få rettelser i handelsoplysningsdeltafiler, samt ejerskifteUdates.
 
-Datarettelsen vil blive afviklet onsdag d. 21-06-23 kl 08:45.&#xD;
+Datarettelsen vil blive afviklet onsdag den 21-06-23 kl 08:45.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Status: Løst&#xD;
 Sagsreference: 29387&#xD;
@@ -34,7 +34,7 @@ Sagsreference: 29387&#xD;
     <id>29508</id>
     <title
       type="text">FME filudtræk lukker - Har du skiftet til Hangfire?</title>
-    <updated>2023-07-04T07:36:10Z</updated>
+    <updated>2023-07-12T09:17:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29508" />
@@ -187,14 +187,14 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-06-29T11:04:29Z</updated>
+    <updated>2023-07-12T09:16:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-29.06.2023: Der arbejdets forsat på at løse problemet.
+12.07.2023: Der arbejdets forsat på at løse problemet.
 
 Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
 Register: Danmarks Højdemodel&#xD;
