@@ -100,13 +100,13 @@ Sagsreference: 27211&#xD;
 
 Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren.
 
-Læs mere om ændringen under ændringsmeddelelser her: https://datafordeler.dk/drift/aendringer 
+Læs mere om ændringen under ændringsmeddelelser her: https://datafordeler.dk/drift/aendringer 
 
- 
+ 
 
- 
+ 
 
- &#xD;
+ &#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
@@ -124,7 +124,7 @@ Sagsreference: 27373&#xD;
     <content
       type="text">Besked: Matriklen2 åbnet på Datafordeleren
 
-Der er åbnet en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
+Der er åbnet en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
 
 Der er paralleldrift mellem Matriklen2 og de eksisterende tjenester fra Matriklen frem til den 15. december 2023. Herefter lukker de eksisterende tjenester i Matriklen, og Matriklen2 fortsætter.
 
@@ -156,7 +156,7 @@ Der er fundet følgende fejl i forbindelse med lanceringen af det nye register. 
 
 
 
-Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
@@ -212,7 +212,7 @@ Sagsreference: 28524&#xD;
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29823" />
     <content
-      type="text">Besked: MAT2 afbrydelse af dataopdatering i produktionsmiljøet. 
+      type="text">Besked: MAT2 afbrydelse af dataopdatering i produktionsmiljøet. 
 
 Der har været afbrydelse af MAT2 dataopdatering fra tidsrummet 03.07.2023 kl. 18:00 til 04.07.2023 kl. 14:00. Problemet er løst men der opbygget en kø af data der i gang med at blive indlæst.
 
