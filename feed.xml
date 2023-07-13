@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-12T09:17:49Z</updated>
+  <updated>2023-07-13T10:53:14Z</updated>
   <entry>
     <id>29387</id>
     <title
@@ -278,6 +278,24 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29857</id>
+    <title
+      type="text">Man kan i øjeblikket opleve performence problemer på WMTS webservices.</title>
+    <updated>2023-07-13T10:53:14Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29857" />
+    <content
+      type="text">Besked: Man kan i øjeblikket opleve længere svartider ved kald til alle WMTS webservices
+
+13.07.2023: Der arbejdets på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 29857&#xD;
 </content>
   </entry>
 </feed>
