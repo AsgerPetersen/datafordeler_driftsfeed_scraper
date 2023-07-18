@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-13T11:29:06Z</updated>
+  <updated>2023-07-18T06:55:01Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -255,17 +255,21 @@ Sagsreference: 29755&#xD;
     <id>29857</id>
     <title
       type="text">Man kan i øjeblikket opleve performence problemer på WMTS webservices.</title>
-    <updated>2023-07-13T10:53:14Z</updated>
+    <updated>2023-07-18T06:55:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29857" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve længere svartider ved kald til alle WMTS webservices
 
-13.07.2023: Der arbejdets på at løse problemet.&#xD;
+18.07.2023: Problemet er løst og WMTS webservices er tilbage i normaldrift.
+
+13.07.2023: Der arbejdets på at løse problemet.
+
+ &#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29857&#xD;
 </content>
   </entry>
