@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-25T10:17:11Z</updated>
+  <updated>2023-07-27T09:04:35Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -290,6 +290,24 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 29857&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29872</id>
+    <title
+      type="text">FME Filudtræk bliver ikke leveret</title>
+    <updated>2023-07-27T09:04:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29872" />
+    <content
+      type="text">Besked: Der er et generelt problem med leverancen af FME filudtræk på Datafordeleren siden mandag. Det anbefales at bruge Hangfire, da disse stadig kører normalt.
+
+27.07.2023: Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29872&#xD;
 </content>
   </entry>
 </feed>
