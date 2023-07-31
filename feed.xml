@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-07-27T09:58:48Z</updated>
+  <updated>2023-07-31T08:26:19Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -157,8 +157,8 @@ Sagsreference: 29858&#xD;
   <entry>
     <id>29867</id>
     <title
-      type="text">Planlagt Datafordeler produktion service vindue torsdag den 8. august i tidsrummet klokken 20:00-24:00</title>
-    <updated>2023-07-25T10:17:11Z</updated>
+      type="text">Planlagt Datafordeler produktion service vindue torsdag den 3. august i tidsrummet klokken 20:00-24:00</title>
+    <updated>2023-07-31T08:26:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29867" />
@@ -177,14 +177,14 @@ Periode slut: 03-08-2023 00:00:00&#xD;
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-06-29T11:05:24Z</updated>
+    <updated>2023-07-31T08:24:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28408" />
     <content
       type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
 
-29-06-2023: Der arbejdes fortsat på at få løst problemet.
+28-07-2023: Der arbejdes fortsat på at få løst problemet.
 
 06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.&#xD;
 Register: Matriklen (MAT)&#xD;
@@ -197,14 +197,14 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-07-12T09:16:38Z</updated>
+    <updated>2023-07-31T08:24:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-12.07.2023: Der arbejdets forsat på at løse problemet.
+28.07.2023: Der arbejdets forsat på at løse problemet.
 
 Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
 Register: Danmarks Højdemodel&#xD;
@@ -234,7 +234,7 @@ Sagsreference: 28525&#xD;
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
-    <updated>2023-07-06T07:49:30Z</updated>
+    <updated>2023-07-31T08:24:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29831" />
@@ -243,7 +243,7 @@ Sagsreference: 28525&#xD;
 
 Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
 
-06.07.2023: Der arbejdets på at løse problemet.&#xD;
+28.07.2023: Der arbejdets på at løse problemet.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -254,7 +254,7 @@ Sagsreference: 29831&#xD;
     <id>29755</id>
     <title
       type="text">Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret</title>
-    <updated>2023-06-29T11:49:21Z</updated>
+    <updated>2023-07-31T08:24:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29755" />
@@ -263,33 +263,11 @@ Sagsreference: 29831&#xD;
 
 Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret og seneste leverance er fra 03.06.2023.
 
-28.06.2023: Der arbejdets på at løse problemet&#xD;
+28.07.2023: Der arbejdets på at løse problemet&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29857</id>
-    <title
-      type="text">Man kan i øjeblikket opleve performence problemer på WMTS webservices.</title>
-    <updated>2023-07-18T06:55:01Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29857" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve længere svartider ved kald til alle WMTS webservices
-
-18.07.2023: Problemet er løst og WMTS webservices er tilbage i normaldrift.
-
-13.07.2023: Der arbejdets på at løse problemet.
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 29857&#xD;
 </content>
   </entry>
   <entry>
