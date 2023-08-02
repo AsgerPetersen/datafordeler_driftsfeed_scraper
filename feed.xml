@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-02T10:11:22Z</updated>
+  <updated>2023-08-02T10:17:59Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -177,14 +177,14 @@ Periode slut: 03-08-2023 00:00:00&#xD;
     <id>29901</id>
     <title
       type="text">TEST04 servicevindue fra onsdag den 16. august til den 08. september</title>
-    <updated>2023-08-02T07:58:43Z</updated>
+    <updated>2023-08-02T10:17:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29901" />
     <content
       type="text">Besked: TEST04 servicevindue fra torsdag den 16. august til den 08. september
 
-Følgende vil ikke være tilgængeligt på Test06 miljøet:
+Følgende vil ikke være tilgængeligt på Test04 miljøet:
 
 	Selvbetjeningsportalen og administrationsportalen vil være lukket.
 	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
