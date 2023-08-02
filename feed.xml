@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-02T07:54:49Z</updated>
+  <updated>2023-08-02T07:59:34Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -177,7 +177,7 @@ Periode slut: 03-08-2023 00:00:00&#xD;
     <id>29901</id>
     <title
       type="text">TEST04 servicevindue fra onsdag den 16. august til den 08. september</title>
-    <updated>2023-08-02T07:54:49Z</updated>
+    <updated>2023-08-02T07:58:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29901" />
@@ -203,7 +203,7 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>29900</id>
     <title
       type="text">TEST06 service vindue fra torsdag den 10. august til den 08. september</title>
-    <updated>2023-08-02T07:51:59Z</updated>
+    <updated>2023-08-02T07:59:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29900" />
@@ -218,7 +218,7 @@ Følgende vil ikke være tilgængeligt på Test06 miljøet:
 
 &#xD;
 Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Selvbetjening&#xD;
+Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 29900&#xD;
 Periode start: 10-08-2023 08:00:00&#xD;
