@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-02T07:59:34Z</updated>
+  <updated>2023-08-02T10:11:22Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -202,13 +202,13 @@ Periode slut: 01-01-0001 00:00:00&#xD;
   <entry>
     <id>29900</id>
     <title
-      type="text">TEST06 service vindue fra torsdag den 10. august til den 08. september</title>
-    <updated>2023-08-02T07:59:34Z</updated>
+      type="text">TEST06 servicevindue fra torsdag den 10. august til den 08. september</title>
+    <updated>2023-08-02T10:11:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29900" />
     <content
-      type="text">Besked: TEST06 service vindue fra torsdag den 10. august til den 08. september
+      type="text">Besked: TEST06 servicevindue fra torsdag den 10. august til den 08. september
 
 Følgende vil ikke være tilgængeligt på Test06 miljøet:
 
