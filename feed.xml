@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-02T10:17:59Z</updated>
+  <updated>2023-08-07T07:51:38Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -158,16 +158,18 @@ Sagsreference: 29858&#xD;
     <id>29867</id>
     <title
       type="text">Planlagt Datafordeler produktion service vindue torsdag den 3. august i tidsrummet klokken 20:00-24:00</title>
-    <updated>2023-07-31T08:26:19Z</updated>
+    <updated>2023-08-07T07:50:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29867" />
     <content
       type="text">Besked: Planlagt Datafordeler produktion service vindue torsdag den 3. august i tidsrummet klokken 20:00-24:00
 
+07.08.2023: Service vinduet gennemført og afsluttet som planlagt
+
 I tidsrummet vil de web baseret tjenester, filudtræk, hændelser, selvbetjening- og administrationsportalen være utilgængelig for anvendelse. Alle register dataopdateringer vil være på pause.&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 29867&#xD;
 Periode start: 03-08-2023 20:00:00&#xD;
 Periode slut: 03-08-2023 00:00:00&#xD;
@@ -263,6 +265,26 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28524&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29952</id>
+    <title
+      type="text">CVR Dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-08-07T07:51:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29952" />
+    <content
+      type="text">Besked: CVR Dataopdatering stoppet i produktionsmiljøet
+
+07.08.2023 klokken 09:30: CVR Dataopdatering stoppet i produktionsmiljøet. sidste dataopdatering var 03.08.2023 klokken 20:55:32
+
+Der arbejdets på at løse problemet.&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 29952&#xD;
 </content>
   </entry>
   <entry>
