@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-07T07:51:38Z</updated>
+  <updated>2023-08-07T08:00:46Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -362,6 +362,26 @@ Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: Løst&#xD;
 Sagsreference: 29872&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29957</id>
+    <title
+      type="text">Man kan i øjeblikket opleve ikke at have modtaget FME filudtræk</title>
+    <updated>2023-08-07T08:00:46Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29957" />
+    <content
+      type="text">Besked: Man kan i øjeblikket opleve ikke at have modtaget FME filudtræk
+
+07.08.2023 klokken 09.45: Man kan i øjeblikket opleve ikke at få modtaget FME filudtræk.
+
+Der arbejdets på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 29957&#xD;
 </content>
   </entry>
 </feed>
