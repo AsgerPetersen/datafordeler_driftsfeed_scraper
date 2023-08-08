@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-08T10:41:35Z</updated>
+  <updated>2023-08-08T12:22:41Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -179,20 +179,24 @@ Periode slut: 03-08-2023 00:00:00&#xD;
     <id>29901</id>
     <title
       type="text">TEST04 servicevindue fra onsdag den 16. august til den 08. september</title>
-    <updated>2023-08-02T10:17:59Z</updated>
+    <updated>2023-08-08T12:17:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29901" />
     <content
-      type="text">Besked: TEST04 servicevindue fra torsdag den 16. august til den 08. september
+      type="text">Besked: TEST04 servicevindue fra onsdag den 16. august til den 08. september
+
+Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
 
 Følgende vil ikke være tilgængeligt på Test04 miljøet:
 
 	Selvbetjeningsportalen og administrationsportalen vil være lukket.
 	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
-	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden, de genereres først efter den 25. august.
+	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden.
 
-&#xD;
+
+
+Miljøet vil være tilgængeligt igen med hændelser fra den 25 august, men uden portaler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
@@ -205,26 +209,90 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>29900</id>
     <title
       type="text">TEST06 servicevindue fra torsdag den 10. august til den 08. september</title>
-    <updated>2023-08-02T10:11:22Z</updated>
+    <updated>2023-08-08T12:16:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29900" />
     <content
       type="text">Besked: TEST06 servicevindue fra torsdag den 10. august til den 08. september
 
+Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
+
 Følgende vil ikke være tilgængeligt på Test06 miljøet:
 
 	Selvbetjeningsportalen og administrationsportalen vil være lukket.
 	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
-	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden, de genereres først efter den 21. august.
+	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden.
 
-&#xD;
+
+
+Miljøet vil være tilgængeligt igen med hændelser fra den 21 august, men uden portaler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 29900&#xD;
 Periode start: 10-08-2023 08:00:00&#xD;
 Periode slut: 08-09-2023 04:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29970</id>
+    <title
+      type="text">DAF Prod servicevindue fra fredag den 01. september til den 08. september</title>
+    <updated>2023-08-08T12:22:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29970" />
+    <content
+      type="text">Besked: DAF Prod servicevindue fra fredag den 01. september til den 08. september
+
+Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
+
+Følgende vil ikke være tilgængeligt på DAF Prod miljøet:
+
+	Selvbetjeningsportalen og administrationsportalen vil være lukket.
+	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
+	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden
+
+
+
+Miljøet vil være tilgængeligt igen med hændelser fra den 04. september, men uden portaler.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Ikke planlagt&#xD;
+Sagsreference: 29970&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>29969</id>
+    <title
+      type="text">TEST03 servicevindue fra tirsdag den 22. august til den 08. september</title>
+    <updated>2023-08-08T12:16:17Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/29969" />
+    <content
+      type="text">Besked: TEST03 servicevindue fra tirsdag den 22. august til den 08. september
+
+Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
+
+Følgende vil ikke være tilgængeligt på Test03 miljøet:
+
+	Selvbetjeningsportalen og administrationsportalen vil være lukket.
+	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
+	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden
+
+
+
+Miljøet vil være tilgængeligt igen med hændelser fra den 31 august, men uden portaler.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Ikke planlagt&#xD;
+Sagsreference: 29969&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
