@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-08T09:23:34Z</updated>
+  <updated>2023-08-08T10:41:35Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -231,14 +231,14 @@ Periode slut: 08-09-2023 04:00:00&#xD;
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-07-31T08:24:01Z</updated>
+    <updated>2023-08-08T10:40:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28408" />
     <content
       type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
 
-28-07-2023: Der arbejdes fortsat på at få løst problemet.
+08-08-2023: Der arbejdes fortsat på at få løst problemet.
 
 06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.&#xD;
 Register: Matriklen (MAT)&#xD;
@@ -251,14 +251,14 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-07-31T08:24:52Z</updated>
+    <updated>2023-08-08T10:41:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-28.07.2023: Der arbejdets forsat på at løse problemet.
+08.08.2023: Der arbejdets forsat på at løse problemet.
 
 Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
 Register: Danmarks Højdemodel&#xD;
@@ -290,27 +290,10 @@ Sagsreference: 29952&#xD;
 </content>
   </entry>
   <entry>
-    <id>28525</id>
-    <title
-      type="text">Identisk bynavn DAGI</title>
-    <updated>2023-06-08T14:04:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28525" />
-    <content
-      type="text">Besked: Identisk bynavn DAGI
-
-Det supplerende bynavn Halgårde er ved en fejl blevet oprettet to gange med identisk geomtri. Det overflødige supplerende bynavn med id_lokalid 748496 er blevet opdateret og er ikke længere gældende. Hvis man anvender hændelser til håndtering af supplerende bynavne skal man være opmærksom på, at der ikke blev sendt en hændelse ud om nedlæggelsen.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Status: I gang&#xD;
-Sagsreference: 28525&#xD;
-</content>
-  </entry>
-  <entry>
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
-    <updated>2023-07-31T08:24:39Z</updated>
+    <updated>2023-08-08T10:41:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29831" />
@@ -319,7 +302,7 @@ Sagsreference: 28525&#xD;
 
 Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
 
-28.07.2023: Der arbejdets på at løse problemet.&#xD;
+08.08.2023: Der arbejdets på at løse problemet.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -330,7 +313,7 @@ Sagsreference: 29831&#xD;
     <id>29755</id>
     <title
       type="text">Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret</title>
-    <updated>2023-07-31T08:24:20Z</updated>
+    <updated>2023-08-08T10:41:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29755" />
@@ -339,31 +322,11 @@ Sagsreference: 29831&#xD;
 
 Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret og seneste leverance er fra 03.06.2023.
 
-28.07.2023: Der arbejdets på at løse problemet&#xD;
+08.08.2023: Der arbejdets på at løse problemet&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29872</id>
-    <title
-      type="text">FME Filudtræk bliver ikke leveret</title>
-    <updated>2023-07-27T09:58:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29872" />
-    <content
-      type="text">Besked: Der er et generelt problem med leverancen af FME filudtræk på Datafordeleren siden mandag. Det anbefales at bruge Hangfire, da disse stadig kører normalt.
-
-27.07.2023 klokken 10:00 : Der bliver arbejdet på at løse problemet.
-
-27.07.2023 klokken 12:00: Problemet er løst, men der er en kø af filudtræk der i gang med bliver genereret.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29872&#xD;
 </content>
   </entry>
   <entry>
