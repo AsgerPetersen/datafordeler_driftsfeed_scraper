@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-11T11:00:52Z</updated>
+  <updated>2023-08-16T08:53:48Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -152,6 +152,29 @@ Sagsreference: 28543&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>30045</id>
+    <title
+      type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med transition 2023</title>
+    <updated>2023-08-16T08:53:48Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/30045" />
+    <content
+      type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med transition 2023
+
+Certifikater til at modtage hændelser i produktion på Datafordeleren bliver skiftet i forbindelse med transitionen i september 2023.
+De nye certifikater er gældende fra den 3. september 2023.
+Vær opmærksom på først at skifte certifikatet til PROD efter den 31. august 2023.
+Du kan hente de nye certifikater på https://confluence.sdfi.dk/x/LoBQAQ
+
+Læs om transition af Datafordeleren på https://datafordeler.dk/transition&#xD;
+Register: Alle&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 30045&#xD;
 </content>
   </entry>
   <entry>
