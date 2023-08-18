@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-16T08:53:48Z</updated>
+  <updated>2023-08-18T07:05:14Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -181,7 +181,7 @@ Sagsreference: 30045&#xD;
     <id>29901</id>
     <title
       type="text">TEST04 servicevindue fra onsdag den 16. august til den 08. september</title>
-    <updated>2023-08-08T12:23:23Z</updated>
+    <updated>2023-08-18T07:05:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29901" />
@@ -201,7 +201,7 @@ Følgende vil ikke være tilgængeligt på Test04 miljøet:
 Miljøet vil være tilgængeligt igen med hændelser fra den 25. august, men uden portaler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 29901&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
@@ -211,7 +211,7 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>29900</id>
     <title
       type="text">TEST06 servicevindue fra torsdag den 10. august til den 08. september</title>
-    <updated>2023-08-08T12:23:33Z</updated>
+    <updated>2023-08-18T07:05:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29900" />
@@ -231,7 +231,7 @@ Følgende vil ikke være tilgængeligt på Test06 miljøet:
 Miljøet vil være tilgængeligt igen med hændelser fra den 21. august, men uden portaler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 29900&#xD;
 Periode start: 10-08-2023 08:00:00&#xD;
 Periode slut: 08-09-2023 04:00:00&#xD;
@@ -338,28 +338,6 @@ Sagsreference: 28524&#xD;
 </content>
   </entry>
   <entry>
-    <id>29952</id>
-    <title
-      type="text">CVR Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-08-07T13:05:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29952" />
-    <content
-      type="text">Besked: CVR Dataopdatering stoppet i produktionsmiljøet
-
-07.08.2023 klokken 13:00: Problemet er løst og datatopdatering er tilbage i normal drift.
-
-07.08.2023 klokken 09:30: CVR Dataopdatering stoppet i produktionsmiljøet. sidste dataopdatering var 03.08.2023 klokken 20:55:32
-
-Der arbejdets på at løse problemet.&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 29952&#xD;
-</content>
-  </entry>
-  <entry>
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
@@ -397,28 +375,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29957</id>
-    <title
-      type="text">Man kan i øjeblikket opleve ikke at have modtaget FME filudtræk</title>
-    <updated>2023-08-08T09:23:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29957" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve ikke at have modtaget FME filudtræk
-
-08.08.2023 klokken 11:00: Problemet er løst, men de filudtræk som er blevet bestilt i perioden fra torsdag den 3. august kl. 20 til mandag den 7. august kl. 14, vil desværre ikke blive leveret. Man bliver derfor nød til at lave en ny bestilling af disse filudtræk. Bemærk: filudtrækket må ikke hede det samme navn, som det tidligere bestilte filudtræk.
-
-07.08.2023 klokken 09:45: Man kan i øjeblikket opleve ikke at få modtaget FME filudtræk.
-
-Der arbejdets på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29957&#xD;
 </content>
   </entry>
   <entry>
