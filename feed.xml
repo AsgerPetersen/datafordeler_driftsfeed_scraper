@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-18T07:05:14Z</updated>
+  <updated>2023-08-18T08:34:23Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -59,33 +59,25 @@ Sagsreference: 27211&#xD;
     <id>27373</id>
     <title
       type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
-    <updated>2023-06-30T08:32:32Z</updated>
+    <updated>2023-08-18T08:34:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/27373" />
     <content
       type="text">Besked: Overgang fra OCES2 til OCES3 certifikater på Datafordeleren.
 
-30.06.2023: Det er også muligt at teste løsningen på Test06.
+Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren. Bemærk: Udfasning af OCES2 læs mere her https://www.mitid-erhverv.dk/avanceret/certifikater/
 
-13.06.2023: Det er muligt at teste løsningen på Test03 og Test04. Løsningen er endnu ikke implementeret på Test06 grundet servicevindue, dato følger for implementering.
+ 
 
-08.06.2023: Ændringen er implementeret i produktion og det er nu muligt at skifte til OCES3 certifikater til tjenestebrugere FOCES, (OCES3: Systemcertifikat) og VOCES (OCES3: Organisationscertifikat).
+ 
 
-Ændringen bliver implementeret på Datafordeleren i produktion den 7. juni 2023. Bemærk at det først er muligt at skifte til OCES3 certifikater efter denne dato. Der kommer en fejl 400, hvis man prøver at skifte certifikat til OCES3, inden systemet er sat op.
+ 
 
-Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren.
-
-Læs mere om ændringen under ændringsmeddelelser her: https://datafordeler.dk/drift/aendringer 
-
- 
-
- 
-
- &#xD;
+ &#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Løst&#xD;
+Status: I gang&#xD;
 Sagsreference: 27373&#xD;
 </content>
   </entry>
