@@ -37,25 +37,6 @@ Sagsreference: 29508&#xD;
 </content>
   </entry>
   <entry>
-    <id>27211</id>
-    <title
-      type="text">Ejerfortegnelsen indfører mulighed for at overtagelsesdatoen kan ligge før en ejendom er gældende i Matriklen</title>
-    <updated>2023-03-27T11:11:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27211" />
-    <content
-      type="text">Besked: Ejerfortegnelsen indfører mulighed for at overtagelsesdatoen kan ligge før en ejendom er gældende i Matriklen. 
-
-Dette er for at udstille den korrekte overtagelsesdato for den tinglyste adkomst, der i mange tilfælde vil være delsalg/udstykning.
-
-Releasedatoen er den 03-07-2023.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Status: I gang&#xD;
-Sagsreference: 27211&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27373</id>
     <title
       type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
