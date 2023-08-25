@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-21T12:52:21Z</updated>
+  <updated>2023-08-25T08:24:31Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -274,14 +274,14 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-08-08T10:40:51Z</updated>
+    <updated>2023-08-25T08:24:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28408" />
     <content
       type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
 
-08-08-2023: Der arbejdes fortsat på at få løst problemet.
+25-08-2023: Der arbejdes fortsat på at få løst problemet.
 
 06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.&#xD;
 Register: Matriklen (MAT)&#xD;
@@ -294,14 +294,14 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-08-08T10:41:35Z</updated>
+    <updated>2023-08-25T08:24:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-08.08.2023: Der arbejdets forsat på at løse problemet.
+25.08.2023: Der arbejdets forsat på at løse problemet.
 
 Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
 Register: Danmarks Højdemodel&#xD;
@@ -314,7 +314,7 @@ Sagsreference: 28524&#xD;
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
-    <updated>2023-08-08T10:41:25Z</updated>
+    <updated>2023-08-25T08:24:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29831" />
@@ -323,7 +323,7 @@ Sagsreference: 28524&#xD;
 
 Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
 
-08.08.2023: Der arbejdets på at løse problemet.&#xD;
+25.08.2023: Der arbejdets på at løse problemet.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -334,7 +334,7 @@ Sagsreference: 29831&#xD;
     <id>29755</id>
     <title
       type="text">Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret</title>
-    <updated>2023-08-08T10:41:17Z</updated>
+    <updated>2023-08-25T08:23:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29755" />
@@ -343,7 +343,7 @@ Sagsreference: 29831&#xD;
 
 Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret og seneste leverance er fra 03.06.2023.
 
-08.08.2023: Der arbejdets på at løse problemet&#xD;
+25.08.2023: Der arbejdets på at løse problemet&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
