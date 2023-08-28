@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-25T08:24:31Z</updated>
+  <updated>2023-08-28T08:13:13Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -213,19 +213,20 @@ Periode slut: 08-09-2023 04:00:00&#xD;
   <entry>
     <id>29970</id>
     <title
-      type="text">DAF Prod servicevindue fra fredag den 01. september til den 08. september</title>
-    <updated>2023-08-08T12:30:38Z</updated>
+      type="text">DAF Prod servicevindue fra mandag den 28. august til den 08. september</title>
+    <updated>2023-08-28T08:13:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29970" />
     <content
-      type="text">Besked: Datafordeler Prod servicevindue fra fredag den 01. september til den 08. september
+      type="text">Besked: Datafordeler Prod servicevindue fra mandag den 28. august til den 08. september
 
 Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
 
 Følgende vil ikke være tilgængeligt på DAF Prod miljøet:
 
 	Selvbetjeningsportalen og administrationsportalen vil være lukket.
+	Datafordeler.dk er lukket for at logge på Datafordeleren.
 	Filudtræk vil ikke blive genereret i perioden, mails bliver ikke sendt.
 	Dataopdateringer og generering af hændelser vil være stoppet i dele af perioden
 
