@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-28T08:24:16Z</updated>
+  <updated>2023-08-29T07:09:31Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -245,7 +245,7 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>29969</id>
     <title
       type="text">TEST03 servicevindue fra tirsdag den 22. august til den 08. september</title>
-    <updated>2023-08-08T12:24:43Z</updated>
+    <updated>2023-08-29T07:09:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29969" />
@@ -265,7 +265,7 @@ Følgende vil ikke være tilgængeligt på Test03 miljøet:
 Miljøet vil være tilgængeligt igen med hændelser fra den 31. august, men uden portaler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 29969&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
@@ -309,6 +309,26 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28524&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>30225</id>
+    <title
+      type="text">Test04: Fejl i adgang til tjenester med certifikat</title>
+    <updated>2023-08-29T07:08:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/30225" />
+    <content
+      type="text">Besked: Test04: Fejl i adgang til tjenester med certifikat
+
+Efter transitionen af Test04 er der en fejl ved kald til tjenester med certifikat (CPR).
+
+Vi arbejder på at løse fejlen.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 30225&#xD;
 </content>
   </entry>
   <entry>
