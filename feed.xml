@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-29T09:22:13Z</updated>
+  <updated>2023-08-29T12:25:34Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -315,19 +315,21 @@ Sagsreference: 28524&#xD;
     <id>30225</id>
     <title
       type="text">Test04: Fejl i adgang til tjenester med certifikat</title>
-    <updated>2023-08-29T07:08:00Z</updated>
+    <updated>2023-08-29T12:25:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/30225" />
     <content
       type="text">Besked: Test04: Fejl i adgang til tjenester med certifikat
 
+14:20 Fejlen er løst.
+
 Efter transitionen af Test04 er der en fejl ved kald til tjenester med certifikat (CPR).
 
 Vi arbejder på at løse fejlen.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 30225&#xD;
 </content>
   </entry>
