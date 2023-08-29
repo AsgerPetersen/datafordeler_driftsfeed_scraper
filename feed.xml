@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-29T07:09:31Z</updated>
+  <updated>2023-08-29T08:26:35Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -329,6 +329,24 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 30225&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>30227</id>
+    <title
+      type="text">Datafordeler nedbrud</title>
+    <updated>2023-08-29T08:26:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/30227" />
+    <content
+      type="text">Besked: Man kan i øjeblikket opleve utilgængelighed på alle webservice og hændelser på Datafordeler produktions miljø
+
+29.08.2023 klokken 10:00: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 30227&#xD;
 </content>
   </entry>
   <entry>
