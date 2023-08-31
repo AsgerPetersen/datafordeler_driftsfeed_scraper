@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-08-31T12:23:44Z</updated>
+  <updated>2023-08-31T15:51:04Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -415,12 +415,14 @@ Sagsreference: 30025&#xD;
     <id>37133</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-08-31T12:23:44Z</updated>
+    <updated>2023-08-31T15:51:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/37133" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.
+
+31.08.2023 klokken 17:45: Problemet er blevet løst for alle webservices og hændelser som er tilbage i normal drift.
 
 31.08.2023 klokken 14:00: Problemet er vendt tilbage og der kan opleves lange svartider og utilgængelighed på de webbaseret tjenester og hændelser.
 
