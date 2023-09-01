@@ -5,17 +5,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-01T10:56:48Z</updated>
+  <updated>2023-09-01T11:03:08Z</updated>
   <entry>
     <id>37153</id>
     <title
       type="text">Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført</title>
-    <updated>2023-09-01T10:56:48Z</updated>
+    <updated>2023-09-01T10:59:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/37153" />
     <content
-      type="text">Besked: Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført og miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
+      type="text">Besked: Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført
+
+Miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 37153&#xD;
@@ -166,15 +168,15 @@ Sagsreference: 30045&#xD;
 </content>
   </entry>
   <entry>
-    <id>29970</id>
+    <id>37174</id>
     <title
-      type="text">DAF Prod servicevindue fra mandag den 28. august til den 08. september</title>
-    <updated>2023-08-28T08:24:16Z</updated>
+      type="text">Datafordeler Produktion servicevindue fra mandag den 28. august til den 08. september</title>
+    <updated>2023-09-01T11:03:08Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29970" />
+      href="https://datafordeler.dk/drift/meddelelser/37174" />
     <content
-      type="text">Besked: Datafordeler Prod servicevindue fra mandag den 28. august til den 08. september
+      type="text">Besked: Datafordeler Produktion servicevindue fra mandag den 28. august til den 08. september
 
 Som led i transition af Datafordeleren vil de enkelte miljøer være under servicevindue. Læs mere om transitionen: https://datafordeler.dk/transition
 
@@ -189,11 +191,10 @@ Følgende vil ikke være tilgængeligt på DAF Prod miljøet:
 
 Miljøet vil være tilgængeligt igen med hændelser fra den 04. september, men uden portaler.&#xD;
 Register: Alle&#xD;
-Service: Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: I gang&#xD;
-Sagsreference: 29970&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
+Sagsreference: 37174&#xD;
+Periode start: 26-08-2023 11:01:00&#xD;
+Periode slut: 08-09-2023 11:01:00&#xD;
 </content>
   </entry>
   <entry>
@@ -316,24 +317,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>30025</id>
-    <title
-      type="text">Download af filudtræk fejler på datafordeler.dk</title>
-    <updated>2023-08-21T12:52:21Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/30025" />
-    <content
-      type="text">Besked: 21.08.2023 Download af filudtræk virker igen på datafordeler.dk.
-
-Det er ikke muligt at downloade brugerdefinerede filudtræk direkte fra datafordeler.dk. Vi er i gang med at finde fejlen og fjerne den. Brug i stedet selfservice.datafordeler.dk.&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Danmarks Højdemodel, Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Matriklen (MAT), Skærmkortet&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 30025&#xD;
 </content>
   </entry>
   <entry>
