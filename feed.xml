@@ -5,12 +5,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-01T13:01:07Z</updated>
+  <updated>2023-09-04T08:45:43Z</updated>
   <entry>
     <id>37153</id>
     <title
       type="text">Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført</title>
-    <updated>2023-09-01T10:59:11Z</updated>
+    <updated>2023-09-04T08:45:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/37153" />
@@ -19,7 +19,7 @@
 
 Miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 37153&#xD;
 </content>
   </entry>
@@ -323,6 +323,23 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44136</id>
+    <title
+      type="text">Transitionen af Datafordeler produktion er gennemført</title>
+    <updated>2023-09-04T08:41:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44136" />
+    <content
+      type="text">Besked: Transitionen af Datafordeler produktion er gennemført
+
+Miljøet er i drift hos Netcompany. Miljøets selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 44136&#xD;
 </content>
   </entry>
   <entry>
