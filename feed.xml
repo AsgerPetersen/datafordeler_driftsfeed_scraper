@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-04T10:26:28Z</updated>
+  <updated>2023-09-04T11:37:33Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -362,6 +362,26 @@ Miljøet er i drift hos Netcompany. Miljøets selvbetjeningsportal og administra
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 44136&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44151</id>
+    <title
+      type="text">Fejl i mail afsenderadressen om tilgængeligt filudtræk</title>
+    <updated>2023-09-04T11:37:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44151" />
+    <content
+      type="text">Besked: Fejl i mail afsenderadressen om tilgængeligt filudtræk{}
+
+Efter transitionen udsendes mail om tilgængeligt filudtræk med afsenderadressen 'Datafordeler &amp;lt;noreply@datafordeler.dk&amp;gt;'.
+
+Dette er en fejl, og vil blive rettet til 'Datafordeleren &amp;lt;no-reply@datafordeler.dk&amp;gt;'.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44151&#xD;
 </content>
   </entry>
   <entry>
