@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-04T09:21:43Z</updated>
+  <updated>2023-09-04T10:26:28Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -323,6 +323,28 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29755&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44146</id>
+    <title
+      type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
+    <updated>2023-09-04T10:26:28Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44146" />
+    <content
+      type="text">Besked: Brugerdefinerede GeoDanmark og DHM filudtræk leveres ikke i MDB formatet 
+
+Efter transitionen bliver MDB formatet ikke længere leveret. 
+
+Der pågår en afklaring af, hvorvidt MDB formatet igen vil være tilgængeligt.
+
+ &#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44146&#xD;
 </content>
   </entry>
   <entry>
