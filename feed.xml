@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-04T13:57:43Z</updated>
+  <updated>2023-09-05T06:45:09Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -408,14 +408,16 @@ Sagsreference: 44144&#xD;
     <id>44160</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-09-04T13:18:22Z</updated>
+    <updated>2023-09-05T06:45:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44160" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices.
 
-04.09.2023: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst&#xD;
+05.09.2023 klokken 08:30: Der arbejdes fortsat på høj prioritet for at få driftsforstyrrelsen løst
+
+04.09.2023 klokken 11:00: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
