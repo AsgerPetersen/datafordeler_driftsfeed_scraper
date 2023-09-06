@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-05T13:38:35Z</updated>
+  <updated>2023-09-06T07:44:14Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -368,12 +368,12 @@ Sagsreference: 44136&#xD;
     <id>44151</id>
     <title
       type="text">Fejl i mail afsenderadressen om tilgængeligt filudtræk</title>
-    <updated>2023-09-05T07:59:17Z</updated>
+    <updated>2023-09-06T07:44:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44151" />
     <content
-      type="text">Besked: Fejl i mail afsenderadressen om tilgængeligt filudtræk{}
+      type="text">Besked: Fejl i mail afsenderadressen om tilgængeligt filudtræk
 
 04.08.2023 klokken 15:53: Fejlen er rettet, afsenderadressen igen 'Datafordeleren &amp;lt;no-reply@datafordeler.dk&amp;gt;'.
 
