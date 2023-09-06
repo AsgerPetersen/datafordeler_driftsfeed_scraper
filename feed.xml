@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-06T08:32:33Z</updated>
+  <updated>2023-09-06T08:48:05Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -390,17 +390,19 @@ Sagsreference: 44151&#xD;
     <id>44144</id>
     <title
       type="text">Man kan i øjeblikket opleve utilgængelighed på alle geotjenesterne</title>
-    <updated>2023-09-04T09:21:43Z</updated>
+    <updated>2023-09-06T08:39:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44144" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve utilgængelighed på alle geotjenesterne
 
+06.09.2023 klokken 10:45: Problemet er blevet løst. 
+
 04.09.2023 klokken 11:00: Der arbejdes med høj prioritet med at få driftsforstyrrelsen løst.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44144&#xD;
 </content>
   </entry>
@@ -408,12 +410,14 @@ Sagsreference: 44144&#xD;
     <id>44160</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-09-06T08:32:33Z</updated>
+    <updated>2023-09-06T08:48:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44160" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices.
+
+06.09.2023 klokken 10:45: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices. Aktuelt er WMS og WFS tjenester mest berørt.
 
 05.09.2023 klokken 15:30: Der kan fortsat opleves lange svartider på alle webservices og der arbejdes med høj prioritet for at få dette løst. Ny status på løsning af problemet vil blive i morgen (06.09.2023) inden klokken 12.
 
