@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-06T14:06:33Z</updated>
+  <updated>2023-09-07T10:28:04Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -410,22 +410,18 @@ Sagsreference: 44144&#xD;
     <id>44160</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-09-06T14:06:33Z</updated>
+    <updated>2023-09-07T10:28:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44160" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices.
 
+07.09.2023 klokken 12:30: Der kan fortsat opleves lange svartider på alle webservices. Der arbejdes med høj prioritet for at få dette løst.
+
 06.09.2023 klokken 16:00: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices.
 
-06.09.2023 klokken 10:45: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices. Aktuelt er WMS og WFS tjenester mest berørt. Næste ny status senest kl. 16:00 i dag (06.09.2023).
-
-05.09.2023 klokken 15:30: Der kan fortsat opleves lange svartider på alle webservices og der arbejdes med høj prioritet for at få dette løst. Ny status på løsning af problemet vil blive i morgen (06.09.2023) inden klokken 12.
-
-05.09.2023 klokken 08:30: Der arbejdes fortsat med høj prioritet for at få driftsforstyrrelsen løst
-
-04.09.2023 klokken 11:00: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst&#xD;
+06.09.2023 klokken 10:45: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices. Aktuelt er WMS og WFS tjenester mest berørt. Næste ny status senest kl. 16:00 i dag (06.09.2023).&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
