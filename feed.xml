@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-07T12:44:08Z</updated>
+  <updated>2023-09-07T14:00:41Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -432,12 +432,14 @@ Sagsreference: 44160&#xD;
     <id>44215</id>
     <title
       type="text">Problemer med CPR webtjenester.</title>
-    <updated>2023-09-07T12:44:08Z</updated>
+    <updated>2023-09-07T14:00:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44215" />
     <content
       type="text">Besked: Problemer med CPR webtjenester der ikke returnerer data.
+
+07.09.2023 klokken 16:00: Der arbejdes fortsat på at løse fejlen. Ny status følger 
 
 07.09.2023 klokken 14:45: Man kan i øjeblikket opleve at følgende CPR webbaseret tjenester ikke returnerer data, når der søges med person.id (GUID):
 
@@ -455,11 +457,7 @@ PersonSmallCurrentListSimple
 
  
 
-{}CPR webbaseret tjenester hvor der søges med person.personnummer er ikke påvirket.
-
- 
-
-Næste status kl. 16:00&#xD;
+{}CPR webbaseret tjenester hvor der søges med person.personnummer er ikke påvirket.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
