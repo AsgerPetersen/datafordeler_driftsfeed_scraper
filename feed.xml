@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-07T14:28:08Z</updated>
+  <updated>2023-09-07T14:34:17Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -410,18 +410,18 @@ Sagsreference: 44144&#xD;
     <id>44160</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-09-07T10:28:04Z</updated>
+    <updated>2023-09-07T14:34:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44160" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices.
 
+07.09.2023 klokken 16:30: Der vil fortsat kunne forekomme længere svartider på kald til alle webservices. Et arbejde pågår for at løse dette og har høj prioritet.
+
 07.09.2023 klokken 12:30: Der kan fortsat opleves lange svartider på alle webservices. Der arbejdes med høj prioritet for at få dette løst.
 
-06.09.2023 klokken 16:00: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices.
-
-06.09.2023 klokken 10:45: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices. Aktuelt er WMS og WFS tjenester mest berørt. Næste ny status senest kl. 16:00 i dag (06.09.2023).&#xD;
+06.09.2023 klokken 16:00: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -432,7 +432,7 @@ Sagsreference: 44160&#xD;
     <id>44215</id>
     <title
       type="text">Problemer med CPR webtjenester.</title>
-    <updated>2023-09-07T14:28:08Z</updated>
+    <updated>2023-09-07T14:28:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44215" />
@@ -462,7 +462,7 @@ PersonSmallCurrentListSimple
 {}CPR webbaseret tjenester hvor der søges med person.personnummer er ikke påvirket.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44215&#xD;
 </content>
   </entry>
