@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-08T13:37:10Z</updated>
+  <updated>2023-09-08T14:21:46Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -336,18 +336,16 @@ Sagsreference: 44144&#xD;
     <id>44160</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-09-07T14:34:17Z</updated>
+    <updated>2023-09-08T14:12:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44160" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices.
 
-07.09.2023 klokken 16:30: Der vil fortsat kunne forekomme længere svartider på kald til alle webservices. Et arbejde pågår for at løse dette og har høj prioritet.
+08.09.2023 klokken 16:00: Længere svartider kan forekomme på webservices hvilket der fortsat arbejdes på at løse og har høj prioritet.
 
-07.09.2023 klokken 12:30: Der kan fortsat opleves lange svartider på alle webservices. Der arbejdes med høj prioritet for at få dette løst.
-
-06.09.2023 klokken 16:00: Der arbejdes fortsat på at løse, at man kan opleve længere svartider på alle webservices.&#xD;
+07.09.2023 klokken 16:30: Der vil fortsat kunne forekomme længere svartider på kald til alle webservices. Et arbejde pågår for at løse dette og har høj prioritet.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -390,6 +388,24 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 44215&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44225</id>
+    <title
+      type="text">Den normale dataindlæsning af CPR data ikke gennemført.</title>
+    <updated>2023-09-08T14:21:46Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44225" />
+    <content
+      type="text">Besked: Dataindlæsningen af CPR data natten til fredag d. 8. september 2023 blev ikke gennemført
+
+08.09.2023 klokken 16:15: Der arbejdes på at løse problemet således at den manglede indlæsning af CPR data vil blive gennemført.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 44225&#xD;
 </content>
   </entry>
 </feed>
