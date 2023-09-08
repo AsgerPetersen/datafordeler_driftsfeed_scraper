@@ -5,19 +5,21 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-08T10:43:20Z</updated>
+  <updated>2023-09-08T10:55:47Z</updated>
   <entry>
     <id>37153</id>
     <title
       type="text">Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført</title>
-    <updated>2023-09-04T08:45:43Z</updated>
+    <updated>2023-09-08T10:51:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/37153" />
     <content
       type="text">Besked: Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført
 
-Miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
+08.09.2023 klokken 13:00: Miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal blev genåbnet torsdag den 7. september.
+
+ &#xD;
 Register: Alle&#xD;
 Status: Løst&#xD;
 Sagsreference: 37153&#xD;
@@ -148,7 +150,7 @@ Sagsreference: 29858&#xD;
     <id>44217</id>
     <title
       type="text">Transitionen af Datafordeler produktionsmiljø er gennemført</title>
-    <updated>2023-09-08T08:32:35Z</updated>
+    <updated>2023-09-08T10:55:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44217" />
@@ -157,7 +159,7 @@ Sagsreference: 29858&#xD;
 
 På baggrund af afsluttet servicevindue er selvbetjenings- og administrationsportalen blevet genåbnet i produktionsmiljøet.&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44217&#xD;
 </content>
   </entry>
