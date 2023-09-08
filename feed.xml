@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-08T08:32:35Z</updated>
+  <updated>2023-09-08T10:43:20Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -208,62 +208,20 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-08-25T08:24:31Z</updated>
+    <updated>2023-09-08T10:43:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-25.08.2023: Der arbejdets forsat på at løse problemet.
+Aktuelt optræder der en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.
 
-Aktuelt optræder der dog en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.&#xD;
+25.08.2023: Der arbejdets forsat på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28524&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>30225</id>
-    <title
-      type="text">Test04: Fejl i adgang til tjenester med certifikat</title>
-    <updated>2023-08-29T12:25:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/30225" />
-    <content
-      type="text">Besked: Test04: Fejl i adgang til tjenester med certifikat
-
-14:20 Fejlen er løst.
-
-Efter transitionen af Test04 er der en fejl ved kald til tjenester med certifikat (CPR).
-
-Vi arbejder på at løse fejlen.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 30225&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>30227</id>
-    <title
-      type="text">Datafordeler nedbrud</title>
-    <updated>2023-08-29T09:22:13Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/30227" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve utilgængelighed på alle webservice og hændelser på Datafordeler produktions miljø
-
-29.08.2023 klokken 11:15: Problemet er blevet løst. Webservices og hændelser er tilbage i normal drift.
-
-29.08.2023 klokken 10:00: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 30227&#xD;
 </content>
   </entry>
   <entry>
@@ -326,23 +284,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44136</id>
-    <title
-      type="text">Transitionen af Datafordeler produktion er gennemført</title>
-    <updated>2023-09-05T12:42:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44136" />
-    <content
-      type="text">Besked: Transitionen af Datafordeler produktion er gennemført
-
-Miljøet er i drift hos Netcompany. Miljøets selvbetjeningsportal og administrationsportal bliver genåbnet fredag den 8. september.&#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 44136&#xD;
 </content>
   </entry>
   <entry>
@@ -445,32 +386,6 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 44215&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>37133</id>
-    <title
-      type="text">Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.</title>
-    <updated>2023-08-31T16:18:38Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/37133" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve lange svartider på alle webservices og hændelser.
-
-31.08.2023 klokken 17:45: Problemet er blevet løst for alle webservices og hændelser som er tilbage i normal drift.
-
-31.08.2023 klokken 14:00: Problemet er vendt tilbage og der kan opleves lange svartider og utilgængelighed på de webbaseret tjenester og hændelser.
-
-Der arbejdes med høj prioriteret for at få det løst.
-
-31.08.2023 klokken 13:30: Problemet er løst og alle webservices og hændelser er tilbage i normaldrift
-
-31.08.2023 klokken 09:15: Der arbejdes med høj prioritet for at få driftsforstyrrelsen løst.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 37133&#xD;
 </content>
   </entry>
 </feed>
