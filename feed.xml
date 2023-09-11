@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-11T07:31:12Z</updated>
+  <updated>2023-09-11T08:10:47Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -412,12 +412,12 @@ Sagsreference: 44225&#xD;
     <id>44238</id>
     <title
       type="text">Mail om tilgængelige filudtræk er ikke udsendt </title>
-    <updated>2023-09-11T07:31:12Z</updated>
+    <updated>2023-09-11T08:10:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44238" />
     <content
-      type="text">Besked: Mail om tilgængelige filudtræk er ikke udsendt 
+      type="text">Besked: Mail om tilgængelige filudtræk er ikke udsendt. 
 
 Mail med information om tilgængelige filudtræk, er ikke blevet sendt ud siden fredag den 8. september om eftermiddagen.
 
