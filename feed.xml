@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-11T08:10:47Z</updated>
+  <updated>2023-09-11T08:20:32Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -394,17 +394,19 @@ Sagsreference: 44215&#xD;
     <id>44225</id>
     <title
       type="text">Den normale dataindlæsning af CPR data ikke gennemført.</title>
-    <updated>2023-09-08T14:21:46Z</updated>
+    <updated>2023-09-11T08:20:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44225" />
     <content
       type="text">Besked: Dataindlæsningen af CPR data natten til fredag d. 8. september 2023 blev ikke gennemført
 
+11.09.2023 klokken 10:00: Problemet er løst og CPR dataopdatering er tilbage i normal drift.
+
 08.09.2023 klokken 16:15: Der arbejdes på at løse problemet således at den manglede indlæsning af CPR data vil blive gennemført.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44225&#xD;
 </content>
   </entry>
