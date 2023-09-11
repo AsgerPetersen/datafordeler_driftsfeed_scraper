@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-08T14:21:46Z</updated>
+  <updated>2023-09-11T07:31:12Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -406,6 +406,28 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 44225&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44238</id>
+    <title
+      type="text">Mail om tilgængelige filudtræk er ikke udsendt </title>
+    <updated>2023-09-11T07:31:12Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44238" />
+    <content
+      type="text">Besked: Mail om tilgængelige filudtræk er ikke udsendt 
+
+Mail med information om tilgængelige filudtræk, er ikke blevet sendt ud siden fredag den 8. september om eftermiddagen.
+
+Der bliver arbejdet på at løse fejlen.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44238&#xD;
 </content>
   </entry>
 </feed>
