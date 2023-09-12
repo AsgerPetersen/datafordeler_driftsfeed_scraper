@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-11T08:20:32Z</updated>
+  <updated>2023-09-12T08:21:47Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -224,6 +224,24 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28524&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44294</id>
+    <title
+      type="text">Admin.datafordeler.dk er utilgængelig</title>
+    <updated>2023-09-12T08:21:47Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44294" />
+    <content
+      type="text">Besked: Admin.datafordeler.dk er utilgængelig
+
+12.09.2023 klokken 10:15: Man kan i øjeblikket opleve utilgængelighed på admin.datafordeler.dk. Der arbejdes med høj prioritet for at få fejlen løst.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 44294&#xD;
 </content>
   </entry>
   <entry>
