@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-12T08:48:26Z</updated>
+  <updated>2023-09-12T08:50:32Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -334,7 +334,7 @@ Sagsreference: 44151&#xD;
     <id>44297</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på enkelte webservices</title>
-    <updated>2023-09-12T08:48:26Z</updated>
+    <updated>2023-09-12T08:50:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44297" />
@@ -343,6 +343,7 @@ Sagsreference: 44151&#xD;
 
 12.09.2023 klokken 10:45: Følgende webservice har i øjeblikket længere svartider. Der bliver fortsat arbejdet med høj prioritet på en løsning:
 
+	GeoDanmark Ortofoto forår WMS
 	DHM WMS (Terræn)
 	DHM 2015 Historik - WMS
 	DTK25, DTK250, DTK500, DTK1000
