@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-12T08:50:32Z</updated>
+  <updated>2023-09-13T11:20:09Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -334,12 +334,14 @@ Sagsreference: 44151&#xD;
     <id>44297</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på enkelte webservices</title>
-    <updated>2023-09-12T08:50:32Z</updated>
+    <updated>2023-09-13T11:20:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44297" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider på enkelte webservices
+
+13.09.2023 klokken 13:15: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester. 
 
 12.09.2023 klokken 10:45: Følgende webservice har i øjeblikket længere svartider. Der bliver fortsat arbejdet med høj prioritet på en løsning:
 
