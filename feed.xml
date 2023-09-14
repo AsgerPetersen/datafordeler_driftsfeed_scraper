@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-14T08:48:08Z</updated>
+  <updated>2023-09-14T13:19:00Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -144,6 +144,25 @@ Sagsreference: 28543&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44407</id>
+    <title
+      type="text">Nedlæggelse af dele af ESR pr. 1. januar 2024.</title>
+    <updated>2023-09-14T13:19:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44407" />
+    <content
+      type="text">Besked: Nedlæggelse af dele af ESR pr. 1. januar 2024.
+
+På grund af nedlæggelse af dele af ESR pr. 1. januar 2024 er Vurderingsstyrelsen rendt ind i nogle problemer med overførsel af data til VUR-registret. Og da der samtidig er lavet en "Frys"-periode på ESR kan det ikke lige fikses. Meldingen fra vores leverandør er at det vil virke igen fra marts 2024. Det er dog en beslutning Vurderingsstyrelsen løbende vil udfordre da det ikke er tilfredsstillende.
+I den mellemliggende periode må vi derfor henvise til Vurderingsportalen.dk, hvor man vil kunne finde de nye vurderinger. Vurderingsstyrelsen beklager de gener dette medfører.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Webservice, Filudtræk, Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 44407&#xD;
 </content>
   </entry>
   <entry>
