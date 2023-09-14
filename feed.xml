@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-13T13:56:25Z</updated>
+  <updated>2023-09-14T07:06:11Z</updated>
   <entry>
     <id>37153</id>
     <title
@@ -446,12 +446,14 @@ Sagsreference: 44225&#xD;
     <id>44238</id>
     <title
       type="text">Mail om tilgængelige filudtræk er ikke udsendt </title>
-    <updated>2023-09-11T08:10:47Z</updated>
+    <updated>2023-09-14T07:06:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44238" />
     <content
       type="text">Besked: Mail om tilgængelige filudtræk er ikke udsendt. 
+
+14.09.2023 klokken 09:05: Fejlen er løst, der sendes igen mail om tilgængelige filudtræk.
 
 Mail med information om tilgængelige filudtræk, er ikke blevet sendt ud siden fredag den 8. september om eftermiddagen.
 
@@ -460,7 +462,7 @@ Der bliver arbejdet på at løse fejlen.
  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44238&#xD;
 </content>
   </entry>
