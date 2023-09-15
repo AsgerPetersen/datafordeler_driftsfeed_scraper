@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-15T08:39:02Z</updated>
+  <updated>2023-09-15T08:39:13Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -147,29 +147,6 @@ Sagsreference: 44407&#xD;
 </content>
   </entry>
   <entry>
-    <id>30045</id>
-    <title
-      type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med transition 2023</title>
-    <updated>2023-08-16T08:53:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/30045" />
-    <content
-      type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med transition 2023
-
-Certifikater til at modtage hændelser i produktion på Datafordeleren bliver skiftet i forbindelse med transitionen i september 2023.
-De nye certifikater er gældende fra den 3. september 2023.
-Vær opmærksom på først at skifte certifikatet til PROD efter den 31. august 2023.
-Du kan hente de nye certifikater på https://confluence.sdfi.dk/x/LoBQAQ
-
-Læs om transition af Datafordeleren på https://datafordeler.dk/transition&#xD;
-Register: Alle&#xD;
-Service: Hændelser&#xD;
-Status: I gang&#xD;
-Sagsreference: 30045&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
@@ -193,7 +170,7 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-09-15T08:39:02Z</updated>
+    <updated>2023-09-15T08:39:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
@@ -202,7 +179,7 @@ Sagsreference: 28408&#xD;
 
 Aktuelt optræder der en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.
 
-15.09.2023: Der arbejdets forsat på at løse problemet.&#xD;
+15.09.2023: Der arbejdets fortsat på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -272,28 +249,6 @@ Sagsreference: 44146&#xD;
 </content>
   </entry>
   <entry>
-    <id>44151</id>
-    <title
-      type="text">Fejl i mail afsenderadressen om tilgængeligt filudtræk</title>
-    <updated>2023-09-06T07:44:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44151" />
-    <content
-      type="text">Besked: Fejl i mail afsenderadressen om tilgængeligt filudtræk
-
-04.08.2023 klokken 15:53: Fejlen er rettet, afsenderadressen igen 'Datafordeleren &amp;lt;no-reply@datafordeler.dk&amp;gt;'.
-
-04.08.2023 klokken 10:00: Efter transitionen udsendes mail om tilgængeligt filudtræk med afsenderadressen 'Datafordeler &amp;lt;noreply@datafordeler.dk&amp;gt;'.
-
-Dette er en fejl, og vil blive rettet til 'Datafordeleren &amp;lt;no-reply@datafordeler.dk&amp;gt;'.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 44151&#xD;
-</content>
-  </entry>
-  <entry>
     <id>44297</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på enkelte webservices</title>
@@ -325,64 +280,6 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 44297&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44144</id>
-    <title
-      type="text">Man kan i øjeblikket opleve utilgængelighed på alle geotjenesterne</title>
-    <updated>2023-09-06T08:39:31Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44144" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve utilgængelighed på alle geotjenesterne
-
-06.09.2023 klokken 10:45: Problemet er blevet løst. 
-
-04.09.2023 klokken 11:00: Der arbejdes med høj prioritet med at få driftsforstyrrelsen løst.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 44144&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44215</id>
-    <title
-      type="text">Problemer med CPR webtjenester.</title>
-    <updated>2023-09-07T14:28:37Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44215" />
-    <content
-      type="text">Besked: Problemer med CPR webbaseret tjenester der ikke returnerer data.
-
-07.09.2023 klokken 16:30: Fejlen er rettet. Der returneres igen data når der søges med person.id (GUID).
-
-07.09.2023 klokken 16:00: Der arbejdes fortsat på at løse fejlen. Ny status følger 
-
-07.09.2023 klokken 14:45: Man kan i øjeblikket opleve at følgende CPR webbaseret tjenester ikke returnerer data, når der søges med person.id (GUID):
-
-PersonFullListSimple
-
-PersonFullCurrentListSimple
-
-PersonMediumListSimple
-
-PersonMediumCurrentListSimple
-
-PersonSmallListSimple
-
-PersonSmallCurrentListSimple
-
- 
-
-{}CPR webbaseret tjenester hvor der søges med person.personnummer er ikke påvirket.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 44215&#xD;
 </content>
   </entry>
   <entry>
