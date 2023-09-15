@@ -5,26 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-14T13:19:00Z</updated>
-  <entry>
-    <id>37153</id>
-    <title
-      type="text">Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført</title>
-    <updated>2023-09-08T10:51:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/37153" />
-    <content
-      type="text">Besked: Transitionen af testmiljøerne Test03, Test04 og Test06 er gennemført
-
-08.09.2023 klokken 13:00: Miljøerne er i drift hos Netcompany. Miljøernes selvbetjeningsportal og administrationsportal blev genåbnet torsdag den 7. september.
-
- &#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 37153&#xD;
-</content>
-  </entry>
+  <updated>2023-09-15T08:39:02Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -166,23 +147,6 @@ Sagsreference: 44407&#xD;
 </content>
   </entry>
   <entry>
-    <id>44217</id>
-    <title
-      type="text">Transitionen af Datafordeler produktionsmiljø er gennemført</title>
-    <updated>2023-09-08T10:55:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44217" />
-    <content
-      type="text">Besked: Servicevindue for transitionen af Datafordeler produktionsmiljøet er gennemført.
-
-På baggrund af afsluttet servicevindue er selvbetjenings- og administrationsportalen blevet genåbnet i produktionsmiljøet.&#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 44217&#xD;
-</content>
-  </entry>
-  <entry>
     <id>30045</id>
     <title
       type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med transition 2023</title>
@@ -229,7 +193,7 @@ Sagsreference: 28408&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-09-08T10:43:20Z</updated>
+    <updated>2023-09-15T08:39:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
@@ -238,7 +202,7 @@ Sagsreference: 28408&#xD;
 
 Aktuelt optræder der en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.
 
-25.08.2023: Der arbejdets forsat på at løse problemet.&#xD;
+15.09.2023: Der arbejdets forsat på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -283,28 +247,6 @@ Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matrikle
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 29831&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>29755</id>
-    <title
-      type="text">Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret</title>
-    <updated>2023-09-08T13:37:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29755" />
-    <content
-      type="text">Besked: Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret
-
-Det prædefinerede GeoDanmark60_SHP filudtræk er ikke blevet leveret og seneste leverance er fra 03.06.2023.
-
-08.09.2023: Det prædefinerede GeoDanmark60_SHP filudtræk leveres igen, seneste leverance er fra 25.08.2023 
-
-25.08.2023: Der arbejdets på at løse problemet&#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 29755&#xD;
 </content>
   </entry>
   <entry>
