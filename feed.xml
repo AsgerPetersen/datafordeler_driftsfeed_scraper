@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-18T15:26:43Z</updated>
+  <updated>2023-09-19T07:38:16Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -274,7 +274,7 @@ Sagsreference: 44146&#xD;
     <id>44297</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider på enkelte webservices</title>
-    <updated>2023-09-13T13:56:25Z</updated>
+    <updated>2023-09-19T07:38:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44297" />
@@ -300,7 +300,7 @@ Sagsreference: 44146&#xD;
 07.09.2023 klokken 16:30: Der vil fortsat kunne forekomme længere svartider på kald til alle webservices. Et arbejde pågår for at løse dette og har høj prioritet.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44297&#xD;
 </content>
   </entry>
