@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-20T05:27:03Z</updated>
+  <updated>2023-09-20T05:27:23Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -131,12 +131,12 @@ Sagsreference: 29858&#xD;
     <id>44407</id>
     <title
       type="text">Nedlæggelse af dele af ESR pr. 1. januar 2024.</title>
-    <updated>2023-09-20T05:27:03Z</updated>
+    <updated>2023-09-20T05:27:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44407" />
     <content
-      type="text">Besked: Foreløbige ejendomsvurderinger for 2022 udstilles ikke på DAF via VURs tjenester
+      type="text">Besked: Foreløbige ejendomsvurderinger for 2022 udstilles ikke på Datafordeleren via VURs tjenester
 
 De foreløbige vurderinger for 2022 vil ikke blive udstillet på DAF. Årsagen er at de er foreløbige. Når der foreligge en endelig 2022 vurdering vil den selvfølgelig blive udstillet. De foreløbige vurderinger vil kunne findes på Vurderingsportalen.dk og der arbejdes på at udstille en samlet fil så der kan laves større udtræk.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
