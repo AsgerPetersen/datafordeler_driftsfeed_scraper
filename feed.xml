@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-20T12:05:23Z</updated>
+  <updated>2023-09-20T13:30:24Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -358,19 +358,21 @@ Sagsreference: 44463&#xD;
     <id>44512</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester.</title>
-    <updated>2023-09-20T12:05:23Z</updated>
+    <updated>2023-09-20T13:30:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44512" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.
 
+20.09.2023 klokken 15:30: Problemet er løst for de WMS webbaseret tjenesterne.
+
 20.09.2023 klokken 14:00: Problemet er løst for de webbaseret tjenester af typen: WFS, REST, WCS og WMTS. For WMS kan der fortsat opleves lange svartider og / eller time out, hvilket der fortsat arbejdes på med høj prioritet, at få løst.
 
 20.09.2023 klokken 13:00: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester. Der arbejdets med høj prioritet for at løse dette.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44512&#xD;
 </content>
   </entry>
