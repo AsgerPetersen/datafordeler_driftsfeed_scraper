@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-20T10:04:56Z</updated>
+  <updated>2023-09-20T11:05:38Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -352,6 +352,24 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI), GeoDanmark Ortof
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44463&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44512</id>
+    <title
+      type="text">Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester.</title>
+    <updated>2023-09-20T11:05:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44512" />
+    <content
+      type="text">Besked: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.
+
+20.09.2023 klokken 13:00: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester. Der arbejdets med høj prioritet for at løse dette.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 44512&#xD;
 </content>
   </entry>
   <entry>
