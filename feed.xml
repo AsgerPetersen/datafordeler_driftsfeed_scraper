@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-20T14:51:10Z</updated>
+  <updated>2023-09-21T10:15:30Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -327,12 +327,29 @@ Sagsreference: 44494&#xD;
     <id>44463</id>
     <title
       type="text">Manglende levering af filudtræk</title>
-    <updated>2023-09-18T13:35:28Z</updated>
+    <updated>2023-09-21T10:15:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44463" />
     <content
       type="text">Besked: Manglende levering af filudtræk
+
+21.09.2023 klokken 12:15: Problemet er løst for registertjenesterne:
+
+DAGI10MULTIGEOM_GML321
+DAGI250MULTIGEOM_GML321
+DAGI500MULTIGEOM_GML321
+MatrikelGeometriGaeldendeDKComplete_GML
+MatrikelGeometriGaeldendeDKComplete_GML_daily
+
+hvor der igen leveres filudtræk.
+Der arbejdes fortsat på at løse problemet for:
+
+DAGI10MULTIGEOMHIST_GML321
+GeoDanmark60_GML321
+GeoDanmark60HIST_Kommune_GML321
+MatrikelGeometriGaeldendeKommuneComplete_GML_HF
+MatrikelGeometriGaeldendeDKComplete_gpkg_daily
 
 18.09.2023 klokken 15:30: Man kan i øjeblikket opleve ikke at modtage filudtræk for følgende registertjenester:
 
