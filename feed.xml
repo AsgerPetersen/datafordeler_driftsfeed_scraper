@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-22T10:15:44Z</updated>
+  <updated>2023-09-22T12:47:43Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -151,16 +151,18 @@ Sagsreference: 44407&#xD;
     <id>44563</id>
     <title
       type="text">BBR laver en stor datakørsel</title>
-    <updated>2023-09-22T09:19:34Z</updated>
+    <updated>2023-09-22T12:47:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44563" />
     <content
-      type="text">Besked: BBR laver en stor datakørsel
+      type="text">Besked: BBR laver en stor datakørsel på Enhed
 
-BBR laver en stor datakørsel i weekenden den 23. og 24. september på udlejningsforhold på enhed.
+BBR laver en stor datakørsel i weekenden den 23. og 24. september på udlejningsforhold på Enhed.
 
-Beregning for udlejningsforhold på enhed vil fremadrettet bruge data fra Ejerfortegnelsen fordi ESR bliver udfaset. Det forventes at 350.000 objekter bliver opdateret hen over weekenden.&#xD;
+Beregning for udlejningsforhold på enhed vil fremadrettet bruge data fra Ejerfortegnelsen fordi ESR bliver udfaset. Det forventes at 350.000 objekter bliver opdateret hen over weekenden.
+
+Dette vil medføre, at der bliver udsendt ekstraordinært mange hændelser og større deltafiludtræk.&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Status: I gang&#xD;
 Sagsreference: 44563&#xD;
