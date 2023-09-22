@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-22T09:19:34Z</updated>
+  <updated>2023-09-22T10:15:44Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -131,14 +131,16 @@ Sagsreference: 29858&#xD;
     <id>44407</id>
     <title
       type="text">Nedlæggelse af dele af ESR pr. 1. januar 2024.</title>
-    <updated>2023-09-20T09:24:45Z</updated>
+    <updated>2023-09-22T10:15:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44407" />
     <content
-      type="text">Besked: Foreløbige ejendomsvurderinger for 2022 udstilles ikke på Datafordeleren via VURs tjenester
+      type="text">Besked: Ejendomsvurderinger for 2020 og foreløbige ejendomsvurderinger for 2022 udstilles ikke på Datafordeleren
 
-De foreløbige vurderinger for 2022 vil ikke blive udstillet på DAF. Årsagen er, at de er foreløbige. Når der foreligger en endelig 2022 vurdering, vil den selvfølgelig blive udstillet. De foreløbige vurderinger vil kunne findes på Vurderingsportalen.dk, og der bliver arbejdet på at udstille en samlet fil, så der kan laves større udtræk.&#xD;
+Pga. nedlæggelse af dele af Ejendomsstamregistret (ESR) pr. 1. januar 2024 er der problemer med overførsel af data til VUR-registret. Dette forventes løst til maj 2024. Indtil da henvises til Vurderingsportalen.dk, hvor man kan finde ejendomsvurderingerne for 2020.
+De foreløbige 2022-vurderinger udstilles ikke på DAF, fordi de er foreløbige. Når de endelige 2022-vurderinger foreligger, vil de blive udstillet på DAF.
+De foreløbige vurderinger kan ligeledes findes på Vurderingsportalen.dk, og der arbejdes på at udstille en samlet fil, så der kan laves større udtræk.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
