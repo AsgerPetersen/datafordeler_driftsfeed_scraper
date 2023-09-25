@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-25T07:02:27Z</updated>
+  <updated>2023-09-25T08:57:10Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -209,48 +209,6 @@ Sagsreference: 28524&#xD;
 </content>
   </entry>
   <entry>
-    <id>44294</id>
-    <title
-      type="text">Admin.datafordeler.dk er utilgængelig</title>
-    <updated>2023-09-14T08:48:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44294" />
-    <content
-      type="text">Besked: Admin.datafordeler.dk er utilgængelig
-
-14.09.2023 klokken 10:45: Problemet er løst. admin.datafordeler.dk er tilgængelig igen.
-
-12.09.2023 klokken 10:15: Man kan i øjeblikket opleve utilgængelighed på admin.datafordeler.dk. Der arbejdes med høj prioritet for at få fejlen løst.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 44294&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44459</id>
-    <title
-      type="text">Dagi dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-09-18T15:26:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44459" />
-    <content
-      type="text">Besked: Dagi dataopdatering stoppet i produktionsmiljøet.
-
-18.09.2023 klokken 17:30: Problemet er løst. DAGI dataopdateringen er tilbage i normal drift.
-
-18.09.2023 klokken 14:30: DAGI dataopdatering stoppet i produktionsmiljøet, sidste opdatering var 18.09.2023 klokken 08:48:45
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44459&#xD;
-</content>
-  </entry>
-  <entry>
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
@@ -311,139 +269,17 @@ Sagsreference: 44577&#xD;
 </content>
   </entry>
   <entry>
-    <id>44297</id>
-    <title
-      type="text">Man kan i øjeblikket opleve lange svartider på enkelte webservices</title>
-    <updated>2023-09-19T07:38:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44297" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve lange svartider på enkelte webservices
-
-13.09.2023 klokken 16:00: Svartiderne er normaliseret på alle de webbaseret tjenester.
-
-13.09.2023 klokken 13:15: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester. 
-
-12.09.2023 klokken 10:45: Følgende webservice har i øjeblikket længere svartider. Der bliver fortsat arbejdet med høj prioritet på en løsning:
-
-	GeoDanmark Ortofoto forår WMS
-	DHM WMS (Terræn)
-	DHM 2015 Historik - WMS
-	DTK25, DTK250, DTK500, DTK1000
-	Historiske DTK50, DTK100, DTK200
-
-
-
-08.09.2023 klokken 16:00: Længere svartider kan forekomme på webservices hvilket der fortsat arbejdes på at løse og har høj prioritet.
-
-07.09.2023 klokken 16:30: Der vil fortsat kunne forekomme længere svartider på kald til alle webservices. Et arbejde pågår for at løse dette og har høj prioritet.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 44297&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44494</id>
-    <title
-      type="text">Dataindlæsningen af CPR data natten til tirsdag den 19. september 2023 blev ikke gennemført</title>
-    <updated>2023-09-20T10:04:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44494" />
-    <content
-      type="text">Besked: Dataindlæsningen af CPR data natten til tirsdag den 19. september 2023 blev ikke gennemført
-
-20.09.2023 klokken 09:45: Problemet er løst og dataindlæsningen blev gennemført natten til onsdag den 20. september 2023.
-
-19.09.2023 klokken 15:15: Årsagen til problemet er løst og dataopdateringen vil blive indlæst natten til onsdag den 20. september 2023.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44494&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44463</id>
-    <title
-      type="text">Manglende levering af filudtræk</title>
-    <updated>2023-09-21T10:15:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44463" />
-    <content
-      type="text">Besked: Manglende levering af filudtræk
-
-21.09.2023 klokken 12:15: Problemet er løst for registertjenesterne:
-
-DAGI10MULTIGEOM_GML321
-DAGI250MULTIGEOM_GML321
-DAGI500MULTIGEOM_GML321
-MatrikelGeometriGaeldendeDKComplete_GML
-MatrikelGeometriGaeldendeDKComplete_GML_daily
-
-hvor der igen leveres filudtræk.
-Der arbejdes fortsat på at løse problemet for:
-
-DAGI10MULTIGEOMHIST_GML321
-GeoDanmark60_GML321
-GeoDanmark60HIST_Kommune_GML321
-MatrikelGeometriGaeldendeKommuneComplete_GML_HF
-MatrikelGeometriGaeldendeDKComplete_gpkg_daily
-
-18.09.2023 klokken 15:30: Man kan i øjeblikket opleve ikke at modtage filudtræk for følgende registertjenester:
-
-DAGI10MULTIGEOM_GML321
-DAGI10MULTIGEOMHIST_GML321
-DAGI250MULTIGEOM_GML321
-DAGI500MULTIGEOM_GML321
-GeoDanmark60_GML321
-GeoDanmark60HIST_Kommune_GML321
-MatrikelGeometriGaeldendeDKComplete_GML
-MatrikelGeometriGaeldendeDKComplete_GML_daily
-MatrikelGeometriGaeldendeKommuneComplete_GML_HF
-MatrikelGeometriGaeldendeDKComplete_gpkg_daily
-
-Der arbejdes på at løse problemet.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), GeoDanmark Ortofoto, Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 44463&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44512</id>
-    <title
-      type="text">Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester.</title>
-    <updated>2023-09-20T14:51:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44512" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.
-
-20.09.2023 klokken 15:30: Problemet er løst for de WMS webbaseret tjenester.
-
-20.09.2023 klokken 14:00: Problemet er løst for de webbaseret tjenester af typen: WFS, REST, WCS og WMTS. For WMS kan der fortsat opleves lange svartider og / eller time out, hvilket der fortsat arbejdes på med høj prioritet, at få løst.
-
-20.09.2023 klokken 13:00: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester. Der arbejdets med høj prioritet for at løse dette.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 44512&#xD;
-</content>
-  </entry>
-  <entry>
     <id>44556</id>
     <title
       type="text">MAT2 Dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2023-09-22T13:21:02Z</updated>
+    <updated>2023-09-25T08:57:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44556" />
     <content
       type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
+
+25.09.2023 klokken 11:00: Der bliver fortsat arbejdet på at løse problemet.
 
 22.09.2023 klokken 15:15: Der arbejdes fortsat på at løse problemet.
 
@@ -452,50 +288,6 @@ Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 44556&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44225</id>
-    <title
-      type="text">Den normale dataindlæsning af CPR data ikke gennemført.</title>
-    <updated>2023-09-11T08:20:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44225" />
-    <content
-      type="text">Besked: Dataindlæsningen af CPR data natten til fredag d. 8. september 2023 blev ikke gennemført
-
-11.09.2023 klokken 10:00: Problemet er løst og CPR dataopdatering er tilbage i normal drift.
-
-08.09.2023 klokken 16:15: Der arbejdes på at løse problemet således at den manglede indlæsning af CPR data vil blive gennemført.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44225&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44238</id>
-    <title
-      type="text">Mail om tilgængelige filudtræk er ikke udsendt </title>
-    <updated>2023-09-14T07:06:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44238" />
-    <content
-      type="text">Besked: Mail om tilgængelige filudtræk er ikke udsendt. 
-
-14.09.2023 klokken 09:05: Fejlen er løst, der sendes igen mail om tilgængelige filudtræk.
-
-Mail med information om tilgængelige filudtræk, er ikke blevet sendt ud siden fredag den 8. september om eftermiddagen.
-
-Der bliver arbejdet på at løse fejlen.
-
- &#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 44238&#xD;
 </content>
   </entry>
 </feed>
