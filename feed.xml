@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-25T08:57:10Z</updated>
+  <updated>2023-09-25T11:14:52Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -95,6 +95,33 @@ Sagsreference: 28543&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44597</id>
+    <title
+      type="text">Adgang til filudtræk fra KMD bliver lukket den 30. september 2023</title>
+    <updated>2023-09-25T11:14:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44597" />
+    <content
+      type="text">Besked: Adgang til filudtræk fra KMD bliver lukket den 30. september 2023
+
+Adgang til at hente filudtræk leveret af KMD før transitionen den 4. september 2023 er åbent frem til den 30. september.
+
+Herefter bliver der lukket for adgang til filudtræk via:
+
+	legacy-ftp2.datafordeler.dk
+	legacy-ftp3.datafordeler.dk
+
+
+
+Vi anbefaler, at du kontrollerer, om alle tidligere bestilte filudtræk er hentet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44597&#xD;
 </content>
   </entry>
   <entry>
