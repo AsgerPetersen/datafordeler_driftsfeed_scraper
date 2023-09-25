@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-25T06:42:15Z</updated>
+  <updated>2023-09-25T07:02:27Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -296,12 +296,14 @@ Sagsreference: 44146&#xD;
     <id>44577</id>
     <title
       type="text">Manglende besked om filudtræk er klar</title>
-    <updated>2023-09-25T06:42:15Z</updated>
+    <updated>2023-09-25T07:02:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44577" />
     <content
-      type="text">Besked: 25-09-2023: Der mangler besked om filudtræk er klar til download.  Filudtrækket er der dog, men beskeden om det er klar mangler.&#xD;
+      type="text">Besked: Manglende besked om filudtræk er klar
+
+25-09-2023: Der mangler besked om filudtræk er klar til download.  Filudtrækket er der dog, men beskeden om det er klar mangler.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
