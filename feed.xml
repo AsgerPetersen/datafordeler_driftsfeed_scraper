@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-22T13:21:02Z</updated>
+  <updated>2023-09-25T06:42:15Z</updated>
   <entry>
     <id>29508</id>
     <title
@@ -290,6 +290,22 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44577</id>
+    <title
+      type="text">Manglende besked om filudtræk er klar</title>
+    <updated>2023-09-25T06:42:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44577" />
+    <content
+      type="text">Besked: 25-09-2023: Der mangler besked om filudtræk er klar til download.  Filudtrækket er der dog, men beskeden om det er klar mangler.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44577&#xD;
 </content>
   </entry>
   <entry>
