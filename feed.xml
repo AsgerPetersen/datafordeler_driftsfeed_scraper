@@ -7,36 +7,6 @@
   <id>serviceMessages</id>
   <updated>2023-09-25T08:57:10Z</updated>
   <entry>
-    <id>29508</id>
-    <title
-      type="text">FME filudtræk lukker - Har du skiftet til Hangfire?</title>
-    <updated>2023-07-12T09:17:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29508" />
-    <content
-      type="text">Besked: FME filudtræk lukker - Har du skiftet til Hangfire?
-
-04.07.2023: Filudtræk fra BBR og VUR vil først blive udfaset efter transitionen til ny leverandør den 4. september 2023.
-
-27.06.2023: Bemærk når vi lukker, modtager du en mail fra Datafordeleren med for eksempel "Dit abonnement EJFfortroligTotal_kah er blevet midlertidigt blokeret". Det betyder blot, at abonnementet er blevet deaktiveret.
-
-27.06.2023: DAR filudtræk fra FME lukker dags dato.
-
-Vi lukker den 23. juni 2023 for de filudtræk, som bliver leveret via FME service i JSON-og XML-formater. Det fremgår ikke af filnavnet, at de er leveret via FME.
-
-Data fra filudtræk er tilgængelige via Hangfire service, og det fremgår af filnavnet, at de bliver leveret via Hangfire. Filnavnet er tilføjet "_HF". Modtager du ikke dine filudtræk som forventet, skal du tjekke filnavn på det sidste, du har modtaget. Mangler tilføjelsen "_HF", skal du oprette nyt abonnement.
-
-Fredag den 23. juni 2023 bliver filudtræk via FME på BBR, DAR, EBR, EJF, SVR og VUR lukket.
-
-Læs mere om ændringen under Ændringer&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 29508&#xD;
-</content>
-  </entry>
-  <entry>
     <id>27373</id>
     <title
       type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
