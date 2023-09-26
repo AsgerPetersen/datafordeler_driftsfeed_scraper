@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-25T12:43:40Z</updated>
+  <updated>2023-09-26T08:47:16Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -86,12 +86,12 @@ Sagsreference: 28543&#xD;
     <id>29858</id>
     <title
       type="text">Skærmkortet for juli 2023 er opdateret. Næste opdatering planlægges til september 2023.</title>
-    <updated>2023-07-13T11:29:06Z</updated>
+    <updated>2023-09-26T08:47:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet for juli 2023 er opdateret. Næste opdatering planlægges til september 2023.&#xD;
+      type="text">Besked: Skærmkortet bliver opdateret i uge 39 i september 2023.&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
@@ -188,7 +188,7 @@ Sagsreference: 29831&#xD;
     <id>44146</id>
     <title
       type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
-    <updated>2023-09-04T10:26:28Z</updated>
+    <updated>2023-09-26T08:44:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44146" />
@@ -197,7 +197,7 @@ Sagsreference: 29831&#xD;
 
 Efter transitionen bliver MDB formatet ikke længere leveret. 
 
-Der pågår en afklaring af, hvorvidt MDB formatet igen vil være tilgængeligt.
+Det er ved at blive afklaret, hvorvidt MDB formatet igen vil være tilgængeligt.
 
  &#xD;
 Register: GeoDanmark Vektor&#xD;
