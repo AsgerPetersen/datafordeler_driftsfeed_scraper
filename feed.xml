@@ -125,47 +125,6 @@ Sagsreference: 44597&#xD;
 </content>
   </entry>
   <entry>
-    <id>44407</id>
-    <title
-      type="text">Nedlæggelse af dele af ESR pr. 1. januar 2024.</title>
-    <updated>2023-09-22T10:15:44Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44407" />
-    <content
-      type="text">Besked: Ejendomsvurderinger for 2020 og foreløbige ejendomsvurderinger for 2022 udstilles ikke på Datafordeleren
-
-Pga. nedlæggelse af dele af Ejendomsstamregistret (ESR) pr. 1. januar 2024 er der problemer med overførsel af data til VUR-registret. Dette forventes løst til maj 2024. Indtil da henvises til Vurderingsportalen.dk, hvor man kan finde ejendomsvurderingerne for 2020.
-De foreløbige 2022-vurderinger udstilles ikke på DAF, fordi de er foreløbige. Når de endelige 2022-vurderinger foreligger, vil de blive udstillet på DAF.
-De foreløbige vurderinger kan ligeledes findes på Vurderingsportalen.dk, og der arbejdes på at udstille en samlet fil, så der kan laves større udtræk.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Webservice, Filudtræk, Hændelser&#xD;
-Status: I gang&#xD;
-Sagsreference: 44407&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44563</id>
-    <title
-      type="text">BBR laver en stor datakørsel</title>
-    <updated>2023-09-22T12:47:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44563" />
-    <content
-      type="text">Besked: BBR laver en stor datakørsel på Enhed
-
-BBR laver en stor datakørsel i weekenden den 23. og 24. september på udlejningsforhold på Enhed.
-
-Beregning for udlejningsforhold på enhed vil fremadrettet bruge data fra Ejerfortegnelsen fordi ESR bliver udfaset. Det forventes at 350.000 objekter bliver opdateret hen over weekenden.
-
-Dette vil medføre, at der bliver udsendt ekstraordinært mange hændelser og større deltafiludtræk.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Status: I gang&#xD;
-Sagsreference: 44563&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28408</id>
     <title
       type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
@@ -245,24 +204,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44577</id>
-    <title
-      type="text">Manglende besked om filudtræk er klar</title>
-    <updated>2023-09-25T07:02:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44577" />
-    <content
-      type="text">Besked: Manglende besked om filudtræk er klar
-
-25-09-2023: Der mangler besked om filudtræk er klar til download.  Filudtrækket er der dog, men beskeden om det er klar mangler.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 44577&#xD;
 </content>
   </entry>
   <entry>
