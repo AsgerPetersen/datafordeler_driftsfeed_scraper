@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-27T09:00:29Z</updated>
+  <updated>2023-09-27T10:49:58Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -162,6 +162,26 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 28524&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44652</id>
+    <title
+      type="text">SFTP download af filudtræk er meget langsom.</title>
+    <updated>2023-09-27T10:49:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44652" />
+    <content
+      type="text">Besked: SFTP download af filudtræk er meget langsom.
+
+27.09.2023 klokken 12:00: Man kan i øjeblikket opleve download af filudtræk fra ftp2.datafordeler.dk er meget langsom og der kan opleves, at forbindelsen lukkes.
+
+Der arbejdes på at løse fejlen.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44652&#xD;
 </content>
   </entry>
   <entry>
