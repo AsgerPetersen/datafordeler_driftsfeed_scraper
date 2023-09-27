@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-26T16:11:46Z</updated>
+  <updated>2023-09-27T06:58:27Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -86,12 +86,12 @@ Sagsreference: 28543&#xD;
     <id>29858</id>
     <title
       type="text">Skærmkortet for juli 2023 er opdateret. Næste opdatering planlægges til september 2023.</title>
-    <updated>2023-09-26T08:47:16Z</updated>
+    <updated>2023-09-27T06:58:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet bliver opdateret i uge 39 i september 2023.&#xD;
+      type="text">Besked: Skærmkortet planlagt opdatering primo oktober 2023.&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
@@ -234,16 +234,14 @@ Sagsreference: 44146&#xD;
     <id>44556</id>
     <title
       type="text">MAT2 Dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2023-09-25T08:57:10Z</updated>
+    <updated>2023-09-27T06:58:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44556" />
     <content
       type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
 
-25.09.2023 klokken 11:00: Der bliver fortsat arbejdet på at løse problemet.
-
-22.09.2023 klokken 15:15: Der arbejdes fortsat på at løse problemet.
+26.09.2023 klokken 14:00: Der bliver fortsat arbejdet på at løse problemet.
 
 22.09.2023 klokken 10:15: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 22.09.2023 klokken 07:06:43&#xD;
 Register: Matriklen (MAT)&#xD;
