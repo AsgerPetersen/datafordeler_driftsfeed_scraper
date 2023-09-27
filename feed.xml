@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-27T10:49:58Z</updated>
+  <updated>2023-09-27T12:29:22Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -250,6 +250,94 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44657</id>
+    <title
+      type="text">Manglende levering af prædefinerede filudtræk</title>
+    <updated>2023-09-27T12:29:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44657" />
+    <content
+      type="text">Besked: Manglende levering af prædefinerede filudtræk.
+
+27.09.2023 klokken 14:20: Flere prædefinerede filudtræk er ikke blevet leveret, som forventet  i begyndelsen af ugen eller dagligt: 
+
+
+
+Register
+Filudtræk
+Senest leveret
+
+
+BBR
+BBR Totaludtraek Complete XML_HF
+20230917
+
+
+BBR
+BBR Totaludtraek Complete JSON_HF
+20230910
+
+
+DAGI
+DAGI10MULTIGEOMHIST_TAB
+20230919
+
+
+MAT
+MatrikelGeometriGaeldendeDKComplete_gpkg
+20230919
+
+
+MAT
+MatrikelGeometriGaeldendeDKComplete_GML
+20230917
+
+
+MAT
+MatrikelGeometriGaeldendeDKComplete_gpkg_daily
+20230921
+
+
+MAT
+MatrikelGeometriGaeldendeDKComplete_GML_daily 
+20230920
+
+
+MAT
+MatrikelGeometriGaeldendeKommuneComplete_gpkg
+20230507
+
+
+MAT
+MatrikelGeometriGaeldendeKommuneComplete_GML
+20230507
+
+
+MAT
+MAT Totaludtraek Hist Complete XML_HF
+20230917
+
+
+MAT2
+MAT Registerdata Totaludtræk Complete XML
+20230917
+
+
+
+
+
+
+ Der arbejdes på at løse problemet.
+
+ &#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44657&#xD;
 </content>
   </entry>
   <entry>
