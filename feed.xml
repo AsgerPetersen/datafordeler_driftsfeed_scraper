@@ -5,83 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-28T08:13:00Z</updated>
-  <entry>
-    <id>27373</id>
-    <title
-      type="text">Overgang fra OCES2 til OCES3 certifikater på Datafordeleren</title>
-    <updated>2023-08-18T08:34:23Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/27373" />
-    <content
-      type="text">Besked: Overgang fra OCES2 til OCES3 certifikater på Datafordeleren.
-
-Det berører tjenestebrugeres anvendelse af FOCES og VOCES på Datafordeleren. Bemærk: Udfasning af OCES2 læs mere her https://www.mitid-erhverv.dk/avanceret/certifikater/
-
- 
-
- 
-
- 
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: I gang&#xD;
-Sagsreference: 27373&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>28543</id>
-    <title
-      type="text">Matriklen2 åbnet på Datafordeleren</title>
-    <updated>2023-06-15T10:29:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28543" />
-    <content
-      type="text">Besked: Matriklen2 åbnet på Datafordeleren
-
-Der er åbnet en version af Matriklen2 fra Geodatastyrelsen på Datafordeleren torsdag den 15. juni 2023. 
-
-Der er paralleldrift mellem Matriklen2 og de eksisterende tjenester fra Matriklen frem til den 15. december 2023. Herefter lukker de eksisterende tjenester i Matriklen, og Matriklen2 fortsætter.
-
-Dataopdateringen for Matriklen2 og Matriklen er planlagt til synkron opdatering.
-
-Matriklen2 indeholder en modelændring, som retter op på fejl og en række uhensigtsmæssigheder, samt tilføjer data med stedfæstelse af bygning på fremmed grund.
-
-Der er fundet følgende fejl i forbindelse med lanceringen af det nye register. Fejlene forventes rettet efter transitionen til ny leverandør af Datafordeleren.
-
-	Dataopdateringen på Matriklen2 kører langsommere i produktionsmiljøet end for Matriklen. Data er derfor ikke synkrone mellem de to registres tjenester. Der arbejdes på at løse problemet med langsom dataopdatering for Matriklen2.
-
-
-
-
-
-	Det kommunale prædefinerede filudtræk MATkortdataGaeldendeKommuneComplete endnu ikke er implementeret pga. en fejl.
-
-
-
-
-
-	Hændelser for Bygning På Fremmed Grund Punkt udsendes ikke
-
-
-
-
-
-	Matriklen2: Ingen data på Test06
-
-
-
-Læs mere om Matriklen2 i dokumentationen: https://confluence.sdfi.dk/x/LQAGBg&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Webservice, Filudtræk, Hændelser&#xD;
-Status: I gang&#xD;
-Sagsreference: 28543&#xD;
-</content>
-  </entry>
+  <updated>2023-09-28T11:40:06Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -125,23 +49,30 @@ Sagsreference: 44597&#xD;
 </content>
   </entry>
   <entry>
-    <id>28408</id>
+    <id>44648</id>
     <title
-      type="text">Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke</title>
-    <updated>2023-09-25T12:43:40Z</updated>
+      type="text">NemLog-in udfaser OCES2 certifikater den 31. oktober 2023  </title>
+    <updated>2023-09-28T11:40:06Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/28408" />
+      href="https://datafordeler.dk/drift/meddelelser/44648" />
     <content
-      type="text">Besked: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke
+      type="text">Besked: NemLog-in udfaser OCES2 certifikater den 31. oktober 2023
 
-25-09-2023: Der arbejdes fortsat på at få løst problemet.
+Husk at skifte til OCES3 certifikat inden den 31. oktober 2023 på dine tjenestebruger, der anvender FOCES og VOCES på Datafordeleren. Bemærk at der bliver anvendt testcertifikater på Test04 miljøet - ikke produktionscertifikater.
 
-06-06-2023: Kommunevise landsdækkende Matrikelkort i GeoPackage format opdateres ikke.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 28408&#xD;
+Vær opmærksom på at du ikke kan have flere igangværende login sessioner i samme browser, når du skifter certifikat på datafordeler.dk. Start eventuelt browser igen kun for at skifte certifikat med ren cache i browser, så en tidligere session ikke blokerer.
+
+Læs om Tjenestebruger - overgang til OCES3 
+
+Læs mere udfasning af OCES2: https://www.mitid-erhverv.dk/avanceret/certifikater/
+
+Læs om migrering af certifikater:  https://migrering.nemlog-in.dk/mitid-erhverv/sporgsmal-og-svar/certifikater/&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 44648&#xD;
+Forventet fra: 01-01-0001 00:00:00&#xD;
+Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
