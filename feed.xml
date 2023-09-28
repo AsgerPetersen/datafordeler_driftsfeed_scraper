@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-09-28T06:04:19Z</updated>
+  <updated>2023-09-28T08:13:00Z</updated>
   <entry>
     <id>27373</id>
     <title
@@ -168,46 +168,20 @@ Sagsreference: 28524&#xD;
     <id>44652</id>
     <title
       type="text">SFTP download af filudtræk er meget langsom.</title>
-    <updated>2023-09-27T10:49:58Z</updated>
+    <updated>2023-09-28T08:13:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44652" />
     <content
       type="text">Besked: SFTP download af filudtræk er meget langsom.
 
-27.09.2023 klokken 12:00: Man kan i øjeblikket opleve download af filudtræk fra ftp2.datafordeler.dk er meget langsom og der kan opleves, at forbindelsen lukkes.
+27.09.2023 klokken 12:00: Man kan i øjeblikket opleve download af filudtræk fra ftp2.datafordeler.dk er meget langsom og oplevelsen kan være, at forbindelsen bliver lukket.
 
-Der arbejdes på at løse fejlen.&#xD;
+Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44652&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44639</id>
-    <title
-      type="text">Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.</title>
-    <updated>2023-09-27T09:00:29Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44639" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.
-
-27.09.2023 klokken 10:45: Problemet med at der kan opleves længere svartider og / eller time out på tværs af alle de webbaseret tjenester er løst.
-
-26.09.2023 klokken 18:15: Der vil fortsat kunne forekomme længere svartider og / eller time out på tværs af alle de webbaseret tjenester.
-
-26.09.2023 klokken 16:45: Problemet er genopstået og man vil derfor fortsat kunne opleve lange svartider og / eller time out, ved forespørgsler på alle de webbaseret tjenester. Der arbejdets med høj prioritet for at få løst problemet.
-
-26.09.2023 klokken 16:15: Problemet er blevet løst.
-
-26.09.2023 klokken 15:30: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle de webbaseret tjenester. Der arbejdets med høj prioritet for at løse dette.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 44639&#xD;
 </content>
   </entry>
   <entry>
@@ -256,7 +230,7 @@ Sagsreference: 44146&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-09-28T06:04:19Z</updated>
+    <updated>2023-09-28T08:12:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
@@ -281,7 +255,7 @@ Register - Filudtræk 
 
 
 
- Der arbejdes på at løse problemet.&#xD;
+ Der bliver arbejdet på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
