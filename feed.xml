@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-02T09:28:52Z</updated>
+  <updated>2023-10-02T10:09:32Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -219,17 +219,18 @@ Sagsreference: 44556&#xD;
     <id>44702</id>
     <title
       type="text">Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.</title>
-    <updated>2023-10-02T09:28:52Z</updated>
+    <updated>2023-10-02T10:09:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44702" />
     <content
       type="text">Besked: Man kan i øjeblikket opleve lange svartider og / eller time out ved forespørgsler på alle webbaseret tjenester.
 
+02.10.2023 klokken 12:15: Problemet er løst.
 02.10.2023 klokken 11:30: Der arbejdes på at løse problemet. Ny status følger.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44702&#xD;
 </content>
   </entry>
