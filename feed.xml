@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-02T10:09:32Z</updated>
+  <updated>2023-10-03T08:05:37Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -161,12 +161,14 @@ Sagsreference: 44146&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-10-02T08:47:02Z</updated>
+    <updated>2023-10-03T08:05:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
     <content
       type="text">Besked: Manglende levering af prædefinerede filudtræk.
+
+03.10.2023 klokken 10:05: Der er tilføjet 2 GeoDanmark Vektor filudtræk, der ikke er leverer i denne uge.  Der bliver fortsat arbejdet på at løse problemet.
 
 02.10.2023 klokken 10:30: Der bliver fortsat arbejdet på at løse problemet.
 
@@ -177,6 +179,8 @@ Register - Filudtræk 
 	BBR-BBR Totaludtraek Complete XML_HF 
 	BBR-BBR Totaludtraek Complete JSON_HF 
 	DAGI-DAGI10MULTIGEOMHIST_TAB 
+	GeoDKV-GeoDanmark60_GML321
+	GeoDKV-GeoDanmark60_SHP
 	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg 
 	MAT-MatrikelGeometriGaeldendeDKComplete_GML 
 	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg_daily 
