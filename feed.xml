@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-03T08:05:37Z</updated>
+  <updated>2023-10-03T08:54:41Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -19,33 +19,6 @@
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44597</id>
-    <title
-      type="text">Adgang til filudtræk fra KMD bliver lukket den 30. september 2023</title>
-    <updated>2023-09-25T11:14:52Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44597" />
-    <content
-      type="text">Besked: Adgang til filudtræk fra KMD bliver lukket den 30. september 2023
-
-Adgang til at hente filudtræk leveret af KMD før transitionen den 4. september 2023 er åbent frem til den 30. september.
-
-Herefter bliver der lukket for adgang til filudtræk via:
-
-	legacy-ftp2.datafordeler.dk
-	legacy-ftp3.datafordeler.dk
-
-
-
-Vi anbefaler, at du kontrollerer, om alle tidligere bestilte filudtræk er hentet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 44597&#xD;
 </content>
   </entry>
   <entry>
@@ -119,7 +92,7 @@ Sagsreference: 44652&#xD;
     <id>29831</id>
     <title
       type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
-    <updated>2023-08-25T08:24:20Z</updated>
+    <updated>2023-10-03T08:54:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29831" />
@@ -128,7 +101,7 @@ Sagsreference: 44652&#xD;
 
 Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
 
-25.08.2023: Der arbejdets på at løse problemet.&#xD;
+25.08.2023: Der bliver arbejdet på at løse problemet.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -139,16 +112,14 @@ Sagsreference: 29831&#xD;
     <id>44146</id>
     <title
       type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
-    <updated>2023-09-26T08:44:58Z</updated>
+    <updated>2023-10-03T08:53:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44146" />
     <content
       type="text">Besked: Brugerdefinerede GeoDanmark og DHM filudtræk leveres ikke i MDB formatet 
 
-Efter transitionen bliver MDB formatet ikke længere leveret. 
-
-Det er ved at blive afklaret, hvorvidt MDB formatet igen vil være tilgængeligt.
+Det er ved at blive afklaret, hvornår MDB formatet igen vil være tilgængeligt.
 
  &#xD;
 Register: GeoDanmark Vektor&#xD;
@@ -161,7 +132,7 @@ Sagsreference: 44146&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-10-03T08:05:37Z</updated>
+    <updated>2023-10-03T08:48:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
@@ -169,8 +140,6 @@ Sagsreference: 44146&#xD;
       type="text">Besked: Manglende levering af prædefinerede filudtræk.
 
 03.10.2023 klokken 10:05: Der er tilføjet 2 GeoDanmark Vektor filudtræk, der ikke er leverer i denne uge.  Der bliver fortsat arbejdet på at løse problemet.
-
-02.10.2023 klokken 10:30: Der bliver fortsat arbejdet på at løse problemet.
 
 27.09.2023 klokken 14:20: Flere prædefinerede filudtræk er ikke blevet leveret, som forventet  i begyndelsen af ugen eller dagligt: 
 
@@ -195,28 +164,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografisk
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44657&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44556</id>
-    <title
-      type="text">MAT2 Dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2023-09-29T09:44:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44556" />
-    <content
-      type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
-
-29.09.2023 klokken 11:45: Problemet er løst og MAT2 dataopdatering er tilbage i normal drift.
-
-26.09.2023 klokken 14:00: Der bliver fortsat arbejdet på at løse problemet.
-
-22.09.2023 klokken 10:15: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 22.09.2023 klokken 07:06:43&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44556&#xD;
 </content>
   </entry>
   <entry>
