@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-03T08:54:41Z</updated>
+  <updated>2023-10-03T08:56:48Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -52,7 +52,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-09-15T08:39:13Z</updated>
+    <updated>2023-10-03T08:56:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
@@ -61,7 +61,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 
 Aktuelt optræder der en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.
 
-15.09.2023: Der arbejdets fortsat på at løse problemet.&#xD;
+15.09.2023: Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
