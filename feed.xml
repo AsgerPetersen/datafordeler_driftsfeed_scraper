@@ -89,26 +89,6 @@ Sagsreference: 44652&#xD;
 </content>
   </entry>
   <entry>
-    <id>29831</id>
-    <title
-      type="text">Fejl i nogle HF tjenester med tomme værdier.</title>
-    <updated>2023-10-03T08:54:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29831" />
-    <content
-      type="text">Besked: Fejl i nogle HF tjenester med tomme værdier.
-
-Man kan i øjeblikket opleve null værdier i nogle json filer for EJF,MAT,EBR
-
-25.08.2023: Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 29831&#xD;
-</content>
-  </entry>
-  <entry>
     <id>44146</id>
     <title
       type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
