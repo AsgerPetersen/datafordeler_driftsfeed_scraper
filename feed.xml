@@ -5,19 +5,21 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-06T08:38:27Z</updated>
+  <updated>2023-10-06T08:43:28Z</updated>
   <entry>
     <id>29858</id>
     <title
       type="text">Skærmkortet for juli 2023 er opdateret. Næste opdatering planlægges til september 2023.</title>
-    <updated>2023-09-27T06:58:08Z</updated>
+    <updated>2023-10-06T08:43:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet planlagt opdatering primo oktober 2023.&#xD;
+      type="text">Besked: Skærmkortet er opdateret primo oktober 2023.
+
+06.10.2023 Skærmkortet er opdateret med seneste version.&#xD;
 Register: Skærmkortet&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29858&#xD;
 </content>
   </entry>
@@ -92,12 +94,12 @@ Sagsreference: 44652&#xD;
     <id>44146</id>
     <title
       type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
-    <updated>2023-10-03T08:53:42Z</updated>
+    <updated>2023-10-06T08:40:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44146" />
     <content
-      type="text">Besked: Brugerdefinerede GeoDanmark og DHM filudtræk leveres ikke i MDB formatet 
+      type="text">Besked: Brugerdefinerede GeoDanmark og DHM filudtræk bliver ikke leveret i MDB
 
 Det er ved at blive afklaret, hvornår MDB formatet igen vil være tilgængeligt.
 
