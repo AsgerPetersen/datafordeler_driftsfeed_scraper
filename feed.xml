@@ -17,8 +17,10 @@
     <content
       type="text">Besked: Skærmkortet bliver opdateret primo oktober 2023.&#xD;
 Register: Skærmkortet&#xD;
-Status: I gang&#xD;
+Status: Datafo&#xD;
 Sagsreference: 29858&#xD;
+Status: I gang&#xD;
+Sagsreference: 44786&#xD;
 </content>
   </entry>
   <entry>
@@ -44,7 +46,34 @@ Læs om migrering af certifikater:  https://migrering.nemlog-in.dk/mitid-erhver
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 44648&#xD;
-Forventet fra: 01-01-0001 00:00:00&#xD;
+Forventet fra: 01-01-0001 00:00:00af prædefinerede filudtræk.
+
+06.10.2023 klokken 10:05: Der er tilføjet 2 GeoDanmark Vektor filudtræk, der ikke er leveret i denne uge.  Der bliver fortsat arbejdet på at løse problemet.
+
+27.09.2023 klokken 14:20: Flere prædefinerede filudtræk er ikke blevet leveret, som forventet  i begyndelsen af ugen eller dagligt: 
+
+Register - Filudtræk 
+
+	BBR-BBR Totaludtraek Complete XML_HF 
+	BBR-BBR Totaludtraek Complete JSON_HF 
+	DAGI-DAGI10MULTIGEOMHIST_TAB 
+	GeoDKV-GeoDanmark60_GML321
+	GeoDKV-GeoDanmark60_SHP
+	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg 
+	MAT-MatrikelGeometriGaeldendeDKComplete_GML 
+	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg_daily 
+	MAT-MatrikelGeometriGaeldendeDKComplete_GML_daily 
+	MAT-MatrikelGeometriGaeldendeKommuneComplete_gpkg 
+	MAT-MatrikelGeometriGaeldendeKommuneComplete_GML 
+	MAT-MAT Totaludtraek Hist Complete XML_HF 
+	MAT2-MAT Registerdata Totaludtræk Complete XML 
+
+&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 44657&#xD;
+deler.dk/DAR/DAR/2.&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
