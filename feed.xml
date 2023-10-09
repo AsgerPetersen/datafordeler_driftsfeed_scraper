@@ -73,25 +73,6 @@ Periode slut: 12-10-2023 21:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>44786</id>
-    <title
-      type="text">Datafordeler TEST06 er i øjeblikket utilgængeligt.</title>
-    <updated>2023-10-09T07:18:45Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44786" />
-    <content
-      type="text">Besked: Datafordeler TEST06 er i øjeblikket utilgængeligt.
-
-09.10.2023 klokken 09:15: TEST06 er tilgængelig igen. Miljøet var tilgængeligt den 06.10. efter klokken 17:30.
-
-06.10.2023 klokken 11:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen&#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 44786&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
