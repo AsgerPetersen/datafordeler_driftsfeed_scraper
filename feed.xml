@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-06T12:27:02Z</updated>
+  <updated>2023-10-09T07:18:45Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -52,16 +52,18 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>44786</id>
     <title
       type="text">Datafordeler TEST06 er i øjeblikket utilgængeligt.</title>
-    <updated>2023-10-06T09:41:05Z</updated>
+    <updated>2023-10-09T07:18:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44786" />
     <content
       type="text">Besked: Datafordeler TEST06 er i øjeblikket utilgængeligt.
 
+09.10.2023 klokken 09:15: TEST06 er tilgængelig igen. Miljøet var tilgængeligt den 06.10. efter klokken 17:30.
+
 06.10.2023 klokken 11:30: Der arbejdes med høj prioritet for at gøre miljøet tilgængeligt igen&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 44786&#xD;
 </content>
   </entry>
