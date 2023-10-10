@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-10T09:56:12Z</updated>
+  <updated>2023-10-10T10:07:07Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -52,18 +52,22 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>44831</id>
     <title
       type="text">TEST03, TEST04 og TEST06 servicevinduer den 10. og 11. oktober</title>
-    <updated>2023-10-10T09:56:12Z</updated>
+    <updated>2023-10-10T10:07:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44831" />
     <content
       type="text">Besked: TEST03, TEST04 og TEST06 servicevinduer den 10. og 11. oktober
 
-	TEST03: Tirsdag den 10. oktober, klokken 9.00 - 12.00 (cirka tidspunkter)
+	TEST03: Tirsdag den 10. oktober, klokken 09.00 - 12.00 (cirka tidspunkter)
 	TEST04: Tirsdag den 10. oktober, klokken 12.00 - 15.00 (cirka tidspunkter)
-	TEST06: Onsdag den 11. oktober, klokken 9.00 12.00  (cirka tidspunkter)
+	TEST06: Onsdag den 11. oktober, klokken 09.00 - 12.00 (cirka tidspunkter)
 
 
+
+Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i dette tidsrum.
+
+PUSH-hændelser vil blive stoppet i løbet af servicevinduet og genstartet, så der kan brugere opleve en forsinkelse.
 
  &#xD;
 Register: Alle&#xD;
@@ -162,7 +166,7 @@ Sagsreference: 44146&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-10-10T08:45:34Z</updated>
+    <updated>2023-10-10T10:04:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
@@ -183,7 +187,7 @@ Sagsreference: 44146&#xD;
 
 
 
-Følgende filudtræk der stadig mangler at blive leveret: 
+Følgende filudtræk mangler stadig at blive leveret: 
 
 Register - Filudtræk  
 
@@ -192,7 +196,9 @@ Register - Filudtræk  
 	MAT-MatrikelGeometriGaeldendeKommuneComplete_gpkg 
 	MAT-MatrikelGeometriGaeldendeKommuneComplete_GML 
 
-&#xD;
+
+
+Der bliver arbejdet på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
