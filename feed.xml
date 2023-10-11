@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-11T13:13:08Z</updated>
+  <updated>2023-10-11T11:15:31Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -160,25 +160,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44948</id>
-    <title
-      type="text">Ændringer bliver ikke vist på datafordeler.dk/Drift</title>
-    <updated>2023-10-11T13:13:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44948" />
-    <content
-      type="text">Besked: Ændringer bliver ikke vist på datafordeler.dk/Drift
-
-Vi arbejder på at finde fejlen.
-
- &#xD;
-Register: Alle&#xD;
-Status: I gang&#xD;
-Sagsreference: 44948&#xD;
 </content>
   </entry>
   <entry>
