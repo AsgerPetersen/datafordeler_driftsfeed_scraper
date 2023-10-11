@@ -5,17 +5,17 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-10T13:15:34Z</updated>
+  <updated>2023-10-11T11:07:42Z</updated>
   <entry>
     <id>29858</id>
     <title
       type="text">Skærmkortet for juli 2023 er opdateret. Næste opdatering planlægges til september 2023.</title>
-    <updated>2023-10-06T12:27:02Z</updated>
+    <updated>2023-10-11T11:07:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet bliver opdateret primo oktober 2023.&#xD;
+      type="text">Besked: Skærmkortet bliver opdateret uge 42 i oktober 2023.&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
@@ -203,28 +203,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografisk
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44657&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44843</id>
-    <title
-      type="text">BBR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-10-10T13:15:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44843" />
-    <content
-      type="text">Besked: BBR dataopdatering stoppet i produktionsmiljøet.
-
-10.10.2023 klokken 15:00: Problemet er løst, men der opbygget en kø af pakker op der i gang med at blive indlæst.
-
-10.10.2023 klokken 13:00: BBR dataopdatering er stoppet i produktionsmiljøjet, sidste dataopdatering var 09.10.2023 klokken 15:01:25
-
-Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44843&#xD;
 </content>
   </entry>
 </feed>
