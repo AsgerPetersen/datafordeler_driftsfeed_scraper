@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-11T11:15:31Z</updated>
+  <updated>2023-10-12T10:43:57Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -160,6 +160,26 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>44980</id>
+    <title
+      type="text">BR dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-10-12T10:43:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/44980" />
+    <content
+      type="text">Besked: BR dataopdatering stoppet i produktionsmiljøet
+
+12.10.2023 klokken 12:45: BBR dataopdatering er stoppet i produktionsmiljøjet. Sidste dataopdatering var 12.10.2023 klokken 11:46:44.
+
+Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 44980&#xD;
 </content>
   </entry>
   <entry>
