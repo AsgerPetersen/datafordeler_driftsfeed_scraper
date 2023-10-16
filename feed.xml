@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-14T07:34:37Z</updated>
+  <updated>2023-10-16T06:59:43Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -25,7 +25,7 @@ Sagsreference: 29858&#xD;
     <id>45002</id>
     <title
       type="text">NemLog-in medarbejdercertifikat (MOCES) udfases den 31. oktober 2023</title>
-    <updated>2023-10-14T07:34:37Z</updated>
+    <updated>2023-10-16T06:59:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45002" />
@@ -40,9 +40,9 @@ Hvis du får overført dit MOCES til MitID erhverv, kan du logge ind med MitID e
 
 Vær opmærksom på, at du kan miste din adgang til webbruger, og tilhørende tjenestebrugere, efter 31. oktober 2023, hvis du ikke har fået overflyttet dit MOCES certifikat til MitID erhverv.
 
-Læs mere om Webbrugere på [https://confluence.sdfi.dk/x/t4PQ]  
+Læs mere om Webbrugere på https://confluence.sdfi.dk/x/t4PQ   
 
-Læs mere om overgangen til MitID erhverv på [https://mitid-erhverv.dk/avanceret]
+Læs mere om overgangen til MitID erhverv på https://mitid-erhverv.dk/avanceret 
 
 Bemærk, at der bliver anvendt Test login til MitID på Test04 miljøet. Hvis du har behov for overførsel til MitID test henviser vi til at kontakte NemLog-in om muligheden https://www.nemlog-in.dk/vejledningertiltestmiljo/kontakt/&#xD;
 Register: Alle&#xD;
