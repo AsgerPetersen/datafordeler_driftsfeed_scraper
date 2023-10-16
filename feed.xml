@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-16T09:26:57Z</updated>
+  <updated>2023-10-16T12:35:14Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -223,39 +223,32 @@ Sagsreference: 44980&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-10-10T10:32:58Z</updated>
+    <updated>2023-10-16T12:35:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
     <content
       type="text">Besked: Manglende levering af prædefinerede filudtræk.
 
-10.10.2023 klokken 10:45: Følgende filudtræk er blevet leveret:  
+16.10.2023 klokken 14:35:
 
-	BBR-BBR Totaludtraek Complete XML_HF 
-	BBR-BBR Totaludtraek Complete JSON_HF 
-	DAGI-DAGI10MULTIGEOMHIST_TAB 
+Følgende filudtræk er forsinkede, leveres om tirsdagen:
+
 	GeoDKV-GeoDanmark60_GML321
 	GeoDKV-GeoDanmark60_SHP
-	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg 
-	MAT-MatrikelGeometriGaeldendeDKComplete_GML_daily 
-	MAT-MAT Totaludtraek Hist Complete XML_HF 
-	MAT2-MAT Registerdata Totaludtræk Complete XML 
 
 
 
 Følgende filudtræk mangler stadig at blive leveret: 
 
-Register - Filudtræk  
-
-	MAT-MatrikelGeometriGaeldendeDKComplete_GML 
-	MAT-MatrikelGeometriGaeldendeDKComplete_gpkg_daily 
 	MAT-MatrikelGeometriGaeldendeKommuneComplete_gpkg 
 	MAT-MatrikelGeometriGaeldendeKommuneComplete_GML 
 
 
 
-Der bliver arbejdet på at løse problemet.&#xD;
+Der bliver arbejdet på at løse problemet.
+
+ &#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Matriklen (MAT)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
