@@ -80,62 +80,6 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>44831</id>
-    <title
-      type="text">TEST03, TEST04 og TEST06 servicevinduer den 10. og 11. oktober</title>
-    <updated>2023-10-13T08:53:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44831" />
-    <content
-      type="text">Besked: TEST03, TEST04 og TEST06 servicevinduer den 10. og 11. oktober
-
-	TEST03: Tirsdag den 10. oktober, klokken 09.00 - 12.00 (cirka tidspunkter)
-	TEST04: Tirsdag den 10. oktober, klokken 12.00 - 15.00 (cirka tidspunkter)
-	TEST06: Onsdag den 11. oktober, klokken 09.00 - 12.00 (cirka tidspunkter)
-
-
-
-Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i dette tidsrum.
-
-PUSH-hændelser vil blive stoppet i løbet af servicevinduet og genstartet, så der kan brugere opleve en forsinkelse.
-
-13.10.2023: Servicevinduerne er gennemført og afsluttet som planlagt.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 44831&#xD;
-Periode start: 10-10-2023 09:00:00&#xD;
-Periode slut: 11-10-2023 12:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44808</id>
-    <title
-      type="text">PROD servicevindue torsdag den 12. oktober klokken 17.00 – 21.00</title>
-    <updated>2023-10-13T08:55:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44808" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 12. oktober klokken 17.00 – 21.00
-
-Der er planlagt servicevindue på PROD torsdag den 12. oktober klokken 17.00 – 21.00.
-
-Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i dette tidsrum.
-
-PUSH-hændelser vil blive stoppet i løbet af servicevinduet og genstartet, så der kan brugere opleve en forsinkelse.
-
-13.10.2023: Servicevindue gennemført og afsluttet som planlagt.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 44808&#xD;
-Periode start: 12-10-2023 17:00:00&#xD;
-Periode slut: 12-10-2023 21:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
@@ -195,28 +139,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44980</id>
-    <title
-      type="text">BBR dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-10-12T10:56:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44980" />
-    <content
-      type="text">Besked: BBR dataopdatering stoppet i produktionsmiljøet
-
-12.10.2023 Klokken 12:53: BBR dataopdatering kører igen i normal drift.
-
-12.10.2023 klokken 12:45: BBR dataopdatering er stoppet i produktionsmiljøet. Sidste dataopdatering var 12.10.2023 klokken 11:46:44.
-
-Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 44980&#xD;
 </content>
   </entry>
   <entry>
