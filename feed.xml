@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-20T07:42:49Z</updated>
+  <updated>2023-10-20T08:31:22Z</updated>
   <entry>
     <id>45065</id>
     <title
@@ -150,14 +150,16 @@ Sagsreference: 44652&#xD;
     <id>45069</id>
     <title
       type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-10-20T07:41:07Z</updated>
+    <updated>2023-10-20T08:31:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45069" />
     <content
       type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
 
-20.10.2023 klokken 09:30: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 20.10.2023 klokken 08:18:45&#xD;
+20.10.2023 klokken 09:30: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 20.10.2023 klokken 08:18:45
+
+Der bliver arbejdet på at løse problemet.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
