@@ -5,30 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-20T08:31:22Z</updated>
-  <entry>
-    <id>45065</id>
-    <title
-      type="text">Længere svartider på geografiske data</title>
-    <updated>2023-10-20T07:42:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45065" />
-    <content
-      type="text">Besked: Længere svartider på geografiske data
-
-19.10.2023: Grundet DMI's aktuelle vejrvarsling, vil man kunne opleve længere svartider ved forespørgsler på geografiske data via de webbaserede tjenester.
-
- 
-
- 
-
- &#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 45065&#xD;
-</content>
-  </entry>
+  <updated>2023-10-23T09:11:32Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -128,14 +105,14 @@ Sagsreference: 28524&#xD;
     <id>44652</id>
     <title
       type="text">SFTP download af filudtræk er meget langsom.</title>
-    <updated>2023-10-16T09:26:57Z</updated>
+    <updated>2023-10-23T09:11:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44652" />
     <content
       type="text">Besked: SFTP download af filudtræk er meget langsom.
 
-16.10.2023 klokken 11:30: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket. Der arbejdes på at løse problemet.
+23.10.2023 klokken 11:00: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket. Der arbejdes på at løse problemet.
 
 27.09.2023 klokken 12:00: Man kan i øjeblikket opleve download af filudtræk fra ftp2.datafordeler.dk er meget langsom og oplevelsen kan være, at forbindelsen bliver lukket.
 
@@ -150,16 +127,18 @@ Sagsreference: 44652&#xD;
     <id>45069</id>
     <title
       type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-10-20T08:31:22Z</updated>
+    <updated>2023-10-23T09:04:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45069" />
     <content
       type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
 
+23.10.2023 klokken 11:00: Der bliver fortsat arbejdet på at løse problemet.
+
 20.10.2023 klokken 09:30: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 20.10.2023 klokken 08:18:45
 
-Der bliver arbejdet på at løse problemet.&#xD;
+ &#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -190,14 +169,14 @@ Sagsreference: 44146&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2023-10-19T10:35:34Z</updated>
+    <updated>2023-10-23T09:10:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
     <content
       type="text">Besked: Manglende levering af prædefinerede filudtræk.
 
-19.10.2023 klokken 12:35:
+23.10.2023 klokken 11:00:
 
 Følgende filudtræk mangler stadig at blive leveret: 
 
@@ -206,7 +185,7 @@ Følgende filudtræk mangler stadig at blive leveret: 
 
 
 
-Der bliver arbejdet på at løse problemet.
+Der bliver fortsat arbejdet på at løse problemet.
 
  &#xD;
 Register: Matriklen (MAT)&#xD;
