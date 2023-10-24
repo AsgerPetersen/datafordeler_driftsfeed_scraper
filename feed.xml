@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-24T06:55:11Z</updated>
+  <updated>2023-10-23T09:11:32Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -143,25 +143,6 @@ Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 45069&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45081</id>
-    <title
-      type="text">Test04 log in ikke muligt via nemid</title>
-    <updated>2023-10-24T06:55:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45081" />
-    <content
-      type="text">Besked: Test04 log in ikke muligt via NemID
-
-Man kan i øjeblikket opleve at det ikke er muligt at logge med NemID
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 45081&#xD;
 </content>
   </entry>
   <entry>
