@@ -5,19 +5,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-24T09:35:19Z</updated>
+  <updated>2023-10-24T11:20:47Z</updated>
   <entry>
     <id>45098</id>
     <title
       type="text">Information om datarettelse for EJF</title>
-    <updated>2023-10-24T09:35:19Z</updated>
+    <updated>2023-10-24T11:20:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45098" />
     <content
-      type="text">Besked: Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette gøres i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Ved undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om ca. 585.000 ejerskifter og tilknyttet handelsoplysninger, som er beregnet til at blive rettet.
+      type="text">Besked: Ejerfortegnelsen vil foretage rettelse af dubletter på ejerskifter, og handelsoplysninger, der er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Ved undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttet handelsoplysninger, som er beregnet til at blive rettet.
 
-Rettelsen vil tage ca. 4 dage at gennemføre og vil blive startet kl 08:00 Fredag d. 27/10.
+Rettelsen vil tage cirka 4 dage at gennemføre og vil blive startet klokken 08:00 fredag den 27. oktober.
 
 Dette vil oprette følgende hændelser pr. rettelse: et EjerskifteDelete, et EjerskifteUpdate og et EjerskabsskifteDelete.
 
