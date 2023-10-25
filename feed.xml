@@ -5,19 +5,30 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-24T11:20:47Z</updated>
+  <updated>2023-10-25T06:59:03Z</updated>
   <entry>
     <id>45098</id>
     <title
       type="text">Information om datarettelse for EJF</title>
-    <updated>2023-10-24T11:20:47Z</updated>
+    <updated>2023-10-25T06:59:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45098" />
     <content
-      type="text">Besked: Ejerfortegnelsen vil foretage rettelse af dubletter på ejerskifter, og handelsoplysninger, der er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Ved undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttet handelsoplysninger, som er beregnet til at blive rettet.
+      type="text">Besked: Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette gøres i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Ved undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om ca. 585.000 ejerskifter og tilknyttet handelsoplysninger, som er beregnet til at blive rettet. Påvirket rækker vil have "Forretningshaendelse_tekst" ligmed "Landsdækkende kørsel" og Virkningsaktoer, samt registreringsaktoer ligmed: "GST Landsdækkende kørsel".
 
-Rettelsen vil tage cirka 4 dage at gennemføre og vil blive startet klokken 08:00 fredag den 27. oktober.
+Et eksempel kan ses på BFE 9992678
+
+Ejerskifterne med ID_LOKALID: b49b6d00-e11b-eb4e-9b5a-1018ba5bf12c og
+c0737a22-d9ad-8047-9eeb-764a18fb484d
+
+Handelsoplysninger med ID_lokalID: bd51d45e-58c8-6b40-bf48-fc87b770fa98 og
+d3c18b7e-38bc-984e-b044-8c94b08751c2
+
+Her bliver et af ejerskifterne tilbagerullet og
+handelsoplysningernes samletsum bliver sammenlagt på det gældende ejerskifte.
+
+Rettelsen vil tage ca. 4 dage at gennemføre og vil blive startet kl 08:00 Fredag d. 27/10.
 
 Dette vil oprette følgende hændelser pr. rettelse: et EjerskifteDelete, et EjerskifteUpdate og et EjerskabsskifteDelete.
 
