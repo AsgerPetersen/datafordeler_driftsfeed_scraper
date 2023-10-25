@@ -5,17 +5,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-25T08:45:42Z</updated>
+  <updated>2023-10-25T09:08:30Z</updated>
   <entry>
     <id>45098</id>
     <title
       type="text">Information om datarettelse for EJF</title>
-    <updated>2023-10-25T08:45:42Z</updated>
+    <updated>2023-10-25T09:08:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45098" />
     <content
-      type="text">Besked: Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter, og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Med undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttede handelsoplysninger, som er beregnet til at blive rettet. Påvirkede rækker vil have "Forretningshaendelse_tekst" lig med "Landsdækkende kørsel" og Virkningsaktoer, samt registreringsaktoer lig med: "GST Landsdækkende kørsel".
+      type="text">Besked: Information om dataoprettelse for EJF
+
+Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter, og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Med undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttede handelsoplysninger, som er beregnet til at blive rettet. Påvirkede rækker vil have "Forretningshaendelse_tekst" lig med "Landsdækkende kørsel" og Virkningsaktoer, samt registreringsaktoer lig med: "GST Landsdækkende kørsel".
 
 Se et eksempel kan på BFE 9992678:
 
