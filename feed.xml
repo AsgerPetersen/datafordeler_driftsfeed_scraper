@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-25T09:08:30Z</updated>
+  <updated>2023-10-25T13:36:38Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -140,12 +140,14 @@ Sagsreference: 28524&#xD;
     <id>44652</id>
     <title
       type="text">SFTP download af filudtræk er meget langsom.</title>
-    <updated>2023-10-23T09:11:32Z</updated>
+    <updated>2023-10-25T13:36:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44652" />
     <content
       type="text">Besked: SFTP download af filudtræk er meget langsom.
+
+25.10.2023 klokken 15:30. Der bliver fortsat arbejdet på at løse problemet.
 
 23.10.2023 klokken 11:00: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket. Der arbejdes på at løse problemet.
 
