@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-25T13:37:42Z</updated>
+  <updated>2023-10-26T11:42:09Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -44,13 +44,13 @@ Sagsreference: 45098&#xD;
   <entry>
     <id>29858</id>
     <title
-      type="text">Skærmkortet for oktober 2023 er opdateret. Næste opdatering planlægges til november 2023.</title>
-    <updated>2023-10-17T11:27:45Z</updated>
+      type="text">Næste opdatering af Skærmkort planlægges november 2023.</title>
+    <updated>2023-10-26T11:42:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet er blevet opdateret i uge 42.
+      type="text">Besked: Skærmkortet bliver opdateret i november.
 
 Næste opdatering er forventet primo november. &#xD;
 Register: Skærmkortet&#xD;
