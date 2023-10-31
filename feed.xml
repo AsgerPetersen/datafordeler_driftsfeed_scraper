@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-30T11:48:33Z</updated>
+  <updated>2023-10-31T11:37:18Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -56,6 +56,36 @@ Næste opdatering er forventet primo november. &#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45169</id>
+    <title
+      type="text">Nye geografiske filudtræk på Datafordeleren</title>
+    <updated>2023-10-31T11:37:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45169" />
+    <content
+      type="text">Besked: Nye geografiske filudtræk på Datafordeleren
+
+Den 31. oktober har vi åbnet for geografiske filudtræk via Hangfire service. Det fremgår af filnavnet, at filudtræk bliver leveret via Hangfire. Filnavnet er tilføjet "_HF". En del af de nye filudtræk er i Geopackage format, som GIS-klienterne kan gemme til andre formater.
+
+Se de nye filudtræk i Dataoversigten på datafordeler.dk, hvor de nye filudtræk er markeret med "_HF" i navnet. Opret abonnement med en tjenestebruger ved at logge ind med din webbruger. Dokumentationen er også opdateret. Vi anbefaler, at du skifter til de nye geografiske filudtræk ved lejlighed, fordi formater og teknologi giver bedre muligheder for at benytte data.
+
+Følgende registre har fået nye geografiske filudtræk: 
+
+Læs om nye filudtræk for Danmarks Administrative Geografiske Inddeling (DAGI)
+
+Læs om nye filudtræk for Danmarks Højdemodel (DHM) 
+
+Læs om nye filudtræk for Danske Stednavne
+
+Læs om nye filudtræk for GeoDanmark Vektor&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Højdemodel, Danske Stednavne, GeoDanmark Vektor&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 45169&#xD;
 </content>
   </entry>
   <entry>
