@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-10-31T13:54:44Z</updated>
+  <updated>2023-10-31T14:04:14Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -86,6 +86,26 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Højdem
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45169&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45209</id>
+    <title
+      type="text">Certifikat: Brug Selvbetjeningen til at skifte certifikat</title>
+    <updated>2023-10-31T14:04:14Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45209" />
+    <content
+      type="text">Besked: Certifikat: Brug Selvbetjeningen til at skifte certifikat
+
+Læs i Dokumentationen om, hvordan du skifter certifikat på dine brugere på Datafordeleren og se også en beskrivelse af de mest typiske fejl på https://confluence.sdfi.dk/x/0wFKBg
+
+Vi anbefaler, at du bruger Selvbetjeningen på selfservice.datafordeler.dk til at skifte certifikater.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 45209&#xD;
 </content>
   </entry>
   <entry>
@@ -236,7 +256,7 @@ Sagsreference: 44146&#xD;
     <id>45207</id>
     <title
       type="text">Manglende modtagelse af PUSH hændelser efter den 31. oktober 2023.</title>
-    <updated>2023-10-31T13:54:44Z</updated>
+    <updated>2023-10-31T13:56:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45207" />
