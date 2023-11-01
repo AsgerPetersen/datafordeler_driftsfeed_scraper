@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-01T09:03:08Z</updated>
+  <updated>2023-11-01T11:43:15Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -112,7 +112,7 @@ Sagsreference: 45209&#xD;
     <id>45002</id>
     <title
       type="text">NemLog-in medarbejdercertifikat (MOCES) udfases den 31. oktober 2023</title>
-    <updated>2023-10-16T08:08:45Z</updated>
+    <updated>2023-11-01T11:38:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45002" />
@@ -133,7 +133,7 @@ Læs mere om overgangen til MitID erhverv på https://mitid-erhverv.dk/avanceret
 
 Bemærk, at der bliver anvendt Test login til MitID på Test04 miljøet. Hvis du har behov for overførsel til MitID test henviser vi til at kontakte NemLog-in om muligheden https://www.nemlog-in.dk/vejledningertiltestmiljo/kontakt/&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 45002&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
@@ -143,7 +143,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>44648</id>
     <title
       type="text">NemLog-in udfaser OCES2 certifikater den 31. oktober 2023  </title>
-    <updated>2023-10-30T11:48:33Z</updated>
+    <updated>2023-11-01T11:38:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44648" />
@@ -160,7 +160,7 @@ Læs mere udfasning af OCES2: https://www.mitid-erhverv.dk/avanceret/certifikate
 
 Læs om migrering af certifikater:  https://migrering.nemlog-in.dk/mitid-erhverv/sporgsmal-og-svar/certifikater/&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 44648&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
@@ -170,16 +170,16 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>28524</id>
     <title
       type="text">Fejl i DHM prædefinerede filudtræk</title>
-    <updated>2023-10-03T08:56:48Z</updated>
+    <updated>2023-11-01T11:43:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/28524" />
     <content
       type="text">Besked: Fejl i DHM prædefinerede filudtræk
 
-Aktuelt optræder der en fejl i de prædefinerede filudtræk som består i, at filudtrækket bliver dannet som en korrupt komprimeringsfil. Dette arbejdes der på at løse og en ny status følger.
+Aktuelt optræder der en fejl i de prædefinerede filudtræk, som består i at filudtrækket bliver dannet som en korrupt komprimeringsfil.
 
-15.09.2023: Der bliver arbejdet på at løse problemet.&#xD;
+01.11.2023: Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -190,46 +190,20 @@ Sagsreference: 28524&#xD;
     <id>44652</id>
     <title
       type="text">SFTP download af filudtræk er meget langsom.</title>
-    <updated>2023-10-25T13:36:38Z</updated>
+    <updated>2023-11-01T11:41:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44652" />
     <content
       type="text">Besked: SFTP download af filudtræk er meget langsom.
 
-25.10.2023 klokken 15:30. Der bliver fortsat arbejdet på at løse problemet.
+01.11.2023 klokken 12:30: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket.
 
-23.10.2023 klokken 11:00: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket. Der arbejdes på at løse problemet.
-
-27.09.2023 klokken 12:00: Man kan i øjeblikket opleve download af filudtræk fra ftp2.datafordeler.dk er meget langsom og oplevelsen kan være, at forbindelsen bliver lukket.
-
-Der bliver arbejdet på at løse fejlen.&#xD;
+Der bliver fortsat arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44652&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45069</id>
-    <title
-      type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-11-01T09:03:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45069" />
-    <content
-      type="text">Besked: MAT2 Dataopdatering er stoppet  i produktionsmiljøet.
-
-30.10.2023 klokken 09:00: Problemet er løst og dataopdatering er tilbage i normal drift.
-
-20.10.2023 klokken 09:30: MAT2 dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 20.10.2023 klokken 08:18:45
-
- &#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 45069&#xD;
 </content>
   </entry>
   <entry>
@@ -256,14 +230,14 @@ Sagsreference: 44146&#xD;
     <id>45207</id>
     <title
       type="text">Manglende modtagelse af PUSH hændelser efter den 31. oktober 2023.</title>
-    <updated>2023-10-31T13:56:58Z</updated>
+    <updated>2023-11-01T11:37:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45207" />
     <content
       type="text">Besked: Manglende modtagelse af PUSH hændelser efter den 31. oktober 2023.
 
-Hvis man oplever ikke at modtage PUSH hændelser efter den 31. oktober 2023, vær da opmærksom på, om modtagelsen af hændelser er oprettet med en tjenestebruger der anvender certifikat, da dette i så fald vil kræve et gyldigt OCES3 certifikat.&#xD;
+Man kan opleve ikke at modtage PUSH hændelser efter den 31. oktober 2023.  Modtager du ikke hændelser som forventet, vær opmærksom på om tjenesterbrugeren anvender et gyldigt OCES3 certifikat.&#xD;
 Register: Alle&#xD;
 Service: Hændelser&#xD;
 Status: I gang&#xD;
