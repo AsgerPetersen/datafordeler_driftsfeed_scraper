@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-01T11:43:15Z</updated>
+  <updated>2023-11-01T11:55:50Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -204,6 +204,28 @@ Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44652&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45224</id>
+    <title
+      type="text">Forsinkelse på levering af GeoDanmark60_GML321 filudtræk</title>
+    <updated>2023-11-01T11:55:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45224" />
+    <content
+      type="text">Besked: Forsinkelse på levering af GeoDanmark60_GML321 filudtræk.
+
+01.11.2023 klokken 12:45: Man kan i øjeblikket opleve forsinkelse på levering af prædefinerede GeoDanmark60_GML321 filudtræk.
+
+Der bliver arbejdet på at løse problemet. 
+
+ &#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 45224&#xD;
 </content>
   </entry>
   <entry>
