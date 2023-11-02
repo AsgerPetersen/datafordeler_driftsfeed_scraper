@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-02T13:27:22Z</updated>
+  <updated>2023-11-02T13:35:12Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -188,7 +188,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>45266</id>
     <title
       type="text">TEST03, TEST04 og TEST06 servicevindue fredag den 3. november</title>
-    <updated>2023-11-02T12:22:07Z</updated>
+    <updated>2023-11-02T13:35:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45266" />
@@ -197,7 +197,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 
 Der er planlagt servicevindue på TEST03, TEST04 og TEST06 fredag den 3. november i løbet af dagen.
 
-Brugere, der er logget på, kan opleve at blive logget af.&#xD;
+Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i en kort periode.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser&#xD;
 Status: Planlagt&#xD;
