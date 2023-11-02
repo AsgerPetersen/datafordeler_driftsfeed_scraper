@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-02T12:23:53Z</updated>
+  <updated>2023-11-02T12:51:12Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -56,6 +56,24 @@ Næste opdatering er forventet primo november. &#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45269</id>
+    <title
+      type="text">Uregelmæssig adgang til datafordeler.dk</title>
+    <updated>2023-11-02T12:51:12Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45269" />
+    <content
+      type="text">Besked: Uregelmæssig adgang til datafordeler.dk
+
+Man kan opleve, at datafordeler.dk er utilgængelig i kortere perioder på grund af netværksproblemer hos Statens IT. Benyt eventuelt https://selfservice.datafordeler.dk for at tilgå Datafordeleren.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 45269&#xD;
 </content>
   </entry>
   <entry>
@@ -345,14 +363,14 @@ Sagsreference: 44657&#xD;
     <id>45236</id>
     <title
       type="text">*De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS i alle Datafordeler miljøerne*</title>
-    <updated>2023-11-01T14:43:24Z</updated>
+    <updated>2023-11-02T12:37:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45236" />
     <content
       type="text">Besked: De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS, i alle Datafordeler miljøerne
 
-01.11.2023 klokken 15:30: Der arbejdes på at løse problemet. Hentning af DAR offentlige filudtræk via Datafordeler ftp3-serveren er ikke berørt.&#xD;
+01.11.2023 klokken 15:30: Der bliver arbejdet på at løse problemet. Hentning af DAR offentlige filudtræk via Datafordeler ftp3-serveren er ikke berørt.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
