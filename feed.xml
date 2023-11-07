@@ -5,87 +5,20 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-06T13:21:55Z</updated>
-  <entry>
-    <id>45098</id>
-    <title
-      type="text">Information om datarettelse for EJF</title>
-    <updated>2023-10-25T09:08:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45098" />
-    <content
-      type="text">Besked: Information om dataoprettelse for EJF
-
-Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter, og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Med undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttede handelsoplysninger, som er beregnet til at blive rettet. Påvirkede rækker vil have "Forretningshaendelse_tekst" lig med "Landsdækkende kørsel" og Virkningsaktoer, samt registreringsaktoer lig med: "GST Landsdækkende kørsel".
-
-Se et eksempel kan på BFE 9992678:
-
-Ejerskifterne med ID_LOKALID: b49b6d00-e11b-eb4e-9b5a-1018ba5bf12c og
-c0737a22-d9ad-8047-9eeb-764a18fb484d
-
-Handelsoplysninger med ID_lokalID: bd51d45e-58c8-6b40-bf48-fc87b770fa98 og
-d3c18b7e-38bc-984e-b044-8c94b08751c2
-
-Her bliver et af ejerskifterne tilbagerullet og
-handelsoplysningernes samletsum bliver sammenlagt på det gældende ejerskifte.
-
-Rettelsen vil tage cirka 4 dage at gennemføre og vil blive startet klokken 08:00 fredag den 27. oktober.
-
-Dette vil oprette følgende hændelser pr. rettelse: et EjerskifteDelete, et EjerskifteUpdate og et EjerskabsskifteDelete.
-
-Filudtræk og delta udtræk for ejerskifter, ejerskabsskifter, handelsoplysninger og totaludtræk vil også opleve større datamængder i perioden.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 45098&#xD;
-</content>
-  </entry>
+  <updated>2023-11-07T09:11:55Z</updated>
   <entry>
     <id>29858</id>
     <title
-      type="text">Næste opdatering af Skærmkort planlægges november 2023.</title>
-    <updated>2023-10-26T11:42:09Z</updated>
+      type="text">Skærmkortet planlagt opdatering i uge 45</title>
+    <updated>2023-11-07T09:11:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet bliver opdateret i november.
-
-Næste opdatering er forventet primo november. &#xD;
+      type="text">Besked: Skærmkortet planlagt opdatering i uge 45&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 29858&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45169</id>
-    <title
-      type="text">Nye geografiske filudtræk på Datafordeleren</title>
-    <updated>2023-10-31T11:37:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45169" />
-    <content
-      type="text">Besked: Nye geografiske filudtræk på Datafordeleren
-
-Den 31. oktober har vi åbnet for geografiske filudtræk via Hangfire service. Det fremgår af filnavnet, at filudtræk bliver leveret via Hangfire. Filnavnet er tilføjet "_HF". En del af de nye filudtræk er i Geopackage format, som GIS-klienterne kan gemme til andre formater.
-
-Se de nye filudtræk i Dataoversigten på datafordeler.dk, hvor de nye filudtræk er markeret med "_HF" i navnet. Opret abonnement med en tjenestebruger ved at logge ind med din webbruger. Dokumentationen er også opdateret. Vi anbefaler, at du skifter til de nye geografiske filudtræk ved lejlighed, fordi formater og teknologi giver bedre muligheder for at benytte data.
-
-Følgende registre har fået nye geografiske filudtræk: 
-
-Læs om nye filudtræk for Danmarks Administrative Geografiske Inddeling (DAGI)
-
-Læs om nye filudtræk for Danmarks Højdemodel (DHM) 
-
-Læs om nye filudtræk for Danske Stednavne
-
-Læs om nye filudtræk for GeoDanmark Vektor&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Højdemodel, Danske Stednavne, GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 45169&#xD;
 </content>
   </entry>
   <entry>
@@ -106,88 +39,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 45209&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45002</id>
-    <title
-      type="text">NemLog-in medarbejdercertifikat (MOCES) udfases den 31. oktober 2023</title>
-    <updated>2023-11-01T11:38:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45002" />
-    <content
-      type="text">Besked: NemLog-in medarbejdercertifikat (MOCES) udfases den 31. oktober 2023
-
-Husk overførsel til MitID erhverv inden de den 31. oktober 2023 af din webbruger, der er oprettet med MOCES på Datafordeleren.
-
-Det er din egen organisation der skal overføre MOCES certifikater til MitID erhverv.
-
-Hvis du får overført dit MOCES til MitID erhverv, kan du logge ind med MitID erhverv på din eksisterende webbruger efterfølgende.
-
-Vær opmærksom på, at du kan miste din adgang til webbruger, og tilhørende tjenestebrugere, efter 31. oktober 2023, hvis du ikke har fået overflyttet dit MOCES certifikat til MitID erhverv.
-
-Læs mere om Webbrugere på https://confluence.sdfi.dk/x/t4PQ   
-
-Læs mere om overgangen til MitID erhverv på https://mitid-erhverv.dk/avanceret 
-
-Bemærk, at der bliver anvendt Test login til MitID på Test04 miljøet. Hvis du har behov for overførsel til MitID test henviser vi til at kontakte NemLog-in om muligheden https://www.nemlog-in.dk/vejledningertiltestmiljo/kontakt/&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 45002&#xD;
-Forventet fra: 01-01-0001 00:00:00&#xD;
-Forventet til: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44648</id>
-    <title
-      type="text">NemLog-in udfaser OCES2 certifikater den 31. oktober 2023  </title>
-    <updated>2023-11-01T11:38:46Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44648" />
-    <content
-      type="text">Besked: NemLog-in udfaser OCES2 certifikater den 31. oktober 2023
-
-Husk at skifte til OCES3 certifikat inden den 31. oktober 2023 på dine tjenestebruger, der anvender FOCES og VOCES på Datafordeleren. Bemærk at der bliver anvendt testcertifikater på Test04 miljøet - ikke produktionscertifikater.
-
-Vær opmærksom på at du ikke kan have flere igangværende login sessioner i samme browser, når du skifter certifikat på datafordeler.dk. Start eventuelt browser igen kun for at skifte certifikat med ren cache i browser, så en tidligere session ikke blokerer.
-
-Læs om Tjenestebruger - overgang til OCES3 
-
-Læs mere udfasning af OCES2: https://www.mitid-erhverv.dk/avanceret/certifikater/
-
-Læs om migrering af certifikater:  https://migrering.nemlog-in.dk/mitid-erhverv/sporgsmal-og-svar/certifikater/&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 44648&#xD;
-Forventet fra: 01-01-0001 00:00:00&#xD;
-Forventet til: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45266</id>
-    <title
-      type="text">TEST03, TEST04 og TEST06 servicevindue fredag den 3. november</title>
-    <updated>2023-11-06T08:09:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45266" />
-    <content
-      type="text">Besked: TEST03, TEST04 og TEST06 servicevindue fredag den 3. november
-
-06.11.2023: Servicevinduerne er gennemført og afsluttet som planlagt.
-
-Der er planlagt servicevindue på TEST03, TEST04 og TEST06 fredag den 3. november i løbet af dagen.
-
-Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i en kort periode.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 45266&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -212,24 +63,6 @@ Status: Planlagt&#xD;
 Sagsreference: 45264&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45298</id>
-    <title
-      type="text">Dokumentation i Confluence er ikke tilgængelig</title>
-    <updated>2023-11-06T08:34:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45298" />
-    <content
-      type="text">Besked: Dokumentation i Confluence er ikke tilgængelig
-
-Link til Datafordelerens dokumentation i Confluence er ikke aktive, fordi Confluence ikke er tilgængeligt. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: I gang&#xD;
-Sagsreference: 45298&#xD;
 </content>
   </entry>
   <entry>
@@ -312,26 +145,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 44146&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45321</id>
-    <title
-      type="text">MAT Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-11-06T13:21:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45321" />
-    <content
-      type="text">Besked: MAT Dataopdatering stoppet i produktionsmiljøet
-
-06.11.2023 klokken 14:15: Problemet er løst og MAT dataopdatering er tilbage i normal drift.
-
-MAT dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 06.11.2023 klokken 11:19:19. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 45321&#xD;
 </content>
   </entry>
   <entry>
