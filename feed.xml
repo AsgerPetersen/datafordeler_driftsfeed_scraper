@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-07T09:11:55Z</updated>
+  <updated>2023-11-08T08:05:25Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -45,12 +45,14 @@ Sagsreference: 45209&#xD;
     <id>45264</id>
     <title
       type="text">PROD servicevindue tirsdag den 7. november klokken 17.00 – 21.00</title>
-    <updated>2023-11-02T12:23:53Z</updated>
+    <updated>2023-11-08T08:05:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45264" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 7. november klokken 17.00 – 21.00
+
+08.11.2023: Servicevindue gennemført og afsluttet som planlagt.
 
 Der er planlagt servicevindue på PROD tirsdag den 7. november klokken 17.00 – 21.00.
 
@@ -59,7 +61,7 @@ Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i dette tid
  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 45264&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
