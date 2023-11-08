@@ -5,19 +5,20 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-08T08:17:25Z</updated>
+  <updated>2023-11-08T10:09:27Z</updated>
   <entry>
     <id>29858</id>
     <title
-      type="text">Skærmkortet planlagt opdatering i uge 45</title>
-    <updated>2023-11-07T09:11:55Z</updated>
+      type="text">Skærmkortet er opdateret i uge 45</title>
+    <updated>2023-11-08T10:09:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/29858" />
     <content
-      type="text">Besked: Skærmkortet planlagt opdatering i uge 45&#xD;
+      type="text">Besked: Skærmkortet er opdateret i uge 45
+08.11.2023: Skærmkortet er blevet opdateret i dag.&#xD;
 Register: Skærmkortet&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 29858&#xD;
 </content>
   </entry>
@@ -39,32 +40,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 45209&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45264</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 7. november klokken 17.00 – 21.00</title>
-    <updated>2023-11-08T08:05:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45264" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 7. november klokken 17.00 – 21.00
-
-08.11.2023: Servicevindue gennemført og afsluttet som planlagt.
-
-Der er planlagt servicevindue på PROD tirsdag den 7. november klokken 17.00 – 21.00.
-
-Brugere, der er logget på FTP / SFTP, kan opleve at blive logget af i dette tidsrum.
-
- &#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Hændelser&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 45264&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
