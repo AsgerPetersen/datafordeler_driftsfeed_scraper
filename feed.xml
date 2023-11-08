@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-08T10:09:27Z</updated>
+  <updated>2023-11-08T14:16:44Z</updated>
   <entry>
     <id>29858</id>
     <title
@@ -40,6 +40,27 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 45209&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45402</id>
+    <title
+      type="text">PROD servicevindue torsdag den 16. november klokken 19.00 – 21.00</title>
+    <updated>2023-11-08T14:16:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45402" />
+    <content
+      type="text">Besked: PROD servicevindue torsdag den 16. november 2023 klokken 19.00 – 21.00
+
+Der er planlagt servicevindue på PROD torsdag den 16. november 2023 klokken 19.00 – 21.00.
+
+Brugere kan i tidsrummet opleve nedetid på Datafordeleren på op til 10 minutter.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 45402&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
