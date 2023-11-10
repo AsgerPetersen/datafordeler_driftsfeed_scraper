@@ -5,23 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-10T09:35:12Z</updated>
-  <entry>
-    <id>29858</id>
-    <title
-      type="text">Skærmkortet er opdateret i uge 45</title>
-    <updated>2023-11-08T10:09:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/29858" />
-    <content
-      type="text">Besked: Skærmkortet er opdateret i uge 45
-08.11.2023: Skærmkortet er blevet opdateret i dag.&#xD;
-Register: Skærmkortet&#xD;
-Status: Løst&#xD;
-Sagsreference: 29858&#xD;
-</content>
-  </entry>
+  <updated>2023-11-10T09:45:55Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -67,16 +51,16 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>45381</id>
     <title
       type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-11-09T15:39:36Z</updated>
+    <updated>2023-11-10T09:38:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45381" />
     <content
       type="text">Besked: MAT2 Dataopdatering stoppet i produktionsmiljøet
 
-09.11.2023 klokken 13:00: Der bliver fortsat arbejdet på at løse problemet.
+10.11.2023 klokken 10:30: Der bliver fortsat arbejdet på at løse problemet.
 
-MAT2 Dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.11.2023 klokken 17:18:48. Der bliver arbejdet på at løse problemet.&#xD;
+MAT2 Dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 09.11.2023 klokken 13:42:49. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -104,28 +88,6 @@ Sagsreference: 28524&#xD;
 </content>
   </entry>
   <entry>
-    <id>44652</id>
-    <title
-      type="text">SFTP download af filudtræk er meget langsom.</title>
-    <updated>2023-11-09T10:33:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44652" />
-    <content
-      type="text">Besked: SFTP download af filudtræk er meget langsom.
-
-09.11.2023: Problemet er løst og download af filudtræk fra ftp2.datafordeler.dk er i normal drift.
-
-01.11.2023 klokken 12:30: Man kan fortsat opleve, at download af filudtræk fra ftp2.datafordeler.dk er meget langsom, og at forbindelsen bliver lukket.
-
-Der bliver fortsat arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 44652&#xD;
-</content>
-  </entry>
-  <entry>
     <id>45495</id>
     <title
       type="text">Dokumentation i Confluence er ikke tilgængelig</title>
@@ -141,6 +103,22 @@ Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: I gang&#xD;
 Sagsreference: 45495&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45511</id>
+    <title
+      type="text">Skærmkortet planlagt opdatering i januar 2024</title>
+    <updated>2023-11-10T09:45:55Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45511" />
+    <content
+      type="text">Besked: Skærmkortet planlagt opdatering i januar 2024&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 45511&#xD;
 </content>
   </entry>
   <entry>
@@ -163,26 +141,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>44146</id>
-    <title
-      type="text">Brugerdefinerede Geodanmark og DHM filudtræk  leveres ikke i MDB formatet</title>
-    <updated>2023-10-06T08:40:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44146" />
-    <content
-      type="text">Besked: Brugerdefinerede GeoDanmark og DHM filudtræk bliver ikke leveret i MDB
-
-Det er ved at blive afklaret, hvornår MDB formatet igen vil være tilgængeligt.
-
- &#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 44146&#xD;
 </content>
   </entry>
   <entry>
