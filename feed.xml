@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-10T09:49:26Z</updated>
+  <updated>2023-11-10T13:06:59Z</updated>
   <entry>
     <id>45512</id>
     <title
@@ -22,6 +22,39 @@ Register: Danmarks Højdemodel, GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: Løst&#xD;
 Sagsreference: 45512&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45098</id>
+    <title
+      type="text">Information om datarettelse for EJF</title>
+    <updated>2023-11-10T13:06:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45098" />
+    <content
+      type="text">Besked: Information om dataoprettelse for EJF
+
+Ejerfortegnelsen vil foretage rettelse af dublette ejerskifter, og handelsoplysninger, som er tilknyttet ejerskifterne, vil blive sammenlagt. Dette bliver gjort i stedet for at have handelsoplysninger splittet op på to identiske ejerskifter (Med undtagelse af ID_lokalID, som er forskelligt på begge). Der er i alt tale om cirka 585.000 ejerskifter og tilknyttede handelsoplysninger, som er beregnet til at blive rettet. Påvirkede rækker vil have "Forretningshaendelse_tekst" lig med "Landsdækkende kørsel" og Virkningsaktoer, samt registreringsaktoer lig med: "GST Landsdækkende kørsel".
+
+Se et eksempel kan på BFE 9992678:
+
+Ejerskifterne med ID_LOKALID: b49b6d00-e11b-eb4e-9b5a-1018ba5bf12c og
+c0737a22-d9ad-8047-9eeb-764a18fb484d
+
+Handelsoplysninger med ID_lokalID: bd51d45e-58c8-6b40-bf48-fc87b770fa98 og
+d3c18b7e-38bc-984e-b044-8c94b08751c2
+
+Her bliver et af ejerskifterne tilbagerullet og
+handelsoplysningernes samletsum bliver sammenlagt på det gældende ejerskifte.
+
+Dette vil oprette følgende hændelser pr. rettelse: et EjerskifteDelete, et EjerskifteUpdate og et EjerskabsskifteDelete.
+
+Filudtræk og delta udtræk for ejerskifter, ejerskabsskifter, handelsoplysninger og totaludtræk vil også opleve større datamængder i perioden.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 45098&#xD;
 </content>
   </entry>
   <entry>
