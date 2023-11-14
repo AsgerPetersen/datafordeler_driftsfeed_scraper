@@ -177,24 +177,6 @@ Sagsreference: 45224&#xD;
 </content>
   </entry>
   <entry>
-    <id>45207</id>
-    <title
-      type="text">Manglende modtagelse af PUSH hændelser efter den 31. oktober 2023.</title>
-    <updated>2023-11-02T07:51:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45207" />
-    <content
-      type="text">Besked: Manglende modtagelse af PUSH hændelser efter den 31. oktober 2023.
-
-Hvis man oplever ikke at modtage PUSH hændelser efter den 31. oktober 2023, skal man være opmærksom på, om tjenestebrugeren anvender et gyldigt OCES3 certifikat.&#xD;
-Register: Alle&#xD;
-Service: Hændelser&#xD;
-Status: I gang&#xD;
-Sagsreference: 45207&#xD;
-</content>
-  </entry>
-  <entry>
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
