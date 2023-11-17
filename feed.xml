@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-17T07:58:21Z</updated>
+  <updated>2023-11-17T09:48:19Z</updated>
   <entry>
     <id>45512</id>
     <title
@@ -81,12 +81,14 @@ Sagsreference: 45209&#xD;
     <id>45402</id>
     <title
       type="text">PROD servicevindue torsdag den 16. november klokken 19.00 – 21.00</title>
-    <updated>2023-11-17T07:58:21Z</updated>
+    <updated>2023-11-17T09:48:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45402" />
     <content
       type="text">Besked: PROD servicevindue torsdag den 16. november 2023 klokken 19.00 – 21.00
+
+17.11.2023: Servicevindue er gennemført.
 
 Der er planlagt servicevindue på PROD torsdag den 16. november 2023 klokken 19.00 – 21.00.
 
