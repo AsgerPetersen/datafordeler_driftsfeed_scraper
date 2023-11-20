@@ -5,25 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-17T09:48:19Z</updated>
-  <entry>
-    <id>45512</id>
-    <title
-      type="text">MDB formatet er udfaset på Datafordeleren</title>
-    <updated>2023-11-10T09:49:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45512" />
-    <content
-      type="text">Besked: MDB formatet er udfaset på Datafordeleren
-
-Siden 1. september 2023 har det ikke været muligt at hente filudtræk i MDB format på Datafordeleren, fordi konverteringen til MDB ikke længere er teknisk understøttet. Data er tilgængeligt på Datafordeleren i det konvertible GeoPackage format, som kan bruges i de fleste GIS klienter.&#xD;
-Register: Danmarks Højdemodel, GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 45512&#xD;
-</content>
-  </entry>
+  <updated>2023-11-10T13:06:59Z</updated>
   <entry>
     <id>45098</id>
     <title
@@ -75,51 +57,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 45209&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45402</id>
-    <title
-      type="text">PROD servicevindue torsdag den 16. november klokken 19.00 – 21.00</title>
-    <updated>2023-11-17T09:48:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45402" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 16. november 2023 klokken 19.00 – 21.00
-
-17.11.2023: Servicevindue er gennemført.
-
-Der er planlagt servicevindue på PROD torsdag den 16. november 2023 klokken 19.00 – 21.00.
-
-Brugere kan i tidsrummet opleve nedetid på Datafordeleren.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 45402&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45381</id>
-    <title
-      type="text">MAT2 Dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-11-14T12:42:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45381" />
-    <content
-      type="text">Besked: MAT2 Dataopdatering stoppet i produktionsmiljøet
-
-14.11.2023 klokken 13:45: Problemet er løst og MAT2 dataopdatering er tilbage i normal drift.
-
-10.11.2023 klokken 10:30: Der bliver fortsat arbejdet på at løse problemet.
-
-MAT2 Dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 09.11.2023 klokken 13:42:49. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 45381&#xD;
 </content>
   </entry>
   <entry>
