@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-24T09:56:44Z</updated>
+  <updated>2023-11-24T13:38:56Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -46,6 +46,26 @@ Status: Planlagt&#xD;
 Sagsreference: 45831&#xD;
 Periode start: 30-11-2023 16:00:00&#xD;
 Periode slut: 30-11-2023 20:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45856</id>
+    <title
+      type="text">CPR webservices er utilgængelige på Test04</title>
+    <updated>2023-11-24T13:38:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45856" />
+    <content
+      type="text">Besked: CPR webservices er utilgængelige på Test04
+
+24.11.2023, klokken 14:45: Ved kald til CPR webservices på Test04, fås i øjeblikket fejl 'HTTP 500 internal server error'.
+
+Der bliver arbejdet på at løse fejlen.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 45856&#xD;
 </content>
   </entry>
   <entry>
