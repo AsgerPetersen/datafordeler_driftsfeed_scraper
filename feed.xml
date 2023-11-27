@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-24T13:38:56Z</updated>
+  <updated>2023-11-27T11:41:24Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -30,7 +30,7 @@ Sagsreference: 45209&#xD;
     <id>45831</id>
     <title
       type="text">2023 opdatering af GeoDanmark Ortofoto den 30-11-2023</title>
-    <updated>2023-11-24T09:56:44Z</updated>
+    <updated>2023-11-27T11:41:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45831" />
@@ -39,7 +39,7 @@ Sagsreference: 45209&#xD;
 
 Det er planlagt servicevindue på PROD torsdag den 30. november 2023 klokken 17.00 – 21.00.
 
-I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2023 dataopdatering. Anvendere vil kunne forvente en sporadisk nedetid på GeoDanmark Ortofotos WMS- og WMTS-tjenester i det tidsrum inden 2023 data er klar.&#xD;
+I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2023 dataopdatering. Anvendere vil kunne forvente sporadisk nedetid på GeoDanmark Ortofotos WMS- og WMTS-tjenester i det tidsrum inden 2023 data er klar.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice, Filudtræk&#xD;
 Status: Planlagt&#xD;
