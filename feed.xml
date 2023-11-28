@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-27T14:25:11Z</updated>
+  <updated>2023-11-28T11:49:46Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -52,7 +52,7 @@ Periode slut: 30-11-2023 20:00:00&#xD;
     <id>45856</id>
     <title
       type="text">CPR webservices er utilgængelige på Test04</title>
-    <updated>2023-11-27T14:25:11Z</updated>
+    <updated>2023-11-28T11:49:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45856" />
