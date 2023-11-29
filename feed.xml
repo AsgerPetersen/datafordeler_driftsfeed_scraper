@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-28T11:49:46Z</updated>
+  <updated>2023-11-29T11:39:16Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -106,6 +106,26 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46012</id>
+    <title
+      type="text">VUR Dataopdatering stoppet i produktionsmiljøet.</title>
+    <updated>2023-11-29T11:39:16Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46012" />
+    <content
+      type="text">Besked: VUR dataopdatering er stoppet i produktionsmiljøet
+
+29.11.2023 klokken 12:30: VUR dataopdatering er stoppet i produktionsmiljøet.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46012&#xD;
 </content>
   </entry>
   <entry>
