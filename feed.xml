@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-29T11:39:16Z</updated>
+  <updated>2023-11-30T08:52:13Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -106,6 +106,30 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46029</id>
+    <title
+      type="text">CPR webservice på Test04 returnerer tomme objekter</title>
+    <updated>2023-11-30T08:52:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46029" />
+    <content
+      type="text">Besked: CPR webservice på Test04 returnerer tomme objekter
+
+30.11.2023, kokken 09:52: Der er indlæst nye testdata på Test04, som ikke er helt identiske med det tidligere testdatasæt. Derfor kan man opleve at der ikke returneres data for nogle personer.
+
+29.11.2023, klokken 15:45: Ved kald til CPR webservices på Test04, returneres der i øjeblikket ikke data (http status kode 200).
+
+Der bliver arbejdet på at løse fejlen.
+
+ &#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 46029&#xD;
 </content>
   </entry>
   <entry>
