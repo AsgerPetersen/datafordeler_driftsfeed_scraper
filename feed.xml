@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-30T12:42:19Z</updated>
+  <updated>2023-11-30T13:01:43Z</updated>
   <entry>
     <id>45209</id>
     <title
@@ -90,12 +90,14 @@ Sagsreference: 45224&#xD;
     <id>46029</id>
     <title
       type="text">CPR webservice på Test04 returnerer tomme objekter</title>
-    <updated>2023-11-30T12:42:19Z</updated>
+    <updated>2023-11-30T13:01:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46029" />
     <content
       type="text">Besked: CPR webservice på Test04 returnerer tomme objekter
+
+30.11.2023, klokken 13:55: Der vil snarest muligt blive indlæst et nyt CPR testdatasæt, som indeholder de alle tidligere testpersoner.
 
 30.11.2023 klokken 09:52: Der er indlæst nye testdata på Test04, som ikke er helt identiske med det tidligere testdatasæt. Derfor kan man opleve at der ikke returneres data for nogle personer.
 
@@ -106,7 +108,7 @@ Der bliver arbejdet på at løse fejlen.
  &#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Løst&#xD;
+Status: I gang&#xD;
 Sagsreference: 46029&#xD;
 </content>
   </entry>
