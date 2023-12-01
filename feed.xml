@@ -5,7 +5,28 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-11-30T13:01:43Z</updated>
+  <updated>2023-12-01T14:29:10Z</updated>
+  <entry>
+    <id>46063</id>
+    <title
+      type="text">"Det kommunale ejendomsnummer udfases i BBR medio januar 2024"</title>
+    <updated>2023-12-01T14:29:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46063" />
+    <content
+      type="text">Besked: "Det kommunale ejendomsnummer udfases i BBR medio januar 2024"
+
+Vurderingsstyrelsen og UFST oplyser følgende:
+
+"Vurderingsstyrelsen og UFST har besluttet, at ESR – og dermed kommune-ejendomsnummeret (KE-nr.) – fra 1. januar 2024 udfases. Som konsekvens heraf vil alle aktuelt gældende ejendomsrelationer i BBRs-ejendomsrelations-tabel blive opdateret således, at kommune-ejendomsnummeret fremadrettet kun vil fremgå af historikken. BBR-meddelelsen vil fremadrettet være afgrænset til én BFE ejendom. Hvis en BFE ejendom krydser kommunegrænsen, skal der udskrives en BBR-meddelelse for hver kommune hvor BFE ejendommen ligger. Opdateringen forventes at ske medio januar, præcis dato udmeldes senere."
+&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Webservice, Filudtræk, Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 46063&#xD;
+</content>
+  </entry>
   <entry>
     <id>45209</id>
     <title
