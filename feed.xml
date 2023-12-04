@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T11:54:31Z</updated>
+  <updated>2023-12-04T12:09:54Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -161,18 +161,20 @@ Sagsreference: 46012&#xD;
     <id>46080</id>
     <title
       type="text">Fejl kan opleves sporadisk i selvbetjening på datafordeler.dk</title>
-    <updated>2023-12-04T11:24:31Z</updated>
+    <updated>2023-12-04T12:09:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46080" />
     <content
       type="text">Besked: Fejl kan opleves sporadisk på datafordeler.dk
 
-Der kan på nuværende tidspunkt opleves problemer med at oprette en tjenestebruger på datafordeler.dk, med en fejl besked der siger "Du har ikke tilladelse til at udføre denne funktion". Der anbefales at prøve følgende workaround:
+Der kan på nuværende tidspunkt opleves problemer med at oprette en tjenestebruger på datafordeler.dk, med en fejl besked der siger "Du har ikke tilladelse til at udføre denne funktion". Det anbefales at prøve følgende workaround:
 
-Brug den gamle administationsportal: https://selfservice.datafordeler.dk/
+1. Brug https://selfservice.datafordeler.dk/
 
-Log ud -&amp;gt; vent en time -&amp;gt; log in og prøve igen. &#xD;
+Er der stadig problemer med at oprette på selfservice.datafordeler.dk:
+
+2. Log ud -&amp;gt; vent en time -&amp;gt; log in og prøv igen. &#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
