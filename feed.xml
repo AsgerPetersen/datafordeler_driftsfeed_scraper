@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T08:06:33Z</updated>
+  <updated>2023-12-04T08:28:04Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -77,7 +77,7 @@ Sagsreference: 45209&#xD;
     <id>45831</id>
     <title
       type="text">2023 opdatering af GeoDanmark Ortofoto den 30-11-2023</title>
-    <updated>2023-11-27T11:41:24Z</updated>
+    <updated>2023-12-04T08:28:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45831" />
@@ -89,7 +89,7 @@ Det er planlagt servicevindue på PROD torsdag den 30. november 2023 klokken 17.
 I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2023 dataopdatering. Anvendere vil kunne forvente sporadisk nedetid på GeoDanmark Ortofotos WMS- og WMTS-tjenester i det tidsrum inden 2023 data er klar.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice, Filudtræk&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 45831&#xD;
 Periode start: 30-11-2023 16:00:00&#xD;
 Periode slut: 30-11-2023 20:00:00&#xD;
@@ -163,19 +163,21 @@ Sagsreference: 46029&#xD;
     <id>46012</id>
     <title
       type="text">VUR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-11-29T11:39:16Z</updated>
+    <updated>2023-12-04T08:27:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46012" />
     <content
       type="text">Besked: VUR dataopdatering er stoppet i produktionsmiljøet
 
+04.12.2023 klokken 09:30: Problemet er løst og dataopdatering er tilbage i normal drift.
+
 29.11.2023 klokken 12:30: VUR dataopdatering er stoppet i produktionsmiljøet.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 46012&#xD;
 </content>
   </entry>
