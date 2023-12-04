@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T08:28:04Z</updated>
+  <updated>2023-12-04T11:07:30Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -179,6 +179,28 @@ Register: Ejendomsvurdering (VUR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 46012&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46080</id>
+    <title
+      type="text">Fejl kan opleves sporadisk i selvbetjening</title>
+    <updated>2023-12-04T11:07:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46080" />
+    <content
+      type="text">Besked: Fejl kan opleves sporadisk i selvbetjening
+
+Der kan på nuværende tidspunkt opleves problemer med at oprette en tjenestebruger, med en fejl besked der siger "Du har ikke tilladelse til at udføre denne funktion". Der anbefales at prøve følgende workaround:
+
+Brug den gamle administationsportal: https://selfservice.datafordeler.dk/
+
+Log ud -&amp;gt; vent en time -&amp;gt; log in og prøve igen. &#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 46080&#xD;
 </content>
   </entry>
   <entry>
