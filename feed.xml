@@ -5,24 +5,23 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T11:24:31Z</updated>
+  <updated>2023-12-04T11:42:03Z</updated>
   <entry>
     <id>46063</id>
     <title
-      type="text">"Det kommunale ejendomsnummer udfases i BBR medio januar 2024"</title>
-    <updated>2023-12-01T14:45:41Z</updated>
+      type="text">Det kommunale ejendomsnummer udfases i BBR medio januar 2024</title>
+    <updated>2023-12-04T11:42:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46063" />
     <content
-      type="text">Besked: "Det kommunale ejendomsnummer udfases i BBR medio januar 2024"
+      type="text">Besked: Det kommunale ejendomsnummer udfases i BBR medio januar 2024
 
 Vurderingsstyrelsen og UFST oplyser følgende:
 
 "Vurderingsstyrelsen og UFST har besluttet, at ESR – og dermed kommune-ejendomsnummeret (KE-nr.) – fra 1. januar 2024 udfases. Som konsekvens heraf vil alle aktuelt gældende ejendomsrelationer i BBRs-ejendomsrelations-tabel blive opdateret således, at kommune-ejendomsnummeret fremadrettet kun vil fremgå af historikken. BBR-meddelelsen vil fremadrettet være afgrænset til én BFE ejendom. Hvis en BFE ejendom krydser kommunegrænsen, skal der udskrives en BBR-meddelelse for hver kommune hvor BFE ejendommen ligger. Opdateringen forventes at ske medio januar, præcis dato udmeldes senere."
 
-Spørgsmål til ovenstående kan rettes til: bbr@bbr.dk
-&#xD;
+Spørgsmål til ovenstående kan rettes til: bbr@bbr.dk&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
@@ -33,20 +32,20 @@ Sagsreference: 46063&#xD;
     <id>46075</id>
     <title
       type="text">Indsættelse af ejer på hovedejendomme</title>
-    <updated>2023-12-04T08:06:33Z</updated>
+    <updated>2023-12-04T11:38:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46075" />
     <content
       type="text">Besked: Indsættelse af ejer på hovedejendomme
-Der vil fra d. 7. december 2023 blive indsat én fiktiv P/V med navnet ”Opdelt i Ejerlejligheder”, på alle hovedejendomme i Ejerfortegnelsen.
+Der vil fra den 7. december 2023 blive indsat én fiktiv P/V med navnet ”Opdelt i Ejerlejligheder”, på alle hovedejendomme i Ejerfortegnelsen.
 Det vil være den samme fiktive P/V på alle hovedejendomme, som har nummeret: ”9299999912”.
 
 Dette udføres med henblik på at hjælpe anvendere, med at identificere hovedejendomme og dertil sikre forretnings- og dataregler i Ejerfortegnelsen.
-Den fiktive p/v (ejer) vil blive påført alle aktive gældende hovedejendomme, samt påføres nyopstået hovedejendomme fra d. 7. december 2023 og fremadrettet.
-Overtagelsesdatoen vil blive sat til 01.11.2023 på alle ejerskaber oprettet d. 7. december, og fremadrettet sættes overtagelsesdato til den dato, hvor ejerskabet oprettes på hovedejendommen.
+Den fiktive p/v (ejer) vil blive påført alle aktive gældende hovedejendomme, samt påføres nyopstået hovedejendomme fra den 7. december 2023 og fremadrettet.
+Overtagelsesdatoen vil blive sat til 01.11.2023 på alle ejerskaber oprettet den 7. december, og fremadrettet sættes overtagelsesdato til den dato, hvor ejerskabet oprettes på hovedejendommen.
 
-Dette omhandler ca. 30.000 BFE'er og vil påvirke tjenester, som filudtræk for ejerskifte, totaludtræk og hændelser for ejerskifte og ejerskab.&#xD;
+Dette omhandler cirka 30.000 BFE'er og vil påvirke tjenester, som filudtræk for ejerskifte, totaludtræk og hændelser for ejerskifte og ejerskab.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
@@ -71,28 +70,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 45209&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45831</id>
-    <title
-      type="text">2023 opdatering af GeoDanmark Ortofoto den 30-11-2023</title>
-    <updated>2023-12-04T08:28:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45831" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 30. november 2023 klokken 17.00 –  21.00
-
-Det er planlagt servicevindue på PROD torsdag den 30. november 2023 klokken 17.00 – 21.00.
-
-I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2023 dataopdatering. Anvendere vil kunne forvente sporadisk nedetid på GeoDanmark Ortofotos WMS- og WMTS-tjenester i det tidsrum inden 2023 data er klar.&#xD;
-Register: GeoDanmark Ortofoto&#xD;
-Service: Webservice, Filudtræk&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 45831&#xD;
-Periode start: 30-11-2023 16:00:00&#xD;
-Periode slut: 30-11-2023 20:00:00&#xD;
 </content>
   </entry>
   <entry>
