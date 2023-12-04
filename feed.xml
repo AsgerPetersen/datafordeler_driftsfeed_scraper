@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T11:42:03Z</updated>
+  <updated>2023-12-04T11:54:31Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -53,23 +53,22 @@ Sagsreference: 46075&#xD;
 </content>
   </entry>
   <entry>
-    <id>45209</id>
+    <id>46087</id>
     <title
-      type="text">Certifikat: Brug Selvbetjeningen til at skifte certifikat</title>
-    <updated>2023-10-31T14:04:14Z</updated>
+      type="text">Udstilling af BBR-data på DAWA lukker den 1. januar 2024</title>
+    <updated>2023-12-04T11:54:31Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45209" />
+      href="https://datafordeler.dk/drift/meddelelser/46087" />
     <content
-      type="text">Besked: Certifikat: Brug Selvbetjeningen til at skifte certifikat
+      type="text">Besked: Udstilling af BBR-data på DAWA lukker den 1. januar 2024
 
-Læs i Dokumentationen om, hvordan du skifter certifikat på dine brugere på Datafordeleren og se også en beskrivelse af de mest typiske fejl på https://confluence.sdfi.dk/x/0wFKBg
+Data fra Bygnings- og Boligregisteret (BBR) vil fremover ikke længere kunne hentes på distributionsplatformen DAWA. Anvendere af BBR-data skal i stedet hente data fra Datafordeleren eller benytte sig af en af Udviklings- og Forenklingsstyrelsens løsninger.
 
-Vi anbefaler, at du bruger Selvbetjeningen på selfservice.datafordeler.dk til at skifte certifikater.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
+Læs mere på sdfi.dk&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Status: I gang&#xD;
-Sagsreference: 45209&#xD;
+Sagsreference: 46087&#xD;
 </content>
   </entry>
   <entry>
