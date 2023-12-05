@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-04T12:09:54Z</updated>
+  <updated>2023-12-05T07:55:08Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -69,6 +69,26 @@ Læs mere på sdfi.dk&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Status: I gang&#xD;
 Sagsreference: 46087&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46101</id>
+    <title
+      type="text">CPR Dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2023-12-05T07:55:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46101" />
+    <content
+      type="text">Besked: CPR Dataopdatering stoppet i produktionsmiljøet
+
+05.12.2023 klokken 09:00: CPR Dataopdatering er stoppet i produktionsmiljøet
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46101&#xD;
 </content>
   </entry>
   <entry>
