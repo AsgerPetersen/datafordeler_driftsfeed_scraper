@@ -156,28 +156,6 @@ Sagsreference: 46029&#xD;
 </content>
   </entry>
   <entry>
-    <id>46012</id>
-    <title
-      type="text">VUR Dataopdatering stoppet i produktionsmiljøet.</title>
-    <updated>2023-12-04T08:27:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46012" />
-    <content
-      type="text">Besked: VUR dataopdatering er stoppet i produktionsmiljøet
-
-04.12.2023 klokken 09:30: Problemet er løst og dataopdatering er tilbage i normal drift.
-
-29.11.2023 klokken 12:30: VUR dataopdatering er stoppet i produktionsmiljøet.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 46012&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46080</id>
     <title
       type="text">Fejl kan opleves sporadisk i selvbetjening på datafordeler.dk</title>
