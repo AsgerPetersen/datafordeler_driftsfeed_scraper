@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-05T14:07:54Z</updated>
+  <updated>2023-12-06T11:40:05Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -75,7 +75,7 @@ Sagsreference: 46087&#xD;
     <id>46134</id>
     <title
       type="text">Test03, Test04 og Te06 servicevinduer i aften, tirsdag den 5. december</title>
-    <updated>2023-12-05T14:07:54Z</updated>
+    <updated>2023-12-06T11:36:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46134" />
@@ -91,7 +91,7 @@ Vi beklager den korte varsling.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 46134&#xD;
 Periode start: 05-12-2023 17:00:00&#xD;
 Periode slut: 06-12-2023 00:00:00&#xD;
@@ -101,14 +101,14 @@ Periode slut: 06-12-2023 00:00:00&#xD;
     <id>46101</id>
     <title
       type="text">CPR Dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2023-12-05T07:55:08Z</updated>
+    <updated>2023-12-06T11:37:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46101" />
     <content
       type="text">Besked: CPR Dataopdatering stoppet i produktionsmiljøet
 
-05.12.2023 klokken 09:00: CPR Dataopdatering er stoppet i produktionsmiljøet
+05.12.2023 klokken 09:00: CPR Dataopdatering er stoppet i produktionsmiljøet, og derfor bliver der ikke sendt hændelser ud.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
@@ -159,20 +159,20 @@ Sagsreference: 45224&#xD;
     <id>46029</id>
     <title
       type="text">CPR webservice på Test04 returnerer tomme objekter</title>
-    <updated>2023-11-30T13:01:43Z</updated>
+    <updated>2023-12-06T11:40:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46029" />
     <content
       type="text">Besked: CPR webservice på Test04 returnerer tomme objekter
 
+06.12.2023 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.
+
 30.11.2023, klokken 13:55: Der vil snarest muligt blive indlæst et nyt CPR testdatasæt, som indeholder de alle tidligere testpersoner.
 
 30.11.2023 klokken 09:52: Der er indlæst nye testdata på Test04, som ikke er helt identiske med det tidligere testdatasæt. Derfor kan man opleve at der ikke returneres data for nogle personer.
 
 29.11.2023, klokken 15:45: Ved kald til CPR webservices på Test04, returneres der i øjeblikket ikke data (http status kode 200).
-
-Der bliver arbejdet på at løse fejlen.
 
  &#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
