@@ -72,32 +72,6 @@ Sagsreference: 46087&#xD;
 </content>
   </entry>
   <entry>
-    <id>46134</id>
-    <title
-      type="text">Test03, Test04 og Te06 servicevinduer i aften, tirsdag den 5. december</title>
-    <updated>2023-12-06T11:36:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46134" />
-    <content
-      type="text">Besked: Test03, Test04 og Te06 servicevinduer i aften, tirsdag den 5. december
-
-05.12.2023 klokken 15:05: I tidsrummet fra klokken 17:00 til 23:00 er der servicevinduer på testmiljøerne.
-
-I tidsrummet vil testmiljøerne periodevist være utilgængelige.
-
-Vi beklager den korte varsling.
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 46134&#xD;
-Periode start: 05-12-2023 17:00:00&#xD;
-Periode slut: 06-12-2023 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46204</id>
     <title
       type="text">PROD servicevindue tirsdag den 12. december 2023 klokken 17.00 – 21.00</title>
