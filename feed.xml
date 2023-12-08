@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-08T06:48:32Z</updated>
+  <updated>2023-12-08T10:11:17Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -97,14 +97,14 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>46204</id>
     <title
       type="text">PROD servicevindue tirsdag den 12. december 2023 klokken 17.00 – 21.00</title>
-    <updated>2023-12-06T14:09:05Z</updated>
+    <updated>2023-12-08T10:11:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46204" />
     <content
-      type="text">Besked: PROD servicevindue tirsdag den 12. december 2023 klokken 17.00 – 21.00
+      type="text">Besked: PROD servicevindue tirsdag den 12. december 2023 klokken 17:00 – 21:00
 
-06.12.2023 klokken 15.05: Der er planlagt servicevindue på PROD tirsdag den 12. december 2023 klokken 17.00 – 21.00.
+Der er planlagt servicevindue på PROD tirsdag den 12. december 2023 klokken 17:00 – 21:00.
 
 Brugere kan i tidsrummet opleve nedetid på Datafordeleren, og Matriklen2 data vil ikke blive opdateret.&#xD;
 Register: Alle&#xD;
