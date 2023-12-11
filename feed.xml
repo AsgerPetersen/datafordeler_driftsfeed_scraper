@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-11T07:13:22Z</updated>
+  <updated>2023-12-11T07:18:17Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -75,19 +75,21 @@ Sagsreference: 46087&#xD;
     <id>46202</id>
     <title
       type="text">Servicevindue: Lørdag den 9. december 2023 på Datafordelerens produktionsmiljø</title>
-    <updated>2023-12-08T06:48:32Z</updated>
+    <updated>2023-12-11T07:18:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46202" />
     <content
       type="text">Besked: Servicevindue: Lørdag den 9. december 2023 på Datafordelerens produktionsmiljø
 
+11.12.2023: Servicevindue gennemført og afsluttet.
+
 Der er et servicevindue på Datafordelerens produktion lørdag den 9. december 2023 mellem klokken 01:00 og 16:00.
 
 I tidsrum for servicevindue kan brugerne opleve, at FTP-service har kortvarige udfald. FTP-forbindelse koblet direkte op til en specifik server, og systemer eller personer med en aktiv FTP-forbindelse kan opleve at blive smidt af, men vil kunne tilgå servicen igen med det samme.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 46202&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
@@ -97,20 +99,18 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>46204</id>
     <title
       type="text">PROD servicevindue tirsdag den 12. december 2023 klokken 17.00 – 21.00</title>
-    <updated>2023-12-11T07:13:22Z</updated>
+    <updated>2023-12-11T07:17:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46204" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 12. december 2023 klokken 17:00 – 21:00
 
-11.12.2023: Servicevindue gennemført og afsluttet.
-
 Der er planlagt servicevindue på PROD tirsdag den 12. december 2023 klokken 17:00 – 21:00.
 
 Brugere kan i tidsrummet opleve nedetid på Datafordeleren, og Matriklen2 data vil ikke blive opdateret.&#xD;
 Register: Alle&#xD;
-Status: Gennemført&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 46204&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
