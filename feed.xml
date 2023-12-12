@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-12T11:35:15Z</updated>
+  <updated>2023-12-12T15:53:27Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -128,6 +128,24 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46295</id>
+    <title
+      type="text">Matrikel 2 dataopdatering stoppet i produktionsmiljøet</title>
+    <updated>2023-12-12T15:53:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46295" />
+    <content
+      type="text">Besked: Matrikel 2 dataopdatering stoppet i produktionsmiljøet
+
+12.12.2023 klokken 16:45: Matrikel 2 dataopdatering er stoppet i produktionsmiljøet. Seneste indlæsning af dataopdatering var 12.12.2023 klokken 15:00:48. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46295&#xD;
 </content>
   </entry>
   <entry>
