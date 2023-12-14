@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-14T14:55:10Z</updated>
+  <updated>2023-12-14T15:14:30Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -133,14 +133,14 @@ Sagsreference: 46029&#xD;
     <id>46355</id>
     <title
       type="text">Forsinkelse på dataopdateringer for MAT1 og EBR.</title>
-    <updated>2023-12-14T14:55:10Z</updated>
+    <updated>2023-12-14T15:14:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46355" />
     <content
-      type="text">Besked: Der er i øjeblikket en forsinkelse på indlæsningen af dataopdateringer for Matrikel 1 og Ejendomsbeliggenhed.
+      type="text">Besked: Der er i øjeblikket en højere dataopdateringsfrekvens end normalt for Matrikel 1 og Ejendomsbeliggenhed.
 
-14.12.2023 klokken 15:30: Der arbejdes på at løse problemet.&#xD;
+14.12.2023 klokken 15:30: Der arbejdes på at løse problemet. Læs mere her: https://confluence.sdfi.dk/display/DML/Dataopdateringer om den normale frekvens for registres dataopdateringer på datafordeleren.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
