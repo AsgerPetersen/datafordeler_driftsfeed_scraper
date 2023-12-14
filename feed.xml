@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-13T11:40:29Z</updated>
+  <updated>2023-12-14T14:27:29Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -127,6 +127,24 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 46029&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46355</id>
+    <title
+      type="text">Forsinkelse på dataopdateringer for MAT1 og EBR.</title>
+    <updated>2023-12-14T14:27:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46355" />
+    <content
+      type="text">Besked: Der er i øjeblikket en forsinkelse på indlæsningen af dataopdateringer for Matrikel 1 og Ejendomsbeliggenhed.
+
+14.12.2023 klokken 15:30: Der arbejdes på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46355&#xD;
 </content>
   </entry>
   <entry>
