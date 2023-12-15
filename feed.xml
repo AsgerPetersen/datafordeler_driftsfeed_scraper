@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-15T07:00:25Z</updated>
+  <updated>2023-12-13T11:40:29Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -86,26 +86,6 @@ Sagsreference: 45224&#xD;
 </content>
   </entry>
   <entry>
-    <id>46295</id>
-    <title
-      type="text">Matrikel 2 dataopdatering stoppet i produktionsmiljøet</title>
-    <updated>2023-12-15T07:00:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46295" />
-    <content
-      type="text">Besked: Matrikel 2 dataopdatering stoppet i produktionsmiljøet
-
-15.12.2023 klokken 08:00: Problemet er løst. Dataopdateringen er tilbage i normal drift.
-
-12.12.2023 klokken 16:45: Matrikel 2 dataopdatering er stoppet i produktionsmiljøet. Seneste indlæsning af dataopdatering var 12.12.2023 klokken 15:00:48. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 46295&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46029</id>
     <title
       type="text">CPR webservice på Test04 returnerer tomme objekter</title>
@@ -129,26 +109,6 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 46029&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46355</id>
-    <title
-      type="text">Forsinkelse på dataopdateringer for MAT1 og EBR.</title>
-    <updated>2023-12-15T06:56:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46355" />
-    <content
-      type="text">Besked: Der er i øjeblikket en højere dataopdateringsfrekvens end normalt for Matrikel 1 og Ejendomsbeliggenhed.
-
-15.12.2023 klokken 08:00: Problemet er løst. Dataopdateringen er tilbage i normal drift.
-
-14.12.2023 klokken 15:30: Der arbejdes på at løse problemet. Læs mere her: https://confluence.sdfi.dk/display/DML/Dataopdateringer om den normale frekvens for registres dataopdateringer på datafordeleren.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 46355&#xD;
 </content>
   </entry>
   <entry>
