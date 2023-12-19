@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-19T07:47:38Z</updated>
+  <updated>2023-12-19T11:42:26Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -72,20 +72,20 @@ Periode slut: 01-01-0001 00:00:00&#xD;
   <entry>
     <id>46409</id>
     <title
-      type="text">Der er i øjeblikket forsinkelse i de normale dataopdateringer for Matriklen, EBR, EJF og stednavne.</title>
-    <updated>2023-12-19T07:09:47Z</updated>
+      type="text">Der er forsinkelse i de normale dataopdateringer for Matriklen2</title>
+    <updated>2023-12-19T11:42:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46409" />
     <content
-      type="text">Besked: Der er i øjeblikket forsinkelse i de normale dataopdateringer for Matriklen, EBR, EJF og stednavne.
+      type="text">Besked: Der er forsinkelse i de normale dataopdateringer for Matriklen2.
 
 19.12.2023 kl. 08.00 Problemet er løst på nær Matriklen2. EBR, EJF og stednavne opdateres igen.
 
 18.12.2023 klokken 10:30 Der bliver arbejdet på at løse problemet.
 
 Læs mere her: https://confluence.sdfi.dk/display/DML/Dataopdateringer om den normale frekvens for registres dataopdateringer på datafordeleren.&#xD;
-Register: Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 46409&#xD;
