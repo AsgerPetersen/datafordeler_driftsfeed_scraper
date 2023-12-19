@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-18T11:52:12Z</updated>
+  <updated>2023-12-19T07:09:47Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -73,12 +73,14 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>46409</id>
     <title
       type="text">Der er i øjeblikket forsinkelse i de normale dataopdateringer for Matriklen, EBR, EJF og stednavne.</title>
-    <updated>2023-12-18T11:34:05Z</updated>
+    <updated>2023-12-19T07:09:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46409" />
     <content
       type="text">Besked: Der er i øjeblikket forsinkelse i de normale dataopdateringer for Matriklen, EBR, EJF og stednavne.
+
+19.12.2023 kl. 08.00 Problemet er løst på nær Matriklen2. EBR, EJF og stednavne opdateres igen.
 
 18.12.2023 klokken 10:30 Der bliver arbejdet på at løse problemet.
 
