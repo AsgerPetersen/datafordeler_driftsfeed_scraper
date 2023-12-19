@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-19T11:58:38Z</updated>
+  <updated>2023-12-19T13:57:11Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -26,6 +26,24 @@ Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 46063&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46444</id>
+    <title
+      type="text">DAGI dataopdatering stoppet</title>
+    <updated>2023-12-19T13:57:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46444" />
+    <content
+      type="text">Besked: DAGI dataopdateringen er stoppet i produktionsmiljøet.
+
+19.12.2023 klokken 15:00: Der arbejdes på at løse problemet. Seneste dataopdatering var 19/12-2023 klokken 14:36:43.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46444&#xD;
 </content>
   </entry>
   <entry>
