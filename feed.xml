@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-20T10:59:39Z</updated>
+  <updated>2023-12-20T11:36:17Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -69,7 +69,7 @@ Sagsreference: 46087&#xD;
     <id>46422</id>
     <title
       type="text">Test03, Test04 og Test06 servicevinduer, tirsdag den 19. december.</title>
-    <updated>2023-12-19T11:58:38Z</updated>
+    <updated>2023-12-20T11:31:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46422" />
@@ -81,7 +81,7 @@ Klokken 17:00 - 18:30 er der servicevinduer på testmiljøerne. 
 I tidsrummet vil testmiljøerne periodevist være utilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 46422&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
@@ -91,14 +91,14 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>46409</id>
     <title
       type="text">Der er forsinkelse i de normale dataopdateringer for Matriklen2</title>
-    <updated>2023-12-19T11:42:26Z</updated>
+    <updated>2023-12-20T11:36:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46409" />
     <content
       type="text">Besked: Der er forsinkelse i de normale dataopdateringer for Matriklen2.
 
-19.12.2023 kl. 08.00 Problemet er løst på nær Matriklen2. EBR, EJF og stednavne opdateres igen.
+20.12.2023: Der arbejdets fortsat på MAT2 dataopdatering.
 
 18.12.2023 klokken 10:30 Der bliver arbejdet på at løse problemet.
 
@@ -113,7 +113,7 @@ Sagsreference: 46409&#xD;
     <id>46415</id>
     <title
       type="text">Manglende data i EjerskabMedStamoplysninger og EjerskabMedStamoplysninger Fortrolig. </title>
-    <updated>2023-12-20T10:59:39Z</updated>
+    <updated>2023-12-20T11:32:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46415" />
