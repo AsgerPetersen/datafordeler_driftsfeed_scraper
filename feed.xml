@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-19T13:57:11Z</updated>
+  <updated>2023-12-20T10:59:39Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -113,19 +113,21 @@ Sagsreference: 46409&#xD;
     <id>46415</id>
     <title
       type="text">Manglende data i EjerskabMedStamoplysninger og EjerskabMedStamoplysninger Fortrolig. </title>
-    <updated>2023-12-19T07:47:38Z</updated>
+    <updated>2023-12-20T10:59:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46415" />
     <content
       type="text">Besked: Manglende data i filudtrækkene EjerskabMedStamoplysninger og EjerskabMedStamoplysninger Fortrolig
 
+20.12. 2023 klokken 12:00: Fejlen er løst og filudtrækkene bliver igen leveret med data. 
+
 18.12.2023 klokken 11:30: I filudtrækkene mangler der data. Fejlen har været tilstede fra den 09.12.2023.
 
 Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 46415&#xD;
 </content>
   </entry>
