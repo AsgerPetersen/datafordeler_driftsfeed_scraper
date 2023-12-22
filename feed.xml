@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2023-12-21T11:38:08Z</updated>
+  <updated>2023-12-22T08:34:36Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -88,12 +88,14 @@ Periode slut: 04-01-2024 17:00:00&#xD;
     <id>46409</id>
     <title
       type="text">Der er forsinkelse i de normale dataopdateringer for Matriklen2</title>
-    <updated>2023-12-20T11:36:17Z</updated>
+    <updated>2023-12-22T08:34:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46409" />
     <content
       type="text">Besked: Der er forsinkelse i de normale dataopdateringer for Matriklen2.
+
+22.12.2023 klokken 9:30: Problemet er løst. Dataopdateringen er tilbage i normal drift.
 
 20.12.2023: Der arbejdets fortsat på MAT2 dataopdatering.
 
@@ -102,7 +104,7 @@ Periode slut: 04-01-2024 17:00:00&#xD;
 Læs mere her: https://confluence.sdfi.dk/display/DML/Dataopdateringer om den normale frekvens for registres dataopdateringer på datafordeleren.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 46409&#xD;
 </content>
   </entry>
