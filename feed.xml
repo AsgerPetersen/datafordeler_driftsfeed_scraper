@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-03T11:34:01Z</updated>
+  <updated>2024-01-03T12:36:14Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -125,32 +125,6 @@ Sagsreference: 45224&#xD;
 </content>
   </entry>
   <entry>
-    <id>46029</id>
-    <title
-      type="text">CPR webservice på Test04 returnerer tomme objekter</title>
-    <updated>2023-12-12T11:35:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46029" />
-    <content
-      type="text">Besked: CPR webservice på Test04 returnerer tomme objekter
-
-12.12.2023 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.
-
-30.11.2023, klokken 13:55: Der vil snarest muligt blive indlæst et nyt CPR testdatasæt, som indeholder de alle tidligere testpersoner.
-
-30.11.2023 klokken 09:52: Der er indlæst nye testdata på Test04, som ikke er helt identiske med det tidligere testdatasæt. Derfor kan man opleve at der ikke returneres data for nogle personer.
-
-29.11.2023, klokken 15:45: Ved kald til CPR webservices på Test04, returneres der i øjeblikket ikke data (http status kode 200).
-
- &#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: I gang&#xD;
-Sagsreference: 46029&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46080</id>
     <title
       type="text">Fejl kan opleves sporadisk i selvbetjening på datafordeler.dk</title>
@@ -207,14 +181,14 @@ Sagsreference: 44657&#xD;
     <id>46203</id>
     <title
       type="text">På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester</title>
-    <updated>2023-12-21T11:33:25Z</updated>
+    <updated>2024-01-03T12:36:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46203" />
     <content
       type="text">Besked: På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester
 
-21.12.2023 klokken 12:30: Der bliver arbejdet på at få løst fejlen.&#xD;
+03.01.2024 klokken 13:35: Der bliver arbejdet på at få løst fejlen.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
