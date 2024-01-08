@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-08T10:11:09Z</updated>
+  <updated>2024-01-08T11:06:27Z</updated>
   <entry>
     <id>46673</id>
     <title
@@ -150,19 +150,21 @@ Sagsreference: 45224&#xD;
     <id>46762</id>
     <title
       type="text">Grundatamodel siden er nede</title>
-    <updated>2024-01-08T10:11:09Z</updated>
+    <updated>2024-01-08T11:06:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46762" />
     <content
       type="text">Besked: Grundatamodel siden er nede
 
+08.01.2023 klokken 12:00: Problemet er løst og grundatamodel siden er oppe igen.
+
 08.01.2023 klokken 11:00: Man kan i øjeblikket opleve at https://grunddatamodel.datafordeler.dk er nede.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Dokumentation&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 46762&#xD;
 </content>
   </entry>
