@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-08T11:26:38Z</updated>
+  <updated>2024-01-08T12:15:10Z</updated>
   <entry>
     <id>46673</id>
     <title
@@ -69,55 +69,15 @@ Sagsreference: 46444&#xD;
 </content>
   </entry>
   <entry>
-    <id>46087</id>
-    <title
-      type="text">Udstilling af BBR-data på DAWA lukker den 1. januar 2024</title>
-    <updated>2023-12-04T11:54:31Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46087" />
-    <content
-      type="text">Besked: Udstilling af BBR-data på DAWA lukker den 1. januar 2024
-
-Data fra Bygnings- og Boligregisteret (BBR) vil fremover ikke længere kunne hentes på distributionsplatformen DAWA. Anvendere af BBR-data skal i stedet hente data fra Datafordeleren eller benytte sig af en af Udviklings- og Forenklingsstyrelsens løsninger.
-
-Læs mere på sdfi.dk&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Status: I gang&#xD;
-Sagsreference: 46087&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46467</id>
-    <title
-      type="text">Planlagt Datafordeler produktion service vindue torsdag den 4. januar 2024, i tidsrummet klokken 17:00-18:00</title>
-    <updated>2024-01-04T20:08:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46467" />
-    <content
-      type="text">Besked: Planlagt Datafordeler produktion service vindue torsdag den 4. januar 2024, i tidsrummet klokken 17:00-18:00
-
-04.01.2024 klokken 21:00: Service vindue gennemført og afsluttet som planlagt.
-
-I tidsrummet vil kunne opleves periodevis utilgængelighed på alle services.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 46467&#xD;
-Periode start: 04-01-2024 16:00:00&#xD;
-Periode slut: 04-01-2024 17:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>45511</id>
     <title
-      type="text">Skærmkortet planlagt opdatering i januar 2024</title>
-    <updated>2023-11-10T09:45:55Z</updated>
+      type="text">Skærmkortet er planlagt til opdatering uge 2 2024</title>
+    <updated>2024-01-08T12:15:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45511" />
     <content
-      type="text">Besked: Skærmkortet planlagt opdatering i januar 2024&#xD;
+      type="text">Besked: Skærmkortet er planlagt til opdatering uge 2 2024&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
