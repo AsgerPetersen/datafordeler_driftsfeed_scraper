@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-08T12:15:10Z</updated>
+  <updated>2024-01-09T08:40:22Z</updated>
   <entry>
     <id>46673</id>
     <title
@@ -66,6 +66,46 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 46444&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46829</id>
+    <title
+      type="text">Test04 servicevindue tirsdag den 16. januar 2024</title>
+    <updated>2024-01-09T08:38:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46829" />
+    <content
+      type="text">Besked: Test04 servicevindue tirsdag den 16. januar 2024
+
+Der er et servicevindue på Test04 tirsdag den 16. januar 2024 fra kl. 10.
+
+Brugerne kan opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige under servicevinduet.&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 46829&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46830</id>
+    <title
+      type="text">Test03 og Test06 servicevindue onsdag den 17. januar 2024</title>
+    <updated>2024-01-09T08:40:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46830" />
+    <content
+      type="text">Besked: Test03 og Test06 servicevindue onsdag den 17. januar 2024
+
+Der er et servicevindue på Test03 onsdag den 17. januar 2024 fra kl. 10, og på Test06 fra kl. 13.
+
+Der forventes ingen påvirkning af brugere under servicevinduet.&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 46830&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
