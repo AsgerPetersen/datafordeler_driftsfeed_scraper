@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-10T12:01:24Z</updated>
+  <updated>2024-01-10T13:19:51Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -75,43 +75,47 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>46882</id>
-    <title
-      type="text">Planlagt Datafordeler produktion servicevindue tirsdag den 16. januar 2024, i tidsrummet klokken 16:00-18:00</title>
-    <updated>2024-01-10T12:01:24Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46882" />
-    <content
-      type="text">Besked: Planlagt Datafordeler produktion servicevindue tirsdag den 16. januar 2024, i tidsrummet klokken 16:00-18:00.
-
-I tidsrummet vil dataopdatering blive afbrudt.
-
- &#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Fikspunktsregister, Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 46882&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46883</id>
     <title
-      type="text">Planlagt Datafordeler produktion servicevindue torsdag den 18. januar 2024, i tidsrummet klokken 15:00-22:00</title>
-    <updated>2024-01-10T11:53:45Z</updated>
+      type="text">Planlagt dataopdatering servicevindue torsdag den 18. januar 2024 i tidsrummet klokken 15:00-22:00</title>
+    <updated>2024-01-10T13:19:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46883" />
     <content
-      type="text">Besked: Planlagt Datafordeler produktion servicevindue torsdag den 18. januar 2024, i tidsrummet klokken 15:00-22:00.
+      type="text">Besked: Planlagt dataopdatering servicevindue torsdag den 18. januar 2024 i tidsrummet klokken 15:00-22:00
 
 I tidsrummet vil dataopdatering blive afbrudt.
 
  &#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Fikspunktsregister, Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
+Register: Alle&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 46883&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46882</id>
+    <title
+      type="text">Planlagt dataopdatering servicevindue tirsdag den 16. januar 2024 i tidsrummet klokken 16:00-18:00</title>
+    <updated>2024-01-10T13:19:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46882" />
+    <content
+      type="text">Besked: Planlagt dataopdatering servicevindue tirsdag den 16. januar 2024 i tidsrummet klokken 16:00-18:00
+
+I tidsrummet vil dataopdatering blive afbrudt.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46882&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
@@ -152,6 +156,27 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46888</id>
+    <title
+      type="text">Telefonen til support på Datafordeleren er ikke tilgængelig </title>
+    <updated>2024-01-10T13:15:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46888" />
+    <content
+      type="text">Besked: Telefonen til support på Datafordeleren er ikke tilgængelig 
+
+10.01.2024 klokken 14:00: Telefonen til Datafordeler support er ikke tilgængelig i øjeblikket på grund af en fejl hos TDC. 
+
+ 
+
+Brug i stedet formularen på https://datafordeler.dk/support &#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 46888&#xD;
 </content>
   </entry>
   <entry>
