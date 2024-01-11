@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-11T07:02:36Z</updated>
+  <updated>2024-01-11T08:18:40Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -30,6 +30,26 @@ Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 46063&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46899</id>
+    <title
+      type="text">Planlagte stop for dataopdatering for Matriklen, EBR, Ejerfortegnelsen, Danske Stednavne og DAGI</title>
+    <updated>2024-01-11T08:18:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46899" />
+    <content
+      type="text">Besked: Planlagte stop for dataopdatering for Matriklen, EBR, Ejerfortegnelsen, Danske Stednavne og DAGI
+
+Tirsdag den 16. januar i tidsrumemt 16:30 - 18:00 er der et stop for dataopdatering for Matriklen, EBR, Ejerfortegnelsen, Danske Stednavne og DAGI.
+
+Torsdag den 18. januar i tidsrumemt 15:00 - 22:00 er der et stop for dataopdatering for Matriklen, EBR, Ejerfortegnelsen, Danske Stednavne og DAGI.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46899&#xD;
 </content>
   </entry>
   <entry>
@@ -112,29 +132,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46888</id>
-    <title
-      type="text">Telefonen til support på Datafordeleren er ikke tilgængelig </title>
-    <updated>2024-01-11T07:02:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46888" />
-    <content
-      type="text">Besked: Telefonen til support på Datafordeleren er ikke tilgængelig 
-
-11.01.2024 klokken 08:00: Problemet er løst.
-
-10.01.2024 klokken 14:00: Telefonen til Datafordeler support er ikke tilgængelig i øjeblikket på grund af en fejl hos TDC. 
-
- 
-
-Brug i stedet formularen på https://datafordeler.dk/support &#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 46888&#xD;
 </content>
   </entry>
   <entry>
