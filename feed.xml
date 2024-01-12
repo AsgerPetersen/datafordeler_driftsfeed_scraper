@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-11T11:33:09Z</updated>
+  <updated>2024-01-12T09:10:37Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -92,6 +92,24 @@ Status: Planlagt&#xD;
 Sagsreference: 46830&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46932</id>
+    <title
+      type="text">EJF Dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-01-12T09:10:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46932" />
+    <content
+      type="text">Besked: EJF Dataopdatering er stoppet i produktionsmiljøet
+
+12.01.2024 klokken 09:45: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 12.01.2024 klokken 08:49:25. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46932&#xD;
 </content>
   </entry>
   <entry>
