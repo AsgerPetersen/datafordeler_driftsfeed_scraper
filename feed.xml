@@ -5,7 +5,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-15T06:20:49Z</updated>
+  <updated>2024-01-15T10:50:02Z</updated>
+  <entry>
+    <id>46969</id>
+    <title
+      type="text">Planlagte stop for dataopdatering for Matriklen, Matriklen2, EBR, Ejerfortegnelsen</title>
+    <updated>2024-01-15T10:50:02Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/46969" />
+    <content
+      type="text">Besked: Planlagte stop for dataopdatering for Matriklen, Matriklen2, EBR og Ejerfortegnelsen
+
+Mandag den 15. januar i tidsrummet 15:00 - 24:00 er der et stop for dataopdatering for Matriklen, Matriklen2, EBR og Ejerfortegnelsen.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 46969&#xD;
+</content>
+  </entry>
   <entry>
     <id>46063</id>
     <title
