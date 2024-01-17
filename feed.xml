@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-17T11:54:20Z</updated>
+  <updated>2024-01-17T11:55:26Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -192,14 +192,14 @@ Sagsreference: 46080&#xD;
     <id>44657</id>
     <title
       type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2024-01-17T11:54:20Z</updated>
+    <updated>2024-01-17T11:55:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/44657" />
     <content
       type="text">Besked: Manglende levering af prædefinerede filudtræk.
 
-16.01.2024 klokken 11:00: Kommunale filudtræk for MAT2 bliver nu leveret ugentligt:
+16.01.2024 klokken 11:00: Kommunale filudtræk for Matriklen2 bliver nu leveret ugentligt:
 
 	MATkortdataGaeldendeKommuneComplete_gpkg
 	MATkortdataGaeldendeKommuneComplete_GML
