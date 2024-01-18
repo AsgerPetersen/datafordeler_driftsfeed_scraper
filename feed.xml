@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-18T08:58:18Z</updated>
+  <updated>2024-01-18T11:37:09Z</updated>
   <entry>
     <id>46063</id>
     <title
@@ -35,30 +35,6 @@ Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 46063&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>47159</id>
-    <title
-      type="text">Dokumentation i Confluence er ikke tilgængelig</title>
-    <updated>2024-01-18T08:58:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/47159" />
-    <content
-      type="text">Besked: Dokumentation i Confluence er ikke tilgængelig
-
-18-01-2024 klokken 9.45: Dokumentation i Confluence er tilgængelig igen.
-
- 
-
-Link til Datafordelerens dokumentation i Confluence er ikke aktive, fordi Confluence ikke er tilgængeligt.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 47159&#xD;
 </content>
   </entry>
   <entry>
@@ -105,52 +81,6 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>46829</id>
-    <title
-      type="text">Test04 servicevindue tirsdag den 16. januar 2024</title>
-    <updated>2024-01-17T08:24:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46829" />
-    <content
-      type="text">Besked: Test04 servicevindue tirsdag den 16. januar 2024
-
-17-01-2024 klokken 9:00: Servicevindue gennemført og afsluttet som planlagt.
-
-Der er et servicevindue på Test04 tirsdag den 16. januar 2024 fra klokken 10.
-
-Anvendere kan opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige under servicevinduet.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 46829&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46830</id>
-    <title
-      type="text">Test03 og Test06 servicevindue onsdag den 17. januar 2024</title>
-    <updated>2024-01-17T14:00:17Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46830" />
-    <content
-      type="text">Besked: Test03 og Test06 servicevindue onsdag den 17. januar 2024
-
-17-01-2024 klokken 15:00: Servicevinduerne gennemført og afsluttet som planlagt.
-
-Der er et servicevindue på Test03 onsdag den 17. januar 2024 fra klokken 10, og på Test06 fra klokken 13.
-
-Der forventes ingen påvirkning af anvendere under servicevinduet.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 46830&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>45511</id>
     <title
       type="text">Skærmkortet er planlagt til opdatering uge 3 2024</title>
@@ -188,30 +118,6 @@ Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 45224&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46080</id>
-    <title
-      type="text">Fejl kan opleves sporadisk i selvbetjening på datafordeler.dk</title>
-    <updated>2023-12-13T11:40:29Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/46080" />
-    <content
-      type="text">Besked: Fejl med at oprette tjenestebruger kan opleves sporadisk på datafordeler.dk
-
-Der kan på nuværende tidspunkt opleves problemer med at oprette en tjenestebruger på datafordeler.dk med en fejlbesked, der siger "Du har ikke tilladelse til at udføre denne funktion". Det anbefales at prøve følgende workaround:
-
-1. Brug https://selfservice.datafordeler.dk/
-
-Er der stadig problemer med at oprette en tjenestebruger på selfservice.datafordeler.dk:
-
-2. Log ud -&amp;gt; vent en time -&amp;gt; log in og prøv igen. &#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: I gang&#xD;
-Sagsreference: 46080&#xD;
 </content>
   </entry>
   <entry>
@@ -254,14 +160,14 @@ Sagsreference: 44657&#xD;
     <id>46203</id>
     <title
       type="text">På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester</title>
-    <updated>2024-01-03T12:36:14Z</updated>
+    <updated>2024-01-18T11:37:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46203" />
     <content
       type="text">Besked: På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester
 
-03.01.2024 klokken 13:35: Der bliver arbejdet på at få løst fejlen.&#xD;
+18.01.2024 klokken 12:45: Der bliver arbejdet på at få løst fejlen.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
