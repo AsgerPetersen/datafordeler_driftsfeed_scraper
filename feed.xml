@@ -118,42 +118,6 @@ Sagsreference: 45224&#xD;
 </content>
   </entry>
   <entry>
-    <id>44657</id>
-    <title
-      type="text">Manglende levering af prædefinerede filudtræk</title>
-    <updated>2024-01-17T11:55:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/44657" />
-    <content
-      type="text">Besked: Manglende levering af prædefinerede filudtræk.
-
-16.01.2024 klokken 11:00: Kommunale filudtræk for Matriklen2 bliver nu leveret ugentligt:
-
-	MATkortdataGaeldendeKommuneComplete_gpkg
-	MATkortdataGaeldendeKommuneComplete_GML
-
-
-
-24.11.2023 klokken 11:00:
-
-Følgende filudtræk mangler stadig at blive leveret: 
-
-	MAT-MatrikelGeometriGaeldendeKommuneComplete_gpkg 
-	MAT-MatrikelGeometriGaeldendeKommuneComplete_GML 
-
-
-
-Der bliver fortsat arbejdet på at løse problemet.
-
- &#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 44657&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46203</id>
     <title
       type="text">På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester</title>
