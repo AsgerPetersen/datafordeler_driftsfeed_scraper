@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-01-30T09:32:40Z</updated>
+  <updated>2024-01-31T11:23:23Z</updated>
   <entry>
     <id>47193</id>
     <title
@@ -82,16 +82,16 @@ Periode slut: 01-01-0001 00:00:00&#xD;
   <entry>
     <id>45511</id>
     <title
-      type="text">Skærmkortet er planlagt til opdatering uge 5 2024</title>
-    <updated>2024-01-29T06:50:51Z</updated>
+      type="text">Skærmkortet for januar er opdateret nu i uge 5 2024</title>
+    <updated>2024-01-31T11:23:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45511" />
     <content
-      type="text">Besked: Skærmkortet er planlagt til opdatering uge 5 2024&#xD;
+      type="text">Besked: Skærmkortet for januar er opdateret nu i uge 5 2024&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 45511&#xD;
 </content>
   </entry>
