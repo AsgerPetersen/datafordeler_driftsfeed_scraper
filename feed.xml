@@ -80,48 +80,6 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>45511</id>
-    <title
-      type="text">Skærmkortet for januar er opdateret nu i uge 5 2024</title>
-    <updated>2024-01-31T11:23:23Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45511" />
-    <content
-      type="text">Besked: Skærmkortet for januar er opdateret nu i uge 5 2024&#xD;
-Register: Skærmkortet&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 45511&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45224</id>
-    <title
-      type="text">Forsinkelse på levering af GeoDanmark60_GML321 filudtræk</title>
-    <updated>2024-01-25T11:44:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45224" />
-    <content
-      type="text">Besked: Forsinkelse på levering af GeoDanmark60_GML321 filudtræk.
-
-25.01.2024 klokken 12:30: Status på denne sag kan følges under Ændringer på https://datafordeler.dk/drift/aendringer
-
-20.12.2023 klokken 17.30 Det anbefales at benytte det fungerende GeoDanmark Vektor Prædefineret GML_HF, hvor indholdet er det samme.
-
-24.11.2023 klokken 12:45: Man kan i øjeblikket opleve forsinkelse på levering af prædefinerede GeoDanmark60_GML321 filudtræk.
-
-Der bliver arbejdet på at løse problemet. 
-
- &#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 45224&#xD;
-</content>
-  </entry>
-  <entry>
     <id>46203</id>
     <title
       type="text">På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester</title>
