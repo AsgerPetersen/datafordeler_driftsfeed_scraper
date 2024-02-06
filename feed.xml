@@ -5,12 +5,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-06T11:35:03Z</updated>
+  <updated>2024-02-06T11:35:15Z</updated>
   <entry>
     <id>47193</id>
     <title
       type="text">På Test03 kan i øjeblikket opleves utilgængelighed på webbaserede tjenester</title>
-    <updated>2024-02-06T11:35:03Z</updated>
+    <updated>2024-02-06T11:35:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/47193" />
@@ -23,7 +23,7 @@
 
 Forstyrrelsen på de webbaserede tjenester forventes at være påvirket i denne uge, grundet en totalindlæsning af Matriklen2 data på Test03.&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 47193&#xD;
 </content>
   </entry>
