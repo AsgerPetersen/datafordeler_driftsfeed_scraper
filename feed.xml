@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-02T09:15:14Z</updated>
+  <updated>2024-02-06T07:24:23Z</updated>
   <entry>
     <id>47193</id>
     <title
@@ -29,12 +29,14 @@ Sagsreference: 47193&#xD;
     <id>47576</id>
     <title
       type="text">DAR retter datafejl ved at slette rækker</title>
-    <updated>2024-02-02T09:15:14Z</updated>
+    <updated>2024-02-06T07:24:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/47576" />
     <content
       type="text">Besked: DAR retter datafejl ved at slette rækker
+
+06.02.2024 klokken 08:30: Datafejlen er rettet.
 
 Grundet en datafejl i DAR, er DAR nødsaget til at få slettet enkelte rækker direkte i Datafordeleren. Disse vil derfor ikke komme med i efterfølgende delta-filudtræk, når sletningen bliver foretaget mandag den 5. februar klokken 10:00.
 Det drejer sig om husnummer, id_lokalid = '0a3f508b-2a57-32b8-e044-0003ba298018', hvor de fejlagtige rækker med store bogstaver '0A3F508B-2A57-32B8-E044-0003BA298018' bliver slettet. Der er tale om 3 rækker, der bliver slettet.
@@ -46,7 +48,7 @@ Hvis processering af husnummer.id_lokalid fra filudtræk ikke er casesensitiv, v
 Hvis man baserer sin lokale kopi af DAR på gældende husnumre fra filudtræk og ikke har en kopi af historiske versioner, vil man ikke have oplevet problemer med datafejlen i DAR.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 47576&#xD;
 </content>
   </entry>
@@ -54,14 +56,14 @@ Sagsreference: 47576&#xD;
     <id>46203</id>
     <title
       type="text">På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester</title>
-    <updated>2024-01-18T11:37:09Z</updated>
+    <updated>2024-02-06T07:24:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/46203" />
     <content
       type="text">Besked: På Test06 kan man i øjeblikket opleve utilgængelighed på webbaserede tjenester
 
-18.01.2024 klokken 12:45: Der bliver arbejdet på at få løst fejlen.&#xD;
+06.02.2024 klokken 12:45: Der bliver arbejdet på at få løst fejlen.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
