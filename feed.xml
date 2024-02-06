@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-06T12:31:23Z</updated>
+  <updated>2024-02-06T14:14:06Z</updated>
   <entry>
     <id>47193</id>
     <title
@@ -49,6 +49,26 @@ Status: Planlagt&#xD;
 Sagsreference: 47540&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>47761</id>
+    <title
+      type="text">Udsendelse af BBR hændelser via push og pull er stoppet</title>
+    <updated>2024-02-06T14:14:06Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/47761" />
+    <content
+      type="text">Besked: Udsendelse af BBR hændelser via push og pull er stoppet
+
+06.02.2024 klokken 15:00: Udsendelse af BBR hændelser via push og pull er stoppet. Sidste udsendelse af hændelser var den 31.01.2024
+
+Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 47761&#xD;
 </content>
   </entry>
   <entry>
