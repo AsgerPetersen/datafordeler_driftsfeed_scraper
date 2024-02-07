@@ -7,27 +7,6 @@
   <id>serviceMessages</id>
   <updated>2024-02-06T14:14:06Z</updated>
   <entry>
-    <id>47193</id>
-    <title
-      type="text">På Test03 kan i øjeblikket opleves utilgængelighed på webbaserede tjenester</title>
-    <updated>2024-02-06T11:35:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/47193" />
-    <content
-      type="text">Besked: På Test03 kan i øjeblikket opleves utilgængelighed på webbaserede tjenester
-
-06.02.2024 klokken 12:30: Problemet er løst, og Test03 er tilbage i normal drift.
-
-30.01.2024: Forstyrrelsen på de webbaserede tjenester vil fortsat at være påvirket i denne her uge, grundet en totalindlæsning af Matriklen2 data på Test03
-
-Forstyrrelsen på de webbaserede tjenester forventes at være påvirket i denne uge, grundet en totalindlæsning af Matriklen2 data på Test03.&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 47193&#xD;
-</content>
-  </entry>
-  <entry>
     <id>47540</id>
     <title
       type="text">Varsling om lukning af Matriklen</title>
