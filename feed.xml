@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-08T11:32:28Z</updated>
+  <updated>2024-02-08T11:38:03Z</updated>
   <entry>
     <id>47540</id>
     <title
@@ -50,6 +50,26 @@ Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Hændelser&#xD;
 Status: Løst&#xD;
 Sagsreference: 47761&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>47891</id>
+    <title
+      type="text">Udsendelse af CPR hændelser via pull er stoppet</title>
+    <updated>2024-02-08T11:38:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/47891" />
+    <content
+      type="text">Besked: Udsendelse af CPR hændelser via pull er stoppet
+
+08.02.2024 klokken 04:00: Udsendelse af CPR hændelser via pull er stoppet. Seneste udsendelse af hændelser var den 07.02.2024.
+
+Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 47891&#xD;
 </content>
   </entry>
   <entry>
