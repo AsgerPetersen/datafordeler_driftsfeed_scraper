@@ -31,28 +31,6 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>47761</id>
-    <title
-      type="text">Udsendelse af BBR hændelser via push og pull er stoppet</title>
-    <updated>2024-02-08T11:32:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/47761" />
-    <content
-      type="text">Besked: Udsendelse af BBR hændelser via push og pull er stoppet
-
-07.02.2024 klokken 15:00: BBR hændelser bliver igen sendt via push og pull.
-
-06.02.2024 klokken 15:00: Udsendelse af BBR hændelser via push og pull er stoppet. Sidste udsendelse af hændelser var den 31.01.2024
-
-Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 47761&#xD;
-</content>
-  </entry>
-  <entry>
     <id>47891</id>
     <title
       type="text">Udsendelse af CPR hændelser via pull er stoppet</title>
