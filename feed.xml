@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-08T11:38:03Z</updated>
+  <updated>2024-02-09T10:11:53Z</updated>
   <entry>
     <id>47540</id>
     <title
@@ -94,14 +94,14 @@ Sagsreference: 46203&#xD;
     <id>45236</id>
     <title
       type="text">*De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS i alle Datafordeler miljøerne*</title>
-    <updated>2024-01-19T10:13:47Z</updated>
+    <updated>2024-02-09T10:11:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/45236" />
     <content
       type="text">Besked: De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS, i alle Datafordeler miljøerne
 
-19.01.2024: Der arbejdes fortsat på at løse problemet.
+09.02.2024: Der arbejdes fortsat på at løse problemet.
 
 24.11.2023: Der bliver arbejdet på at løse problemet. Hentning af DAR offentlige filudtræk via Datafordeler ftp3-serveren er ikke berørt.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
