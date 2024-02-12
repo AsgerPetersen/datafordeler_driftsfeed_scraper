@@ -5,12 +5,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-09T11:53:22Z</updated>
+  <updated>2024-02-12T12:04:47Z</updated>
   <entry>
     <id>47540</id>
     <title
       type="text">Varsling om lukning af Matriklen</title>
-    <updated>2024-02-06T12:31:23Z</updated>
+    <updated>2024-02-12T12:04:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/47540" />
@@ -28,28 +28,6 @@ Status: Planlagt&#xD;
 Sagsreference: 47540&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>47891</id>
-    <title
-      type="text">Udsendelse af CPR hændelser via pull er stoppet</title>
-    <updated>2024-02-09T11:53:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/47891" />
-    <content
-      type="text">Besked: Udsendelse af CPR hændelser via pull er stoppet
-
-09.02.2024 klokken 12:30: CPR hændelser er startet igen og tilbage i normal drift
-
-08.02.2024 klokken 04:00: Udsendelse af CPR hændelser via pull er stoppet. Seneste udsendelse af hændelser var den 07.02.2024.
-
-Der bliver arbejdet med højt prioritet på at løse problemet.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 47891&#xD;
 </content>
   </entry>
   <entry>
