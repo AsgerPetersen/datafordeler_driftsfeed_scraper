@@ -5,7 +5,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-19T11:36:36Z</updated>
+  <updated>2024-02-20T13:53:01Z</updated>
+  <entry>
+    <id>48406</id>
+    <title
+      type="text">Matriklen2: Test06 indeholder nu data</title>
+    <updated>2024-02-20T13:53:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/48406" />
+    <content
+      type="text">Besked: Matriklen2: Test06 indeholder nu data
+
+Test06-miljøet understøtter nu også Matriklen2. 
+
+
+Vær dog opmærksom på, at sagsdata registreret i perioden fra cirka 9. august 2023 til 16. februar 2024 eventuelt ikke er udstillet på Datafordeleren. Samme data vil dog kunne findes på den foregående version af Matriklen, indtil denne nedlægges inden for de kommende måneder. &#xD;
+Register: Matriklen (MAT)&#xD;
+Status: I gang&#xD;
+Sagsreference: 48406&#xD;
+</content>
+  </entry>
   <entry>
     <id>47540</id>
     <title
