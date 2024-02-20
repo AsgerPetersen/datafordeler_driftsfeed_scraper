@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-20T08:24:33Z</updated>
+  <updated>2024-02-19T11:36:36Z</updated>
   <entry>
     <id>47540</id>
     <title
@@ -28,28 +28,6 @@ Status: Planlagt&#xD;
 Sagsreference: 47540&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>48307</id>
-    <title
-      type="text">Test03 og Test04 servicevindue tirsdag den 20. februar 2024</title>
-    <updated>2024-02-20T08:24:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48307" />
-    <content
-      type="text">Besked: Test03 og Test04 servicevindue tirsdag den 20. februar 2024
- 
-Der er et servicevindue på Test03 i dag fra klokken 9:00 og på Test06 fra klokken 13:00.
-
-I tidsrummet vil miljøerne være helt eller delvist utilgængelige.
- &#xD;
-Register: Alle&#xD;
-Status: Ikke planlagt&#xD;
-Sagsreference: 48307&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
