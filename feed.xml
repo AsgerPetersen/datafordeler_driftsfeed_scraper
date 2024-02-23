@@ -5,7 +5,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-23T09:54:51Z</updated>
+  <updated>2024-02-23T10:02:09Z</updated>
   <entry>
     <id>48406</id>
     <title
@@ -72,15 +72,17 @@ Sagsreference: 48116&#xD;
   <entry>
     <id>48508</id>
     <title
-      type="text">Fejl i DAR filudtræk</title>
-    <updated>2024-02-23T09:54:51Z</updated>
+      type="text">Fejl i DAR filudtræk og DAR dataopdatering er stoppet</title>
+    <updated>2024-02-23T10:02:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48508" />
     <content
-      type="text">Besked: Fejl i DAR filudtræk
+      type="text">Besked: Fejl i DAR filudtræk og DAR dataopdatering er stoppet
 
 Der er i øjeblikket en fejl i DAR filudtræk leveret 22.02.2024, der er konstateret fejl i dataen.
+
+I denne sammenhæng er DAR dataopdatering blevet stoppet indtil datafejlen er løst.
 
 23.02.2024: Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
