@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-02-23T12:45:12Z</updated>
+  <updated>2024-02-14T11:59:57Z</updated>
   <entry>
     <id>47540</id>
     <title
@@ -48,28 +48,6 @@ Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>48508</id>
-    <title
-      type="text">Fejl i DAR filudtræk</title>
-    <updated>2024-02-23T12:45:12Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48508" />
-    <content
-      type="text">Besked: Fejl i DAR filudtræk
-
-Der er i øjeblikket en fejl i DAR filudtræk leveret 22.02.2024, da er konstateret fejl i dataen.
-
-23.02.2024 klokken 10:00: Der bliver arbejdet på at løse problemet.
-
-23.02.2024 klokken 13:15: Problemet er løst, datafejlen er rettet.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 48508&#xD;
 </content>
   </entry>
   <entry>
