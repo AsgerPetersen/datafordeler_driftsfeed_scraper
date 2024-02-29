@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2024-02-27T11:36:42Z</updated>
+  <entry>
+    <id>47540</id>
+    <title
+      type="text">Varsling om lukning af Matriklen</title>
+    <updated>2024-02-27T11:34:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/47540" />
+    <content
+      type="text">Besked: Varsling om lukning af Matriklen
+
+Vi gør opmærksom på, at Matriklen overgår til Matriklen2 på Datafordeleren den 31. marts 2024.
+
+Vi opfordrer til, at der er skiftet til Matriklen2 snarest og senest 31. marts 2024.
+
+Læs mere om overgangen fra Matriklen til Matriklen2 på https://datafordeler.dk/drift/aendringer&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Webservice, Filudtræk, Hændelser&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 47540&#xD;
+Forventet fra: 01-01-0001 00:00:00&#xD;
+Forventet til: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>48116</id>
+    <title
+      type="text">Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom</title>
+    <updated>2024-02-27T11:36:42Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/48116" />
+    <content
+      type="text">Besked: Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom
+
+Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom og Bestemt Fast Ejendom ikke blevet leveret til abonnementer uden filtrering.
+
+27.02.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.&#xD;
+Register: Matriklen (MAT)&#xD;
+Status: I gang&#xD;
+Sagsreference: 48116&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>45236</id>
+    <title
+      type="text">*De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS i alle Datafordeler miljøerne*</title>
+    <updated>2024-02-09T10:11:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/45236" />
+    <content
+      type="text">Besked: De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS, i alle Datafordeler miljøerne
+
+09.02.2024: Der arbejdes fortsat på at løse problemet.
+
+24.11.2023: Der bliver arbejdet på at løse problemet. Hentning af DAR offentlige filudtræk via Datafordeler ftp3-serveren er ikke berørt.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 45236&#xD;
+</content>
+  </entry>
+</feed>
