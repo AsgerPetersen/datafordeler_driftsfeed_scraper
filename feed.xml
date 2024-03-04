@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-04T08:17:35Z</updated>
+  <updated>2024-03-04T11:39:26Z</updated>
   <entry>
     <id>47540</id>
     <title
       type="text">Varsling om lukning af Matriklen</title>
-    <updated>2024-02-27T11:34:56Z</updated>
+    <updated>2024-03-04T11:39:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/47540" />
@@ -35,7 +35,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>48116</id>
     <title
       type="text">Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom</title>
-    <updated>2024-02-27T11:36:42Z</updated>
+    <updated>2024-03-04T11:38:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48116" />
@@ -44,7 +44,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 
 Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom og Bestemt Fast Ejendom ikke blevet leveret til abonnementer uden filtrering.
 
-27.02.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.&#xD;
+04.03.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
@@ -54,7 +54,7 @@ Sagsreference: 48116&#xD;
     <id>48694</id>
     <title
       type="text">Fejl i DAR delta filudtræk 22.02.2024</title>
-    <updated>2024-03-04T08:17:35Z</updated>
+    <updated>2024-03-04T11:37:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48694" />
@@ -63,37 +63,17 @@ Sagsreference: 48116&#xD;
 
 I forbindelse med der indtræf en fejl i DAR_Totaludtraek_DeltaDaily_XML_HF og DAR_Totaludtraek_DeltaDaily_JSON_HF den 22.02.2024 kan følgende gøres for at kunne få et korrekt filudtræk:
 
-1) Det er muligt at slette de 6 fejl importerede rækker i filudtrækkende fra den 22.02.2024 . Dette vil fixe fejlen der er forekommet den 22.02.2024 i forbindelse med fejlindlæsning.
+1) Det er muligt at slette de 6 fejl importerede rækker i filudtrækkende fra den 22.02.2024 . Dette vil fixe fejlen, der er forekommet den 22.02.2024 i forbindelse med fejlindlæsning.
 
 	Hvis man vælger at slette de 6 rækker, findes disse ved at søge efter "Address1", "Address2", "Address3", "Address4", "Address5", "Address6" og fjerne de rækker der indeholder denne værdi.
 
 
 
-2) Det er muligt at lave en ny totalindlæsning. Dette tager lidt tid, men vil resultere i at man har det nyeste og det rigtige data.&#xD;
+2) Det er muligt at lave en ny totalindlæsning. Dette tager lidt tid, men vil resultere i, at man har de nyeste og de rigtige data.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 48694&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>45236</id>
-    <title
-      type="text">*De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS i alle Datafordeler miljøerne*</title>
-    <updated>2024-02-09T10:11:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/45236" />
-    <content
-      type="text">Besked: De offentligt tilgængelige DAR filudtræk kan ikke hentes i øjeblikket via HTTP og HTTPS, i alle Datafordeler miljøerne
-
-09.02.2024: Der arbejdes fortsat på at løse problemet.
-
-24.11.2023: Der bliver arbejdet på at løse problemet. Hentning af DAR offentlige filudtræk via Datafordeler ftp3-serveren er ikke berørt.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 45236&#xD;
 </content>
   </entry>
 </feed>
