@@ -50,30 +50,4 @@ Status: I gang&#xD;
 Sagsreference: 48116&#xD;
 </content>
   </entry>
-  <entry>
-    <id>48694</id>
-    <title
-      type="text">Fejl i DAR delta filudtræk 22.02.2024</title>
-    <updated>2024-03-04T11:37:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48694" />
-    <content
-      type="text">Besked: Fejl i DAR_DeltaDaily filudtræk 22.02.2024
-
-I forbindelse med der indtræf en fejl i DAR_Totaludtraek_DeltaDaily_XML_HF og DAR_Totaludtraek_DeltaDaily_JSON_HF den 22.02.2024 kan følgende gøres for at kunne få et korrekt filudtræk:
-
-1) Det er muligt at slette de 6 fejl importerede rækker i filudtrækkende fra den 22.02.2024 . Dette vil fixe fejlen, der er forekommet den 22.02.2024 i forbindelse med fejlindlæsning.
-
-	Hvis man vælger at slette de 6 rækker, findes disse ved at søge efter "Address1", "Address2", "Address3", "Address4", "Address5", "Address6" og fjerne de rækker der indeholder denne værdi.
-
-
-
-2) Det er muligt at lave en ny totalindlæsning. Dette tager lidt tid, men vil resultere i, at man har de nyeste og de rigtige data.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 48694&#xD;
-</content>
-  </entry>
 </feed>
