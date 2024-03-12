@@ -6,17 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-12T07:19:31Z</updated>
+  <updated>2024-03-12T11:37:56Z</updated>
   <entry>
     <id>48905</id>
     <title
-      type="text">Skærmkortet opdateres i uge 13</title>
-    <updated>2024-03-12T07:19:31Z</updated>
+      type="text">Skærmkort</title>
+    <updated>2024-03-12T11:37:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48905" />
     <content
-      type="text">Besked: Skærmkortet opdateres i uge 13.&#xD;
+      type="text">Besked: Skærmkort
+
+12.03.2024: Skærmkortet bliver opdateret i uge 13.&#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
