@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-14T08:27:34Z</updated>
+  <updated>2024-03-14T09:18:10Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -47,18 +47,20 @@ Sagsreference: 48116&#xD;
   <entry>
     <id>48968</id>
     <title
-      type="text">Dataopdatering stoppet for MAT, MAT2, EBR og EJF</title>
-    <updated>2024-03-14T08:20:30Z</updated>
+      type="text">Dataopdatering stoppet for flere registre</title>
+    <updated>2024-03-14T09:18:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48968" />
     <content
-      type="text">Besked: Dataopdatering stoppet for MAT, MAT2, EBR og EJF
+      type="text">Besked: Dataopdatering stoppet for flere registre
 
-14.03.2024 klokken 09:15: Dataopdatering er stoppet for Matriklen, Matriklen2, Ejendomsbeliggenhedsregisteret og Ejerfortegnelsen.
+14.03.2024 klokken 09:15: Dataopdatering er stoppet for følgende registre:
+
+Matriklen (MAT), Matriklen2 (MAT2), Ejendomsbeliggenhedsregisteret (EBR), Bygnings- og Boligregistret (BBR), Det Centrale Virksomhedsregister (CVR), Danmarks Adresseregister (DAR), Ejerfortegnelsen (EJF) og GeoDanmark Vektor.
 
 Der bliver arbejdet på at løse incident. &#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Det Centrale Virksomhedsregister (CVR), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 48968&#xD;
