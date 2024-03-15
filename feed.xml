@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-14T12:19:08Z</updated>
+  <updated>2024-03-15T11:39:11Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -28,15 +28,15 @@ Sagsreference: 48905&#xD;
   <entry>
     <id>48981</id>
     <title
-      type="text">Test06 servicevindue, den 25. marts 2024 til den 8. april 2024</title>
-    <updated>2024-03-14T12:18:26Z</updated>
+      type="text">Test06 servicevindue, den 25. marts til den 8. april 2024</title>
+    <updated>2024-03-15T11:38:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48981" />
     <content
-      type="text">Besked: Test06 servicevindue den 25. marts 2024 til den 8. april 2024
+      type="text">Besked: Test06 servicevindue den 25. marts til den 8. april 2024
 
-Der er servicevindue på Test06 i perioden 25. marts 2024 til 8. april 2024. Der kan forekomme ændringer i datoerne. 
+Der er servicevindue på Test06 i perioden 25. marts til 8. april 2024. Der kan forekomme ændringer i datoerne. 
 
 Der kan periodevist være ustabilitet i miljøet på dataindlæsning, webservices, hændelser og filudtræk.&#xD;
 Register: Alle&#xD;
@@ -50,13 +50,13 @@ Periode slut: 01-01-0001 00:00:00&#xD;
   <entry>
     <id>48979</id>
     <title
-      type="text">Test03, Test04 og Test06 servicevinduer, onsdag den 20. marts</title>
-    <updated>2024-03-14T12:19:08Z</updated>
+      type="text">Test03, Test04 og Test06 servicevinduer, onsdag den 20. marts 2024</title>
+    <updated>2024-03-15T11:39:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48979" />
     <content
-      type="text">Besked: Test03, Test04 og Test06 servicevinduer, onsdag den 20. marts til den 21. marts
+      type="text">Besked: Test03, Test04 og Test06 servicevinduer, onsdag den 20. marts til den 21. marts 2024
 
 Klokken 17:00 - 02:00 er der servicevinduer på testmiljøerne. 
 
