@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-26T09:39:17Z</updated>
+  <updated>2024-03-26T10:53:43Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -70,12 +70,14 @@ Sagsreference: 48116&#xD;
     <id>49208</id>
     <title
       type="text">Dataopdatering stoppet for flere registre</title>
-    <updated>2024-03-26T09:39:17Z</updated>
+    <updated>2024-03-26T10:53:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49208" />
     <content
       type="text">Besked: Dataopdatering stoppet for flere registre
+
+26.03.2024 klokken 12:00: Problemet er løst og alle registres dataopdatering er tilbage i normal drift.
 
 26.03.2024 klokken 10:15: Dataopdatering er stoppet for følgende registre:
 
@@ -84,7 +86,7 @@ Matriklen (MAT), Matriklen2 (MAT2), Ejendomsbeliggenhedsregisteret (EBR), Bygnin
 Der bliver arbejdet med højt prioritet med at løse incident&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Det Centrale Virksomhedsregister (CVR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 49208&#xD;
 </content>
   </entry>
