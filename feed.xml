@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-03-22T09:30:55Z</updated>
+  <updated>2024-03-26T09:21:10Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -64,6 +64,28 @@ Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom 
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49208</id>
+    <title
+      type="text">Dataopdatering stoppet for flere registre</title>
+    <updated>2024-03-26T09:21:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49208" />
+    <content
+      type="text">Besked: Dataopdatering stoppet for flere registre
+
+26.03.2024 klokken 10:15: Dataopdatering er stoppet for følgende registre:
+
+Matriklen (MAT), Matriklen2 (MAT2), Ejendomsbeliggenhedsregisteret (EBR), Bygnings- og Boligregistret (BBR), Det Centrale Virksomhedsregister (CVR), Danmarks Adresseregister (DAR), Ejerfortegnelsen (EJF), Ejendomsvurdering(VUR)  og GeoDanmark Vektor. 
+
+Der bliver arbejdet med højt prioritet med at løse incident&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Det Centrale Virksomhedsregister (CVR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 49208&#xD;
 </content>
   </entry>
 </feed>
