@@ -1,93 +1,79 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<feed
-  xmlns="http://www.w3.org/2005/Atom">
-  <title
-    type="text">Service Messages</title>
-  <subtitle
-    type="text"></subtitle>
-  <id>serviceMessages</id>
-  <updated>2024-03-26T10:53:43Z</updated>
-  <entry>
-    <id>48905</id>
-    <title
-      type="text">Skærmkort</title>
-    <updated>2024-03-14T08:27:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48905" />
-    <content
-      type="text">Besked: Skærmkort
+<!DOCTYPE html>
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8" />
+        <title> HTTP Error 500.30 - ASP.NET Core app failed to start </title>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Arial, Helvetica, sans-serif;
+                font-size: .813em;
+                color: #222;
+                background-color: #fff;
+            }
 
-12.03.2024: Skærmkortet bliver opdateret i uge 15.&#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice&#xD;
-Status: I gang&#xD;
-Sagsreference: 48905&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>48981</id>
-    <title
-      type="text">Test06 servicevindue, den 4. april til den 17. april 2024</title>
-    <updated>2024-03-18T14:17:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48981" />
-    <content
-      type="text">Besked: Test06 servicevindue den 4. april til den 17. april 2024
+            h1, h2, h3, h4, h5 {
+                /*font-family: 'Segoe UI',Tahoma,Arial,Helvetica,sans-serif;*/
+                font-weight: 100;
+            }
 
-Der er servicevindue på Test06 i perioden 4. april til 17. april 2024. Der kan forekomme ændringer i datoerne. 
+            h1 {
+                color: #44525e;
+                margin: 15px 0 15px 0;
+            }
 
-Der kan periodevist være ustabilitet i miljøet på dataindlæsning, webservices, hændelser og filudtræk.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 48981&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>48116</id>
-    <title
-      type="text">Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom</title>
-    <updated>2024-03-22T09:30:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48116" />
-    <content
-      type="text">Besked: Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom
+            h2 {
+                margin: 10px 5px 0 0;
+            }
 
-Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom og Bestemt Fast Ejendom ikke blevet leveret til abonnementer uden filtrering.
+            h3 {
+                color: #363636;
+                margin: 5px 5px 0 0;
+            }
 
-22.03.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.&#xD;
-Register: Matriklen (MAT)&#xD;
-Status: I gang&#xD;
-Sagsreference: 48116&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49208</id>
-    <title
-      type="text">Dataopdatering stoppet for flere registre</title>
-    <updated>2024-03-26T10:53:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49208" />
-    <content
-      type="text">Besked: Dataopdatering stoppet for flere registre
+            code {
+                font-family: Consolas, "Courier New", courier, monospace;
+            }
 
-26.03.2024 klokken 12:00: Problemet er løst og alle registres dataopdatering er tilbage i normal drift.
+            body .titleerror {
+                padding: 3px 3px 6px 3px;
+                display: block;
+                font-size: 1.5em;
+                font-weight: 100;
+            }
 
-26.03.2024 klokken 10:15: Dataopdatering er stoppet for følgende registre:
+            a {
+                color: #1ba1e2;
+                text-decoration: none;
+            }
 
-Matriklen (MAT), Matriklen2 (MAT2), Ejendomsbeliggenhedsregisteret (EBR), Bygnings- og Boligregistret (BBR), Det Centrale Virksomhedsregister (CVR), Ejerfortegnelsen (EJF), Ejendomsvurdering(VUR)  og GeoDanmark Vektor. 
+                a:hover {
+                    color: #13709e;
+                    text-decoration: underline;
+                }
 
-Der bliver arbejdet med højt prioritet med at løse incident&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Det Centrale Virksomhedsregister (CVR), Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 49208&#xD;
-</content>
-  </entry>
-</feed>
+            li {
+                margin: 5px;
+            }
+
+        </style>
+    </head>
+    <body>
+        <h1> HTTP Error 500.30 - ASP.NET Core app failed to start </h1>
+
+        <h2> Common solutions to this issue: </h2><ul><li>The app failed to start</li><li>The app started but then stopped</li><li>The app started but threw an exception during startup</li></ul>
+
+        
+
+        <h2> Troubleshooting steps: </h2>
+        <ul>
+            <li> Check the system event log for error messages </li>
+            <li> Enable logging the application process' stdout messages </li>
+            <li> Attach a debugger to the application process and inspect </li>
+        </ul>
+
+        <h2>
+            For more guidance on diagnosing and handling these errors, visit
+             <a href="https://go.microsoft.com/fwlink/?LinkID=2028526"> <cite>Troubleshoot ASP.NET Core on Azure App Service and IIS</cite></a>.
+        </h2>
+    </body>
+</html>
