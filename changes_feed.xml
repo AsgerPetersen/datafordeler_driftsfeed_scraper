@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Changes</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceChanges</id>
+  <updated>2024-03-22T09:15:36Z</updated>
+  <entry>
+    <id>30052</id>
+    <title
+      type="text">DK Topokort dataopdatering med 2022 og 2023 data</title>
+    <updated>2024-02-01T11:25:34Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/30052" />
+    <content
+      type="text">Besked: Danmarks Topografiske Kortværk 2022 og 2023
+
+DKtopokort WMS 1:25.000 bliver opdateret med data fra 2022 og 2023 den 31. januar 2024. Filudtræk 1:25.000 bliver også opdateret med data fra 2023.
+
+Der vil på et senere tidspunkt komme en særskilt udmelding vedrørende opdatering af WMS 1:250.000, WMS 1:500.000, og WMS 1:1.000.000 samt respektive filudtræk.&#xD;
+Register: Danmarks Topografiske Kortværk (DTK)&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 30052&#xD;
+Tidsangivelse: 31-01-2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>47739</id>
+    <title
+      type="text">Forlængelse af paralleldrift mellem Matriklen og Matriklen2</title>
+    <updated>2024-03-22T09:15:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/47739" />
+    <content
+      type="text">Besked: Forlængelse af paralleldrift mellem Matriklen og Matriklen2
+
+Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil august 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt.
+
+Fejl på den tidligere version af Matriklen bliver ikke rettet.
+
+Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 11. marts 2024 nedenfor (listen kan blive opdateret):
+
+	Abonnement på filudtrækket Samlet Fast Ejendom returnerer ikke data
+Uddybning: Fejlen har vist sig at have relation til et pludseligt opstået problem med at tildele tjenesten tilstrækkelige maskinelle ressourcer. En specifik løsning undersøges i øjeblikket.
+	Jordstykke er MultiPolygon i Matriklen2
+Uddybning: Geometri for Jordstykke skal være polygon. Fejlen er bekræftet og undersøges.
+	Kan ikke bestille ejendomsrapport i Matriklen2
+Uddybning: Fejl i tjenesten BestemtFastEjendom. Årsag undersøges.
+	Filudtrækket MATmatrikulaer har fejl i JSON-format
+Uddybning: Rettelse er klar til implementering medio marts.
+	Foreløbige objekter udtrækkes, selvom kun gældende er bestilt i for eksempel tjenesten MATkortdataGaeldendeDKComplete
+Uddybning: Klar til rettelse og implementering.
+	Forkert schema-lokation i WFS-tjeneste Mat_AlleData
+Uddybning: Løsning på vej.
+
+
+
+Umiddelbart efter paralleldriftsperioden slutter, vil de eksisterende tjenester blive lukket ned. Læs mere om snitfladerne og datamodelændringen i nedenstående dokumentation.
+
+Der kan læses mere om ændringen af Matriklen2 på følgende link: https://confluence.sdfi.dk/x/sYDoB 
+
+Læs mere om Matriklen2 her: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Webservice, Filudtræk, Hændelser&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 47739&#xD;
+Tidsangivelse: August 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26622</id>
+    <title
+      type="text">Ændringer til CPR’s tjenester i 2024</title>
+    <updated>2024-01-29T12:14:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/26622" />
+    <content
+      type="text">Besked: Ændringer til CPR’s tjenester i 2024
+
+CPR’s tjenester på Datafordeleren bliver ændret i 2024, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
+
+SDFI arbejder på en løsning, hvor der ikke vil være nedetid på de berørte tjenester. Vi forventer at komme med yderligere information i begyndelsen af 2. kvartal 2024.
+
+Den endelige dato for release på Datafordeleren vil blive varslet mindst tre måneder før release. Der bliver som minimum mulighed for at teste de ændrede CPR tjenester i to måneder i testmiljø før release.
+
+Det er allerede nu muligt at læse om de planlagte ændringer i CPR tjenesterne på siden Kommende ændringer (CPR) 2024 - Dokumentation - Dokumentation (sdfi.dk)
+
+Der er en pt. en igangværende intern test af de kommende CPR tjenester på Test03.
+
+Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
+
+SDFI opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice, Hændelser&#xD;
+Status: Forventet&#xD;
+Sagsreference: 26622&#xD;
+Tidsangivelse: 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>23706</id>
+    <title
+      type="text">Der kommer ikke brugerdefinerede filudtræk med MatrikelGeometri</title>
+    <updated>2024-03-08T12:07:32Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/23706" />
+    <content
+      type="text">Besked: Der kommer ikke brugerdefinerede filudtræk med MatrikelGeometri
+
+Moderniseringen af Datafordeleren kommer ikke til at indeholde brugerdefinerede filudtræk.
+
+Derfor er det besluttet ikke at igangsætte udviklingen af de to planlagte brugerdefinerede filudtræk MatrikelGeometri i GeoPackage og GML.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: Afvist&#xD;
+Sagsreference: 23706&#xD;
+Tidsangivelse: &#xD;
+</content>
+  </entry>
+  <entry>
+    <id>47334</id>
+    <title
+      type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML</title>
+    <updated>2024-03-15T12:34:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/47334" />
+    <content
+      type="text">Besked: Filudtræk fra GeoDanmark Vektor Prædefineret i GML
+
+Filudtræk fra GeoDanmark Vektor Prædefineret i GML format uden tilføjelsen _HF bliver udfaset 24. april 2024. Filudtrækket uden tilføjelsen _HF bliver udfaset, fordi det er en ældre version, som ikke fungerer optimalt.
+
+Filudtræk fra GeoDanmark Vektor Prædefineret Historik i GML format uden tilføjelsen _HF vil blive udfaset 1. maj 2024.
+
+Bruger du prædefinerede filudtræk med GeoDanmark Vektor i GML format, skal du oprette abonnement på:
+
+	GeoDanmark Vektor Prædefineret GML_HF
+	GeoDanmark Vektor Historik Prædefineret GML_HF
+
+
+
+Har du eller har du tidligere haft abonnement på det prædefinerede filudtræk i GML fra GeoDanmark Vektor og ikke modtaget filer, skal du oprette nyt abonnement på filudtræk med tilføjelsen _HF. &#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Filudtræk&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 47334&#xD;
+Tidsangivelse: 24-04-2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46475</id>
+    <title
+      type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
+    <updated>2024-02-27T11:25:45Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/46475" />
+    <content
+      type="text">Besked: Kommende ændringer til Ejerfortegnelsens tjenester
+
+Der gennemføres en række ændringer og mindre justeringer til Ejerfortegnelsens tjenester på Datafordeleren. Ændringerne er foranlediget af de kommende ændringer til CPR’s tjenester, og Geodatastyrelsens løbende forbedring og tilpasning af de udstillede services.
+
+Ændringerne er planlagt til release på Datafordeleren sammen med de kommende ændringer til CPR's tjenester i 2024.
+
+ 
+
+Ændringer i forbindelse med CPR’s ændring
+
+Ændringen indeholder breaking changes, som afspejles i den opdaterede DLS for Ejerfortegnelsen. Den kommende DLS ligger under DLS-ændringer i Datafordelerens dokumentation.
+
+Ændringen inkluderer ændringer i formater for datoer hos CPR samt strukturelle ændringer til objekter:
+
+	Tilføjet CPR_definitioner.json fra CPR’s DLS til Ejerfortegnelsens DLS.
+	Ændringer i PersonSimpel.json, PersonSimpelMedPersonnummer.json og PersonSimpelMedPersonnummerBeskyttelse.json:
+	foedselsdato format ændret fra date-time til date
+	statusdato format ændret fra date-time til date
+	Udenlandsadresse objekt bliver erstattet af fem individuelle adresselinjer
+	cprLandUdrejse og cprLandekodeUdrejse er erstattet af ét nyt objekt CprLandUdrejse
+
+
+
+ 
+
+Ændringer i forbindelse med optimering og tilpasninger
+
+Ændringen indeholder en opdatering af Ejerskifte REST-tjenesten. Ændringen påvirker måden hvorpå relaterede ejerskabsskifter hentes. Ejerskabsskifter bliver nu sorteret på bitemporalitet på samme måde som ejerskifter, når der søges bitemporalt. Ændringen løser følgende kendte fejl: http://datafordeler.dk/support/?faq=41605.
+
+ 
+
+Der er tilføjet nye versioner af REST-tjenester kaldet Ejerfortegnelsen v3, EjerfortegnelsenFortrolig v2 og EjerfortegnelsenFortroligBeskyttet v2. Der er derudover fjernet og tilføjet dataelementer til eksisterende udstillede datamodel, herunder:
+
+	Fjernet ’koen’ felt
+	Fjernet ’darAdresseId’ felt
+	Fjernet DAR join logic, hvor DAR blev joinet sammen med CPR
+	Fjernet krav om minimum ét ejerskabsskifte
+
+
+
+De specifikke ændringer, og hvilke filer det berører, kan ses i den kommende DLS.
+
+ 
+
+Geodatastyrelsen har besluttet at bibeholde delta/since previous for de brugerdefineret filudtræk:
+
+	Ejendomsadministrator med stamoplysning
+	Ejerskab med stamoplysning
+	Ejendomsadministrator med stamoplysning (fortrolig)
+	Ejerskab med stamoplysninger (fortrolig)
+	Person- eller virksomhedsadministrator med stamoplysninger (fortrolig)
+
+
+
+Begrundelsen for dette er, at en række anvendere har henvendt sig til Geodatastyrelsen med bekymringer ift. fjernelse af delta udtræk på specifikke filtjenester og at det giver
+mening for Geodatastyrelsen at beholde delta/since previous indtil moderniseringstiltagene på Datafordeleren bliver implementeret. 
+
+Der opleves desværre stadig udfordringer med delta/since previous for de brugerdefineret filudtræk. Læs mere om det her: http://datafordeler.dk/support/?faq=41279&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 46475&#xD;
+Tidsangivelse: 2024&#xD;
+</content>
+  </entry>
+</feed>
