@@ -14,7 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://datafordeler.dk/api/operations/messages/atom -o feed.xml
+        curl https://datafordeler.dk/api/operations/messages/atom -o messages_feed.xml
+        curl https://datafordeler.dk/api/operations/changes/atom -o changes_feed.xml
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
