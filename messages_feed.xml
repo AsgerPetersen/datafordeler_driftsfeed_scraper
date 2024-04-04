@@ -66,26 +66,4 @@ Status: I gang&#xD;
 Sagsreference: 48116&#xD;
 </content>
   </entry>
-  <entry>
-    <id>49245</id>
-    <title
-      type="text">Dataopdatering er stoppet for CVR</title>
-    <updated>2024-04-03T09:41:40Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49245" />
-    <content
-      type="text">Besked: Dataopdatering er stoppet for CVR
-
-03.04.2024 klokken 11:40: Problemet er løst og CVR dataopdatering er tilbage i normal drift.
-
-03.04.2024 klokken 10:00: Dataopdatering er stoppet for CVR.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 49245&#xD;
-</content>
-  </entry>
 </feed>
