@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-03-22T09:15:36Z</updated>
+  <updated>2024-04-08T06:33:09Z</updated>
   <entry>
     <id>30052</id>
     <title
@@ -104,27 +104,6 @@ Tidsangivelse: 2024&#xD;
 </content>
   </entry>
   <entry>
-    <id>23706</id>
-    <title
-      type="text">Der kommer ikke brugerdefinerede filudtræk med MatrikelGeometri</title>
-    <updated>2024-03-08T12:07:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/23706" />
-    <content
-      type="text">Besked: Der kommer ikke brugerdefinerede filudtræk med MatrikelGeometri
-
-Moderniseringen af Datafordeleren kommer ikke til at indeholde brugerdefinerede filudtræk.
-
-Derfor er det besluttet ikke at igangsætte udviklingen af de to planlagte brugerdefinerede filudtræk MatrikelGeometri i GeoPackage og GML.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: Afvist&#xD;
-Sagsreference: 23706&#xD;
-Tidsangivelse: &#xD;
-</content>
-  </entry>
-  <entry>
     <id>47334</id>
     <title
       type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML</title>
@@ -158,7 +137,7 @@ Tidsangivelse: 24-04-2024&#xD;
     <id>46475</id>
     <title
       type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
-    <updated>2024-02-27T11:25:45Z</updated>
+    <updated>2024-04-08T06:33:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/46475" />
@@ -171,56 +150,7 @@ Der gennemføres en række ændringer og mindre justeringer til Ejerfortegnelsen
 
  
 
-Ændringer i forbindelse med CPR’s ændring
-
-Ændringen indeholder breaking changes, som afspejles i den opdaterede DLS for Ejerfortegnelsen. Den kommende DLS ligger under DLS-ændringer i Datafordelerens dokumentation.
-
-Ændringen inkluderer ændringer i formater for datoer hos CPR samt strukturelle ændringer til objekter:
-
-	Tilføjet CPR_definitioner.json fra CPR’s DLS til Ejerfortegnelsens DLS.
-	Ændringer i PersonSimpel.json, PersonSimpelMedPersonnummer.json og PersonSimpelMedPersonnummerBeskyttelse.json:
-	foedselsdato format ændret fra date-time til date
-	statusdato format ændret fra date-time til date
-	Udenlandsadresse objekt bliver erstattet af fem individuelle adresselinjer
-	cprLandUdrejse og cprLandekodeUdrejse er erstattet af ét nyt objekt CprLandUdrejse
-
-
-
- 
-
-Ændringer i forbindelse med optimering og tilpasninger
-
-Ændringen indeholder en opdatering af Ejerskifte REST-tjenesten. Ændringen påvirker måden hvorpå relaterede ejerskabsskifter hentes. Ejerskabsskifter bliver nu sorteret på bitemporalitet på samme måde som ejerskifter, når der søges bitemporalt. Ændringen løser følgende kendte fejl: http://datafordeler.dk/support/?faq=41605.
-
- 
-
-Der er tilføjet nye versioner af REST-tjenester kaldet Ejerfortegnelsen v3, EjerfortegnelsenFortrolig v2 og EjerfortegnelsenFortroligBeskyttet v2. Der er derudover fjernet og tilføjet dataelementer til eksisterende udstillede datamodel, herunder:
-
-	Fjernet ’koen’ felt
-	Fjernet ’darAdresseId’ felt
-	Fjernet DAR join logic, hvor DAR blev joinet sammen med CPR
-	Fjernet krav om minimum ét ejerskabsskifte
-
-
-
-De specifikke ændringer, og hvilke filer det berører, kan ses i den kommende DLS.
-
- 
-
-Geodatastyrelsen har besluttet at bibeholde delta/since previous for de brugerdefineret filudtræk:
-
-	Ejendomsadministrator med stamoplysning
-	Ejerskab med stamoplysning
-	Ejendomsadministrator med stamoplysning (fortrolig)
-	Ejerskab med stamoplysninger (fortrolig)
-	Person- eller virksomhedsadministrator med stamoplysninger (fortrolig)
-
-
-
-Begrundelsen for dette er, at en række anvendere har henvendt sig til Geodatastyrelsen med bekymringer ift. fjernelse af delta udtræk på specifikke filtjenester og at det giver
-mening for Geodatastyrelsen at beholde delta/since previous indtil moderniseringstiltagene på Datafordeleren bliver implementeret. 
-
-Der opleves desværre stadig udfordringer med delta/since previous for de brugerdefineret filudtræk. Læs mere om det her: http://datafordeler.dk/support/?faq=41279&#xD;
+Læs mere om de planlagte ændringer på siden Kommende ændringer (EJF) 2024 - Dokumentation - Dokumentation (sdfi.dk)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Status: Forventet&#xD;
 Sagsreference: 46475&#xD;
