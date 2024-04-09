@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-09T09:22:53Z</updated>
+  <updated>2024-04-09T09:48:24Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -23,6 +23,26 @@ Register: Skærmkortet&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 48905&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49411</id>
+    <title
+      type="text">Planlagt Datafordeler produktion systemarbejde den 20. april 2024 i tidsrummet klokken 01:00-13:00</title>
+    <updated>2024-04-09T09:48:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49411" />
+    <content
+      type="text">Besked: Planlagt systemarbejde i Datafordeler produktionsmiljøet den 20. april 2024, i tidsrummet klokken 01:00-13:00
+
+I tidsrummet klokken 10:00-12:00 vil brugerdefinerede filudtræk ikke blive genereret og distribueret, og register dataopdateringer vil være stoppet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 49411&#xD;
+Forventet fra: 19-04-2024 23:00:00&#xD;
+Forventet til: 20-04-2024 11:00:00&#xD;
 </content>
   </entry>
   <entry>
