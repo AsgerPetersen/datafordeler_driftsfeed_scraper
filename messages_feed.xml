@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-09T09:49:11Z</updated>
+  <updated>2024-04-09T10:21:17Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -29,7 +29,7 @@ Sagsreference: 48905&#xD;
     <id>49411</id>
     <title
       type="text">Planlagt Datafordeler produktion systemarbejde den 20. april 2024 i tidsrummet klokken 01:00-13:00</title>
-    <updated>2024-04-09T09:49:11Z</updated>
+    <updated>2024-04-09T10:02:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49411" />
@@ -127,6 +127,28 @@ Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: Løst&#xD;
 Sagsreference: 49402&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49412</id>
+    <title
+      type="text">NemLog-in er i øjeblikket utilgængeligt</title>
+    <updated>2024-04-09T10:21:17Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49412" />
+    <content
+      type="text">Besked: NemLog-in er i øjeblikket utilgængeligt
+
+NemLog-in er i øjeblikket utilgængeligt og bevirker, at man ikke kan logge på selvbetjenings- og administrationsportalen med MitID og NemLog-in.
+
+Man kan følge med i status på:
+
+digitaliser.dk - Ustabilitet på NemLog-in&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 49412&#xD;
 </content>
   </entry>
 </feed>
