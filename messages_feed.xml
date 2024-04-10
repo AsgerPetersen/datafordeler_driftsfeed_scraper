@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-10T09:43:34Z</updated>
+  <updated>2024-04-10T11:30:35Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -92,7 +92,7 @@ Periode slut: 01-01-0001 00:00:00&#xD;
     <id>48116</id>
     <title
       type="text">Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom</title>
-    <updated>2024-04-08T10:33:12Z</updated>
+    <updated>2024-04-10T11:30:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48116" />
@@ -101,7 +101,10 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 
 Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom og Bestemt Fast Ejendom ikke blevet leveret til abonnementer uden filtrering.
 
-08.04.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.&#xD;
+10.04.2024: MAT2 Samlet Fast Ejendom og Bestemt Fast Ejendom filudtræk leveres igen
+
+08.04.2024 klokken 12:30: Der bliver fortsat arbejdet på at løse fejlen.
+&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
