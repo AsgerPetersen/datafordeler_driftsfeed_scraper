@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-09T14:23:34Z</updated>
+  <updated>2024-04-09T10:02:28Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -127,30 +127,6 @@ Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: Løst&#xD;
 Sagsreference: 49402&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49412</id>
-    <title
-      type="text">NemLog-in er i øjeblikket utilgængeligt</title>
-    <updated>2024-04-09T14:23:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49412" />
-    <content
-      type="text">Besked: NemLog-in er i øjeblikket utilgængeligt
-
-09.04.2024 klokken 16:15: Problemet meddelt løst. Se mere på: digitaliser.dk - Ustabilitet på NemLog-in 
-
-09.04.2024 klokken 12.15: NemLog-in er i øjeblikket utilgængeligt og bevirker, at man ikke kan logge på selvbetjenings- og administrationsportalen med MitID og NemLog-in.
-
-Man kan følge med i status på:
-
-digitaliser.dk - Ustabilitet på NemLog-in&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 49412&#xD;
 </content>
   </entry>
 </feed>
