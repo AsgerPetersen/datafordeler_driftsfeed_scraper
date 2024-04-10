@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-09T10:02:28Z</updated>
+  <updated>2024-04-10T08:41:24Z</updated>
   <entry>
     <id>48905</id>
     <title
       type="text">Skærmkort</title>
-    <updated>2024-04-03T08:33:48Z</updated>
+    <updated>2024-04-10T08:41:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/48905" />
     <content
       type="text">Besked: Skærmkort
 
-12.03.2024: Skærmkortet bliver opdateret i uge 15&#xD;
+10.04.2024: Skærmkortet bliver opdateret i uge 16.&#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -105,28 +105,6 @@ Siden den 6. februar er de brugerdefinerede MAT2 filudtræk Samlet Fast Ejendom 
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49402</id>
-    <title
-      type="text">Dokumentation for Datafordeleren er periodisk utilgængelig</title>
-    <updated>2024-04-09T09:22:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49402" />
-    <content
-      type="text">Besked: Dokumentation for Datafordeleren er periodisk utilgængelig
-
-09.04.2024 klokken 11:15 Problemet er løst og dokumentation for Datafordeleren er tilgængelig igen.
-
-09.04.2024 klokken 09:45: Man kan i øjeblikket opleve, at dokumentation for Datafordeleren er utilgængelig.
-
-Vi arbejder på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 49402&#xD;
 </content>
   </entry>
 </feed>
