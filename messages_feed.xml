@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-10T08:58:31Z</updated>
+  <updated>2024-04-10T09:43:34Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -111,14 +111,14 @@ Sagsreference: 48116&#xD;
     <id>49444</id>
     <title
       type="text">Forsinkelse i opdatering af CPR data.</title>
-    <updated>2024-04-10T08:58:31Z</updated>
+    <updated>2024-04-10T09:43:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49444" />
     <content
       type="text">Besked: CPR's dataopdatering ikke indlæst som planlagt natten til onsdag den 10. april
 
-Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til onsdag den 10. april, i tidsrummet klokken 01:00-03:00, men vil blive indlæst med den næste indlæsning natten til torsdag den 11. april. Dette har også medført, at CPR hændelser ikke er udsendt onsdag den 10 april. Seneste CPR dataopdatering og udsendelse af hændelser, var tirsdag den 9. april.&#xD;
+Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til onsdag den 10. april, i tidsrummet klokken 01:00-03:00, men vil blive indlæst med den næste indlæsning natten til torsdag den 11. april. Dette har også medført, at CPR hændelser ikke er udsendt onsdag den 10 april. Seneste CPR dataopdatering og udsendelse af hændelser var tirsdag den 9. april.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Hændelser, Dataopdatering&#xD;
 Status: I gang&#xD;
