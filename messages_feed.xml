@@ -133,26 +133,6 @@ Sagsreference: 48116&#xD;
 </content>
   </entry>
   <entry>
-    <id>49444</id>
-    <title
-      type="text">Forsinkelse i opdatering af CPR data.</title>
-    <updated>2024-04-11T10:38:35Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49444" />
-    <content
-      type="text">Besked: CPR's dataopdatering ikke indlæst som planlagt natten til onsdag den 10. april
-
-11.04.2024: CPR dataopdatering er i normal drift. Dataopdatering for den 10. april blev gennemført sammen med den ordinære dataopdatering. Hændelser bliver også sendt ud som normalt.
-
-Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til onsdag den 10. april, i tidsrummet klokken 01:00-03:00, men vil blive indlæst med den næste indlæsning natten til torsdag den 11. april. Dette har også medført, at CPR hændelser ikke er udsendt onsdag den 10 april. Seneste CPR dataopdatering og udsendelse af hændelser var tirsdag den 9. april.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 49444&#xD;
-</content>
-  </entry>
-  <entry>
     <id>49447</id>
     <title
       type="text">GeoDanmark Vektor Prædefineret GML_HF kan være forsinket</title>
