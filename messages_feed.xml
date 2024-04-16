@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-16T10:59:11Z</updated>
+  <updated>2024-04-16T11:24:17Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -28,15 +28,15 @@ Sagsreference: 48905&#xD;
   <entry>
     <id>49411</id>
     <title
-      type="text">Planlagt Datafordeler produktion systemarbejde den 20. april 2024 i tidsrummet klokken 01:00-13:00</title>
-    <updated>2024-04-12T10:49:33Z</updated>
+      type="text">Planlagt Datafordeler produktion systemarbejde den 20. april</title>
+    <updated>2024-04-16T11:24:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49411" />
     <content
-      type="text">Besked: Planlagt systemarbejde i Datafordeler produktionsmiljøet lørdag den 20. april 2024, i tidsrummet klokken 01:00-13:00
+      type="text">Besked: Planlagt systemarbejde i Datafordeler produktionsmiljøet lørdag den 20. april 2024
 
-I tidsrummet lørdag klokken 10:00-12:00 vil brugerdefinerede filudtræk ikke blive genereret og distribueret. Register dataopdateringen vil være stoppet, og på denne baggrund, vil der ikke blive udsendt hændelser.&#xD;
+På baggrund af systemarbejdet vil alle brugerdefinerede filudtræk ikke blive genereret og distribueret i tidsrummet klokken 10:00-12:00, og register dataopdateringen vil være stoppet, og på denne baggrund, vil der ikke blive udsendt hændelser.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Hændelser, Dataopdatering&#xD;
 Status: Planlagt&#xD;
