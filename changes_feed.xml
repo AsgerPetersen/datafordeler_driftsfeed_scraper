@@ -6,28 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-12T11:34:50Z</updated>
-  <entry>
-    <id>30052</id>
-    <title
-      type="text">DK Topokort dataopdatering med 2022 og 2023 data</title>
-    <updated>2024-04-12T11:34:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/30052" />
-    <content
-      type="text">Besked: Danmarks Topografiske Kortværk 2022 og 2023
-
-DKtopokort WMS 1:25.000 bliver opdateret med data fra 2022 og 2023 den 31. januar 2024. Filudtræk 1:25.000 bliver også opdateret med data fra 2023.
-
-Der vil på et senere tidspunkt komme en særskilt udmelding vedrørende opdatering af WMS 1:250.000, WMS 1:500.000, og WMS 1:1.000.000 samt respektive filudtræk.&#xD;
-Register: Danmarks Topografiske Kortværk (DTK)&#xD;
-Service: Webservice, Filudtræk, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 30052&#xD;
-Tidsangivelse: 31-01-2024&#xD;
-</content>
-  </entry>
+  <updated>2024-04-16T12:25:37Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -159,6 +138,29 @@ Service: Filudtræk&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 47334&#xD;
 Tidsangivelse: 24-04-2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49744</id>
+    <title
+      type="text">DTK500 og DTK1000 opdateres 13. maj 2024 med data fra 2022 og 2023</title>
+    <updated>2024-04-16T12:25:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/49744" />
+    <content
+      type="text">Besked: DTK500 og DTK1000 opdateres 13. maj 2024 med data fra 2022 og 2023
+
+DKtopokort WMS 1:500.000, og WMS 1:1.000.000 bliver opdateret med data fra 2022 og 2023 den 13. maj 2024. Respektive filudtræk bliver opdateret med det nyeste data fra 2023.
+
+DKtopokort WMS 1:250.000 og det respektive filudtræk opdateres ikke, og vil fortsat have 2021 data som det nyeste. 
+
+DKtopokort WMS 1:25.000 blev opdateret den 31. januar 2024.&#xD;
+Register: Danmarks Topografiske Kortværk (DTK)&#xD;
+Service: Webservice, Filudtræk&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 49744&#xD;
+Tidsangivelse: 13-05-2024&#xD;
 </content>
   </entry>
   <entry>
