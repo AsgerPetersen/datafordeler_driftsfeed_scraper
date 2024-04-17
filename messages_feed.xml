@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-17T10:40:46Z</updated>
+  <updated>2024-04-17T11:50:52Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -63,6 +63,26 @@ Register: Alle&#xD;
 Service: Webservice, Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 49658&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49767</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue onsdag den 17. april 2024 efter kl. 17</title>
+    <updated>2024-04-17T11:50:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49767" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 17. april 2024 efter kl. 17
+
+Miljøerne kan være helt eller delvist utilgængelige i perioder i løbet af onsdag aften.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 49767&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
