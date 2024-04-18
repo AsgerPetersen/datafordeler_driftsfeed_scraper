@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-17T10:40:46Z</updated>
+  <updated>2024-04-18T11:04:30Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -23,6 +23,28 @@ Register: Skærmkortet&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 48905&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49807</id>
+    <title
+      type="text">Deltafil i filudtræk fra Danmarks Adresseregister (DAR) er ekstra stor i uge 16</title>
+    <updated>2024-04-18T11:04:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49807" />
+    <content
+      type="text">Besked: Deltafil i filudtræk fra Danmarks Adresseregister (DAR) er ekstra stor i uge 16
+ 
+DAR har for første gang kørt et system, der jævnligt automatisk vil opdatere adgangspunkt med forkert teknisk standard, hvis adgangspunktet er placeret i en bygning. Systemet vil også automatisk flytte adgangspunktet ind i en bygning, hvis adgangspunktet burde ligge i en bygning. Opdateringen har medført ændringer både i husnummer og adressepunkt objekter. Hovedparten af husnumrene har fået adgangspunktets tekniske standard opdateret fra UF til TN pr. den 16. april 2024.
+
+DAR forventer, at det kun er ved den første kørsel, at så mange husnumre bliver påvirket.
+
+Samtidig har flere kommuner opdateret deres afstemningsområder, hvilket også har givet flere opdateringer af husnumre.  &#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 49807&#xD;
 </content>
   </entry>
   <entry>
