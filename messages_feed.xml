@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-18T11:04:30Z</updated>
+  <updated>2024-04-19T12:50:13Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -127,6 +127,23 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49834</id>
+    <title
+      type="text">Datafordelerens Selvbetjening er ikke tilgængelig</title>
+    <updated>2024-04-19T12:50:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49834" />
+    <content
+      type="text">Besked: Datafordelerens Selvbetjening er ikke tilgængelig
+
+Det er muligt at benytte datafordeler.dk til at logge på Datafordeleren, men enkelte funktioner vedrørende oprettelse og administration af Webbruger er kun til rådighed via Selvbetjeningen. Der bliver arbejdet på at få Selvbetjeningen gjort tilgængelig igen.&#xD;
+Service: Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 49834&#xD;
 </content>
   </entry>
 </feed>
