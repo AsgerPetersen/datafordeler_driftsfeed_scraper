@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-19T12:50:13Z</updated>
+  <updated>2024-04-19T13:13:25Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -133,16 +133,18 @@ Sagsreference: 48116&#xD;
     <id>49834</id>
     <title
       type="text">Datafordelerens Selvbetjening er ikke tilgængelig</title>
-    <updated>2024-04-19T12:50:13Z</updated>
+    <updated>2024-04-19T13:13:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49834" />
     <content
-      type="text">Besked: Datafordelerens Selvbetjening er ikke tilgængelig
+      type="text">Besked: Datafordelerens Selvbetjening var kortvarigt ikke tilgængelig
 
-Det er muligt at benytte datafordeler.dk til at logge på Datafordeleren, men enkelte funktioner vedrørende oprettelse og administration af Webbruger er kun til rådighed via Selvbetjeningen. Der bliver arbejdet på at få Selvbetjeningen gjort tilgængelig igen.&#xD;
+19.04.2024 klokken 15:15: Selvbetjeningen er igen tilgængelig.
+
+19.04.2024 klokken 14:30: Det er muligt at benytte datafordeler.dk til at logge på Datafordeleren, men enkelte funktioner vedrørende oprettelse og administration af Webbruger er kun til rådighed via Selvbetjeningen. Der bliver arbejdet på at få Selvbetjeningen gjort tilgængelig igen.&#xD;
 Service: Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 49834&#xD;
 </content>
   </entry>
