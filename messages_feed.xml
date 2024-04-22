@@ -26,50 +26,6 @@ Sagsreference: 48905&#xD;
 </content>
   </entry>
   <entry>
-    <id>49807</id>
-    <title
-      type="text">Deltafil i filudtræk fra Danmarks Adresseregister (DAR) er ekstra stor i uge 16</title>
-    <updated>2024-04-18T11:04:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49807" />
-    <content
-      type="text">Besked: Deltafil i filudtræk fra Danmarks Adresseregister (DAR) er ekstra stor i uge 16
- 
-DAR har for første gang kørt et system, der jævnligt automatisk vil opdatere adgangspunkt med forkert teknisk standard, hvis adgangspunktet er placeret i en bygning. Systemet vil også automatisk flytte adgangspunktet ind i en bygning, hvis adgangspunktet burde ligge i en bygning. Opdateringen har medført ændringer både i husnummer og adressepunkt objekter. Hovedparten af husnumrene har fået adgangspunktets tekniske standard opdateret fra UF til TN pr. den 16. april 2024.
-
-DAR forventer, at det kun er ved den første kørsel, at så mange husnumre bliver påvirket.
-
-Samtidig har flere kommuner opdateret deres afstemningsområder, hvilket også har givet flere opdateringer af husnumre.  &#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Filudtræk&#xD;
-Status: I gang&#xD;
-Sagsreference: 49807&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49411</id>
-    <title
-      type="text">Planlagt Datafordeler produktion systemarbejde den 20. april</title>
-    <updated>2024-04-20T11:29:46Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49411" />
-    <content
-      type="text">Besked: Planlagt systemarbejde i Datafordeler produktionsmiljøet lørdag den 20. april 2024
-
-20.04.2024: Systemarbejde gennemført som planlagt og er afsluttet.
-
-På baggrund af systemarbejdet vil alle brugerdefinerede filudtræk ikke blive genereret og distribueret i tidsrummet klokken 10:00-12:00, og register dataopdateringen vil være stoppet, og på denne baggrund vil der ikke blive udsendt hændelser.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49411&#xD;
-Forventet fra: 19-04-2024 23:00:00&#xD;
-Forventet til: 20-04-2024 11:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>49658</id>
     <title
       type="text">Test06 servicevindue den 22. april til den 26. april 2024</title>
@@ -129,25 +85,6 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49834</id>
-    <title
-      type="text">Datafordelerens Selvbetjening er ikke tilgængelig</title>
-    <updated>2024-04-19T13:13:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49834" />
-    <content
-      type="text">Besked: Datafordelerens Selvbetjening var kortvarigt ikke tilgængelig
-
-19.04.2024 klokken 15:15: Selvbetjeningen er igen tilgængelig.
-
-19.04.2024 klokken 14:30: Det er muligt at benytte datafordeler.dk til at logge på Datafordeleren, men enkelte funktioner vedrørende oprettelse og administration af Webbruger er kun til rådighed via Selvbetjeningen. Der bliver arbejdet på at få Selvbetjeningen gjort tilgængelig igen.&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 49834&#xD;
 </content>
   </entry>
   <entry>
