@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-22T10:44:17Z</updated>
+  <updated>2024-04-22T10:48:34Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -55,7 +55,7 @@ Tidsangivelse: August 2024&#xD;
     <id>49855</id>
     <title
       type="text">Ny version af REST-tjenesten DAR</title>
-    <updated>2024-04-22T10:44:17Z</updated>
+    <updated>2024-04-22T10:48:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49855" />
@@ -66,7 +66,9 @@ Den 24. april 2024 kan du kalde en ny version af REST-tjenesten DAR.
 
 Dette løser følgende kendte fejl http://datafordeler.dk/support/?faq=40254 vedrørende REST-metode husnummerTilJordstykke.
 
-Samtidigt kan alle REST-metoder kaldes i version 3.0.0. Version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. &#xD;
+Samtidigt kan alle REST-metoder kaldes i version 3.0.0.
+
+Bemærk at version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. &#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
 Status: Planlagt&#xD;
