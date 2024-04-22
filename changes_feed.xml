@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-16T12:25:37Z</updated>
+  <updated>2024-04-22T08:02:19Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -55,7 +55,7 @@ Tidsangivelse: August 2024&#xD;
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2024</title>
-    <updated>2024-01-29T12:14:54Z</updated>
+    <updated>2024-04-22T08:02:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
@@ -64,9 +64,9 @@ Tidsangivelse: August 2024&#xD;
 
 CPR’s tjenester på Datafordeleren bliver ændret i 2024, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
 
-SDFI arbejder på en løsning, hvor der ikke vil være nedetid på de berørte tjenester. Vi forventer at komme med yderligere information i begyndelsen af 2. kvartal 2024.
+De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af efteråret 2024, og at paralleldriften kører herefter i seks måneder. 
 
-Den endelige dato for release på Datafordeleren vil blive varslet mindst tre måneder før release. Der bliver som minimum mulighed for at teste de ændrede CPR tjenester i to måneder i testmiljø før release.
+Der bliver mulighed for at teste de ændrede CPR tjenester i to måneder i testmiljø før release.
 
 Det er allerede nu muligt at læse om de planlagte ændringer i CPR tjenesterne på siden Kommende ændringer (CPR) 2024 - Dokumentation - Dokumentation (sdfi.dk)
 
