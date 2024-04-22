@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-20T11:29:46Z</updated>
+  <updated>2024-04-22T05:24:50Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -73,7 +73,7 @@ Forventet til: 20-04-2024 11:00:00&#xD;
     <id>49658</id>
     <title
       type="text">Test06 servicevindue den 22. april til den 26. april 2024</title>
-    <updated>2024-04-15T06:20:10Z</updated>
+    <updated>2024-04-22T05:24:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49658" />
@@ -85,7 +85,7 @@ Der er planlagt servicevindue på Test06 i perioden 22. april til 26. april 2024
 Der kan periodevis være ustabilitet i miljøet på dataindlæsning og webservices.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 49658&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
