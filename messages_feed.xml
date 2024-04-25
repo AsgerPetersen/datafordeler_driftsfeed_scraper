@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-25T09:28:13Z</updated>
+  <updated>2024-04-25T13:09:15Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -115,17 +115,19 @@ Sagsreference: 48116&#xD;
     <id>49936</id>
     <title
       type="text">Manglende replikering af Matriklen2</title>
-    <updated>2024-04-25T08:05:53Z</updated>
+    <updated>2024-04-25T13:09:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49936" />
     <content
       type="text">Besked: Manglende indlæsning af Matriklen2
 
-Matriklen2 har været stoppet i nat, og er nu begyndt at blive opdateret igen. Dette betyder, at der vil være en del hændelser, fordi der er ca. 500 pakker, der skal indlæses.&#xD;
+Matriklen2 har været stoppet i nat, og er nu begyndt at blive opdateret igen. Dette betyder, at der vil være en del hændelser, fordi der er ca. 500 pakker, der skal indlæses.
+
+25.04.2024 klokken 15:00 Matriklen2 er færdig med at blive opdateret. Hændelserne kommer igen som normalt.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Hændelser&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 49936&#xD;
 </content>
   </entry>
