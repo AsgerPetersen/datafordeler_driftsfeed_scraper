@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-25T08:13:07Z</updated>
+  <updated>2024-04-25T09:28:13Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -43,6 +43,28 @@ Register: Alle&#xD;
 Service: Webservice, Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 49658&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49942</id>
+    <title
+      type="text">PROD servicevindue mandag den 13. maj 2024 klokken 17:00 – 21:00</title>
+    <updated>2024-04-25T09:28:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49942" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 13. maj 2024 klokken 17:00 – 21:00
+
+Der er planlagt et servicevindue på PROD mandag den 13. maj 2024 klokken 17:00 – 21:00.
+
+Anvendere kan i tidsrummet opleve kortvarig nedetid på hændelser, og dataindlæsningen vil også være nede en del af tidsperioden.&#xD;
+Register: Alle&#xD;
+Service: Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 49942&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
