@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-25T05:17:11Z</updated>
+  <updated>2024-04-25T08:13:07Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -87,6 +87,44 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 Register: Matriklen (MAT)&#xD;
 Status: I gang&#xD;
 Sagsreference: 48116&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49936</id>
+    <title
+      type="text">Manglende replikering af Matriklen2</title>
+    <updated>2024-04-25T08:05:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49936" />
+    <content
+      type="text">Besked: Manglende indlæsning af Matriklen2
+
+Matriklen2 har været stoppet i nat, og er nu begyndt at blive opdateret igen. Dette betyder, at der vil være en del hændelser, fordi der er ca. 500 pakker, der skal indlæses.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 49936&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>49937</id>
+    <title
+      type="text">Manglende replikering af VUR</title>
+    <updated>2024-04-25T08:13:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/49937" />
+    <content
+      type="text">Besked: Manglende replikering af VUR
+
+24.04.2024: Der er i øjeblikket manglende replikering af VUR, da der mangler at blive indlæst en pakke.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 49937&#xD;
 </content>
   </entry>
 </feed>
