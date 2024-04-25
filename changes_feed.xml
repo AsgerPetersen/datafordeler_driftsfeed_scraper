@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-22T10:48:34Z</updated>
+  <updated>2024-04-25T06:02:11Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -55,7 +55,7 @@ Tidsangivelse: August 2024&#xD;
     <id>49855</id>
     <title
       type="text">Ny version af REST-tjenesten DAR</title>
-    <updated>2024-04-22T10:48:34Z</updated>
+    <updated>2024-04-25T06:02:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49855" />
@@ -71,7 +71,7 @@ Samtidigt kan alle REST-metoder kaldes i version 3.0.0.
 Bemærk at version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. &#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 49855&#xD;
 Tidsangivelse: 24-04-2024&#xD;
 </content>
@@ -139,7 +139,7 @@ Tidsangivelse: April 2024&#xD;
     <id>47334</id>
     <title
       type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML</title>
-    <updated>2024-04-12T11:34:50Z</updated>
+    <updated>2024-04-25T06:02:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/47334" />
@@ -160,7 +160,7 @@ Bruger du prædefinerede filudtræk med GeoDanmark Vektor i GML format, skal du 
 Har du eller har du tidligere haft abonnement på det prædefinerede filudtræk i GML fra GeoDanmark Vektor og ikke modtaget filer, skal du oprette nyt abonnement på filudtræk med tilføjelsen _HF. &#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 47334&#xD;
 Tidsangivelse: 24-04-2024&#xD;
 </content>
