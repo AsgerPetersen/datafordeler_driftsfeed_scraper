@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-25T13:09:15Z</updated>
+  <updated>2024-04-26T08:37:55Z</updated>
   <entry>
     <id>48905</id>
     <title
@@ -70,29 +70,6 @@ Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>49371</id>
-    <title
-      type="text">PROD servicevindue onsdag den 24. april 2024 klokken 17:00 – 21:00</title>
-    <updated>2024-04-25T05:17:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49371" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 24. april 2024 klokken 17:00 – 21:00
-
-25.04.2024: Servicevindue gennemført og afsluttet som planlagt.
-
-Der er planlagt et servicevindue på PROD onsdag den 24. april 2024 klokken 17:00 – 21:00.
-
-Anvendere kan opleve længere svartider på services i tidsrummet.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49371&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>48116</id>
     <title
       type="text">Manglende levering af MAT2 filudtræk: Samlet Fast Ejendom og Bestemt Fast Ejendom</title>
@@ -135,19 +112,20 @@ Sagsreference: 49936&#xD;
     <id>49937</id>
     <title
       type="text">Manglende replikering af VUR</title>
-    <updated>2024-04-25T08:13:07Z</updated>
+    <updated>2024-04-26T08:37:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49937" />
     <content
       type="text">Besked: Manglende replikering af VUR
 
+25.04.2024: Problemet er blevet løst. Der er igen normal drift for replikering af VUR dataopdateringer til Datafordeleren.
 24.04.2024: Der er i øjeblikket manglende replikering af VUR, da der mangler at blive indlæst en pakke.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 49937&#xD;
 </content>
   </entry>
