@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-29T07:37:14Z</updated>
+  <updated>2024-04-29T11:33:31Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -55,7 +55,7 @@ Tidsangivelse: August 2024&#xD;
     <id>49855</id>
     <title
       type="text">Ny version af REST-tjenesten DAR</title>
-    <updated>2024-04-29T07:37:14Z</updated>
+    <updated>2024-04-29T11:33:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49855" />
@@ -141,7 +141,7 @@ Tidsangivelse: April 2024&#xD;
     <id>47334</id>
     <title
       type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML</title>
-    <updated>2024-04-25T06:02:01Z</updated>
+    <updated>2024-04-29T11:33:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/47334" />
