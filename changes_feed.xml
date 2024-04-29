@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-04-25T06:02:11Z</updated>
+  <updated>2024-04-29T07:37:14Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -55,7 +55,7 @@ Tidsangivelse: August 2024&#xD;
     <id>49855</id>
     <title
       type="text">Ny version af REST-tjenesten DAR</title>
-    <updated>2024-04-25T06:02:11Z</updated>
+    <updated>2024-04-29T07:37:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49855" />
@@ -68,7 +68,9 @@ Dette løser følgende kendte fejl http://datafordeler.dk/support/?faq=40254 ved
 
 Samtidigt kan alle REST-metoder kaldes i version 3.0.0.
 
-Bemærk at version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. &#xD;
+Bemærk at version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. 
+
+Ændringen omfatter ikke DAR BFE og de dertilhørende metoder.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
 Status: Gennemført&#xD;
