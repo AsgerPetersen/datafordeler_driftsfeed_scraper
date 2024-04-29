@@ -6,25 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-04-29T05:37:15Z</updated>
-  <entry>
-    <id>48905</id>
-    <title
-      type="text">Skærmkort</title>
-    <updated>2024-04-23T10:32:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/48905" />
-    <content
-      type="text">Besked: Skærmkort
-
-23.04.2024: Skærmkortet er opdateret i uge 17.&#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 48905&#xD;
-</content>
-  </entry>
+  <updated>2024-04-26T11:55:58Z</updated>
   <entry>
     <id>49980</id>
     <title
@@ -51,28 +33,6 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>49658</id>
-    <title
-      type="text">Test06 servicevindue den 22. april til den 26. april 2024</title>
-    <updated>2024-04-29T05:37:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49658" />
-    <content
-      type="text">Besked: Test06 servicevindue den 22. april til den 26. april 2024
-
-Der er planlagt servicevindue på Test06 i perioden 22. april til 26. april 2024.
-
-Der kan periodevis være ustabilitet i miljøet på dataindlæsning og webservices.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49658&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>49942</id>
     <title
       type="text">PROD servicevindue mandag den 13. maj 2024 klokken 17:00 – 21:00</title>
@@ -92,47 +52,6 @@ Status: Planlagt&#xD;
 Sagsreference: 49942&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49936</id>
-    <title
-      type="text">Manglende replikering af Matriklen2</title>
-    <updated>2024-04-25T13:09:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49936" />
-    <content
-      type="text">Besked: Manglende indlæsning af Matriklen2
-
-Matriklen2 har været stoppet i nat, og er nu begyndt at blive opdateret igen. Dette betyder, at der vil være en del hændelser, fordi der er ca. 500 pakker, der skal indlæses.
-
-25.04.2024 klokken 15:00 Matriklen2 er færdig med at blive opdateret. Hændelserne kommer igen som normalt.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 49936&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>49937</id>
-    <title
-      type="text">Manglende replikering af VUR</title>
-    <updated>2024-04-26T08:37:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49937" />
-    <content
-      type="text">Besked: Manglende replikering af VUR
-
-25.04.2024: Problemet er blevet løst. Der er igen normal drift for replikering af VUR dataopdateringer til Datafordeleren.
-24.04.2024: Der er i øjeblikket manglende replikering af VUR, da der mangler at blive indlæst en pakke.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 49937&#xD;
 </content>
   </entry>
 </feed>
