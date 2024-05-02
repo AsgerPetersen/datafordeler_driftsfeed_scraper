@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-01T10:38:34Z</updated>
+  <updated>2024-05-02T10:34:28Z</updated>
   <entry>
     <id>50352</id>
     <title
       type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML uden _HF</title>
-    <updated>2024-05-01T10:38:34Z</updated>
+    <updated>2024-05-02T10:34:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/50352" />
@@ -31,7 +31,7 @@ Bruger du prædefinerede filudtræk med GeoDanmark Vektor i GML format, skal du 
 Læs mere i meddelelsen under Ændringer&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 50352&#xD;
 </content>
   </entry>
