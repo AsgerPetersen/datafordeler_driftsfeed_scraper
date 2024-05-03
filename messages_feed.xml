@@ -6,35 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-02T10:34:28Z</updated>
-  <entry>
-    <id>50352</id>
-    <title
-      type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML uden _HF</title>
-    <updated>2024-05-02T10:34:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/50352" />
-    <content
-      type="text">Besked: Filudtræk fra GeoDanmark Vektor Prædefineret i GML uden _HF
-
-Filudtræk fra GeoDanmark Vektor Prædefineret i GML format uden tilføjelsen _HF er udfaset pr. 24. april 2024.
-
-Bruger du prædefinerede filudtræk med GeoDanmark Vektor i GML format, skal du oprette abonnement på:
-
-	GeoDanmark Vektor Prædefineret GML_HF
-	GeoDanmark Vektor Historik Prædefineret GML_HF
-
-
-
-
-Læs mere i meddelelsen under Ændringer&#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 50352&#xD;
-</content>
-  </entry>
+  <updated>2024-05-01T08:26:10Z</updated>
   <entry>
     <id>49980</id>
     <title
