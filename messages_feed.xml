@@ -6,23 +6,23 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-01T08:26:10Z</updated>
+  <updated>2024-05-08T10:46:36Z</updated>
   <entry>
     <id>49980</id>
     <title
       type="text">Overgang fra testcertifikater til produktionscertifikater på Test04</title>
-    <updated>2024-04-26T11:55:58Z</updated>
+    <updated>2024-05-08T10:46:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49980" />
     <content
       type="text">Besked: Overgang fra testcertifikater til produktionscertifikater på Test04
 
-Den 18. Juni 2024 overgår Test04 fra brug af testcertifikater til produktionscertifikater.
+Den 18. juni 2024 overgår Test04 fra brug af testcertifikater til produktionscertifikater, som på Datafordelerens øvrige miljøer. 
 
 Det berører tjenestebrugeres anvendelse af testcertifikater på Test04, og webbrugere, der er oprettet med test-MitID, skal oprette nye webbrugere med MitID Erhverv.
 
-Løsningen lægges på Test04 i perioden 14. til 18. juni 2024, hvorefter du skal foretage et certifikatskifte på dine tjenestebrugere. 
+Løsningen lægges på Test04 i perioden 14. til 18. juni 2024, hvorefter du skal foretage et certifikatskifte på dine tjenestebrugere.
 
 Tidligere webbrugere oprettet med test-MitID og tilhørende tjenestebrugere kan ikke benyttes efter den 18. juni 2024, her skal du oprette en ny webbruger med MitID Erhverv.&#xD;
 Register: Alle&#xD;
