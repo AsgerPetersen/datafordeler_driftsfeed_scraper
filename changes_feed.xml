@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-05-13T07:05:49Z</updated>
+  <updated>2024-05-14T10:29:12Z</updated>
   <entry>
     <id>47739</id>
     <title
       type="text">Forlængelse af paralleldrift mellem Matriklen og Matriklen2</title>
-    <updated>2024-04-12T08:49:27Z</updated>
+    <updated>2024-05-14T10:29:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/47739" />
@@ -22,7 +22,7 @@ Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indt
 
 Fejl på den tidligere version af Matriklen bliver ikke rettet.
 
-Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 11. april 2024 nedenfor (listen kan blive opdateret):
+Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 13. maj 2024 nedenfor (listen kan blive opdateret):
 
 	Abonnement på filudtrækket Samlet Fast Ejendom returnerer ikke data – er løst
 Uddybning: Fejlen havde relation til et pludseligt opstået problem med at tildele tjenesten tilstrækkelige maskinelle ressourcer. Problemet er løst den 10. april 2024, men der er pt. længere genereringstid for filudtrækkene end normalt, hvilket der arbejdes på at nedbringe.
