@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-23T06:34:03Z</updated>
+  <updated>2024-05-13T05:25:27Z</updated>
   <entry>
     <id>49980</id>
     <title
@@ -33,28 +33,6 @@ Forventet til: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
   <entry>
-    <id>50428</id>
-    <title
-      type="text">Test06 servicevindue den 21. maj til den 22. maj 2024</title>
-    <updated>2024-05-23T06:34:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/50428" />
-    <content
-      type="text">Besked: Test06 servicevindue den 21. maj til den 22. maj 2024
-
-Der er planlagt servicevindue på Test06 i perioden 21. maj til 22. maj 2024 i forbindelse med moderniseringen af Datafordeleren.
-
-Der kan periodevis være ustabilitet i miljøet på dataindlæsning og webservices.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 50428&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
     <id>50037</id>
     <title
       type="text">Test03 servicevindue den 13. maj til den 28. maj 2024</title>
@@ -74,28 +52,6 @@ Status: I gang&#xD;
 Sagsreference: 50037&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>50645</id>
-    <title
-      type="text">Ugyldigt id_lokalid i BBRSag</title>
-    <updated>2024-05-22T09:10:54Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/50645" />
-    <content
-      type="text">Besked: Ugyldigt id_lokalid i BBRSag
-
-22.05.2024: BBR har udført en datarettelse på Datafordeleren 21.05.2024.
-Det drejer sig om BBRSag, hvor en række havde fået en ugyldig BBRSag identifikator (UUID som også indeholdt 'zero-width space'; 121a30b7-4be9-4fed-9fd8-91da47dabbbd&amp;#91;zwsp&amp;#93;).
-Rækken er nu slettet og den vil ikke længere fremgå i det nye totaludtræk.
- 
-16.05.2024: BBRSag indeholder et id_lokalid, der har et ugyldigt GUID (121a30b7-4be9-4fed-9fd8-91da47dabbbd). Der bliver arbejdet på at rette fejlen. &#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 50645&#xD;
 </content>
   </entry>
 </feed>
