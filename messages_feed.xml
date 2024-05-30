@@ -74,26 +74,4 @@ Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
   </entry>
-  <entry>
-    <id>50037</id>
-    <title
-      type="text">Test03 servicevindue den 13. maj til den 28. maj 2024</title>
-    <updated>2024-05-29T05:37:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/50037" />
-    <content
-      type="text">Besked: Test03 servicevindue den 13. maj til den 28. maj 2024
-
-Der er planlagt servicevindue på Test03 i perioden 13. maj til den 28. maj 2024.
-
-Data bliver ikke opdateret i miljøet under servicevinduet, og der vil være periodevis ustabilitet på alle tjenester og Selvbetjeningsportalen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 50037&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
-</content>
-  </entry>
 </feed>
