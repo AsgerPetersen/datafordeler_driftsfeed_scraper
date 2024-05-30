@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-29T11:37:56Z</updated>
+  <updated>2024-05-30T08:37:25Z</updated>
   <entry>
     <id>50846</id>
     <title
@@ -23,6 +23,26 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 50846&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>50918</id>
+    <title
+      type="text">EJF udfører datarettelse torsdag den 13 juni</title>
+    <updated>2024-05-30T08:37:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/50918" />
+    <content
+      type="text">Besked: EJF udfører datarettelse torsdag den 13 juni
+
+Læs mere om datarettelsen i EJF i dokumentationen
+
+Datarettelser (EJF) - Dokumentation - Dokumentation (sdfi.dk)&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 50918&#xD;
 </content>
   </entry>
   <entry>
