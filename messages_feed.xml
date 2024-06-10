@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-05-30T08:37:25Z</updated>
+  <updated>2024-06-10T07:12:47Z</updated>
   <entry>
     <id>50846</id>
     <title
@@ -92,6 +92,26 @@ Status: Planlagt&#xD;
 Sagsreference: 50887&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51198</id>
+    <title
+      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-06-10T07:12:47Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51198" />
+    <content
+      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet
+
+10.06.2024 klokken 09:00: Matriklen dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 10.06.2024 klokken 07:30:46
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51198&#xD;
 </content>
   </entry>
 </feed>
