@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-13T10:34:41Z</updated>
+  <updated>2024-06-13T12:46:25Z</updated>
   <entry>
     <id>50918</id>
     <title
@@ -94,6 +94,26 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51320</id>
+    <title
+      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-06-13T12:46:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51320" />
+    <content
+      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
+
+13.06.2024 klokken 14:45: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 13.06.2024 klokken 12:00:45
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51320&#xD;
 </content>
   </entry>
 </feed>
