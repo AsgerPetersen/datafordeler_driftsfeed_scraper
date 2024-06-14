@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-13T12:46:25Z</updated>
+  <updated>2024-06-14T05:36:03Z</updated>
   <entry>
     <id>50918</id>
     <title
@@ -31,7 +31,7 @@ Sagsreference: 50918&#xD;
     <id>49980</id>
     <title
       type="text">Overgang fra testcertifikater til produktionscertifikater på Test04</title>
-    <updated>2024-05-08T10:46:36Z</updated>
+    <updated>2024-06-14T05:36:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49980" />
@@ -46,7 +46,7 @@ Løsningen lægges på Test04 i perioden 14. til 18. juni 2024, hvorefter du ska
 
 Tidligere webbrugere oprettet med test-MitID og tilhørende tjenestebrugere kan ikke benyttes efter den 18. juni 2024, her skal du oprette en ny webbruger med MitID Erhverv.&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 49980&#xD;
 Forventet fra: 01-01-0001 00:00:00&#xD;
 Forventet til: 01-01-0001 00:00:00&#xD;
@@ -56,7 +56,7 @@ Forventet til: 01-01-0001 00:00:00&#xD;
     <id>50887</id>
     <title
       type="text">Test04 servicevindue den 14. juni til den 28. juni 2024</title>
-    <updated>2024-05-29T11:37:56Z</updated>
+    <updated>2024-06-14T05:35:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/50887" />
@@ -70,7 +70,7 @@ Data bliver ikke opdateret i miljøet under servicevinduet, og der vil være per
 Husk at Test04 samtidigt overgår fra testcertifikater til produktionscertifikater den 18. juni.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 50887&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
