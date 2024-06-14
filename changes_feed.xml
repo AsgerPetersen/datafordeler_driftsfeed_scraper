@@ -6,36 +6,37 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-05-15T12:21:21Z</updated>
+  <updated>2024-06-14T09:13:47Z</updated>
   <entry>
     <id>47739</id>
     <title
       type="text">Forlængelse af paralleldrift mellem Matriklen og Matriklen2</title>
-    <updated>2024-05-15T12:21:21Z</updated>
+    <updated>2024-06-14T09:13:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/47739" />
     <content
       type="text">Besked: Forlængelse af paralleldrift mellem Matriklen og Matriklen2
 
-Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil august 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt.
+Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil december 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt.
 
 Fejl på den tidligere version af Matriklen bliver ikke rettet.
 
-Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 15. maj 2024 nedenfor (listen kan blive opdateret):
+Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 11. juni 2024 nedenfor (listen kan blive opdateret):
 
 	Abonnement på filudtrækket Samlet Fast Ejendom returnerer ikke data – er løst
-Uddybning: Fejlen havde relation til et pludseligt opstået problem med at tildele tjenesten tilstrækkelige maskinelle ressourcer. Problemet er løst den 10. april 2024, men der er pt. længere genereringstid for filudtrækkene end normalt, hvilket der arbejdes på at nedbringe.
+Uddybning: Fejlen havde relation til et pludseligt opstået problem med at tildele tjenesten tilstrækkelige maskinelle ressourcer. 
+Problemet er løst den 10. april 2024, men der er pt. længere genereringstid for filudtrækkene end normalt, hvilket der arbejdes på at nedbringe.
 	Jordstykke er MultiPolygon i Matriklen2
 Uddybning: Geometri for Jordstykke skal være polygon. Fejlen er bekræftet og undersøges.
 	Kan ikke bestille ejendomsrapport i Matriklen2
-Uddybning: Fejl i tjenesten BestemtFastEjendom. Årsag undersøges.
+Uddybning: Fejl i tjenesten BestemtFastEjendom. Forventes løst 24. juli 2024.
 	Filudtrækket MATmatrikulaer har fejl i JSON-format
-Uddybning: Årsag undersøges.
+Uddybning: Forventes løst 24. juli 2024.
 	Foreløbige objekter udtrækkes, selvom kun gældende er bestilt i for eksempel tjenesten MATkortdataGaeldendeDKComplete
-Uddybning: Klar til rettelse og implementering.
+Uddybning: Undersøges.
 	Forkert schema-lokation i WFS-tjeneste Mat_AlleData
-Uddybning: Løsning på vej.
+Uddybning: Forventes løst 24. juli 2024.
 
 
 
@@ -48,7 +49,7 @@ Register: Matriklen (MAT)&#xD;
 Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 47739&#xD;
-Tidsangivelse: August 2024&#xD;
+Tidsangivelse: December 2024&#xD;
 </content>
   </entry>
   <entry>
