@@ -64,8 +64,8 @@ Tidligere webbrugere oprettet med test-MitID og tilhørende tjenestebrugere kan 
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 49980&#xD;
-Forventet fra: 01-01-0001 00:00:00&#xD;
-Forventet til: 01-01-0001 00:00:00&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -88,8 +88,8 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 50887&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -107,8 +107,8 @@ Der er servicevindue onsdag den 26. juni klokken 15-17 på Datafordelerens Dokum
 Service: Dokumentation&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 51405&#xD;
-Periode start: 01-01-0001 00:00:00&#xD;
-Periode slut: 01-01-0001 00:00:00&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
