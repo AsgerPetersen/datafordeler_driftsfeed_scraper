@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-18T13:34:04Z</updated>
+  <updated>2024-06-18T13:42:07Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -47,14 +47,14 @@ Sagsreference: 51403&#xD;
     <id>49980</id>
     <title
       type="text">Overgang fra testcertifikater til produktionscertifikater på Test04</title>
-    <updated>2024-06-18T13:34:04Z</updated>
+    <updated>2024-06-18T13:42:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49980" />
     <content
       type="text">Besked: Overgang fra testcertifikater til produktionscertifikater på Test04
 
-18.06.2024 Skiftet til produktionscertifikater er  
+18.06.2024 klokken 15:40: Skiftet til produktionscertifikater på Test04 er ikke, som planlagt, blevet gennemført i dag på grund af tekniske problemer. Skiftet forventes gennemført i morgen den 19. juni 2024.  
 
 Den 18. juni 2024 overgår Test04 fra brug af testcertifikater til produktionscertifikater, som på Datafordelerens øvrige miljøer. 
 
