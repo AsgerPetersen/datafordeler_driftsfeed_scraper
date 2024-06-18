@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-17T10:46:22Z</updated>
+  <updated>2024-06-18T11:40:03Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -25,6 +25,22 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51377&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51403</id>
+    <title
+      type="text">Skærmkortet bliver forventet opdateret uge 28</title>
+    <updated>2024-06-18T11:36:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51403" />
+    <content
+      type="text">Besked: Skærmkortet bliver forventet opdateret uge 28&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51403&#xD;
 </content>
   </entry>
   <entry>
@@ -72,6 +88,25 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: I gang&#xD;
 Sagsreference: 50887&#xD;
+Periode start: 01-01-0001 00:00:00&#xD;
+Periode slut: 01-01-0001 00:00:00&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51405</id>
+    <title
+      type="text">Dokumentation for Datafordeleren kan opleve små udfald</title>
+    <updated>2024-06-18T11:40:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51405" />
+    <content
+      type="text">Besked: Dokumentation for Datafordeleren kan opleve små udfald
+
+Der er servicevindue onsdag den 26. juni klokken 15-17 på Datafordelerens Dokumentation. Man kan opleve mindre udfald i perioden.&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 51405&#xD;
 Periode start: 01-01-0001 00:00:00&#xD;
 Periode slut: 01-01-0001 00:00:00&#xD;
 </content>
