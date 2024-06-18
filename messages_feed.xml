@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-18T14:16:38Z</updated>
+  <updated>2024-06-18T14:42:57Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -117,19 +117,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>51423</id>
     <title
       type="text">Webservices er utilgængelige i Datafordeler produktionsmiljøet</title>
-    <updated>2024-06-18T14:16:38Z</updated>
+    <updated>2024-06-18T14:42:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51423" />
     <content
-      type="text">Besked: REST og geodata services er i øjeblikket utilgængelige produktion.
+      type="text">Besked: 18.06.2024 klokken 16:40: Problemet er løst og REST og geodata service er tilbage i normal drift.
+
+18.06.2024 klokken 16:00: REST og geodata services er i øjeblikket utilgængelige produktion.
 
 CPR, CVR og Ejerfortegnelsens webservises ikke berørt.
 
 Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Adresseregister (DAR), Danmarks Fikspunktsregister, Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), Ejendomsvurdering (VUR), GeoDanmark Ortofoto, GeoDanmark Vektor, Matriklen (MAT), Skærmkortet&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51423&#xD;
 </content>
   </entry>
