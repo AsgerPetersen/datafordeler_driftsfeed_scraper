@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-18T16:42:35Z</updated>
+  <updated>2024-06-18T17:22:15Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -159,7 +159,7 @@ Sagsreference: 51300&#xD;
     <id>51426</id>
     <title
       type="text">Tekstsider mangler tekst på datafordeler.dk</title>
-    <updated>2024-06-18T16:42:35Z</updated>
+    <updated>2024-06-18T17:22:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51426" />
@@ -169,6 +169,7 @@ Sagsreference: 51300&#xD;
 18.06.2024 klokken 18:40 Der er tekst på alle sider af datafordeler.dk. Der var i forbindelse med en deploy glemt en lille komponent. Den er på plads igen.
 
 18.06.2024 klokken 18:00 Der mangler tekst på siderne på datafordeler.dk. Vi arbejder på at løse problemet. &#xD;
+Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: Løst&#xD;
 Sagsreference: 51426&#xD;
