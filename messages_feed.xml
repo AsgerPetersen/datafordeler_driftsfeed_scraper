@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-19T11:42:09Z</updated>
+  <updated>2024-06-19T13:46:09Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -139,14 +139,14 @@ Sagsreference: 51300&#xD;
     <id>51442</id>
     <title
       type="text">Alle test miljøer er nede i øjeblikket</title>
-    <updated>2024-06-19T11:42:09Z</updated>
+    <updated>2024-06-19T13:46:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51442" />
     <content
       type="text">Besked: Alle test miljøer er nede i øjeblikket
 
-19.06.2024 klokken 13:35: Alle test miljøer er nede i øjeblikket og dette gælder alle funktioner herunder webservice, dataopdatering, hændelser, filudtræk og selvbetjeningsportalen.
+19.06.2024 klokken 13:35: Alle test miljøer er nede i øjeblikket og følgende funktioner er nede: webservice, hændelser, og selvbetjeningsportalen.
 
 Der arbejdes med højt prioritet med at løse problemet.&#xD;
 Register: Alle&#xD;
