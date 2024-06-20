@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-20T07:55:51Z</updated>
+  <updated>2024-06-20T09:16:01Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -155,6 +155,26 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51468</id>
+    <title
+      type="text">Alle hændelser fra Datafordeleren er stoppet</title>
+    <updated>2024-06-20T09:16:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51468" />
+    <content
+      type="text">Besked: Alle hændelser fra Datafordeleren er stoppet
+
+20.06.2024 klokken 11:15: Man kan i øjeblikket opleve ikke at modtage hændelser fra Datafordeleren. Hændelser er ikke blevet udsendt siden den 18.06.2024 klokken 16:00.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Hændelser&#xD;
+Status: I gang&#xD;
+Sagsreference: 51468&#xD;
 </content>
   </entry>
   <entry>
