@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-20T06:48:27Z</updated>
+  <updated>2024-06-20T07:55:51Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -111,6 +111,28 @@ Der er servicevindue onsdag den 26. juni klokken 15-17 på Datafordelerens Dokum
 Service: Dokumentation&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 51405&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51438</id>
+    <title
+      type="text">Test03 servicevindue mandag den 24. juni 2024 klokken 10:00 – 13:00</title>
+    <updated>2024-06-20T07:55:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51438" />
+    <content
+      type="text">Besked: Test03 servicevindue mandag den 24. juni 2024 klokken 10:00 – 13:00
+
+Der er planlagt et servicevindue på Test03 mandag den 24. juni 2024 klokken 10:00 – 13:00.
+
+Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 51438&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
