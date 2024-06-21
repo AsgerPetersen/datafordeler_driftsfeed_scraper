@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-21T06:00:58Z</updated>
+  <updated>2024-06-21T06:30:19Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -163,12 +163,14 @@ Sagsreference: 51300&#xD;
     <id>51469</id>
     <title
       type="text">Dataopdatering er stoppet for alle registre </title>
-    <updated>2024-06-20T14:43:19Z</updated>
+    <updated>2024-06-21T06:30:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51469" />
     <content
       type="text">Besked: Dataopdatering er stoppet for alle registre
+
+21.06.2024 klokken 08:30: Problemet er løst og dataopdatering for alle registre er tilbage i normal drift.
 
 20.06.2024 klokken 16:45: Der arbejdes fortsat på at løse problemet.
 
@@ -179,7 +181,7 @@ Der bliver arbejdet på at løse problemet.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51469&#xD;
 </content>
   </entry>
