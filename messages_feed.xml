@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-20T14:43:19Z</updated>
+  <updated>2024-06-21T06:00:58Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -49,12 +49,14 @@ Sagsreference: 51403&#xD;
     <id>49980</id>
     <title
       type="text">Overgang fra testcertifikater til produktionscertifikater på Test04</title>
-    <updated>2024-06-19T13:54:21Z</updated>
+    <updated>2024-06-21T06:00:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/49980" />
     <content
       type="text">Besked: Overgang fra testcertifikater til produktionscertifikater på Test04
+
+21.06.2024 klokken 8:00: Skiftet til produktionscertifikater på Test04 er gennemført den 20. juni 2024.
 
 19.06.2024 klokken 15:45: Skiftet til produktionscertifikater på Test04 er ikke, som planlagt, er stadig ikke blevet gennemført på grund af tekniske problemer. Skiftet forventes gennemført i morgen den 20. juni 2024.  
 
@@ -66,7 +68,7 @@ Løsningen lægges på Test04 i perioden 14. til 18. juni 2024, hvorefter du ska
 
 Tidligere webbrugere oprettet med test-MitID og tilhørende tjenestebrugere kan ikke benyttes efter den 18. juni 2024, her skal du oprette en ny webbruger med MitID Erhverv.&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 49980&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
