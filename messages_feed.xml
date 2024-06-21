@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-21T06:30:19Z</updated>
+  <updated>2024-06-21T18:17:23Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -183,6 +183,42 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 51469&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51530</id>
+    <title
+      type="text">Registerdata blev ikke opdateret i perioden fra tirsdag den 18. maj til torsdag den 20. maj</title>
+    <updated>2024-06-21T18:17:23Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51530" />
+    <content
+      type="text">Besked: Registerdata blev ikke opdateret i perioden fra tirsdag den 18. maj til torsdag den 20. maj
+
+Ingen registerdata (inklusive geodata) blev opdateret i perioden fra tirsdag den 18. maj klokken 16:00 til torsdag den 20. maj klokken 19:36. Man kan som anvender i denne periode have anvendt ikke-opdaterede data.
+
+Vi anbefaler følgende for at få indlæst opdaterede registerdata fra den nævnte periode i eget anvendersystem:
+
+Filudtræk
+
+	Hvis du kun anvender totaludtræk til at holde registerdata opdaterede, skal du ikke foretage dig yderligere.
+	Hvis du anvender delta filudtræk til at holde registerdata opdaterede, anbefaler vi, at du henter og indlæser et nyt totaludtræk.
+o Hvis du anvender prædefineret filudtræk til at holde registerdata opdaterede, skal du indlæse et nyt totaludtræk, der vil ligge klar senest mandag den 24. maj klokken 04:00.
+o Hvis du anvender brugerdefineret filudtræk for at holde registerdata opdaterede, anbefaler vi at bestille og indlæse et nyt totaludtræk.
+
+
+
+Hvis du ikke vælger at indlæse et totaludtræk, kan totaludtrækket bruges til at finde forskellen mellem registerdata i eget anvendersystem og på Datafordeleren.
+
+Hændelser
+Det er muligt at hente hændelserne for perioden allerede nu.
+
+Vi beklager de gener, som fejlen kan medføre. Har du spørgsmål til ovenstående, kan du få svar hos Datafordeler supporten: https://datafordeler.dk/support/kontakt/&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51530&#xD;
 </content>
   </entry>
 </feed>
