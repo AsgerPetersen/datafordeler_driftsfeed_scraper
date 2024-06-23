@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-23T08:09:36Z</updated>
+  <updated>2024-06-23T08:21:02Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -163,14 +163,16 @@ Sagsreference: 51300&#xD;
     <id>51530</id>
     <title
       type="text">Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni</title>
-    <updated>2024-06-23T08:09:36Z</updated>
+    <updated>2024-06-23T08:21:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51530" />
     <content
-      type="text">Besked: Registerdata blev ikke opdateret i perioden fra tirsdag den 18. maj til torsdag den 20. maj
+      type="text">Besked: Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni
 
-Ingen registerdata (inklusive geodata) blev opdateret i perioden fra tirsdag den 18. maj klokken 16:00 til torsdag den 20. maj klokken 19:36. Man kan som anvender i denne periode have anvendt ikke-opdaterede data.
+Korrektion: Det er i juni måned og ikke maj måned som blev meldt ud med første driftsmeddelelse. Beklager forvirringen.
+
+Ingen registerdata (inklusive geodata) blev opdateret i perioden fra tirsdag den 18. juni klokken 16:00 til torsdag den 20. juni klokken 19:36. Man kan som anvender i denne periode have anvendt ikke-opdaterede data.
 
 Vi anbefaler følgende for at få indlæst opdaterede registerdata fra den nævnte periode i eget anvendersystem:
 
@@ -178,7 +180,7 @@ Filudtræk
 
 	Hvis du kun anvender totaludtræk til at holde registerdata opdaterede, skal du ikke foretage dig yderligere.
 	Hvis du anvender delta filudtræk til at holde registerdata opdaterede, anbefaler vi, at du henter og indlæser et nyt totaludtræk.
-o Hvis du anvender prædefineret filudtræk til at holde registerdata opdaterede, skal du indlæse et nyt totaludtræk, der vil ligge klar senest mandag den 24. maj klokken 04:00.
+o Hvis du anvender prædefineret filudtræk til at holde registerdata opdaterede, skal du indlæse et nyt totaludtræk, der vil ligge klar senest mandag den 24. juni klokken 04:00.
 o Hvis du anvender brugerdefineret filudtræk for at holde registerdata opdaterede, anbefaler vi at bestille og indlæse et nyt totaludtræk.
 
 
