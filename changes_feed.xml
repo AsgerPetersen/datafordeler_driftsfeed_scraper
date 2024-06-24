@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-06-14T09:15:23Z</updated>
+  <updated>2024-06-24T08:40:29Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -53,33 +53,6 @@ Tidsangivelse: December 2024&#xD;
 </content>
   </entry>
   <entry>
-    <id>49855</id>
-    <title
-      type="text">Ny version af REST-tjenesten DAR</title>
-    <updated>2024-04-29T11:33:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/49855" />
-    <content
-      type="text">Besked: Ny version af REST-tjenesten DAR
-
-Den 24. april 2024 kan du kalde en ny version af REST-tjenesten DAR.
-
-Dette løser følgende kendte fejl http://datafordeler.dk/support/?faq=40254 vedrørende REST-metode husnummerTilJordstykke.
-
-Samtidigt kan alle REST-metoder kaldes i version 3.0.0.
-
-Bemærk at version 1 og 2.0.0 udfases efter 3 måneders paralleldrift. 
-
-Ændringen omfatter ikke DAR BFE og de dertilhørende metoder.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49855&#xD;
-Tidsangivelse: 24-04-2024&#xD;
-</content>
-  </entry>
-  <entry>
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2024</title>
@@ -111,75 +84,17 @@ Tidsangivelse: 2024&#xD;
 </content>
   </entry>
   <entry>
-    <id>49361</id>
-    <title
-      type="text">Filudtræk fra Matriklen Geometri Kommuner Prædefineret i GML og GPKG er udfaset</title>
-    <updated>2024-04-12T11:33:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/49361" />
-    <content
-      type="text">Besked: Filudtræk fra Matriklen Geometri Kommuner Prædefineret i GML og GPKG er udfaset
-
-Filudtræk fra Matriklen Geometri Kommuner Prædefineret i GML og GPKG format er udfaset pr. start april 2024.
-
-Geodatastyrelsen har besluttet, at fejl på den tidligere version af Matriklen ikke bliver rettet.
-
-Vi henviser til de tilsvarende filudtræk på Matriklen2:
-
-	Matriklen2 Geometri Kommuner Prædefineret Geopackage
-	Matriklen2 Geometri Kommuner Prædefineret GML
-
-&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49361&#xD;
-Tidsangivelse: April 2024&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>47334</id>
-    <title
-      type="text">Filudtræk fra GeoDanmark Vektor Prædefineret i GML</title>
-    <updated>2024-04-29T11:33:31Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/47334" />
-    <content
-      type="text">Besked: Filudtræk fra GeoDanmark Vektor Prædefineret i GML
-
-Filudtræk fra GeoDanmark Vektor Prædefineret i GML format uden tilføjelsen _HF bliver udfaset 24. april 2024. Filudtrækket uden tilføjelsen _HF bliver udfaset, fordi det er en ældre version, som ikke fungerer optimalt.
-
-Filudtræk fra GeoDanmark Vektor Prædefineret Historik i GML format uden tilføjelsen _HF vil blive udfaset 1. maj 2024.
-
-Bruger du prædefinerede filudtræk med GeoDanmark Vektor i GML format, skal du oprette abonnement på:
-
-	GeoDanmark Vektor Prædefineret GML_HF
-	GeoDanmark Vektor Historik Prædefineret GML_HF
-
-
-
-Har du eller har du tidligere haft abonnement på det prædefinerede filudtræk i GML fra GeoDanmark Vektor og ikke modtaget filer, skal du oprette nyt abonnement på filudtræk med tilføjelsen _HF. &#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Filudtræk&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 47334&#xD;
-Tidsangivelse: 24-04-2024&#xD;
-</content>
-  </entry>
-  <entry>
     <id>49744</id>
     <title
       type="text">DTK500 og DTK1000 opdateres juli 2024 med data fra 2022 og 2023</title>
-    <updated>2024-05-13T07:05:49Z</updated>
+    <updated>2024-06-24T08:40:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49744" />
     <content
-      type="text">Besked: DTK500 og DTK1000 opdateres juli 2024 med data fra 2022 og 2023
+      type="text">Besked: DTK500 og DTK1000 opdateres 24. juli 2024 med data fra 2022 og 2023
 
-DKtopokort WMS 1:500.000, og WMS 1:1.000.000 bliver opdateret med data fra 2022 og 2023 juli 2024. Respektive filudtræk bliver opdateret med det nyeste data fra 2023.
+DKtopokort WMS 1:500.000, og WMS 1:1.000.000 bliver opdateret med data fra 2022 og 2023 den 24. juli 2024. Respektive filudtræk bliver opdateret med det nyeste data fra 2023.
 
 DKtopokort WMS 1:250.000 og det respektive filudtræk opdateres ikke, og vil fortsat have 2021 data som det nyeste. 
 
@@ -188,7 +103,7 @@ Register: Danmarks Topografiske Kortværk (DTK)&#xD;
 Service: Webservice, Filudtræk&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 49744&#xD;
-Tidsangivelse: Juli 2024&#xD;
+Tidsangivelse: 24-07-2024&#xD;
 </content>
   </entry>
   <entry>
