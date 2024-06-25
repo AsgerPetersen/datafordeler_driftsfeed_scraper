@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-25T07:32:51Z</updated>
+  <updated>2024-06-25T11:20:19Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -170,19 +170,21 @@ Sagsreference: 51530&#xD;
     <id>51575</id>
     <title
       type="text">Test04 fejler ved kald med certifikat </title>
-    <updated>2024-06-24T10:41:19Z</updated>
+    <updated>2024-06-25T11:20:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51575" />
     <content
       type="text">Besked: Test04 fejler ved kald med certifikat 
 
+25.06.2024 klokken 13:20:  Problemet er løst. Kald til tjenesterne på Test04 med produktionscertifikater fungerer.
+
 24.06.2024 klokken 12:30: Efter skift til produktionscertifikat på Test04, fejler kald til tjenesterne. 
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51575&#xD;
 </content>
   </entry>
