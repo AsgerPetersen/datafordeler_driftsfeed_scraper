@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-24T13:57:17Z</updated>
+  <updated>2024-06-25T06:09:15Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -141,7 +141,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>51438</id>
     <title
       type="text">Test03 servicevindue mandag den 24. juni 2024 klokken 12:30 – 17:00</title>
-    <updated>2024-06-24T11:04:44Z</updated>
+    <updated>2024-06-25T06:09:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51438" />
@@ -153,7 +153,7 @@ Der er planlagt et servicevindue på Test03 mandag den 24. juni 2024 klokken 12:
 Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 51438&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
