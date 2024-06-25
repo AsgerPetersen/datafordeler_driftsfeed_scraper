@@ -46,33 +46,6 @@ Sagsreference: 51403&#xD;
 </content>
   </entry>
   <entry>
-    <id>49980</id>
-    <title
-      type="text">Overgang fra testcertifikater til produktionscertifikater på Test04</title>
-    <updated>2024-06-24T10:44:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/49980" />
-    <content
-      type="text">Besked: Overgang fra testcertifikater til produktionscertifikater på Test04
-
-21.06.2024 klokken 8:00: Skiftet til produktionscertifikater på Test04 er gennemført den 20. juni 2024.
-
-Den 18. juni 2024 overgår Test04 fra brug af testcertifikater til produktionscertifikater, som på Datafordelerens øvrige miljøer. 
-
-Det berører tjenestebrugeres anvendelse af testcertifikater på Test04, og webbrugere, der er oprettet med test-MitID, skal oprette nye webbrugere med MitID Erhverv.
-
-Løsningen lægges på Test04 i perioden 14. til 18. juni 2024, hvorefter du skal foretage et certifikatskifte på dine tjenestebrugere.
-
-Tidligere webbrugere oprettet med test-MitID og tilhørende tjenestebrugere kan ikke benyttes efter den 18. juni 2024, her skal du oprette en ny webbruger med MitID Erhverv.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 49980&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>50887</id>
     <title
       type="text">Test04 servicevindue den 14. juni til den 28. juni 2024</title>
@@ -133,28 +106,6 @@ Der er servicevindue onsdag den 26. juni klokken 15-17 på Datafordelerens Dokum
 Service: Dokumentation&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 51405&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>51438</id>
-    <title
-      type="text">Test03 servicevindue mandag den 24. juni 2024 klokken 12:30 – 17:00</title>
-    <updated>2024-06-25T06:09:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51438" />
-    <content
-      type="text">Besked: Test03 servicevindue mandag den 24. juni 2024 klokken 12:30 – 17:00
-
-Der er planlagt et servicevindue på Test03 mandag den 24. juni 2024 klokken 12:30 – 17:00.
-
-Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 51438&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
