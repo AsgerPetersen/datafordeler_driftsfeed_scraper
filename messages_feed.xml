@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-26T08:24:23Z</updated>
+  <updated>2024-06-26T10:37:04Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -92,25 +92,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>51405</id>
-    <title
-      type="text">Dokumentation for Datafordeleren kan opleve små udfald</title>
-    <updated>2024-06-18T11:40:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51405" />
-    <content
-      type="text">Besked: Dokumentation for Datafordeleren kan opleve små udfald
-
-Der er servicevindue onsdag den 26. juni klokken 15-17 på Datafordelerens Dokumentation. Man kan opleve mindre udfald i perioden.&#xD;
-Service: Dokumentation&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 51405&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>51300</id>
     <title
       type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
@@ -167,28 +148,6 @@ Sagsreference: 51530&#xD;
 </content>
   </entry>
   <entry>
-    <id>51575</id>
-    <title
-      type="text">Test04 fejler ved kald med certifikat </title>
-    <updated>2024-06-25T11:20:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51575" />
-    <content
-      type="text">Besked: Test04 fejler ved kald med certifikat 
-
-25.06.2024 klokken 13:20:  Problemet er løst. Kald til tjenesterne på Test04 med produktionscertifikater fungerer.
-
-24.06.2024 klokken 12:30: Efter skift til produktionscertifikat på Test04, fejler kald til tjenesterne. 
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 51575&#xD;
-</content>
-  </entry>
-  <entry>
     <id>51634</id>
     <title
       type="text">Totaludtræk med EJF_EjerskabMedStamoplysning_HF bliver ikke leveret korrekt</title>
@@ -214,33 +173,59 @@ Sagsreference: 51634&#xD;
     <id>51674</id>
     <title
       type="text">Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni</title>
-    <updated>2024-06-26T08:24:23Z</updated>
+    <updated>2024-06-26T10:37:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51674" />
     <content
       type="text">Besked: Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni
 
-26.06.2024 klokken 10:30: En række prædefinerede filudtræk blev ikke leveret som planlagt i weekenden den 22. og 23 juni.
+26.06.2024 klokken 12:30: En række prædefinerede filudtræk blev ikke leveret som planlagt i weekenden den 22. og 23 juni.
 
 Følgende filudtræk er berørt:
 
 	BBR Totaludtraek Complete JSON_HF
 	BBR Totaludtraek Complete XML_HF
+	DAGI10MULTIGEOMHIST_GML321
+	DAGI10MULTIGEOMHIST_SHP
+	DAGI10MULTIGEOMHIST_TAB
 	DAR Totaludtraek Complete JSON_HF
 	DAR Totaludtraek Complete XML_HF
+	EBR Complete JSON_HF
 	Ejendomsvurdering Total Flad Complete Restricted JSON_HF
-	VUR Filudtraek Complete Restricted XML_HF
-	EJF Totaludtraek Flad Complete XML_HF
-	EJF Totaludtraek Flad Complete JSON_HF
+	Ejendomsvurdering Total Flad Complete Restricted XML_HF
+	Ejendomsvurdering Totaludtraek Flad Complete JSON_HF
+	Ejendomsvurdering Totaludtraek Flad Complete XML_HF
 	EJF Fortrolig Totaludtraek Flad Complete JSON_HF
+	EJF Fortrolig Totaludtraek Flad Complete XML_HF
+	EJF Totaludtraek Flad Complete JSON_HF
+	EJF Totaludtraek Flad Complete XML_HF
+	GeoDanmark60_SHP
+	GeoDanmark60_TAB
+	GeoDanmark60HIST_GML_HF
+	GeoDanmark60HISTKommune_GML_HF
 	GeoDanmark60HISTKommune_GPKG_HF
 	GeoDanmark60HISTRegion_GML_HF
-	MAT Totaludtraek Complete JSON_HF
-	MatrikelGeometriGaeldendeKommuneComplete_gpkg_HF
-	MatrikelGeometriGaeldendeKommuneComplete_GML_HF
+	MAT Registerdata Totaludtræk Complete JSON
 	MAT Registerdata Totaludtræk Complete XML
-	MAT Kortdata Gældende Kommune Complete GPKG
+	MAT Totaludtraek Complete JSON
+	MAT Totaludtraek Complete JSON_HF
+	MAT Totaludtraek Complete XML
+	MAT Totaludtraek Complete XML_HF
+	MAT Totaludtraek Hist Complete JSON
+	MAT Totaludtraek Hist Complete JSON_HF
+	MAT Totaludtraek Hist Complete XML
+	MAT Totaludtraek Hist Complete XML_HF
+	MatrikelGeometriGaeldendeDKComplete_gpkg_HF
+	MatrikelGeometriGaeldendeKommuneComplete_GML
+	MatrikelGeometriGaeldendeKommuneComplete_GML_HF
+	MatrikelGeometriGaeldendeKommuneComplete_gpkg
+	MatrikelGeometriGaeldendeKommuneComplete_gpkg_HF
+	SVR-dataUdtraek-Complete_HF
+	VUR Filudtraek Complete JSON_HF
+	VUR Filudtraek Complete Restricted JSON_HF
+	VUR Filudtraek Complete Restricted XML_HF
+	VUR Filudtraek Complete XML_HF
 
 
 
