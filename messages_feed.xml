@@ -148,28 +148,6 @@ Sagsreference: 51530&#xD;
 </content>
   </entry>
   <entry>
-    <id>51634</id>
-    <title
-      type="text">Totaludtræk med EJF_EjerskabMedStamoplysning_HF bliver ikke leveret korrekt</title>
-    <updated>2024-06-25T07:32:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51634" />
-    <content
-      type="text">Besked: Totaludtræk med EJF_EjerskabMedStamoplysning_HF bliver ikke leveret korrekt
-
-25.06.2024: Problemet er løst. Totaludtræk med EJF_EjerskabMedStamoplysning_HF bliver igen leveret korrekt med alle data i udtrækket.
-
-24.06.2024 klokken 15:45: Totaludtræk med EJF_EjerskabMedStamoplysning_HF bliver ikke leveret korrekt. Filudtrækket indeholder ikke alle data. 
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 51634&#xD;
-</content>
-  </entry>
-  <entry>
     <id>51674</id>
     <title
       type="text">Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni</title>
