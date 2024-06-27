@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-26T10:37:04Z</updated>
+  <updated>2024-06-27T10:34:40Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -87,6 +87,28 @@ Register: Alle&#xD;
 Service: Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 51536&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51737</id>
+    <title
+      type="text">Test04 servicevindue den 4. juli til 8. juli 2024</title>
+    <updated>2024-06-27T10:34:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51737" />
+    <content
+      type="text">Besked: Test04 servicevindue den 4. juli til 8. juli 2024
+
+Der er planlagt servicevindue på Test04 i perioden 4. juli til den 8. juli 2024 i forbindelse med moderniseringen af Datafordeleren.
+
+Der kan periodevis være ustabilitet i miljøet på dataindlæsning, webservices og hændelser.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering&#xD;
+Status: Ikke planlagt&#xD;
+Sagsreference: 51737&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
