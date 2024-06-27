@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2024-06-27T10:46:39Z</updated>
+  <entry>
+    <id>51377</id>
+    <title
+      type="text">EJF udfører datarettelse torsdag den 27. juni</title>
+    <updated>2024-06-17T10:46:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51377" />
+    <content
+      type="text">Besked: EJF udfører datarettelse torsdag den 27. juni
+
+Læs mere om datarettelsen i EJF i dokumentationen.
+
+Datarettelser (EJF) - Dokumentation - Dokumentation (sdfi.dk)&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51377&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51403</id>
+    <title
+      type="text">Skærmkortet</title>
+    <updated>2024-06-19T10:36:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51403" />
+    <content
+      type="text">Besked: Skærmkortet
+
+19.06.2024: Skærmkortet bliver opdateret i uge 28.&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51403&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>50887</id>
+    <title
+      type="text">Test04 servicevindue den 14. juni til den 28. juni 2024</title>
+    <updated>2024-06-14T05:35:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/50887" />
+    <content
+      type="text">Besked: Test04 servicevindue den 14. juni til den 28. juni 2024
+
+Der er planlagt servicevindue på Test04 i perioden 14. juni til den 28. juni 2024.
+
+Data bliver ikke opdateret i miljøet under servicevinduet, og der vil være periodevis ustabilitet på alle tjenester og Selvbetjeningsportalen.
+
+Husk at Test04 samtidigt overgår fra testcertifikater til produktionscertifikater den 18. juni.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 50887&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51536</id>
+    <title
+      type="text">Test06 servicevindue mandag den 1. juli 2024 klokken 10:00 – 14:00</title>
+    <updated>2024-06-24T11:04:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51536" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 1. juli 2024 klokken 10:00 – 14:00
+
+Der er planlagt et servicevindue på Test06 mandag den 1. juli 2024 klokken 10:00 – 14:00.
+
+Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 51536&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51737</id>
+    <title
+      type="text">Test04 servicevindue den 4. juli til 8. juli 2024</title>
+    <updated>2024-06-27T10:46:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51737" />
+    <content
+      type="text">Besked: Test04 servicevindue den 4. juli til 8. juli 2024
+
+Der er planlagt servicevindue på Test04 i perioden 4. juli til den 8. juli 2024 i forbindelse med moderniseringen af Datafordeleren.
+
+Der kan periodevis være ustabilitet i miljøet på dataindlæsning, webservices og hændelser.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 51737&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51300</id>
+    <title
+      type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-06-13T10:34:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51300" />
+    <content
+      type="text">Besked: DAGI dataopdatering er stoppet i produktionsmiljøet
+
+DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51530</id>
+    <title
+      type="text">Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni</title>
+    <updated>2024-06-24T11:36:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51530" />
+    <content
+      type="text">Besked: Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni
+
+Ingen registerdata (inklusive geodata) blev opdateret i perioden fra tirsdag den 18. juni klokken 16:00 til torsdag den 20. juni klokken 19:36. Man kan som anvender i denne periode have anvendt ikke-opdaterede data.
+
+Vi anbefaler følgende for at få indlæst opdaterede registerdata fra den nævnte periode i eget anvendersystem:
+
+Filudtræk
+
+	Hvis du kun anvender totaludtræk til at holde registerdata opdaterede, skal du ikke foretage dig yderligere.
+	Hvis du anvender delta filudtræk til at holde registerdata opdaterede, anbefaler vi, at du henter og indlæser et nyt totaludtræk.
+o Hvis du anvender prædefineret filudtræk til at holde registerdata opdaterede, skal du indlæse et nyt totaludtræk, der vil ligge klar senest mandag den 24. juni klokken 04:00.
+o Hvis du anvender brugerdefineret filudtræk for at holde registerdata opdaterede, anbefaler vi at bestille og indlæse et nyt totaludtræk.
+
+
+
+Hvis du ikke vælger at indlæse et totaludtræk, kan totaludtrækket bruges til at finde forskellen mellem registerdata i eget anvendersystem og på Datafordeleren.
+
+Hændelser
+Det er muligt at hente hændelserne for perioden allerede nu.
+
+Vi beklager de gener, som fejlen kan medføre. Har du spørgsmål til ovenstående, kan du få svar hos Datafordeler supporten: https://datafordeler.dk/support/kontakt/&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51530&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51674</id>
+    <title
+      type="text">Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni</title>
+    <updated>2024-06-26T10:37:04Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51674" />
+    <content
+      type="text">Besked: Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni
+
+26.06.2024 klokken 12:30: En række prædefinerede filudtræk blev ikke leveret som planlagt i weekenden den 22. og 23 juni.
+
+Følgende filudtræk er berørt:
+
+	BBR Totaludtraek Complete JSON_HF
+	BBR Totaludtraek Complete XML_HF
+	DAGI10MULTIGEOMHIST_GML321
+	DAGI10MULTIGEOMHIST_SHP
+	DAGI10MULTIGEOMHIST_TAB
+	DAR Totaludtraek Complete JSON_HF
+	DAR Totaludtraek Complete XML_HF
+	EBR Complete JSON_HF
+	Ejendomsvurdering Total Flad Complete Restricted JSON_HF
+	Ejendomsvurdering Total Flad Complete Restricted XML_HF
+	Ejendomsvurdering Totaludtraek Flad Complete JSON_HF
+	Ejendomsvurdering Totaludtraek Flad Complete XML_HF
+	EJF Fortrolig Totaludtraek Flad Complete JSON_HF
+	EJF Fortrolig Totaludtraek Flad Complete XML_HF
+	EJF Totaludtraek Flad Complete JSON_HF
+	EJF Totaludtraek Flad Complete XML_HF
+	GeoDanmark60_SHP
+	GeoDanmark60_TAB
+	GeoDanmark60HIST_GML_HF
+	GeoDanmark60HISTKommune_GML_HF
+	GeoDanmark60HISTKommune_GPKG_HF
+	GeoDanmark60HISTRegion_GML_HF
+	MAT Registerdata Totaludtræk Complete JSON
+	MAT Registerdata Totaludtræk Complete XML
+	MAT Totaludtraek Complete JSON
+	MAT Totaludtraek Complete JSON_HF
+	MAT Totaludtraek Complete XML
+	MAT Totaludtraek Complete XML_HF
+	MAT Totaludtraek Hist Complete JSON
+	MAT Totaludtraek Hist Complete JSON_HF
+	MAT Totaludtraek Hist Complete XML
+	MAT Totaludtraek Hist Complete XML_HF
+	MatrikelGeometriGaeldendeDKComplete_gpkg_HF
+	MatrikelGeometriGaeldendeKommuneComplete_GML
+	MatrikelGeometriGaeldendeKommuneComplete_GML_HF
+	MatrikelGeometriGaeldendeKommuneComplete_gpkg
+	MatrikelGeometriGaeldendeKommuneComplete_gpkg_HF
+	SVR-dataUdtraek-Complete_HF
+	VUR Filudtraek Complete JSON_HF
+	VUR Filudtraek Complete Restricted JSON_HF
+	VUR Filudtraek Complete Restricted XML_HF
+	VUR Filudtraek Complete XML_HF
+
+
+
+Der bliver arbejdet med høj prioritet for at løse problemet og få gjort de berørte filudtræk tilgængelige.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 51674&#xD;
+</content>
+  </entry>
+</feed>
