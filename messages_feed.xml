@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-01T05:38:55Z</updated>
+  <updated>2024-07-01T10:07:12Z</updated>
   <entry>
     <id>51377</id>
     <title
@@ -73,7 +73,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>51536</id>
     <title
       type="text">Test06 servicevindue mandag den 1. juli 2024 klokken 10:00 – 14:00</title>
-    <updated>2024-06-24T11:04:24Z</updated>
+    <updated>2024-07-01T10:07:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51536" />
@@ -85,7 +85,7 @@ Der er planlagt et servicevindue på Test06 mandag den 1. juli 2024 klokken 10:0
 Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 51536&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
