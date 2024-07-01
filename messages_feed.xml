@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-06-27T10:46:39Z</updated>
+  <updated>2024-07-01T05:38:55Z</updated>
   <entry>
     <id>51377</id>
     <title
       type="text">EJF udfører datarettelse torsdag den 27. juni</title>
-    <updated>2024-06-17T10:46:22Z</updated>
+    <updated>2024-07-01T05:38:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51377" />
@@ -23,7 +23,7 @@ Læs mere om datarettelsen i EJF i dokumentationen.
 Datarettelser (EJF) - Dokumentation - Dokumentation (sdfi.dk)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51377&#xD;
 </content>
   </entry>
@@ -49,7 +49,7 @@ Sagsreference: 51403&#xD;
     <id>50887</id>
     <title
       type="text">Test04 servicevindue den 14. juni til den 28. juni 2024</title>
-    <updated>2024-06-14T05:35:58Z</updated>
+    <updated>2024-07-01T05:34:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/50887" />
@@ -63,7 +63,7 @@ Data bliver ikke opdateret i miljøet under servicevinduet, og der vil være per
 Husk at Test04 samtidigt overgår fra testcertifikater til produktionscertifikater den 18. juni.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 50887&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
