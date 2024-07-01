@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-01T11:05:47Z</updated>
+  <updated>2024-07-01T11:13:43Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -23,30 +23,6 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51403&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>50887</id>
-    <title
-      type="text">Test04 servicevindue den 14. juni til den 28. juni 2024</title>
-    <updated>2024-07-01T05:34:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/50887" />
-    <content
-      type="text">Besked: Test04 servicevindue den 14. juni til den 28. juni 2024
-
-Der er planlagt servicevindue på Test04 i perioden 14. juni til den 28. juni 2024.
-
-Data bliver ikke opdateret i miljøet under servicevinduet, og der vil være periodevis ustabilitet på alle tjenester og Selvbetjeningsportalen.
-
-Husk at Test04 samtidigt overgår fra testcertifikater til produktionscertifikater den 18. juni.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 50887&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -97,16 +73,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>51300</id>
     <title
       type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-06-13T10:34:41Z</updated>
+    <updated>2024-07-01T11:13:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51300" />
     <content
       type="text">Besked: DAGI dataopdatering er stoppet i produktionsmiljøet
 
-DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46
+01.07.2024: DAGI bliver forventet opdateret ultimo august.
 
-Der bliver arbejdet på at løse problemet.&#xD;
+DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
