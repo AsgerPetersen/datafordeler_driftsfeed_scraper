@@ -6,27 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-01T10:07:12Z</updated>
-  <entry>
-    <id>51377</id>
-    <title
-      type="text">EJF udfører datarettelse torsdag den 27. juni</title>
-    <updated>2024-07-01T05:38:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51377" />
-    <content
-      type="text">Besked: EJF udfører datarettelse torsdag den 27. juni
-
-Læs mere om datarettelsen i EJF i dokumentationen.
-
-Datarettelser (EJF) - Dokumentation - Dokumentation (sdfi.dk)&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 51377&#xD;
-</content>
-  </entry>
+  <updated>2024-07-01T11:05:47Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -134,51 +114,17 @@ Sagsreference: 51300&#xD;
 </content>
   </entry>
   <entry>
-    <id>51530</id>
-    <title
-      type="text">Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni</title>
-    <updated>2024-06-24T11:36:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51530" />
-    <content
-      type="text">Besked: Registerdata blev ikke opdateret i perioden fra tirsdag den 18. juni til torsdag den 20. juni
-
-Ingen registerdata (inklusive geodata) blev opdateret i perioden fra tirsdag den 18. juni klokken 16:00 til torsdag den 20. juni klokken 19:36. Man kan som anvender i denne periode have anvendt ikke-opdaterede data.
-
-Vi anbefaler følgende for at få indlæst opdaterede registerdata fra den nævnte periode i eget anvendersystem:
-
-Filudtræk
-
-	Hvis du kun anvender totaludtræk til at holde registerdata opdaterede, skal du ikke foretage dig yderligere.
-	Hvis du anvender delta filudtræk til at holde registerdata opdaterede, anbefaler vi, at du henter og indlæser et nyt totaludtræk.
-o Hvis du anvender prædefineret filudtræk til at holde registerdata opdaterede, skal du indlæse et nyt totaludtræk, der vil ligge klar senest mandag den 24. juni klokken 04:00.
-o Hvis du anvender brugerdefineret filudtræk for at holde registerdata opdaterede, anbefaler vi at bestille og indlæse et nyt totaludtræk.
-
-
-
-Hvis du ikke vælger at indlæse et totaludtræk, kan totaludtrækket bruges til at finde forskellen mellem registerdata i eget anvendersystem og på Datafordeleren.
-
-Hændelser
-Det er muligt at hente hændelserne for perioden allerede nu.
-
-Vi beklager de gener, som fejlen kan medføre. Har du spørgsmål til ovenstående, kan du få svar hos Datafordeler supporten: https://datafordeler.dk/support/kontakt/&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 51530&#xD;
-</content>
-  </entry>
-  <entry>
     <id>51674</id>
     <title
       type="text">Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni</title>
-    <updated>2024-06-26T10:37:04Z</updated>
+    <updated>2024-07-01T11:05:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51674" />
     <content
       type="text">Besked: Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni
+
+01.07.2024 klokken 13:00: Problemet er løst, og alle prædefinerede filudtræk er blevet leveret.
 
 26.06.2024 klokken 12:30: En række prædefinerede filudtræk blev ikke leveret som planlagt i weekenden den 22. og 23 juni.
 
@@ -232,7 +178,7 @@ Følgende filudtræk er berørt:
 Der bliver arbejdet med høj prioritet for at løse problemet og få gjort de berørte filudtræk tilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51674&#xD;
 </content>
   </entry>
