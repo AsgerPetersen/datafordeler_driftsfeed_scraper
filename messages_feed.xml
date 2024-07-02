@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-02T09:03:53Z</updated>
+  <updated>2024-07-02T14:15:10Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -23,6 +23,26 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51403&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52041</id>
+    <title
+      type="text">Datafordeler ftp-server utilgængelig i en kort periode</title>
+    <updated>2024-07-02T14:15:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52041" />
+    <content
+      type="text">Besked: Datafordeler ftp-server utilgængelig i en kort periode
+
+02.07.2024 klokken 16:15: I tidsrummet mellem klokken 17:00 og 17:15 kan anvendere opleve, at forbindelsen og adgangen til Datafordeler ftp-serveren i produktionsmiljøet vil blive afbrudt og være utilgængelig for at hente filudtræk. Dette vil også påvirke anvendere, der er i gang med at hente et filudtræk i tidsrummet. Vi beklager de gener, det kan medføre. &#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52041&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
