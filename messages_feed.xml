@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-01T11:13:43Z</updated>
+  <updated>2024-07-02T09:03:53Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -29,7 +29,7 @@ Sagsreference: 51403&#xD;
     <id>51536</id>
     <title
       type="text">Test06 servicevindue mandag den 1. juli 2024 klokken 10:00 – 14:00</title>
-    <updated>2024-07-01T10:07:12Z</updated>
+    <updated>2024-07-02T09:03:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51536" />
@@ -41,7 +41,7 @@ Der er planlagt et servicevindue på Test06 mandag den 1. juli 2024 klokken 10:0
 Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 51536&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -87,75 +87,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>51674</id>
-    <title
-      type="text">Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni</title>
-    <updated>2024-07-01T11:05:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51674" />
-    <content
-      type="text">Besked: Prædefinerede filudtræk blev ikke leveret som planlagt den 22. og 23. juni
-
-01.07.2024 klokken 13:00: Problemet er løst, og alle prædefinerede filudtræk er blevet leveret.
-
-26.06.2024 klokken 12:30: En række prædefinerede filudtræk blev ikke leveret som planlagt i weekenden den 22. og 23 juni.
-
-Følgende filudtræk er berørt:
-
-	BBR Totaludtraek Complete JSON_HF
-	BBR Totaludtraek Complete XML_HF
-	DAGI10MULTIGEOMHIST_GML321
-	DAGI10MULTIGEOMHIST_SHP
-	DAGI10MULTIGEOMHIST_TAB
-	DAR Totaludtraek Complete JSON_HF
-	DAR Totaludtraek Complete XML_HF
-	EBR Complete JSON_HF
-	Ejendomsvurdering Total Flad Complete Restricted JSON_HF
-	Ejendomsvurdering Total Flad Complete Restricted XML_HF
-	Ejendomsvurdering Totaludtraek Flad Complete JSON_HF
-	Ejendomsvurdering Totaludtraek Flad Complete XML_HF
-	EJF Fortrolig Totaludtraek Flad Complete JSON_HF
-	EJF Fortrolig Totaludtraek Flad Complete XML_HF
-	EJF Totaludtraek Flad Complete JSON_HF
-	EJF Totaludtraek Flad Complete XML_HF
-	GeoDanmark60_SHP
-	GeoDanmark60_TAB
-	GeoDanmark60HIST_GML_HF
-	GeoDanmark60HISTKommune_GML_HF
-	GeoDanmark60HISTKommune_GPKG_HF
-	GeoDanmark60HISTRegion_GML_HF
-	MAT Registerdata Totaludtræk Complete JSON
-	MAT Registerdata Totaludtræk Complete XML
-	MAT Totaludtraek Complete JSON
-	MAT Totaludtraek Complete JSON_HF
-	MAT Totaludtraek Complete XML
-	MAT Totaludtraek Complete XML_HF
-	MAT Totaludtraek Hist Complete JSON
-	MAT Totaludtraek Hist Complete JSON_HF
-	MAT Totaludtraek Hist Complete XML
-	MAT Totaludtraek Hist Complete XML_HF
-	MatrikelGeometriGaeldendeDKComplete_gpkg_HF
-	MatrikelGeometriGaeldendeKommuneComplete_GML
-	MatrikelGeometriGaeldendeKommuneComplete_GML_HF
-	MatrikelGeometriGaeldendeKommuneComplete_gpkg
-	MatrikelGeometriGaeldendeKommuneComplete_gpkg_HF
-	SVR-dataUdtraek-Complete_HF
-	VUR Filudtraek Complete JSON_HF
-	VUR Filudtraek Complete Restricted JSON_HF
-	VUR Filudtraek Complete Restricted XML_HF
-	VUR Filudtraek Complete XML_HF
-
-
-
-Der bliver arbejdet med høj prioritet for at løse problemet og få gjort de berørte filudtræk tilgængelige.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk&#xD;
-Status: Løst&#xD;
-Sagsreference: 51674&#xD;
 </content>
   </entry>
 </feed>
