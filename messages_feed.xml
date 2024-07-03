@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-02T15:30:57Z</updated>
+  <updated>2024-07-03T07:29:40Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -85,6 +85,26 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 51737&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52053</id>
+    <title
+      type="text">Der kan forekomme mindre udfald på Dokumentation for Datafordeleren</title>
+    <updated>2024-07-03T07:29:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52053" />
+    <content
+      type="text">Besked: Der kan forekomme mindre udfald på Dokumentation for Datafordeleren
+
+Der er servicevindue torsdag den 4. juli klokken 15-17 på Datafordelerens Dokumentation. Anvendere kan i perioden opleve, at der kortvarigt ikke er adgang til Dokumentation for Datafordeleren.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52053&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
