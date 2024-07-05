@@ -6,23 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-05T11:38:49Z</updated>
-  <entry>
-    <id>52127</id>
-    <title
-      type="text">Test af meddelelser</title>
-    <updated>2024-07-05T11:38:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52127" />
-    <content
-      type="text">Besked: Test af meddelelser&#xD;
-Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 52127&#xD;
-</content>
-  </entry>
+  <updated>2024-07-05T12:52:02Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -81,6 +65,24 @@ Status: Gennemført&#xD;
 Sagsreference: 52053&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52126</id>
+    <title
+      type="text">Dataopdatering er stoppet for Danske stednavne</title>
+    <updated>2024-07-05T12:52:02Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52126" />
+    <content
+      type="text">Besked: Danske stednavne dataopdatering stoppet i produktionsmiljøet
+
+05.07.2023 klokken 13:30: Der arbejdes på løse problemet, sidste opdatering var 05.07.2024 klokken 11:29:38&#xD;
+Register: Danske Stednavne&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52126&#xD;
 </content>
   </entry>
   <entry>
