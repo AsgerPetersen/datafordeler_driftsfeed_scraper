@@ -6,7 +6,23 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-05T08:39:48Z</updated>
+  <updated>2024-07-05T11:38:49Z</updated>
+  <entry>
+    <id>52127</id>
+    <title
+      type="text">Test af meddelelser</title>
+    <updated>2024-07-05T11:38:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52127" />
+    <content
+      type="text">Besked: Test af meddelelser&#xD;
+Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52127&#xD;
+</content>
+  </entry>
   <entry>
     <id>51403</id>
     <title
