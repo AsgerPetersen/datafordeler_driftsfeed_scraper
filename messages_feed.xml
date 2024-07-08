@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-08T08:33:59Z</updated>
+  <updated>2024-07-08T08:39:06Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -29,14 +29,14 @@ Sagsreference: 51403&#xD;
     <id>52152</id>
     <title
       type="text">Danske stednavne utilgængelig via de webbaseret tjenester i tidsrummet klokken 10:30-12:00</title>
-    <updated>2024-07-08T08:33:59Z</updated>
+    <updated>2024-07-08T08:39:06Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52152" />
     <content
-      type="text">Besked: Danske Stednavne utilgængelig via de webbaserede tjenester i tidsrummet klokken 10:30-12:00
+      type="text">Besked: Danske stednavne utilgængelig via de webbaseret tjenester i tidsrummet klokken 10:30-12:00
 
-08.07.2024 klokken 10:30: I tidsrummet klokken 10:30-12:00 vil man som anvender kunne opleve, at webbaserede tjenester fra Danske Stednavne ikke returnerer data ved forespørgsler.&#xD;
+08.07.2024 klokken 10:30: I tidsrummet klokken 10:30-12:00 vil man som anvender kunne opleve at Danske stednavne's webbaseret tjenester, ikke returnere data ved forespørgsler. Vi beklager den korte varsel.&#xD;
 Register: Danske Stednavne&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -91,16 +91,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52126</id>
     <title
       type="text">Dataopdatering er stoppet for Danske stednavne</title>
-    <updated>2024-07-08T08:33:53Z</updated>
+    <updated>2024-07-08T08:36:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52126" />
     <content
-      type="text">Besked: Danske stednavne dataopdatering stoppet i produktionsmiljøet
+      type="text">Besked: Danske Stednavne dataopdatering stoppet i produktionsmiljøet
 
-08.07.2024 klokken 10:30: Der arbejdes fortsat på at løse problemet.
+08.07.2024 klokken 10:30: Der bliver arbejdet fortsat på at løse problemet.
 
-05.07.2024 klokken 13:30: Der arbejdes på løse problemet, sidste opdatering var 05.07.2024 klokken 11:29:38.&#xD;
+05.07.2024 klokken 13:30: Der bliver arbejdet på løse problemet. Sidste opdatering var 05.07.2024 klokken 11:29:38.&#xD;
 Register: Danske Stednavne&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
