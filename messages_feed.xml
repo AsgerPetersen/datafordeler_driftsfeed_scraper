@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-05T14:41:51Z</updated>
+  <updated>2024-07-08T08:33:59Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -23,6 +23,26 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51403&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52152</id>
+    <title
+      type="text">Danske stednavne utilgængelig via de webbaseret tjenester i tidsrummet klokken 10:30-12:00</title>
+    <updated>2024-07-08T08:33:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52152" />
+    <content
+      type="text">Besked: Danske Stednavne utilgængelig via de webbaserede tjenester i tidsrummet klokken 10:30-12:00
+
+08.07.2024 klokken 10:30: I tidsrummet klokken 10:30-12:00 vil man som anvender kunne opleve, at webbaserede tjenester fra Danske Stednavne ikke returnerer data ved forespørgsler.&#xD;
+Register: Danske Stednavne&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 52152&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -71,14 +91,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52126</id>
     <title
       type="text">Dataopdatering er stoppet for Danske stednavne</title>
-    <updated>2024-07-05T14:41:51Z</updated>
+    <updated>2024-07-08T08:33:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52126" />
     <content
       type="text">Besked: Danske stednavne dataopdatering stoppet i produktionsmiljøet
 
-05.07.2024 klokken 13:30: Der arbejdes på løse problemet, sidste opdatering var 05.07.2024 klokken 11:29:38&#xD;
+08.07.2024 klokken 10:30: Der arbejdes fortsat på at løse problemet.
+
+05.07.2024 klokken 13:30: Der arbejdes på løse problemet, sidste opdatering var 05.07.2024 klokken 11:29:38.&#xD;
 Register: Danske Stednavne&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
