@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-08T08:39:06Z</updated>
+  <updated>2024-07-08T10:35:01Z</updated>
   <entry>
     <id>51403</id>
     <title
@@ -28,15 +28,19 @@ Sagsreference: 51403&#xD;
   <entry>
     <id>52152</id>
     <title
-      type="text">Danske stednavne utilgængelig via de webbaseret tjenester i tidsrummet klokken 10:30-12:00</title>
-    <updated>2024-07-08T08:39:06Z</updated>
+      type="text">Danske Stednavne utilgængelig via de webbaserede tjenester i tidsrummet klokken 10:30-14:00</title>
+    <updated>2024-07-08T10:35:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52152" />
     <content
-      type="text">Besked: Danske stednavne utilgængelig via de webbaseret tjenester i tidsrummet klokken 10:30-12:00
+      type="text">Besked: Danske Stednavne utilgængelig via de webbaserede tjenester i tidsrummet klokken 10:30-14:00
 
-08.07.2024 klokken 10:30: I tidsrummet klokken 10:30-12:00 vil man som anvender kunne opleve at Danske stednavne's webbaseret tjenester, ikke returnere data ved forespørgsler. Vi beklager den korte varsel.&#xD;
+Bemærk forlænget tidsrum.
+
+08.07.2024 klokken 12:15: Tidsrummet med mulighed for at opleve utilgængelighed er blevet forlænget til 10:30-14:00. Vi kommer med en melding cirka klokken 14. Vi beklager, at det tager længere tid end forventet.
+
+08.07.2024 klokken 10:30: I tidsrummet klokken 10:30-12:00 vil man som anvender kunne opleve, at webbaserede tjenester fra Danske Stednavne ikke returnerer data ved forespørgsler. Vi beklager den korte varsel.&#xD;
 Register: Danske Stednavne&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -49,7 +53,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>51737</id>
     <title
       type="text">Test04 servicevindue den 4. juli til 8. juli 2024</title>
-    <updated>2024-07-04T05:29:53Z</updated>
+    <updated>2024-07-08T10:30:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51737" />
@@ -61,7 +65,7 @@ Der er planlagt servicevindue på Test04 i perioden 4. juli til den 8. juli 2024
 Der kan periodevis være ustabilitet i miljøet på dataindlæsning, webservices og hændelser.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 51737&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
