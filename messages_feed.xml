@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-09T05:57:20Z</updated>
+  <updated>2024-07-09T07:14:41Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -97,14 +97,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52164</id>
     <title
       type="text">Servicevindue på alle testmiljøer den 17. juli klokken 17-02</title>
-    <updated>2024-07-08T12:08:43Z</updated>
+    <updated>2024-07-09T07:14:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52164" />
     <content
       type="text">Besked: Servicevindue på alle testmiljøer den 17. juli klokken 17-02
 
-Der er servicevindue på Test03, Test04, Test06 og Test07 onsdag den 17. juli klokken 17-02. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
+Der er servicevindue på Test03, Test04 og Test06 onsdag den 17. juli klokken 17-02. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 52164&#xD;
