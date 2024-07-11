@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2024-07-11T09:41:52Z</updated>
+  <entry>
+    <id>52161</id>
+    <title
+      type="text">Ejerfortegnelsen overgår til automatiserede månedlige datarettelser</title>
+    <updated>2024-07-08T10:57:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52161" />
+    <content
+      type="text">Besked: Ejerfortegnelsen overgår til automatiserede månedlige datarettelser
+
+Den 1. september vil Ejerfortegnelsen starte med at afvikle automatiserede månedlige datarettelser. Læs mere om de automatiske månedlige datarettelser i EJF i dokumentationen: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152005266
+
+Derudover udfører Ejerfortegnelsen to datarettelser tirsdag den 23. juli.
+Læs mere om datarettelserne i EJF i dokumentationen.
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52161&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51403</id>
+    <title
+      type="text">Skærmkortet</title>
+    <updated>2024-06-19T10:36:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51403" />
+    <content
+      type="text">Besked: Skærmkortet
+
+19.06.2024: Skærmkortet bliver opdateret i uge 28.&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51403&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52144</id>
+    <title
+      type="text">PROD servicevindue onsdag den 24. juli 2024 klokken 17:00 – 21:00</title>
+    <updated>2024-07-11T08:47:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52144" />
+    <content
+      type="text">Besked: PROD servicevindue onsdag den 24. juli 2024 klokken 17:00 – 21:00
+
+Der er planlagt servicevindue på PROD onsdag den 24. juli 2024 klokken 17:00 – 21:00.
+
+I tidsrummet kan anvendere opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige, og at der er forsinkelse i dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52144&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52107</id>
+    <title
+      type="text">Test04 servicevindue mandag den 15. juli 2024 klokken 10:00 – 14:00</title>
+    <updated>2024-07-11T08:48:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52107" />
+    <content
+      type="text">Besked: Test04 servicevindue mandag den 15. juli 2024 klokken 10:00 – 14:00
+
+Der er planlagt et servicevindue på Test04 mandag den 15. juli 2024 klokken 10:00 – 14:00.
+
+Anvendere kan i tidsrummet opleve kortvarig nedetid i dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52107&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52164</id>
+    <title
+      type="text">Servicevindue på alle testmiljøer den 17. juli klokken 17-02</title>
+    <updated>2024-07-11T09:40:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52164" />
+    <content
+      type="text">Besked: Servicevindue på alle testmiljøer den 17. - 18. juli klokken 17:00-02:00
+
+Der er servicevindue på Test03, Test04 og Test06 onsdag den 17. - 18. juli klokken 17:00-02:00. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52164&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52165</id>
+    <title
+      type="text">Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12</title>
+    <updated>2024-07-11T09:41:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52165" />
+    <content
+      type="text">Besked: Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10:00-12:00
+
+Der er servicevindue på Datafordelerens produktionsmiljø lørdag den 20. juli klokken 10:00-12:00. Følgende services på Datafordeleren vil være utilgængelige i hele tidsrummet: Dataopdatering og filudtræk.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52165&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51300</id>
+    <title
+      type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-07-01T11:13:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51300" />
+    <content
+      type="text">Besked: DAGI dataopdatering er stoppet i produktionsmiljøet
+
+01.07.2024: DAGI bliver forventet opdateret ultimo august.
+
+DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52167</id>
+    <title
+      type="text">Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06</title>
+    <updated>2024-07-08T12:16:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52167" />
+    <content
+      type="text">Besked: Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06 
+
+De moderniserede WFS-tjenester fra Geoserver er utilgængelige på Test04 og Test06. Vi forventer, at WFS-tjenesterne bliver tilgængelige igen efter det planlagte servicevindue onsdag den 17. juli.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 52167&#xD;
+</content>
+  </entry>
+</feed>
