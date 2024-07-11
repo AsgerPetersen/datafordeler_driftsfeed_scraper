@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-09T08:08:20Z</updated>
+  <updated>2024-07-11T08:39:37Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -114,7 +114,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52165</id>
     <title
       type="text">Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12</title>
-    <updated>2024-07-08T12:08:51Z</updated>
+    <updated>2024-07-11T08:39:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52165" />
@@ -123,7 +123,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 Der er servicevindue på Datafordelerens produktionsmiljø lørdag den 20. juli klokken 10-12. Følgende services på Datafordeleren vil være utilgængelige i hele tidsrummet: Dataopdatering og filudtræk.&#xD;
 Register: Alle&#xD;
-Service: Filudtræk&#xD;
+Service: Filudtræk, Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 52165&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
