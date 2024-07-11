@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-11T08:48:30Z</updated>
+  <updated>2024-07-11T09:41:52Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -95,14 +95,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52164</id>
     <title
       type="text">Servicevindue på alle testmiljøer den 17. juli klokken 17-02</title>
-    <updated>2024-07-09T07:14:41Z</updated>
+    <updated>2024-07-11T09:40:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52164" />
     <content
-      type="text">Besked: Servicevindue på alle testmiljøer den 17. juli klokken 17-02
+      type="text">Besked: Servicevindue på alle testmiljøer den 17. - 18. juli klokken 17:00-02:00
 
-Der er servicevindue på Test03, Test04 og Test06 onsdag den 17. juli klokken 17-02. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
+Der er servicevindue på Test03, Test04 og Test06 onsdag den 17. - 18. juli klokken 17:00-02:00. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 52164&#xD;
@@ -114,14 +114,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52165</id>
     <title
       type="text">Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12</title>
-    <updated>2024-07-11T08:39:37Z</updated>
+    <updated>2024-07-11T09:41:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52165" />
     <content
-      type="text">Besked: Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12
+      type="text">Besked: Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10:00-12:00
 
-Der er servicevindue på Datafordelerens produktionsmiljø lørdag den 20. juli klokken 10-12. Følgende services på Datafordeleren vil være utilgængelige i hele tidsrummet: Dataopdatering og filudtræk.&#xD;
+Der er servicevindue på Datafordelerens produktionsmiljø lørdag den 20. juli klokken 10:00-12:00. Følgende services på Datafordeleren vil være utilgængelige i hele tidsrummet: Dataopdatering og filudtræk.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk, Dataopdatering&#xD;
 Status: Planlagt&#xD;
