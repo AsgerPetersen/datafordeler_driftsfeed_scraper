@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-11T08:39:37Z</updated>
+  <updated>2024-07-11T08:48:30Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -51,7 +51,7 @@ Sagsreference: 51403&#xD;
     <id>52144</id>
     <title
       type="text">PROD servicevindue onsdag den 24. juli 2024 klokken 17:00 – 21:00</title>
-    <updated>2024-07-09T08:08:20Z</updated>
+    <updated>2024-07-11T08:47:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52144" />
@@ -60,7 +60,7 @@ Sagsreference: 51403&#xD;
 
 Der er planlagt servicevindue på PROD onsdag den 24. juli 2024 klokken 17:00 – 21:00.
 
-I tidsrummet kan anvendere opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige, og at der er forsinkelse i dataindlæsningen.&#xD;
+I tidsrummet kan anvendere opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige, og at der er forsinkelse i dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
 Status: Planlagt&#xD;
@@ -73,7 +73,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52107</id>
     <title
       type="text">Test04 servicevindue mandag den 15. juli 2024 klokken 10:00 – 14:00</title>
-    <updated>2024-07-09T05:57:20Z</updated>
+    <updated>2024-07-11T08:48:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52107" />
@@ -82,7 +82,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 Der er planlagt et servicevindue på Test04 mandag den 15. juli 2024 klokken 10:00 – 14:00.
 
-Anvendere kan i tidsrummet opleve kortvarig nedetid i dataindlæsningen.&#xD;
+Anvendere kan i tidsrummet opleve kortvarig nedetid i dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
 Status: Planlagt&#xD;
