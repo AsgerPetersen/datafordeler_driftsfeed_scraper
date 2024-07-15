@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-15T09:02:32Z</updated>
+  <updated>2024-07-15T10:32:13Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -33,17 +33,19 @@ Sagsreference: 52161&#xD;
     <id>51403</id>
     <title
       type="text">Skærmkortet</title>
-    <updated>2024-06-19T10:36:59Z</updated>
+    <updated>2024-07-15T10:32:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/51403" />
     <content
       type="text">Besked: Skærmkortet
 
+15.07.2024: Skærmkortet er opdateret.
+
 19.06.2024: Skærmkortet bliver opdateret i uge 28.&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 51403&#xD;
 </content>
   </entry>
