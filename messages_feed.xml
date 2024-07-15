@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-12T08:47:31Z</updated>
+  <updated>2024-07-15T09:02:32Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -104,7 +104,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52107</id>
     <title
       type="text">Test04 servicevindue mandag den 15. juli 2024 klokken 10:00 – 14:00</title>
-    <updated>2024-07-11T08:48:30Z</updated>
+    <updated>2024-07-15T09:02:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52107" />
@@ -116,7 +116,7 @@ Der er planlagt et servicevindue på Test04 mandag den 15. juli 2024 klokken 10:
 Anvendere kan i tidsrummet opleve kortvarig nedetid i dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 52107&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
