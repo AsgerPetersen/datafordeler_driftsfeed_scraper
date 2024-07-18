@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-18T06:02:21Z</updated>
+  <updated>2024-07-18T10:35:47Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -165,17 +165,19 @@ Sagsreference: 51300&#xD;
     <id>52167</id>
     <title
       type="text">Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06</title>
-    <updated>2024-07-08T12:16:25Z</updated>
+    <updated>2024-07-18T10:35:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52167" />
     <content
       type="text">Besked: Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06 
 
+18.07.2024: Geoserverne er tilgængelige igen for test04 og test06.
+
 De moderniserede WFS-tjenester fra Geoserver er utilgængelige på Test04 og Test06. Vi forventer, at WFS-tjenesterne bliver tilgængelige igen efter det planlagte servicevindue onsdag den 17. juli.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 52167&#xD;
 </content>
   </entry>
