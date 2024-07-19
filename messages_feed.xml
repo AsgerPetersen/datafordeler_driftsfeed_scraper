@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-18T10:35:47Z</updated>
+  <updated>2024-07-19T09:41:10Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -140,6 +140,26 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 52167&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52359</id>
+    <title
+      type="text">Forsinket levering af MAT2 Samlet Fast Ejendom og Bestemt Fast Ejendom filudtræk</title>
+    <updated>2024-07-19T09:41:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52359" />
+    <content
+      type="text">Besked: Forsinket levering af MAT2 Samlet Fast Ejendom og Bestemt Fast Ejendom filudtræk
+
+Anvenderne af MAT2 filudtræk Samlet Fast Ejendom og Bestemt Fast Ejendom kan i øjeblikket opleve en forsinkelse i leveringen af disse, grundet længere genereringstider for disse filudtræk end normalt. I nogle tilfælde kan dette også medføre at en levering af et filudtræk kan bliver sprunget over.
+
+Der arbejdes på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 52359&#xD;
 </content>
   </entry>
 </feed>
