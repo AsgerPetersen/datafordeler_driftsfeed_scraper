@@ -83,25 +83,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>52164</id>
-    <title
-      type="text">Servicevindue på alle testmiljøer den 17. juli klokken 17-02</title>
-    <updated>2024-07-18T06:02:21Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52164" />
-    <content
-      type="text">Besked: Servicevindue på alle testmiljøer den 17. - 18. juli klokken 17:00-02:00
-
-Der er servicevindue på Test03, Test04 og Test06 onsdag den 17. - 18. juli klokken 17:00-02:00. Alle services på testmiljøerne vil være utilgængelige i hele tidsrummet. Det gælder for dataopdatering, webservices, admin- og selfserviceportaler, filudtræk og hændelser.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 52164&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>52165</id>
     <title
       type="text">Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12</title>
