@@ -83,26 +83,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>52165</id>
-    <title
-      type="text">Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10-12</title>
-    <updated>2024-07-11T09:41:52Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52165" />
-    <content
-      type="text">Besked: Servicevindue på Datafordelerens produktionsmiljø den 20. juli klokken 10:00-12:00
-
-Der er servicevindue på Datafordelerens produktionsmiljø lørdag den 20. juli klokken 10:00-12:00. Følgende services på Datafordeleren vil være utilgængelige i hele tidsrummet: Dataopdatering og filudtræk.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk, Dataopdatering&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 52165&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>51300</id>
     <title
       type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
@@ -120,26 +100,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>52167</id>
-    <title
-      type="text">Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06</title>
-    <updated>2024-07-18T10:35:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52167" />
-    <content
-      type="text">Besked: Moderniserede WFS-tjenester er utilgængelige på Test04 og Test06 
-
-18.07.2024: Geoserverne er tilgængelige igen for test04 og test06.
-
-De moderniserede WFS-tjenester fra Geoserver er utilgængelige på Test04 og Test06. Vi forventer, at WFS-tjenesterne bliver tilgængelige igen efter det planlagte servicevindue onsdag den 17. juli.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 52167&#xD;
 </content>
   </entry>
   <entry>
