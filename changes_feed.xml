@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-06-24T08:40:29Z</updated>
+  <updated>2024-07-25T11:40:52Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -87,7 +87,7 @@ Tidsangivelse: 2024&#xD;
     <id>49744</id>
     <title
       type="text">DTK500 og DTK1000 opdateres juli 2024 med data fra 2022 og 2023</title>
-    <updated>2024-06-24T08:40:29Z</updated>
+    <updated>2024-07-25T11:40:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/49744" />
@@ -101,7 +101,7 @@ DKtopokort WMS 1:250.000 og det respektive filudtræk opdateres ikke, og vil for
 DKtopokort WMS 1:25.000 blev opdateret den 31. januar 2024.&#xD;
 Register: Danmarks Topografiske Kortværk (DTK)&#xD;
 Service: Webservice, Filudtræk&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 49744&#xD;
 Tidsangivelse: 24-07-2024&#xD;
 </content>
