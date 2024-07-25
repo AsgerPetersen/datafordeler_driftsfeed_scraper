@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-07-19T09:41:10Z</updated>
+  <updated>2024-07-25T06:35:53Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -64,19 +64,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52144</id>
     <title
       type="text">PROD servicevindue onsdag den 24. juli 2024 klokken 17:00 – 21:00</title>
-    <updated>2024-07-11T08:47:50Z</updated>
+    <updated>2024-07-25T06:35:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52144" />
     <content
       type="text">Besked: PROD servicevindue onsdag den 24. juli 2024 klokken 17:00 – 21:00
 
+25.07.2024: Servicevindue er gennemført.
+
 Der er planlagt servicevindue på PROD onsdag den 24. juli 2024 klokken 17:00 – 21:00.
 
 I tidsrummet kan anvendere opleve, at tjenester på Danmarks Topografiske Kortværk (DTK) er kortvarigt utilgængelige, og at der er forsinkelse i dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 52144&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
