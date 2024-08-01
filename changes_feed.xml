@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-07-25T11:40:52Z</updated>
+  <updated>2024-08-01T12:47:19Z</updated>
   <entry>
     <id>47739</id>
     <title
       type="text">Forlængelse af paralleldrift mellem Matriklen og Matriklen2</title>
-    <updated>2024-06-14T09:15:23Z</updated>
+    <updated>2024-08-01T12:47:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/47739" />
@@ -29,14 +29,8 @@ Uddybning: Fejlen havde relation til et pludseligt opstået problem med at tilde
 Problemet er løst den 10. april 2024, men der er pt. længere genereringstid for filudtrækkene end normalt, hvilket der arbejdes på at nedbringe.
 	Jordstykke er MultiPolygon i Matriklen2
 Uddybning: Geometri for Jordstykke skal være polygon. Fejlen er bekræftet og undersøges.
-	Kan ikke bestille ejendomsrapport i Matriklen2
-Uddybning: Fejl i tjenesten BestemtFastEjendom. Forventes løst 24. juli 2024.
-	Filudtrækket MATmatrikulaer har fejl i JSON-format
-Uddybning: Forventes løst 24. juli 2024.
 	Foreløbige objekter udtrækkes, selvom kun gældende er bestilt i for eksempel tjenesten MATkortdataGaeldendeDKComplete
 Uddybning: Undersøges.
-	Forkert schema-lokation i WFS-tjeneste Mat_AlleData
-Uddybning: Forventes løst 24. juli 2024.
 
 
 
