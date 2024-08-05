@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-01T10:01:54Z</updated>
+  <updated>2024-07-30T10:36:49Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -74,28 +74,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>52481</id>
-    <title
-      type="text">Man kan i øjeblikket opleve at alle webservices er utilgængelige eller har længere svartider i Datafordeler produktionsmiljøet</title>
-    <updated>2024-08-01T10:01:54Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52481" />
-    <content
-      type="text">Besked: Man kan i øjeblikket opleve at alle webservices er utilgængelige eller har længere svartider i Datafordeler produktionsmiljøet
-
-01.08.2024 klokken 12:00: Problemet er løst og alle webserviceses er tilbage i normal drift.
-
-01.08.2024 klokken 11:05: Webservices er i øjeblikket utilgængelige eller har længere svartider for alle registre i produktionsmiljøet.
-
-Der bliver arbejdet med høj prioritet på at løse fejlen.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 52481&#xD;
 </content>
   </entry>
   <entry>
