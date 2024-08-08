@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-07T10:33:14Z</updated>
+  <updated>2024-07-30T10:36:49Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -23,37 +23,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 52161&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>52279</id>
-    <title
-      type="text">PROD servicevindue den 5. august klokken 17:00 til den 6. august 2024 klokken 08:00 og den 6. august 2024 klokken 17:00 - 22:00</title>
-    <updated>2024-08-07T10:33:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52279" />
-    <content
-      type="text">Besked: PROD servicevindue den 5. august klokken 17:00 til den 6. august 2024 klokken 08:00 og den 6. august 2024 klokken 17:00 - 22:00
-
-Som led i Moderniseringen af Datafordeleren vil PROD miljøet være under servicevindue i perioderne:
-
-	Mandag den 5. august klokken 17:00 til tirsdag den 6. august 2024 klokken 08:00
-	Tirsdag den 6. august klokken 17:00 - 22:00
-
-
-
-Anvendere kan i tidsrummene opleve forsinkelse på dataopdatering og hændelser.
-
- 
-
-Læs mere om moderniseringen på https://datafordeler.dk/vejledning/modernisering/&#xD;
-Register: Alle&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 52279&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
