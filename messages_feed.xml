@@ -6,7 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-09T14:03:48Z</updated>
+  <updated>2024-08-12T08:39:28Z</updated>
+  <entry>
+    <id>52653</id>
+    <title
+      type="text">Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket</title>
+    <updated>2024-08-12T08:36:42Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52653" />
+    <content
+      type="text">Besked: Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket
+
+Opdateringen af Matriklen Fildownload Total er forsinket. Filerne bliver opdateret natten mellem mandag den 12. august og tirsdag den 13. august.&#xD;
+Register: Matriklen (MAT)&#xD;
+Status: I gang&#xD;
+Sagsreference: 52653&#xD;
+</content>
+  </entry>
   <entry>
     <id>52161</id>
     <title
@@ -65,6 +82,24 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52654</id>
+    <title
+      type="text">Dataopdateringen er stoppet for DHM Højdekurver</title>
+    <updated>2024-08-12T08:39:28Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52654" />
+    <content
+      type="text">Besked: Dataopdateringen er stoppet for DHM Højdekurver
+
+12.08.2024 klokken 10:30: Opdateringen af DHM Højdekurver er stoppet, hvilket forårsager, at de moderniserede DHM Højdekurver Fildownload ikke er tilgængelige. Der bliver arbejder på at løse problemet.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52654&#xD;
 </content>
   </entry>
   <entry>
