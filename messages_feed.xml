@@ -6,17 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-12T08:45:44Z</updated>
+  <updated>2024-08-13T12:56:58Z</updated>
   <entry>
     <id>52653</id>
     <title
       type="text">Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket</title>
-    <updated>2024-08-12T08:40:38Z</updated>
+    <updated>2024-08-13T12:46:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52653" />
     <content
       type="text">Besked: Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket
+
+13.08.2024: Opdateringen af Matriklen Fildownload Total er blevet yderligere forsinket. Vi forventer, filerne bliver opdateret natten mellem tirsdag den 13. august og onsdag den 14. august.
 
 Opdateringen af Matriklen Fildownload Total er forsinket. Filerne bliver opdateret natten mellem mandag den 12. august og tirsdag den 13. august.&#xD;
 Register: Matriklen (MAT)&#xD;
@@ -101,6 +103,28 @@ Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 52654&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52691</id>
+    <title
+      type="text">Begrænset brug af specialtegn på adgangskoder til Fildownload og WFS på geoserver</title>
+    <updated>2024-08-13T12:56:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52691" />
+    <content
+      type="text">Besked: Begrænset brug af specialtegn på tjenestebrugernes adgangskoder til Fildownload og WFS på geoserver
+
+13.08.2024 Klokken 14:45: Der er i øjeblikket kun adgang til Fildownload og WFS på geoserver for tjenestebrugere med adgangskoder, som gør brug af følgende specialtegn: ._$()!- 
+
+Bruger man andre specialtegn i tjenestebrugerens adgangskode, kan man opleve en fejl 401.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Fildownload&#xD;
+Status: I gang&#xD;
+Sagsreference: 52691&#xD;
 </content>
   </entry>
 </feed>
