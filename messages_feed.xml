@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2024-08-15T13:12:10Z</updated>
+  <entry>
+    <id>52653</id>
+    <title
+      type="text">Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket</title>
+    <updated>2024-08-14T07:34:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52653" />
+    <content
+      type="text">Besked: Opdateringen af de moderniserede Matriklen Fildownload Total er forsinket
+
+14.08.2024: De moderniserede Matriklen Fildownload Total er nu tilgængelige.
+
+13.08.2024: Opdateringen af Matriklen Fildownload Total er blevet yderligere forsinket. Vi forventer, filerne bliver opdateret natten mellem tirsdag den 13. august og onsdag den 14. august.
+
+Opdateringen af Matriklen Fildownload Total er forsinket. Filerne bliver opdateret natten mellem mandag den 12. august og tirsdag den 13. august.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Fildownload&#xD;
+Status: Løst&#xD;
+Sagsreference: 52653&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52161</id>
+    <title
+      type="text">Ejerfortegnelsen overgår til automatiserede månedlige datarettelser</title>
+    <updated>2024-07-30T10:36:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52161" />
+    <content
+      type="text">Besked: Ejerfortegnelsen overgår til automatiserede månedlige datarettelser
+
+Den 1. september vil Ejerfortegnelsen starte med at afvikle automatiserede månedlige datarettelser. Læs mere om de automatiske månedlige datarettelser i EJF i dokumentationen: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152005266&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52161&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52451</id>
+    <title
+      type="text">Test03 servicevindue den 19. august til 22. august 2024</title>
+    <updated>2024-08-09T14:03:48Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52451" />
+    <content
+      type="text">Besked: Test03 servicevindue den 19. august til 22. august 2024
+
+Der er planlagt servicevindue på Test03 i perioden 19. august til den 22. august 2024 i forbindelse med moderniseringen af Datafordeleren.
+
+Der kan periodevis være ustabilitet i miljøet på dataindlæsning, webservices og hændelser.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52451&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>51300</id>
+    <title
+      type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-07-01T11:13:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/51300" />
+    <content
+      type="text">Besked: DAGI dataopdatering er stoppet i produktionsmiljøet
+
+01.07.2024: DAGI bliver forventet opdateret ultimo august.
+
+DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 51300&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52753</id>
+    <title
+      type="text">Mange S0 tjenester er i øjeblikket ikke i funktion</title>
+    <updated>2024-08-15T13:12:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52753" />
+    <content
+      type="text">Besked: Mange frie webtjenester er i øjeblikket ikke i funktion
+
+15.08-2024 kl. 15.10 Alle tjenester fungerer igen.
+
+ 
+
+15.08.2024 kl. 14.45: Mange frie webtjenester er i øjeblikket ikke i funktion.
+
+Der arbejdes med høj priotet på at få løst problemet.&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 52753&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52654</id>
+    <title
+      type="text">Dataopdateringen er stoppet for DHM Højdekurver</title>
+    <updated>2024-08-12T08:45:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52654" />
+    <content
+      type="text">Besked: Dataopdateringen er stoppet for DHM Højdekurver
+
+12.08.2024 klokken 10:30: Opdateringen af DHM Højdekurver er stoppet, hvilket forårsager, at de moderniserede DHM Højdekurver Fildownload ikke er tilgængelige. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 52654&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52691</id>
+    <title
+      type="text">Begrænset brug af specialtegn på adgangskoder til Fildownload og WFS på geoserver</title>
+    <updated>2024-08-13T12:56:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52691" />
+    <content
+      type="text">Besked: Begrænset brug af specialtegn på tjenestebrugernes adgangskoder til Fildownload og WFS på geoserver
+
+13.08.2024 Klokken 14:45: Der er i øjeblikket kun adgang til Fildownload og WFS på geoserver for tjenestebrugere med adgangskoder, som gør brug af følgende specialtegn: ._$()!- 
+
+Bruger man andre specialtegn i tjenestebrugerens adgangskode, kan man opleve en fejl 401.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Fildownload&#xD;
+Status: I gang&#xD;
+Sagsreference: 52691&#xD;
+</content>
+  </entry>
+</feed>
