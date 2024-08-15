@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-15T12:54:17Z</updated>
+  <updated>2024-08-15T13:12:10Z</updated>
   <entry>
     <id>52653</id>
     <title
@@ -93,16 +93,22 @@ Sagsreference: 51300&#xD;
     <id>52753</id>
     <title
       type="text">Mange S0 tjenester er i øjeblikket ikke i funktion</title>
-    <updated>2024-08-15T12:54:17Z</updated>
+    <updated>2024-08-15T13:12:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52753" />
     <content
-      type="text">Besked: 15.08.2024 kl. 14.45: Mange frie webtjenester er i øjeblikket ikke i funktion.
+      type="text">Besked: Mange frie webtjenester er i øjeblikket ikke i funktion
+
+15.08-2024 kl. 15.10 Alle tjenester fungerer igen.
+
+ 
+
+15.08.2024 kl. 14.45: Mange frie webtjenester er i øjeblikket ikke i funktion.
 
 Der arbejdes med høj priotet på at få løst problemet.&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 52753&#xD;
 </content>
   </entry>
