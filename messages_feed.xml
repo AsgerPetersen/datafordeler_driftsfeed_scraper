@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-20T11:56:15Z</updated>
+  <updated>2024-08-20T12:06:03Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -45,6 +45,30 @@ Status: I gang&#xD;
 Sagsreference: 52451&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52842</id>
+    <title
+      type="text">Prædefinerede filudtræk ikke leveret siden søndag den 11. august 2024.</title>
+    <updated>2024-08-20T12:06:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52842" />
+    <content
+      type="text">Besked: Følgende prædefinerede filudtræk er ikke blevet leveret siden søndag den 11. august. Vi arbejder på at løse problemet:
+
+	BBR Totaludtraek Complete
+	DAR Totaludtraek Complete
+	EBR Simpel Complete
+	EJF Totaludtraek Flad Complete
+	MAT1 Totaludtraek Complete
+
+&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 52842&#xD;
 </content>
   </entry>
   <entry>
