@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-13T12:56:58Z</updated>
+  <updated>2024-08-20T11:56:15Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -29,7 +29,7 @@ Sagsreference: 52161&#xD;
     <id>52451</id>
     <title
       type="text">Test03 servicevindue den 19. august til 22. august 2024</title>
-    <updated>2024-08-09T14:03:48Z</updated>
+    <updated>2024-08-20T11:56:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52451" />
@@ -41,7 +41,7 @@ Der er planlagt servicevindue på Test03 i perioden 19. august til den 22. augus
 Der kan periodevis være ustabilitet i miljøet på dataindlæsning, webservices og hændelser.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 52451&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
