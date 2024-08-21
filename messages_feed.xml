@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-21T10:33:34Z</updated>
+  <updated>2024-08-21T13:40:52Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -148,6 +148,43 @@ Register: Alle&#xD;
 Service: Webservice, Fildownload&#xD;
 Status: I gang&#xD;
 Sagsreference: 52691&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52899</id>
+    <title
+      type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
+    <updated>2024-08-21T13:40:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52899" />
+    <content
+      type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
+
+Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
+
+	BBR - SamletFastEjendom (alle)
+	BBR - BestemtFastEjendom (alle)
+	Ejerfortegnelsen - EJFFortroligEjendomsadministratorMedStamopl_HF
+	Ejerfortegnelsen - EJFEjerskabsskifte_HF
+	Ejerfortegnelsen - EJFEjerskabMedStamopl_HF
+	GeoDanmark Vektor - GeoDanmark60bruger
+	Matriklen - MUTotalUdtraekFlad_HF
+
+
+
+Hvis du som anvender oplever ikke at have modtaget et af de ovennævnte brugerdefinerede udtræk, som forventet, skal du rette henvendelse til Datafordeler supporten via:
+
+	Web: https://datafordeler.dk/support/kontakt/
+	Telefon: 33 34 89 77
+
+
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 52899&#xD;
 </content>
   </entry>
 </feed>
