@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-21T09:55:32Z</updated>
+  <updated>2024-08-21T10:33:34Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -51,7 +51,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>52842</id>
     <title
       type="text">Prædefinerede filudtræk er ikke leveret</title>
-    <updated>2024-08-21T09:44:03Z</updated>
+    <updated>2024-08-21T10:33:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52842" />
@@ -68,7 +68,7 @@ Følgende prædefinerede filudtræk er ikke blevet leveret siden søndag den 11.
 
 
 
-Følgende prædefinerede delta filudtræk er ikke blevet leveret siden den 15. og 16. august:
+Følgende prædefinerede delta filudtræk er ikke blevet leveret den 15. og 16. august. Bemærk den manglende levering gælder kun disse to dage:
 
 	BBR_Totaludtraek_DeltaDaily_JSON_HF_20240816080211
 	DAR_Totaludtraek_DeltaDaily_JSON_HF_20240815211131
