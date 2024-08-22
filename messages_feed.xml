@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-22T10:49:24Z</updated>
+  <updated>2024-08-22T10:57:08Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -43,6 +43,30 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 52451&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>52913</id>
+    <title
+      type="text">PROD servicevindue fredag den 23. august 2024 klokken 12:00 - 14:00</title>
+    <updated>2024-08-22T10:57:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/52913" />
+    <content
+      type="text">Besked: PROD servicevindue fredag den 23. august 2024 klokken 12:00 - 14:00
+
+Der er planlagt servicevindue på PROD fredag den 23. august 2024 klokken 12:00 – 14:00.
+
+Anvendere kan i perioden opleve forsinkelse på dataopdatering, filudtræk og længere svartider på webservices.
+
+ &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 52913&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -90,28 +114,6 @@ Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 52842&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>51300</id>
-    <title
-      type="text">DAGI dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-08-21T09:55:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/51300" />
-    <content
-      type="text">Besked: DAGI dataopdatering er stoppet i produktionsmiljøet
-
-21.08.2024: Problemet er løst, og DAGI dataopdatering er tilbage i normal drift. 
-
-01.07.2024: DAGI bliver forventet opdateret ultimo august.
-
-DAGI dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 07.06.2024 klokken 09:00:46.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 51300&#xD;
 </content>
   </entry>
   <entry>
