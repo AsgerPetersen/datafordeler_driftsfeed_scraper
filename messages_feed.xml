@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-23T10:09:07Z</updated>
+  <updated>2024-08-23T12:17:54Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -29,7 +29,7 @@ Sagsreference: 52161&#xD;
     <id>52913</id>
     <title
       type="text">PROD servicevindue fredag den 23. august 2024 klokken 12:00 - 14:00</title>
-    <updated>2024-08-23T10:00:40Z</updated>
+    <updated>2024-08-23T12:17:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52913" />
@@ -43,7 +43,7 @@ Anvendere kan i perioden opleve forsinkelse på dataopdatering, filudtræk og l�
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 52913&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
