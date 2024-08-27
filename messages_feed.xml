@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-23T10:09:07Z</updated>
+  <updated>2024-08-27T10:44:02Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -29,16 +29,14 @@ Sagsreference: 52161&#xD;
     <id>52842</id>
     <title
       type="text">Prædefinerede filudtræk er ikke leveret</title>
-    <updated>2024-08-22T10:49:24Z</updated>
+    <updated>2024-08-27T10:44:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52842" />
     <content
       type="text">Besked: Prædefinerede filudtræk er ikke leveret
 
-22.08.2024: Desværre er det ikke muligt at genstarte de berørte deltaudtræk. Derfor har vi lavet en guide til, hvordan du selv kan hente de manglende deltaudtræk. Se guide i dokumentationen https://confluence.sdfi.dk/x/OIGsCQ
-
-Der bliver fortsat arbejdet på at løse problemet med de prædefinerede totaludtræk.
+27.08.2024: Der bliver fortsat arbejdet på at løse problemet.
 
 20.08.2024: Følgende prædefinerede filudtræk er ikke blevet leveret siden søndag den 11. august:
 
@@ -49,6 +47,8 @@ Der bliver fortsat arbejdet på at løse problemet med de prædefinerede totalud
 	MAT Totaludtraek Complete
 
 
+
+22.08.2024: Desværre er det ikke muligt at genstarte de berørte deltaudtræk. Derfor har vi lavet en guide til, hvordan du selv kan hente de manglende deltaudtræk. Se guide i dokumentationen https://confluence.sdfi.dk/x/OIGsCQ
 
 Følgende prædefinerede deltaudtræk er ikke blevet leveret den 15. og 16. august. Bemærk den manglende levering gælder kun disse to dage:
 
@@ -61,9 +61,7 @@ Følgende prædefinerede deltaudtræk er ikke blevet leveret den 15. og 16. augu
 	MAT_Totaludtraek_Hist_DeltaDaily_JSON_HF_20240815211749
 	MAT_Registerdata_Totaludtraek_Delta_Daily_JSON_20240815211732
 
-
-
-Der bliver arbejdet på at løse problemet.&#xD;
+&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
@@ -118,12 +116,14 @@ Sagsreference: 52691&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
-    <updated>2024-08-22T06:53:04Z</updated>
+    <updated>2024-08-27T10:42:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
+
+27.08.2024: Der bliver fortsat arbejdet på at løse problemet.
 
 Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
 
@@ -142,9 +142,7 @@ Hvis du som anvender oplever ikke at have modtaget et af de ovennævnte brugerde
 	Web: https://datafordeler.dk/support/kontakt/
 	Telefon: 33 34 89 77
 
-
-
-Der bliver arbejdet på at løse problemet.&#xD;
+&#xD;
 Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
