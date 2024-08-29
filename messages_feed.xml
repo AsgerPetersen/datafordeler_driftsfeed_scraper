@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-27T10:44:02Z</updated>
+  <updated>2024-08-29T05:53:26Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -86,6 +86,24 @@ Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 52654&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53041</id>
+    <title
+      type="text">De webbaserede tjenester er utilgængelige</title>
+    <updated>2024-08-29T05:53:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53041" />
+    <content
+      type="text">Besked: De webbaserede tjenester er utilgængelige
+
+29.08.2024 07:50: Man kan som anvender i øjeblikket opleve at de webbaserede tjenester er utilgængelige. Der arbejdes på at få løst problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 53041&#xD;
 </content>
   </entry>
   <entry>
