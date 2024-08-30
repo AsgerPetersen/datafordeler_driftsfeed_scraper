@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-08-27T10:44:02Z</updated>
+  <updated>2024-08-30T11:28:20Z</updated>
   <entry>
     <id>52161</id>
     <title
@@ -72,14 +72,14 @@ Sagsreference: 52842&#xD;
     <id>52654</id>
     <title
       type="text">Dataopdateringen er stoppet for DHM Højdekurver</title>
-    <updated>2024-08-23T10:09:07Z</updated>
+    <updated>2024-08-30T11:28:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52654" />
     <content
       type="text">Besked: Dataopdateringen er stoppet for DHM Højdekurver
 
-23.08.2024 klokken 12:00: Der arbejdets fortsat på at løse problemet 
+30.08.2024 klokken 13:30: Der arbejdets fortsat på at løse problemet 
 
 12.08.2024 klokken 10:30: Opdateringen af DHM Højdekurver er stoppet, hvilket forårsager, at de moderniserede DHM Højdekurver Fildownload ikke er tilgængelige. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
@@ -92,14 +92,14 @@ Sagsreference: 52654&#xD;
     <id>52691</id>
     <title
       type="text">Begrænset brug af specialtegn på adgangskoder til Fildownload og WFS på geoserver</title>
-    <updated>2024-08-23T10:06:00Z</updated>
+    <updated>2024-08-30T11:27:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52691" />
     <content
       type="text">Besked: Begrænset brug af specialtegn på tjenestebrugernes adgangskoder til Fildownload og WFS på geoserver
 
-23.08.2024 klokken 12:00: Der arbejdets fortsat på at løse problemet 
+30.08.2024 klokken 13:30: Der arbejdets fortsat på at løse problemet 
 
 13.08.2024 Klokken 14:45: Der er i øjeblikket kun adgang til Fildownload og WFS på geoserver for tjenestebrugere med adgangskoder, som gør brug af følgende specialtegn: -.$()*!'+_ 
 
