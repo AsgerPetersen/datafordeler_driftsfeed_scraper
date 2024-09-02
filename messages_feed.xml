@@ -8,24 +8,6 @@
   <id>serviceMessages</id>
   <updated>2024-09-02T11:37:25Z</updated>
   <entry>
-    <id>52161</id>
-    <title
-      type="text">Ejerfortegnelsen overgår til automatiserede månedlige datarettelser</title>
-    <updated>2024-07-30T10:36:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52161" />
-    <content
-      type="text">Besked: Ejerfortegnelsen overgår til automatiserede månedlige datarettelser
-
-Den 1. september vil Ejerfortegnelsen starte med at afvikle automatiserede månedlige datarettelser. Læs mere om de automatiske månedlige datarettelser i EJF i dokumentationen: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152005266&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 52161&#xD;
-</content>
-  </entry>
-  <entry>
     <id>52842</id>
     <title
       type="text">Prædefinerede filudtræk er ikke leveret</title>
@@ -71,30 +53,6 @@ Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 52654&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>52691</id>
-    <title
-      type="text">Begrænset brug af specialtegn på adgangskoder til Fildownload og WFS på geoserver</title>
-    <updated>2024-08-30T11:27:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52691" />
-    <content
-      type="text">Besked: Begrænset brug af specialtegn på tjenestebrugernes adgangskoder til Fildownload og WFS på geoserver
-
-30.08.2024 klokken 13:30: Der arbejdets fortsat på at løse problemet 
-
-13.08.2024 Klokken 14:45: Der er i øjeblikket kun adgang til Fildownload og WFS på geoserver for tjenestebrugere med adgangskoder, som gør brug af følgende specialtegn: -.$()*!'+_ 
-
-Bruger man andre specialtegn i tjenestebrugerens adgangskode, kan man opleve en fejl 401.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload&#xD;
-Status: I gang&#xD;
-Sagsreference: 52691&#xD;
 </content>
   </entry>
   <entry>
