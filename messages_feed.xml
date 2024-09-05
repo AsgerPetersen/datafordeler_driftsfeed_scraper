@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-05T10:39:39Z</updated>
+  <updated>2024-09-05T10:44:27Z</updated>
   <entry>
     <id>53229</id>
     <title
@@ -47,6 +47,28 @@ Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 52654&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53279</id>
+    <title
+      type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
+    <updated>2024-09-05T10:44:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53279" />
+    <content
+      type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+
+05.09.2024 klokken 12:45: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+
+Abonnerer du på filudtræk, kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtræk ligger klar på FTP.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk&#xD;
+Status: I gang&#xD;
+Sagsreference: 53279&#xD;
 </content>
   </entry>
   <entry>
