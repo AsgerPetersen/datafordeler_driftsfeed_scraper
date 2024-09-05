@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-04T14:16:22Z</updated>
+  <updated>2024-09-05T10:39:39Z</updated>
   <entry>
     <id>53229</id>
     <title
@@ -53,24 +53,20 @@ Sagsreference: 52654&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
-    <updated>2024-09-04T10:33:19Z</updated>
+    <updated>2024-09-05T10:39:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
 
-04.09.2024: Der bliver fortsat arbejdet på at løse problemet.
+05.09.2024: Der bliver fortsat arbejdet på at løse problemet.
 
 Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
 
 	Ejerfortegnelsen - EJFFortroligEjendomsadministratorMedStamopl_HF
-	Ejerfortegnelsen - EJFEjerskabsskifte_HF
-	Ejerfortegnelsen - EJFEjerskabMedStamopl_HF
 	GeoDanmark Vektor - GeoDanmark60bruger
 	Matriklen - MUTotalUdtraekFlad_HF
-	Matriklen - SamletFastEjendom (alle)
-	Matriklen - BestemtFastEjendom (alle)
 
 
 
