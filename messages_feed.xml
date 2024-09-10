@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-05T10:44:27Z</updated>
+  <updated>2024-09-10T10:08:09Z</updated>
   <entry>
     <id>53229</id>
     <title
       type="text">PROD servicevindue tirsdag den 10. september 2024 klokken 12:00 - 14:00</title>
-    <updated>2024-09-04T14:16:22Z</updated>
+    <updated>2024-09-10T10:03:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53229" />
@@ -23,7 +23,7 @@ Der er planlagt servicevindue på PROD tirsdag den 10. september 2024 klokken 12
 I perioden kan man som anvender af de webbaserede tjenester, opleve lidt længere svartider.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 53229&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -53,14 +53,14 @@ Sagsreference: 52654&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-09-05T10:44:27Z</updated>
+    <updated>2024-09-10T10:04:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
 
-05.09.2024 klokken 12:45: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+10.09.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
 
 Abonnerer du på filudtræk, kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtræk ligger klar på FTP.
 
@@ -75,27 +75,19 @@ Sagsreference: 53279&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
-    <updated>2024-09-05T10:39:39Z</updated>
+    <updated>2024-09-10T10:08:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
 
-05.09.2024: Der bliver fortsat arbejdet på at løse problemet.
+10.09.2024: Der bliver fortsat arbejdet på at løse problemet.
 
 Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
 
-	Ejerfortegnelsen - EJFFortroligEjendomsadministratorMedStamopl_HF
 	GeoDanmark Vektor - GeoDanmark60bruger
 	Matriklen - MUTotalUdtraekFlad_HF
-
-
-
-Hvis du som anvender oplever ikke at have modtaget et af de ovennævnte brugerdefinerede udtræk, som forventet, skal du rette henvendelse til Datafordeler supporten via:
-
-	Web: https://datafordeler.dk/support/kontakt/
-	Telefon: 33 34 89 77
 
 &#xD;
 Register: Alle&#xD;
