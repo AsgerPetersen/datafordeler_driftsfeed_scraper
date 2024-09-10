@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-10T10:08:09Z</updated>
+  <updated>2024-09-10T12:51:08Z</updated>
   <entry>
     <id>53229</id>
     <title
       type="text">PROD servicevindue tirsdag den 10. september 2024 klokken 12:00 - 14:00</title>
-    <updated>2024-09-10T10:03:47Z</updated>
+    <updated>2024-09-10T12:51:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53229" />
@@ -23,7 +23,7 @@ Der er planlagt servicevindue på PROD tirsdag den 10. september 2024 klokken 12
 I perioden kan man som anvender af de webbaserede tjenester, opleve lidt længere svartider.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 53229&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
