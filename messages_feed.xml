@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-23T11:10:46Z</updated>
+  <updated>2024-09-23T11:31:51Z</updated>
   <entry>
     <id>53620</id>
     <title
@@ -33,19 +33,21 @@ Sagsreference: 53620&#xD;
     <id>53619</id>
     <title
       type="text">Matriklen2 dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-09-23T09:07:42Z</updated>
+    <updated>2024-09-23T11:31:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53619" />
     <content
       type="text">Besked: Matriklen2 dataopdatering er stoppet i produktionsmiljøet.
 
+23.09.2024 klokken 13:30: Problemet er løst og en opbygget kø af dataopdateringer er i gang med at blive indlæst.
+
 23.09.2024 klokken 11:00: Den normale dataopdatering for Matriklen2 er i øjeblikket afbrudt i produktionsmiljøet. Sidste opdatering på data var 23.09.2024 klokken 10:24:43.
 
 Der bliver arbejdet på at få dataopdateringen tilbage i normal drift.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 53619&#xD;
 </content>
   </entry>
