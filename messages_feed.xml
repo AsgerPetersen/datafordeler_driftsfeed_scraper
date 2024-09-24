@@ -6,7 +6,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-23T11:31:51Z</updated>
+  <updated>2024-09-24T10:15:58Z</updated>
+  <entry>
+    <id>53660</id>
+    <title
+      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet.</title>
+    <updated>2024-09-24T10:15:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53660" />
+    <content
+      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet.
+
+24.09.2024 klokken 12:15: Den normale dataopdatering for Matriklen er i øjeblikket afbrudt i produktionsmiljøet. Sidste opdatering på data var 24.09.2024 klokken 10:54:50.
+
+Der bliver arbejdet på at få dataopdateringen tilbage i normal drift.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 53660&#xD;
+</content>
+  </entry>
   <entry>
     <id>53620</id>
     <title
@@ -55,14 +75,14 @@ Sagsreference: 53619&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-09-20T08:14:42Z</updated>
+    <updated>2024-09-24T10:11:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
 
-19.09.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+24.09.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
 
 Abonnerer du på filudtræk, kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtræk ligger klar på FTP.
 
@@ -77,14 +97,14 @@ Sagsreference: 53279&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
-    <updated>2024-09-20T08:14:51Z</updated>
+    <updated>2024-09-24T10:11:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
 
-19.09.2024: Der bliver fortsat arbejdet på at løse problemet.
+24.09.2024: Der bliver fortsat arbejdet på at løse problemet.
 
 Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
 
