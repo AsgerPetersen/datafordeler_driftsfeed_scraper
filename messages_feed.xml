@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-24T13:34:24Z</updated>
+  <updated>2024-09-25T10:46:24Z</updated>
   <entry>
     <id>53660</id>
     <title
@@ -49,6 +49,26 @@ Register: Alle&#xD;
 Service: Filudtræk&#xD;
 Status: I gang&#xD;
 Sagsreference: 53279&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53692</id>
+    <title
+      type="text">Fildownload kan fejle</title>
+    <updated>2024-09-25T10:46:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53692" />
+    <content
+      type="text">Besked: Fildownload kan fejle
+
+25.09.2024: Man kan i øjeblikket opleve, at fildownload fejler, mens filen er ved at blive hentet.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Fildownload&#xD;
+Status: I gang&#xD;
+Sagsreference: 53692&#xD;
 </content>
   </entry>
   <entry>
