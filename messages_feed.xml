@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-26T06:00:04Z</updated>
+  <updated>2024-09-26T10:50:08Z</updated>
   <entry>
     <id>53720</id>
     <title
@@ -54,15 +54,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>53709</id>
     <title
-      type="text">Delta Fildownload på Test06 er ikke tilgængelige</title>
-    <updated>2024-09-25T11:58:19Z</updated>
+      type="text">Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige</title>
+    <updated>2024-09-26T10:50:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53709" />
     <content
-      type="text">Besked: Delta Fildownload på Test06 er ikke tilgængelige
+      type="text">Besked: Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige
 
-25.09.2024: Delta Fildownload er i øjeblikket ikke tilgængelige på Test06. Seneste Totaludtræk er opdateret den 18. august.
+25.09.2024: Delta Fildownload (HTTPS) er i øjeblikket ikke tilgængelige på Test06. Seneste Totaludtræk er opdateret den 18. august.
 
 Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Alle&#xD;
