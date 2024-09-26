@@ -72,28 +72,6 @@ Sagsreference: 53709&#xD;
 </content>
   </entry>
   <entry>
-    <id>53660</id>
-    <title
-      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet.</title>
-    <updated>2024-09-24T13:34:24Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53660" />
-    <content
-      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet.
-
-24.09.2024 klokken 15:32: Problemet er løst og en opbygget kø af dataopdateringer er i gang med at blive indlæst.
-
-24.09.2024 klokken 12:15: Den normale dataopdatering for Matriklen er i øjeblikket afbrudt i produktionsmiljøet. Sidste opdatering på data var 24.09.2024 klokken 10:54:50.
-
-Der bliver arbejdet på at få dataopdateringen tilbage i normal drift.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 53660&#xD;
-</content>
-  </entry>
-  <entry>
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
