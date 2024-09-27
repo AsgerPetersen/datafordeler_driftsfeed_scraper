@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-09-26T10:50:08Z</updated>
+  <updated>2024-09-27T08:33:50Z</updated>
   <entry>
     <id>53720</id>
     <title
@@ -75,20 +75,20 @@ Sagsreference: 53709&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-09-24T10:11:17Z</updated>
+    <updated>2024-09-27T08:33:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
-      type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+      type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-24.09.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk
+24.09.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-Abonnerer du på filudtræk, kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtræk ligger klar på FTP.
+Abonnerer du på filudtræk (FTP), kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtrækket ligger klar.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
-Service: Filudtræk&#xD;
+Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 53279&#xD;
 </content>
@@ -96,19 +96,19 @@ Sagsreference: 53279&#xD;
   <entry>
     <id>53692</id>
     <title
-      type="text">Fildownload kan fejle</title>
-    <updated>2024-09-25T10:46:24Z</updated>
+      type="text">Fildownload (HTTPS) kan fejle</title>
+    <updated>2024-09-27T08:32:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53692" />
     <content
-      type="text">Besked: Fildownload kan fejle
+      type="text">Besked: Fildownload (HTTPS) kan fejle
 
-25.09.2024: Man kan i øjeblikket opleve, at fildownload fejler, mens filen er ved at blive hentet.
+25.09.2024: Man kan i øjeblikket opleve, at fildownload (HTTPS) fejler, mens filen er ved at blive hentet.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
-Service: Fildownload&#xD;
+Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 53692&#xD;
 </content>
@@ -116,24 +116,24 @@ Sagsreference: 53692&#xD;
   <entry>
     <id>52899</id>
     <title
-      type="text">Længere leveringstid på brugerdefinerede filudtræk</title>
-    <updated>2024-09-24T10:11:10Z</updated>
+      type="text">Længere leveringstid på brugerdefinerede filudtræk (FTP)</title>
+    <updated>2024-09-27T08:33:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
-      type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk
+      type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk (FTP)
 
 24.09.2024: Der bliver fortsat arbejdet på at løse problemet.
 
-Som anvender af følgende brugerdefinerede filudtræk kan man opleve længere leveringstid end normalt:
+Som anvender af følgende brugerdefinerede filudtræk (FTP) kan man opleve længere leveringstid end normalt:
 
 	GeoDanmark Vektor - GeoDanmark60bruger
 	Matriklen - MUTotalUdtraekFlad_HF
 
 &#xD;
 Register: Alle&#xD;
-Service: Filudtræk&#xD;
+Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 52899&#xD;
 </content>
