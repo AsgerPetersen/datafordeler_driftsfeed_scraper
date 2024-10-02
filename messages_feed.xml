@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-01T11:03:50Z</updated>
+  <updated>2024-10-02T10:59:34Z</updated>
   <entry>
     <id>53719</id>
     <title
@@ -95,21 +95,18 @@ Sagsreference: 53692&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk (FTP)</title>
-    <updated>2024-09-27T08:33:50Z</updated>
+    <updated>2024-10-02T10:59:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk (FTP)
 
-24.09.2024: Der bliver fortsat arbejdet på at løse problemet.
+02.10.2024: Workaround på GeoDanmark Vektor - GeoDanmark60bruger filudtræk (FTP):
 
-Som anvender af følgende brugerdefinerede filudtræk (FTP) kan man opleve længere leveringstid end normalt:
+Brug GeoDanmark Vektor - GeoDanmark60bruger_HF filudtræk (FTP)
 
-	GeoDanmark Vektor - GeoDanmark60bruger
-	Matriklen - MUTotalUdtraekFlad_HF
-
-&#xD;
+Matriklen - MUTotalUdtraekFlad_HF: Yderligere information følger.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
