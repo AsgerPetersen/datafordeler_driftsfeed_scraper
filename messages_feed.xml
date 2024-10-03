@@ -6,7 +6,51 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-02T10:59:34Z</updated>
+  <updated>2024-10-03T09:44:15Z</updated>
+  <entry>
+    <id>53881</id>
+    <title
+      type="text">Skærmkort opdatering</title>
+    <updated>2024-10-03T09:44:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53881" />
+    <content
+      type="text">Besked: Skærmkort opdatering
+
+03.10.2024: Skærmkortet bliver opdateret i uge 41&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 53881&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53880</id>
+    <title
+      type="text">Ejerfortegnelsen adviserer om datarettelser fredag den 25 oktober</title>
+    <updated>2024-10-03T09:42:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53880" />
+    <content
+      type="text">Besked: Ejerfortegnelsen adviserer om datarettelser fredag den 25 oktober
+
+Datarettelse: Opdatér CVR og CPR-nummer for historiske rækker, der ikke blev opdateret korrekt ifm. ID-skifte
+
+Denne datarettelse (LDK) retter datarækker, hvor der er blevet foretaget id-skifte, men som ikke har rettet CVR- eller CPR-nr på den historiske række, blot de gældende rækker.
+
+LDK’en berører under 100 ejerskaber.
+
+Der vil blive sendt UPDATE ejerskabs hændelser ud.
+Ændringerne vil også ses via REST og filudtræk(FTP).&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 53880&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
   <entry>
     <id>53719</id>
     <title
@@ -47,6 +91,24 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 53709&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53879</id>
+    <title
+      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-10-03T09:38:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53879" />
+    <content
+      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
+
+03.10.2024 klokken 11:45: Der bliver arbejdet på løse problemet. &#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 53879&#xD;
 </content>
   </entry>
   <entry>
