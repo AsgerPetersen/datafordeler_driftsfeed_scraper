@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-03T12:33:22Z</updated>
+  <updated>2024-10-03T12:53:55Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -179,14 +179,14 @@ Sagsreference: 52899&#xD;
     <id>53893</id>
     <title
       type="text">Afbrydelse i den normale dataopdatering for registrene MAT, EBR, BBR og EJF.</title>
-    <updated>2024-10-03T12:33:22Z</updated>
+    <updated>2024-10-03T12:53:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53893" />
     <content
       type="text">Besked: Afbrydelse i den normale dataopdatering for registrene MAT, EBR, BBR og EJF
 
-03.10.2024 klokken 14:30: Problemet er løst for MAT, EBR og EJF. Der arbejdes fortsat på, at få normaliseret dataopdateringen for BBR.
+03.10.2024 klokken 14:30: Problemet er løst for MAT, EBR og EJF. Der arbejdes fortsat på at få normaliseret dataopdateringen for BBR.
 
 03.10.2024 klokken 14:00: Der arbejdes på at løse problemet med at få normaliseret dataopdateringen for berørte registre.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
