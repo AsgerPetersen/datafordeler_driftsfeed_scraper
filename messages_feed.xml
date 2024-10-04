@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-04T05:23:09Z</updated>
+  <updated>2024-10-04T08:30:18Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -99,17 +99,19 @@ Sagsreference: 53709&#xD;
     <id>53879</id>
     <title
       type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-10-03T09:38:56Z</updated>
+    <updated>2024-10-04T08:30:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53879" />
     <content
       type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
 
+04.10.2024: Problemet er løst. CVR data opdateres normalt igen.
+
 03.10.2024 klokken 11:45: Der bliver arbejdet på løse problemet. &#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 53879&#xD;
 </content>
   </entry>
