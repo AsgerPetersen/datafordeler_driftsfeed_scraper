@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-04T10:01:20Z</updated>
+  <updated>2024-10-04T10:28:57Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -79,19 +79,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>53709</id>
     <title
       type="text">Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige</title>
-    <updated>2024-10-01T11:02:52Z</updated>
+    <updated>2024-10-04T10:28:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53709" />
     <content
       type="text">Besked: Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige
 
+04.10.2024: Delta og Total Fildownload (HTTPS) bliver igen genereret på Test06.
+
 01.10.2024: Delta Fildownload (HTTPS) er i øjeblikket ikke tilgængelige på Test06. Seneste Totaludtræk er opdateret den 18. august.
 
 Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 53709&#xD;
 </content>
   </entry>
