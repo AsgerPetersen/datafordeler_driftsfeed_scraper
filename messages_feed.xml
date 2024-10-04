@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-03T13:12:16Z</updated>
+  <updated>2024-10-04T05:23:09Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -55,19 +55,21 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>53719</id>
     <title
       type="text">PROD servicevindue torsdag den 3. oktober 2024 klokken 17:00 - 20:00</title>
-    <updated>2024-09-26T06:00:04Z</updated>
+    <updated>2024-10-04T05:23:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53719" />
     <content
       type="text">Besked: PROD servicevindue torsdag den 3. oktober 2024 klokken 17:00 - 20:00
 
+04.10.2024: Servicevindue er gennemført.
+
 Der er planlagt servicevindue på PROD torsdag den 3. oktober 2024 klokken 17:00 – 20:00.
 
 Under servicevinduet kan man som anvender opleve periodevis utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
 Register: Alle&#xD;
-Service: Webservice, Filudtræk, Hændelser, Dataopdatering, Fildownload&#xD;
-Status: Planlagt&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 53719&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
