@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-04T08:30:18Z</updated>
+  <updated>2024-10-04T10:01:20Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -93,6 +93,26 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 53709&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>54007</id>
+    <title
+      type="text">Afbrydelse i den normale dataopdatering for Matriklen 2</title>
+    <updated>2024-10-04T10:01:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/54007" />
+    <content
+      type="text">Besked: Afbrydelse i den normale dataopdatering for Matriklen 2
+
+04.10.2024 klokken 12:00: Der arbejdes på at løse problemet med at få normaliseret dataopdateringen. Seneste dataopdatering var 04/10/2024 klokken 11:12.
+
+ &#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 54007&#xD;
 </content>
   </entry>
   <entry>
