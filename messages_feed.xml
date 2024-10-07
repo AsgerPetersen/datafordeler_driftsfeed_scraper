@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-04T13:29:22Z</updated>
+  <updated>2024-10-03T09:44:15Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -49,94 +49,6 @@ Status: Planlagt&#xD;
 Sagsreference: 53880&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>53719</id>
-    <title
-      type="text">PROD servicevindue torsdag den 3. oktober 2024 klokken 17:00 - 20:00</title>
-    <updated>2024-10-04T05:23:09Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53719" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 3. oktober 2024 klokken 17:00 - 20:00
-
-04.10.2024: Servicevindue er gennemført.
-
-Der er planlagt servicevindue på PROD torsdag den 3. oktober 2024 klokken 17:00 – 20:00.
-
-Under servicevinduet kan man som anvender opleve periodevis utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 53719&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>53709</id>
-    <title
-      type="text">Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige</title>
-    <updated>2024-10-04T10:28:57Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53709" />
-    <content
-      type="text">Besked: Delta Fildownload (HTTPS) på Test06 er ikke tilgængelige
-
-04.10.2024: Delta og Total Fildownload (HTTPS) bliver igen genereret på Test06.
-
-01.10.2024: Delta Fildownload (HTTPS) er i øjeblikket ikke tilgængelige på Test06. Seneste Totaludtræk er opdateret den 18. august.
-
-Der bliver arbejdet på at løse fejlen.&#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 53709&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54007</id>
-    <title
-      type="text">Afbrydelse i den normale dataopdatering for Matriklen 2</title>
-    <updated>2024-10-04T13:29:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54007" />
-    <content
-      type="text">Besked: Afbrydelse i den normale dataopdatering for Matriklen 2
-
-04.10.2024 klokken 15:30: Problemet er løst og en opbygget kø af dataopdateringer er blevet indlæst. Dermed er dataopdateringen tilbage i normal drift.
-
-04.10.2024 klokken 12:00: Der arbejdes på at løse problemet og få normaliseret dataopdateringen. Seneste dataopdatering var 04/10/2024 klokken 11:12.
-
- &#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 54007&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>53879</id>
-    <title
-      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-10-04T08:30:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53879" />
-    <content
-      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
-
-04.10.2024: Problemet er løst. CVR data opdateres normalt igen.
-
-03.10.2024 klokken 11:45: Der bliver arbejdet på løse problemet. &#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 53879&#xD;
 </content>
   </entry>
   <entry>
@@ -201,28 +113,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 52899&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>53893</id>
-    <title
-      type="text">Afbrydelse i den normale dataopdatering for registrene MAT, EBR, BBR og EJF.</title>
-    <updated>2024-10-03T13:12:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53893" />
-    <content
-      type="text">Besked: Afbrydelse i den normale dataopdatering for registrene MAT, EBR, BBR og EJF
-
-03.10.2024 klokken 15:15: Problemet er løst for BBR. Der er igen normal dataopdatering for MAT, EBR, BBR og EJF.
-
-03.10.2024 klokken 14:30: Problemet er løst for MAT, EBR og EJF. Der arbejdes fortsat på at få normaliseret dataopdateringen for BBR.
-
-03.10.2024 klokken 14:00: Der arbejdes på at løse problemet med at få normaliseret dataopdateringen for berørte registre.&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 53893&#xD;
 </content>
   </entry>
 </feed>
