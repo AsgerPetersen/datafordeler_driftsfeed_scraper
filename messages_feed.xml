@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-03T09:44:15Z</updated>
+  <updated>2024-10-09T10:36:10Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -55,14 +55,14 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-10-01T11:03:50Z</updated>
+    <updated>2024-10-09T10:36:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-01.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
+09.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
 Abonnerer du på filudtræk (FTP), kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtrækket ligger klar.
 
@@ -77,14 +77,14 @@ Sagsreference: 53279&#xD;
     <id>53692</id>
     <title
       type="text">Fildownload (HTTPS) kan fejle</title>
-    <updated>2024-10-01T11:03:13Z</updated>
+    <updated>2024-10-09T10:35:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53692" />
     <content
       type="text">Besked: Fildownload (HTTPS) kan fejle
 
-01.10.2024: Man kan i øjeblikket opleve, at fildownload (HTTPS) fejler, mens filen er ved at blive hentet.
+09.10.2024: Man kan i øjeblikket opleve, at fildownload (HTTPS) fejler, mens filen er ved at blive hentet.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
