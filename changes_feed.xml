@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-08-26T14:00:49Z</updated>
+  <updated>2024-10-09T08:19:28Z</updated>
   <entry>
     <id>47739</id>
     <title
@@ -47,7 +47,7 @@ Tidsangivelse: December 2024&#xD;
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2024</title>
-    <updated>2024-04-22T08:02:19Z</updated>
+    <updated>2024-10-09T08:19:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
@@ -62,11 +62,11 @@ Der bliver mulighed for at teste de ændrede CPR tjenester i to måneder i testm
 
 Det er allerede nu muligt at læse om de planlagte ændringer i CPR tjenesterne på siden Kommende ændringer (CPR) 2024 - Dokumentation - Dokumentation (sdfi.dk)
 
-Der er en pt. en igangværende intern test af de kommende CPR tjenester på Test03.
+Der er en p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
 
 Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
 
-SDFI opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
+KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice, Hændelser&#xD;
 Status: Forventet&#xD;
