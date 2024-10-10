@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-09T10:36:10Z</updated>
+  <updated>2024-10-10T10:37:02Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -77,19 +77,21 @@ Sagsreference: 53279&#xD;
     <id>53692</id>
     <title
       type="text">Fildownload (HTTPS) kan fejle</title>
-    <updated>2024-10-09T10:35:58Z</updated>
+    <updated>2024-10-10T10:37:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53692" />
     <content
       type="text">Besked: Fildownload (HTTPS) kan fejle
 
+10.10.2024: Problemet er løst.
+
 09.10.2024: Man kan i øjeblikket opleve, at fildownload (HTTPS) fejler, mens filen er ved at blive hentet.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 53692&#xD;
 </content>
   </entry>
