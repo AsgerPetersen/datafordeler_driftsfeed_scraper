@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-10T10:37:02Z</updated>
+  <updated>2024-10-10T10:42:34Z</updated>
   <entry>
     <id>53881</id>
     <title
@@ -99,21 +99,19 @@ Sagsreference: 53692&#xD;
     <id>52899</id>
     <title
       type="text">Længere leveringstid på brugerdefinerede filudtræk (FTP)</title>
-    <updated>2024-10-02T10:59:34Z</updated>
+    <updated>2024-10-10T10:42:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/52899" />
     <content
       type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk (FTP)
 
-02.10.2024: Workaround på GeoDanmark Vektor - GeoDanmark60bruger filudtræk (FTP):
+10.10.2024: Workaround på GeoDanmark Vektor - GeoDanmark60bruger filudtræk (FTP):
 
-Brug GeoDanmark Vektor - GeoDanmark60bruger_HF filudtræk (FTP)
-
-Matriklen - MUTotalUdtraekFlad_HF: Yderligere information følger.&#xD;
+Brug GeoDanmark Vektor - GeoDanmark60bruger_HF filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 52899&#xD;
 </content>
   </entry>
