@@ -6,41 +6,36 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-10-09T08:19:28Z</updated>
+  <updated>2024-10-10T07:18:06Z</updated>
   <entry>
-    <id>47739</id>
+    <id>54178</id>
     <title
-      type="text">Forlængelse af paralleldrift mellem Matriklen og Matriklen2</title>
-    <updated>2024-08-26T14:00:49Z</updated>
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024</title>
+    <updated>2024-10-10T07:18:06Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/47739" />
+      href="https://datafordeler.dk/drift/aendringer/54178" />
     <content
-      type="text">Besked: Forlængelse af paralleldrift mellem Matriklen og Matriklen2
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører
 
-Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil december 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt.
+Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024, hvor den første version af Matriklen lukker i produktionsmiljøet.
 
-Fejl på den tidligere version af Matriklen bliver ikke rettet.
+Den første version af Matriklen lukker i Datafordelerens testmiljøer den 11. november 2024.
 
-Der er nogle kendte fejl på Matriklen 2, som forventes løst snarest. Se de kendte fejl pr. 26. august 2024 nedenfor (listen kan blive opdateret):
+Der er nogle kendte fejl på Matriklen 2, som forventes løst minimum en måned før nedlukningen. De kendte fejl vedrører udelukkende filudtræk med geometri:
 
 	Jordstykke er MultiPolygon i Matriklen2
-Uddybning: Geometri for Jordstykke skal være polygon. Fejlen er bekræftet og undersøges.
 	Foreløbige objekter udtrækkes, selvom kun gældende er bestilt i for eksempel tjenesten MATkortdataGaeldendeDKComplete
-Uddybning: Undersøges.
 
 
 
-Umiddelbart efter paralleldriftsperioden slutter, vil de eksisterende tjenester blive lukket ned. Læs mere om snitfladerne og datamodelændringen i nedenstående dokumentation.
+Læs mere om ændringen af Matriklen2: https://confluence.sdfi.dk/x/sYDoB
 
-Der kan læses mere om ændringen af Matriklen2 på følgende link: https://confluence.sdfi.dk/x/sYDoB 
-
-Læs mere om Matriklen2 her: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Læs mere om Matriklen2: https://confluence.sdfi.dk/x/LQAGBg&#xD;
 Register: Matriklen (MAT)&#xD;
-Service: Webservice, Filudtræk, Hændelser&#xD;
 Status: Planlagt&#xD;
-Sagsreference: 47739&#xD;
-Tidsangivelse: December 2024&#xD;
+Sagsreference: 54178&#xD;
+Tidsangivelse: 10. december 2024&#xD;
 </content>
   </entry>
   <entry>
