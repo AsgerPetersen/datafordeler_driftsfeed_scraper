@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-10-10T07:18:06Z</updated>
+  <updated>2024-10-11T11:16:00Z</updated>
   <entry>
     <id>54178</id>
     <title
@@ -41,23 +41,23 @@ Tidsangivelse: 10. december 2024&#xD;
   <entry>
     <id>26622</id>
     <title
-      type="text">Ændringer til CPR’s tjenester i 2024</title>
-    <updated>2024-10-09T08:19:28Z</updated>
+      type="text">Ændringer til CPR’s tjenester i 2025</title>
+    <updated>2024-10-11T11:16:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
     <content
-      type="text">Besked: Ændringer til CPR’s tjenester i 2024
+      type="text">Besked: Ændringer til CPR’s tjenester i 2025
 
-CPR’s tjenester på Datafordeleren bliver ændret i 2024, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
+CPR’s tjenester på Datafordeleren bliver ændret i 2025, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
 
-De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af efteråret 2024, og at paralleldriften kører herefter i seks måneder. 
+De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af 2. kvartal 2025. Der vil være paralleldrift i minimum seks måneder. 
 
-Der bliver mulighed for at teste de ændrede CPR tjenester i to måneder i testmiljø før release.
+Der bliver mulighed for at teste de ændrede CPR tjenester senest to måneder i testmiljø før release.
 
-Det er allerede nu muligt at læse om de planlagte ændringer i CPR tjenesterne på siden Kommende ændringer (CPR) 2024 - Dokumentation - Dokumentation (sdfi.dk)
+Læs mere om de planlagte ændringer i CPR tjenesterne. 
 
-Der er en p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
+Der er p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
 
 Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
 
