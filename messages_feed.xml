@@ -6,35 +6,37 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-10T10:42:34Z</updated>
+  <updated>2024-10-11T08:25:22Z</updated>
   <entry>
     <id>53881</id>
     <title
       type="text">Skærmkort opdatering</title>
-    <updated>2024-10-03T09:44:15Z</updated>
+    <updated>2024-10-11T08:24:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53881" />
     <content
       type="text">Besked: Skærmkort opdatering
 
+11.10.2024: Skærmkort opdatering er gennemført
+
 03.10.2024: Skærmkortet bliver opdateret i uge 41&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 53881&#xD;
 </content>
   </entry>
   <entry>
     <id>53880</id>
     <title
-      type="text">Ejerfortegnelsen adviserer om datarettelser fredag den 25 oktober</title>
-    <updated>2024-10-03T09:42:11Z</updated>
+      type="text">Ejerfortegnelsen adviserer om datarettelser fredag den 25. oktober</title>
+    <updated>2024-10-11T08:25:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53880" />
     <content
-      type="text">Besked: Ejerfortegnelsen adviserer om datarettelser fredag den 25 oktober
+      type="text">Besked: Ejerfortegnelsen adviserer om datarettelser fredag den 25. oktober
 
 Datarettelse: Opdatér CVR og CPR-nummer for historiske rækker, der ikke blev opdateret korrekt ifm. ID-skifte
 
@@ -93,26 +95,6 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Løst&#xD;
 Sagsreference: 53692&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>52899</id>
-    <title
-      type="text">Længere leveringstid på brugerdefinerede filudtræk (FTP)</title>
-    <updated>2024-10-10T10:42:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/52899" />
-    <content
-      type="text">Besked: Længere leveringstid på brugerdefinerede filudtræk (FTP)
-
-10.10.2024: Workaround på GeoDanmark Vektor - GeoDanmark60bruger filudtræk (FTP):
-
-Brug GeoDanmark Vektor - GeoDanmark60bruger_HF filudtræk (FTP).&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Løst&#xD;
-Sagsreference: 52899&#xD;
 </content>
   </entry>
 </feed>
