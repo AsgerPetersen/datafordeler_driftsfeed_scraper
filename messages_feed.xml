@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-14T07:41:24Z</updated>
+  <updated>2024-10-15T13:04:13Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -55,6 +55,28 @@ Status: Planlagt&#xD;
 Sagsreference: 53880&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>53694</id>
+    <title
+      type="text">PROD servicevindue lørdag den 19. oktober 2024 klokken 14:00 - 16:00</title>
+    <updated>2024-10-15T13:04:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/53694" />
+    <content
+      type="text">Besked: PROD servicevindue lørdag den 19. oktober 2024 klokken 14:00 - 16:00
+
+Der er planlagt servicevindue på PROD tirsdag den 19. oktober 2024 klokken 14:00 – 16:00.
+
+I perioden kan man opleve nedetid på følgende tjenester: FTP/SFTP, fildownload, filudtræk og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 53694&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
