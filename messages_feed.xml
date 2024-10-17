@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-17T08:04:38Z</updated>
+  <updated>2024-10-17T10:20:09Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -83,7 +83,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54339</id>
     <title
       type="text">Login med webbruger fejler på datafordeler.dk</title>
-    <updated>2024-10-17T08:04:38Z</updated>
+    <updated>2024-10-17T10:20:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54339" />
@@ -95,7 +95,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 17.10.2024 Klokken 09:45: Der kommer en fejlbesked med "Sessionen er udløbet" på datafordeler.dk, hvis man logger på med webbruger og vil starte forløb med at hente Fildownload (HTTPS) eller oprette abonnement på Filudtræk (FTP). Brug i stedet https://selfservice.datafordeler.dk for at oprette eller administrere abonnementer på Filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 54339&#xD;
 </content>
   </entry>
