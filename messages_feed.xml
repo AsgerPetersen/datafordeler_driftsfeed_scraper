@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-21T06:44:12Z</updated>
+  <updated>2024-10-21T10:37:27Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -55,28 +55,6 @@ Status: Planlagt&#xD;
 Sagsreference: 53880&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>53694</id>
-    <title
-      type="text">PROD servicevindue lørdag den 19. oktober 2024 klokken 14:00 - 16:00</title>
-    <updated>2024-10-21T06:44:12Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/53694" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 19. oktober 2024 klokken 14:00 - 16:00
-
-Der er planlagt servicevindue på PROD lørdag den 19. oktober 2024 klokken 14:00 – 16:00.
-
-I perioden kan man opleve nedetid på følgende tjenester: FTP/SFTP, fildownload, filudtræk og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 53694&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -146,37 +124,17 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>54339</id>
-    <title
-      type="text">Login med webbruger fejler på datafordeler.dk</title>
-    <updated>2024-10-17T10:20:09Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54339" />
-    <content
-      type="text">Besked: Login med webbruger fejler på datafordeler.dk
-
-17.10.2024 Klokken 10:00: Problemet er fundet og løst. Det er igen muligt at hente Fildownload (HTTPS) og oprette abonnement på Filudtræk (FTP) via datafordeler.dk.
-
-17.10.2024 Klokken 09:45: Der kommer en fejlbesked med "Sessionen er udløbet" på datafordeler.dk, hvis man logger på med webbruger og vil starte forløb med at hente Fildownload (HTTPS) eller oprette abonnement på Filudtræk (FTP). Brug i stedet https://selfservice.datafordeler.dk for at oprette eller administrere abonnementer på Filudtræk (FTP).&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 54339&#xD;
-</content>
-  </entry>
-  <entry>
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-10-16T10:08:50Z</updated>
+    <updated>2024-10-21T10:37:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-16.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
+21.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
 Abonnerer du på filudtræk (FTP), kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtrækket ligger klar.
 
