@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-21T10:37:27Z</updated>
+  <updated>2024-10-22T06:20:30Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -61,7 +61,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>54354</id>
     <title
       type="text">Test03 servicevindue den 21. oktober 2024 klokken 12:00 - 16:00</title>
-    <updated>2024-10-18T07:59:56Z</updated>
+    <updated>2024-10-22T06:20:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54354" />
@@ -73,7 +73,7 @@ Der er planlagt servicevindue på Test03 mandag den 21. oktober 2024 i tidsrumme
 Under servicevinduet vil man som anvender kortvarigt kunne opleve utilgængelighed på alle tjenester, selvbetjeningsportalen og afbrydelse i dataopdateringen.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 54354&#xD;
 Periode start: 10/21/2024 10:00:00 AM&#xD;
 Periode slut: 10/21/2024 2:00:00 PM&#xD;
