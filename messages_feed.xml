@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-21T10:37:27Z</updated>
+  <updated>2024-10-24T10:14:42Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -61,7 +61,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>54360</id>
     <title
       type="text">Test06 servicevindue den 24. oktober 2024 klokken 12:00 - 16:00</title>
-    <updated>2024-10-18T08:07:11Z</updated>
+    <updated>2024-10-24T10:14:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54360" />
@@ -73,7 +73,7 @@ Der er planlagt servicevindue på Test06 torsdag den 24. oktober 2024 i tidsrumm
 Under servicevinduet vil man som anvender kortvarigt kunne opleve utilgængelighed på alle tjenester, selvbetjeningsportalen og afbrydelse i dataopdateringen.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 54360&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -105,14 +105,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-10-21T10:37:27Z</updated>
+    <updated>2024-10-24T10:14:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-21.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
+24.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
 Abonnerer du på filudtræk (FTP), kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtrækket ligger klar.
 
