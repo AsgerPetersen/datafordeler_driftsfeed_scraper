@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-29T06:08:40Z</updated>
+  <updated>2024-10-29T08:50:40Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -35,7 +35,7 @@ Sagsreference: 54175&#xD;
     <id>53880</id>
     <title
       type="text">Ejerfortegnelsen adviserer om datarettelser fredag den 25. oktober</title>
-    <updated>2024-10-25T08:38:11Z</updated>
+    <updated>2024-10-29T08:50:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53880" />
@@ -51,7 +51,7 @@ LDK’en berører under 100 ejerskaber.
 Der vil blive sendt UPDATE ejerskabs hændelser ud.
 Ændringerne vil også ses via REST og filudtræk(FTP).&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 53880&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
