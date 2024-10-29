@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-28T11:39:33Z</updated>
+  <updated>2024-10-29T06:08:40Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -83,7 +83,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54361</id>
     <title
       type="text">Test04 servicevindue den 28. oktober 2024 klokken 12:00 - 16:00</title>
-    <updated>2024-10-28T11:39:33Z</updated>
+    <updated>2024-10-29T06:08:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54361" />
@@ -95,7 +95,7 @@ Der er planlagt servicevindue på Test04 mandag den 28. oktober 2024 i tidsrumme
 Under servicevinduet vil man som anvender kortvarigt kunne opleve utilgængelighed på alle tjenester, selvbetjeningsportalen og afbrydelse i dataopdateringen.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 54361&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
