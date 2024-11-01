@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-10-31T15:42:42Z</updated>
+  <updated>2024-11-01T10:45:29Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -49,6 +49,43 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 54321&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>54322</id>
+    <title
+      type="text">PROD servicevindue lørdag den 16. november 2024 klokken 14:00 - 16:00</title>
+    <updated>2024-11-01T10:45:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/54322" />
+    <content
+      type="text">Besked: PROD servicevindue lørdag den 16. november 2024 klokken 14:00 - 16:00
+
+Der er planlagt servicevindue på PROD lørdag den 16. november 2024 klokken 14:00 – 16:00.
+
+Under servicevinduet kan man som anvender opleve utilgængelighed af følgende tjenester:
+
+
+	Fildownload (HTTPS)
+
+
+
+
+	Filudtræk (FTP)
+
+
+
+
+	Dataopdatering
+
+&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 54322&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
