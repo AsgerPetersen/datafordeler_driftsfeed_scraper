@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-01T10:45:29Z</updated>
+  <updated>2024-11-01T10:57:39Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -116,7 +116,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54617</id>
     <title
       type="text">Fildownload (HTTPS) fejler i TEST03</title>
-    <updated>2024-10-31T15:42:42Z</updated>
+    <updated>2024-11-01T10:57:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54617" />
@@ -132,28 +132,6 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Løst&#xD;
 Sagsreference: 54617&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54618</id>
-    <title
-      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-10-31T08:08:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54618" />
-    <content
-      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet
-
-31.10.2024 klokken 09:00: Problemet er løst. Matriklen dataopdatering er tilbage i normalt drift.
-
-30.10.2024 klokken 15:50: Matriklen dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 30.10.2024 klokken 14:36:46.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 54618&#xD;
 </content>
   </entry>
   <entry>
