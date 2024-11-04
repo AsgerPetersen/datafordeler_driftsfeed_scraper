@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-01T10:45:29Z</updated>
+  <updated>2024-11-04T11:38:53Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -116,14 +116,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>53279</id>
     <title
       type="text">Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk</title>
-    <updated>2024-10-29T11:06:43Z</updated>
+    <updated>2024-11-04T11:38:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/53279" />
     <content
       type="text">Besked: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
-29.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
+04.10.2024 klokken 12:00: Uregelmæssig levering af kvitteringsmail til abonnementer på filudtræk (FTP)
 
 Abonnerer du på filudtræk (FTP), kan du opleve, at du ikke modtager kvitteringsmail med besked om, at filudtrækket ligger klar.
 
