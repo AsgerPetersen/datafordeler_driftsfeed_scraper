@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-01T10:57:39Z</updated>
+  <updated>2024-11-01T10:45:29Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -110,28 +110,6 @@ Status: Planlagt&#xD;
 Sagsreference: 54426&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54617</id>
-    <title
-      type="text">Fildownload (HTTPS) fejler i TEST03</title>
-    <updated>2024-11-01T10:57:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54617" />
-    <content
-      type="text">Besked: Fildownload (HTTPS) fejler i TEST03
-
-31.10.2024: Fejlen er løst og man kan igen hente filer.
-
-30.10.2024: Der er i øjeblikket problemer med fildownload (HTTPS) på TEST03, hvor man får en fejl 500.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 54617&#xD;
 </content>
   </entry>
   <entry>
