@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-07T11:39:11Z</updated>
+  <updated>2024-11-08T06:12:45Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -94,7 +94,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54426</id>
     <title
       type="text">PROD servicevindue den 7. november 2024 klokken 17:00 - 21:00</title>
-    <updated>2024-11-07T11:39:11Z</updated>
+    <updated>2024-11-08T06:12:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54426" />
@@ -106,7 +106,7 @@ Der er planlagt servicevindue på PROD torsdag den 7. november 2024 i tidsrummet
 Under servicevinduet vil man som anvender kortvarigt kunne opleve utilgængelighed på alle tjenester, selvbetjeningsportalen og afbrydelse i dataopdateringen.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 54426&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
