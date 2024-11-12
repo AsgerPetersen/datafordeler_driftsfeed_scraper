@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-12T06:32:30Z</updated>
+  <updated>2024-11-11T11:59:35Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -108,30 +108,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 54322&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54863</id>
-    <title
-      type="text">Test03 og Test06 servicevindue mandag den 11. november 2024 klokken 14:00 - 15:00</title>
-    <updated>2024-11-12T06:32:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54863" />
-    <content
-      type="text">Besked: Test03 og Test06 servicevindue mandag den 11. november 2024 klokken 14:00 - 15:00
-
-Der er planlagt servicevindue på Test03 og Test06 mandag den 11. november 2024 klokken 14:00 – 15:00.
-
-Under servicevinduet vil man som anvender opleve utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.
-
-Efter servicevinduet er det ikke længere muligt at tilgå den første version af Matriklen i testmiljøerne.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 54863&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
