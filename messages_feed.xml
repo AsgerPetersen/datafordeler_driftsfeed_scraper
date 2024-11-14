@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-11T11:59:35Z</updated>
+  <updated>2024-11-14T11:54:05Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -51,28 +51,6 @@ Status: Planlagt&#xD;
 Sagsreference: 54838&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54321</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 13. november 2024 klokken 17:00 - 02:00</title>
-    <updated>2024-10-29T11:05:29Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54321" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 13. november 2024 klokken 17:00 - 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 13. november 2024 klokken 17:00 – 02:00.
-
-Under servicevinduet vil man som anvender opleve utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 54321&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -179,6 +157,26 @@ Status: Planlagt&#xD;
 Sagsreference: 54820&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55043</id>
+    <title
+      type="text">CPR's dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november</title>
+    <updated>2024-11-14T11:54:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55043" />
+    <content
+      type="text">Besked: CPR's dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november
+
+14.11.2024: CPR dataopdatering og hændelser bliver leveret med næste dataopdatering fredag den 15. november.
+
+Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november i tidsrummet klokken 01:00-03:00. Dette har også medført, at CPR hændelser ikke blev udsendt torsdag den 14. november. Seneste CPR dataopdatering og udsendelse af hændelser var onsdag den 13. november.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Hændelser, Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 55043&#xD;
 </content>
   </entry>
 </feed>
