@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-14T11:54:05Z</updated>
+  <updated>2024-11-15T14:37:12Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -94,7 +94,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54919</id>
     <title
       type="text">Servicevindue for geodata på Datafordeleren torsdag den 21. og fredag den 22. november 2024</title>
-    <updated>2024-11-11T11:57:36Z</updated>
+    <updated>2024-11-15T14:37:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54919" />
@@ -116,7 +116,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>54920</id>
     <title
       type="text">Servicevindue for geodata på TEST06 og TEST03 torsdag den 14. november 2024</title>
-    <updated>2024-11-11T11:59:35Z</updated>
+    <updated>2024-11-15T14:37:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54920" />
@@ -128,7 +128,7 @@ Det er planlagt servicevindue på TEST06 for geodata fra torsdag den 14. novembe
 I perioden vil geodata ikke blive opdateret på de to TEST-miljøer.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 54920&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
