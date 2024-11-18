@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-15T14:37:12Z</updated>
+  <updated>2024-11-18T13:07:25Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -113,28 +113,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>54920</id>
-    <title
-      type="text">Servicevindue for geodata på TEST06 og TEST03 torsdag den 14. november 2024</title>
-    <updated>2024-11-15T14:37:12Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54920" />
-    <content
-      type="text">Besked: Servicevindue for geodata på TEST06 og TEST03 torsdag den 14. november 2024
-
-Det er planlagt servicevindue på TEST06 for geodata fra torsdag den 14. november klokken 9:00 til klokken 12:00 og på TEST03 for geodata fra torsdag den 14. november klokken 12:00 til klokken 16:00.
-
-I perioden vil geodata ikke blive opdateret på de to TEST-miljøer.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 54920&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>54820</id>
     <title
       type="text">PROD servicevindue onsdag den 20. november 2024 klokken 17.00 –  21.00</title>
@@ -160,23 +138,23 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>55043</id>
+    <id>55206</id>
     <title
-      type="text">CPR's dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november</title>
-    <updated>2024-11-14T11:54:05Z</updated>
+      type="text">Dokumentation for Datafordeleren er ikke tilgængelig</title>
+    <updated>2024-11-18T13:07:25Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55043" />
+      href="https://datafordeler.dk/drift/meddelelser/55206" />
     <content
-      type="text">Besked: CPR's dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november
+      type="text">Besked: Dokumentation for Datafordeleren er ikke tilgængelig
 
-14.11.2024: CPR dataopdatering og hændelser bliver leveret med næste dataopdatering fredag den 15. november.
+18.11.2024 klokken 14:00: Problemet er løst, og Dokumentation for Datafordeleren er igen tilgængelig. Meddelelser om drift bliver igen opdateret.
 
-Den normale CPR dataopdatering blev ikke indlæst som planlagt natten til torsdag den 14. november i tidsrummet klokken 01:00-03:00. Dette har også medført, at CPR hændelser ikke blev udsendt torsdag den 14. november. Seneste CPR dataopdatering og udsendelse af hændelser var onsdag den 13. november.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
+18.11.2024 klokken 10:00: Dokumentation for Datafordeleren er lige nu ikke tilgængelig. Meddelelser om drift på datafordeler.dk bliver heller ikke opdateret. Vi arbejder på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
 Status: Løst&#xD;
-Sagsreference: 55043&#xD;
+Sagsreference: 55206&#xD;
 </content>
   </entry>
 </feed>
