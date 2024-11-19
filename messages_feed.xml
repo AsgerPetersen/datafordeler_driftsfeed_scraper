@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-15T14:37:08Z</updated>
+  <updated>2024-11-19T12:46:15Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -98,6 +98,30 @@ Status: Planlagt&#xD;
 Sagsreference: 54820&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55329</id>
+    <title
+      type="text">Test04 MitID login og webtjenestekald med certifikat fejler på miljøet</title>
+    <updated>2024-11-19T12:46:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55329" />
+    <content
+      type="text">Besked: Test04 MitID login og webtjenestekald med certifikat fejler på miljøet
+
+19.11.2024, klokken 13:45: Webservicekald med certifikat virker igen på Test04.
+
+ 
+
+Webservicekald med certifikat og login til Selvbetjeningen med MitID fejler i øjeblikket på Test04.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening&#xD;
+Status: I gang&#xD;
+Sagsreference: 55329&#xD;
 </content>
   </entry>
 </feed>
