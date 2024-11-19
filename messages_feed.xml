@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-18T13:07:25Z</updated>
+  <updated>2024-11-19T07:22:07Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -57,7 +57,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>54322</id>
     <title
       type="text">PROD servicevindue lørdag den 16. november 2024 klokken 14:00 - 16:00</title>
-    <updated>2024-11-01T10:45:29Z</updated>
+    <updated>2024-11-19T07:22:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54322" />
@@ -84,7 +84,7 @@ Under servicevinduet kan man som anvender opleve utilgængelighed af følgende t
 &#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 54322&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
