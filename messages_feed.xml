@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-19T07:22:07Z</updated>
+  <updated>2024-11-15T14:37:08Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -54,43 +54,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>54322</id>
-    <title
-      type="text">PROD servicevindue lørdag den 16. november 2024 klokken 14:00 - 16:00</title>
-    <updated>2024-11-19T07:22:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54322" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 16. november 2024 klokken 14:00 - 16:00
-
-Der er planlagt servicevindue på PROD lørdag den 16. november 2024 klokken 14:00 – 16:00.
-
-Under servicevinduet kan man som anvender opleve utilgængelighed af følgende tjenester:
-
-
-	Fildownload (HTTPS)
-
-
-
-
-	Filudtræk (FTP)
-
-
-
-
-	Dataopdatering
-
-&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 54322&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>54919</id>
     <title
       type="text">Servicevindue for geodata på Datafordeleren torsdag den 21. og fredag den 22. november 2024</title>
@@ -135,26 +98,6 @@ Status: Planlagt&#xD;
 Sagsreference: 54820&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>55206</id>
-    <title
-      type="text">Dokumentation for Datafordeleren er ikke tilgængelig</title>
-    <updated>2024-11-18T13:07:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55206" />
-    <content
-      type="text">Besked: Dokumentation for Datafordeleren er ikke tilgængelig
-
-18.11.2024 klokken 14:00: Problemet er løst, og Dokumentation for Datafordeleren er igen tilgængelig. Meddelelser om drift bliver igen opdateret.
-
-18.11.2024 klokken 10:00: Dokumentation for Datafordeleren er lige nu ikke tilgængelig. Meddelelser om drift på datafordeler.dk bliver heller ikke opdateret. Vi arbejder på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 55206&#xD;
 </content>
   </entry>
 </feed>
