@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-19T14:28:29Z</updated>
+  <updated>2024-11-20T09:40:38Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -57,7 +57,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>55325</id>
     <title
       type="text">PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00</title>
-    <updated>2024-11-19T14:25:58Z</updated>
+    <updated>2024-11-20T09:40:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55325" />
@@ -68,7 +68,7 @@ Der er planlagt servicevindue på PROD tirsdag den 3. december 2024 i tidsrummet
 
 Under servicevinduet vil der blive udført planlagt systemarbejde, som medfører, at der i perioden vil være stop i dataopdatering og udsendelse af hændelser.
 
-Webservices, der kaldes, samt filudtræk og fildownload genereret i denne periode vil derfor ikke indeholde ny data fra kl. 16 og indtil servicevinduet er afsluttet.&#xD;
+Webservices, der kaldes, samt filudtræk og fildownload genereret i denne periode vil derfor ikke indeholde ny data fra klokken 16 og indtil servicevinduet er afsluttet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
@@ -81,14 +81,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55326</id>
     <title
       type="text">Test06 servicevindue den 3. december 2024 klokken 16:00 - 24:00</title>
-    <updated>2024-11-19T14:28:29Z</updated>
+    <updated>2024-11-20T09:39:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55326" />
     <content
       type="text">Besked: Test06 servicevindue den 4. december 2024 klokken 9:00 til den 5. december kl. 9:00
 
-Der er planlagt servicevindue til opdatering af testdata på Test06 fra onsdag den 4. december 2024 klokken 9:00 til torsdag den 5. december kl. 9:00.
+Der er planlagt servicevindue til opdatering af testdata på Test06 fra onsdag den 4. december 2024 klokken 9:00 til torsdag den 5. december klokken 9:00.
 
 Under servicevinduet vil Test06 ikke være tilgængeligt.
 
@@ -152,7 +152,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55329</id>
     <title
       type="text">Test04 MitID login og webtjenestekald med certifikat fejler på miljøet</title>
-    <updated>2024-11-19T12:46:15Z</updated>
+    <updated>2024-11-20T09:38:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55329" />
@@ -160,8 +160,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
       type="text">Besked: Test04 MitID login og webtjenestekald med certifikat fejler på miljøet
 
 19.11.2024, klokken 13:45: Webservicekald med certifikat virker igen på Test04.
-
- 
 
 Webservicekald med certifikat og login til Selvbetjeningen med MitID fejler i øjeblikket på Test04.
 
