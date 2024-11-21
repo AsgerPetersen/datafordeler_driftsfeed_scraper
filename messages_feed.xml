@@ -6,25 +6,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-21T11:36:59Z</updated>
+  <updated>2024-11-21T12:38:22Z</updated>
   <entry>
     <id>54175</id>
     <title
       type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift</title>
-    <updated>2024-11-11T08:40:56Z</updated>
+    <updated>2024-11-21T12:38:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54175" />
     <content
       type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift
 
-11.11.2024: Bemærk at vi først forventer, at de nye certifikater er klar i løbet af november.
+21.11.2024: Certifikater til at modtage PUSH hændelser fra Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
 
-Certifikater til at modtage hændelser i produktion på Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
+De nye certifikater bliver skiftet på PROD den 5. december 2024.
 
-De nye certifikater bliver skiftet på PROD den 5. december 2024. Datoer for skift på testmiljøer bliver udmeldt senere.
+Der er skiftet certifikater på Datafordelerens TEST-miljøer.
 
-Meddelelsen bliver opdateret når de nye certifikater er tilgængelige, hvilket er forventet sidst i løbet af november. 
+Hent de nye certifikater i Dokumentationen: https://confluence.sdfi.dk/x/LoBQAQ
+
+Certifikater til PROD ligger i Kommende. Certifikater til TEST ligger i Gældende.
 
 Læs om navneskiftet på Klimadatastyrelsens hjemmeside &#xD;
 Register: Alle&#xD;
