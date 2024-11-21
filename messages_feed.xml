@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-21T06:19:12Z</updated>
+  <updated>2024-11-21T09:03:39Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -148,6 +148,42 @@ Status: Gennemført&#xD;
 Sagsreference: 54820&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55366</id>
+    <title
+      type="text">Ortofoto 2024 er ikke tilgængelige</title>
+    <updated>2024-11-21T08:57:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55366" />
+    <content
+      type="text">Besked: Ortofoto 2024 er ikke tilgængelige
+
+Ortofoto 2024 er i øjeblikket ikke tilgængelige som planlagt. Der bliver arbejdet på at løse problemet.&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 55366&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55368</id>
+    <title
+      type="text">Webservices på Datafordeleren er ikke tilgængelige</title>
+    <updated>2024-11-21T09:03:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55368" />
+    <content
+      type="text">Besked: Webservices på Datafordeleren er ikke tilgængelige
+
+Anvenderne kan i øjeblikket opleve, at webservices på Datafordeleren periodevist ikke er tilgængelige. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 55368&#xD;
 </content>
   </entry>
 </feed>
