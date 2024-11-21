@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-21T09:03:39Z</updated>
+  <updated>2024-11-21T09:27:56Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -184,6 +184,24 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 55368&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55370</id>
+    <title
+      type="text">Dataopdatering på Matriklen, Ejerfortegnelsen og Ejendomsbeliggenhedsregisteret er stoppet</title>
+    <updated>2024-11-21T09:27:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55370" />
+    <content
+      type="text">Besked: Dataopdatering på Matriklen, Ejerfortegnelsen og Ejendomsbeliggenhedsregisteret er stoppet
+
+Dataopdatering på Matriklen (MAT + MAT2), Ejerfortegnelsen (EJF) og Ejendomsbeliggenhedsregisteret (EBR) er i øjeblikket stoppet. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 55370&#xD;
 </content>
   </entry>
 </feed>
