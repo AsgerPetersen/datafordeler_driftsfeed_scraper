@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-25T09:14:41Z</updated>
+  <updated>2024-11-25T11:41:38Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -33,6 +33,23 @@ Register: Alle&#xD;
 Service: Hændelser&#xD;
 Status: I gang&#xD;
 Sagsreference: 54175&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55488</id>
+    <title
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører</title>
+    <updated>2024-11-25T11:41:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55488" />
+    <content
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører
+
+Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024, hvor den første version af Matriklen lukker i produktionsmiljøet. Læs mere under Ændringer: https://datafordeler.dk/drift/aendringer&#xD;
+Register: Matriklen (MAT)&#xD;
+Status: I gang&#xD;
+Sagsreference: 55488&#xD;
 </content>
   </entry>
   <entry>
