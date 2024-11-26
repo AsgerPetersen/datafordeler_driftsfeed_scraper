@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-26T16:47:07Z</updated>
+  <updated>2024-11-26T17:01:26Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -163,15 +163,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>55549</id>
     <title
-      type="text">GeoDanmark Ortofoto WMTS er utilgængelig.</title>
-    <updated>2024-11-26T16:47:07Z</updated>
+      type="text">GeoDanmark Ortofoto WMTS utilgængelig.</title>
+    <updated>2024-11-26T17:01:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55549" />
     <content
-      type="text">Besked: GeoDanmark Ortofoto WMTS er utilgængelig
+      type="text">Besked: GeoDanmark Ortofoto WMTS utilgængelig
 
-26.11.2024 klokken 17:45: Berørte tjenester er: "GeoDK orto foraar-webm" og "GeoDK orto_foraar". Der arbejdes på at løse problemet. &#xD;
+26.11.2024 klokken 17:45: Man kan i øjeblikket som anvender opleve at tjenesterne "GeoDK orto foraar-webm" og "GeoDK orto_foraar" ikke er tilgængelige. Der arbejdes på at løse problemet. &#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
