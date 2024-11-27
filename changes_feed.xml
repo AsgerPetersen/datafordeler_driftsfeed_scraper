@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-11-27T11:46:25Z</updated>
+  <updated>2024-11-27T11:49:30Z</updated>
   <entry>
     <id>54178</id>
     <title
@@ -36,8 +36,8 @@ Tidsangivelse: 10. december 2024&#xD;
   <entry>
     <id>55565</id>
     <title
-      type="text">Påvirkning af fildownloads fra UL1 ved idriftsættelse</title>
-    <updated>2024-11-27T11:46:25Z</updated>
+      type="text">Påvirkning af fildownload fra UL1 ved idriftsættelse</title>
+    <updated>2024-11-27T11:49:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/55565" />
