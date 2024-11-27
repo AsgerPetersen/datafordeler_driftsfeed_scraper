@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-27T08:28:47Z</updated>
+  <updated>2024-11-27T08:29:29Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -164,7 +164,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55398</id>
     <title
       type="text">Langsommere tjenester med Geodata</title>
-    <updated>2024-11-27T08:28:47Z</updated>
+    <updated>2024-11-27T08:29:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55398" />
@@ -173,7 +173,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 27.11.2024 klokken 09:30: Man kan fortsat opleve længere svartider på WMS og WMTS tjenester. Vi arbejder på at løse problemet.
 
-22.11.2024 klokken 10: Man kan i øjeblikket opleve længere svartider på tjenester med geodata. Vi arbejder på at løse problemet.&#xD;
+22.11.2024 klokken 10:00: Man kan i øjeblikket opleve længere svartider på tjenester med geodata. Vi arbejder på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
