@@ -139,28 +139,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>54919</id>
-    <title
-      type="text">Servicevindue for geodata på Datafordeleren torsdag den 21. og fredag den 22. november 2024</title>
-    <updated>2024-11-22T09:29:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54919" />
-    <content
-      type="text">Besked: Servicevindue for geodata på Datafordeleren torsdag den 21. og fredag den 22. november 2024
-
-Det er planlagt servicevindue på PROD for geodata fra torsdag den 21. klokken 18:00 til fredag den 22. november 2024 klokken 7:00.
-
-I perioden vil geodata ikke blive opdateret.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 54919&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>55398</id>
     <title
       type="text">Langsommere tjenester med Geodata</title>
