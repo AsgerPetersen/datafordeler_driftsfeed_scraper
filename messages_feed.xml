@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-11-29T13:39:35Z</updated>
+  <updated>2024-12-02T09:44:20Z</updated>
   <entry>
     <id>55651</id>
     <title
       type="text">Dataopdatering i DAR</title>
-    <updated>2024-11-29T13:39:13Z</updated>
+    <updated>2024-12-02T09:44:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55651" />
@@ -21,7 +21,7 @@
 DAR bliver opdateret med nye sogneinddelinger den 1. december. Det medfører, at deltafil for Husnumre vil indeholde 3 x 25.000 rækker med opdaterede sogne for cirka 60.000 adresser.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 55651&#xD;
 </content>
   </entry>
@@ -160,14 +160,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55398</id>
     <title
       type="text">Langsommere tjenester med Geodata</title>
-    <updated>2024-11-29T13:39:35Z</updated>
+    <updated>2024-12-02T09:44:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55398" />
     <content
       type="text">Besked: Langsommere tjenester med Geodata
 
-29.11.2024 klokken 12:30: Man kan fortsat opleve længere svartider på WMS tjenester. Der er tilgængelighed på tjenesterne, og vi arbejder på at formindske svartiderne.
+02.12.2024 klokken 10:30: Man kan opleve længere svartider på WMS tjenester. Der er tilgængelighed på tjenesterne, og vi arbejder på at formindske svartiderne.
 
 22.11.2024 klokken 10:00: Man kan i øjeblikket opleve længere svartider på tjenester med geodata. Vi arbejder på at løse problemet.&#xD;
 Register: Alle&#xD;
