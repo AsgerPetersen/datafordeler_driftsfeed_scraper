@@ -6,25 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-03T07:17:23Z</updated>
-  <entry>
-    <id>55651</id>
-    <title
-      type="text">Dataopdatering i DAR</title>
-    <updated>2024-12-02T09:44:20Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55651" />
-    <content
-      type="text">Besked: Dataopdatering i DAR
-
-DAR bliver opdateret med nye sogneinddelinger den 1. december. Det medfører, at deltafil for Husnumre vil indeholde 3 x 25.000 rækker med opdaterede sogne for cirka 60.000 adresser.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 55651&#xD;
-</content>
-  </entry>
+  <updated>2024-12-03T11:38:28Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -74,7 +56,7 @@ Sagsreference: 55488&#xD;
     <id>55532</id>
     <title
       type="text">Midlertidigt asynkrone data i DHM tjenester</title>
-    <updated>2024-11-26T10:06:37Z</updated>
+    <updated>2024-12-03T11:38:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55532" />
@@ -84,7 +66,7 @@ Sagsreference: 55488&#xD;
 Danmarks Højdemodel (DHM) er i gang med den årlige opdatering af data. WMS tjenesterne er opdateret, men WCS tjenesten har en længere behandlingstid. Derfor kan man midlertidigt opleve asynkrone data mellem WMS og WCS tjenester.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Webservice, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 55532&#xD;
 </content>
   </entry>
