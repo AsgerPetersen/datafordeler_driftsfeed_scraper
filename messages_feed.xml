@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-03T13:59:56Z</updated>
+  <updated>2024-12-03T14:14:32Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -161,13 +161,13 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>55398</id>
+    <id>55725</id>
     <title
       type="text">Længere svartider på tjenester med geodata</title>
-    <updated>2024-12-03T13:59:56Z</updated>
+    <updated>2024-12-03T14:14:32Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55398" />
+      href="https://datafordeler.dk/drift/meddelelser/55725" />
     <content
       type="text">Besked: Længere svartider på tjenester med geodata
 
@@ -178,7 +178,7 @@ Næste status senest onsdag formiddag den 4. december.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
-Sagsreference: 55398&#xD;
+Sagsreference: 55725&#xD;
 </content>
   </entry>
 </feed>
