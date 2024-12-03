@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-03T11:38:28Z</updated>
+  <updated>2024-12-03T11:51:15Z</updated>
   <entry>
     <id>54175</id>
     <title
       type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift</title>
-    <updated>2024-11-21T12:38:22Z</updated>
+    <updated>2024-12-03T11:51:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54175" />
     <content
       type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift
 
-21.11.2024: Certifikater til at modtage PUSH hændelser fra Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
+Certifikater til at modtage PUSH hændelser fra Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
 
 De nye certifikater bliver skiftet på PROD den 5. december 2024.
 
@@ -116,7 +116,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55325</id>
     <title
       type="text">PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00</title>
-    <updated>2024-11-20T09:40:38Z</updated>
+    <updated>2024-12-03T11:49:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55325" />
@@ -127,7 +127,7 @@ Der er planlagt servicevindue på PROD tirsdag den 3. december 2024 i tidsrummet
 
 Under servicevinduet vil der blive udført planlagt systemarbejde, som medfører, at der i perioden vil være stop i dataopdatering og udsendelse af hændelser.
 
-Webservices, der kaldes, samt filudtræk og fildownload genereret i denne periode vil derfor ikke indeholde ny data fra klokken 16 og indtil servicevinduet er afsluttet.&#xD;
+Webservices, filudtræk (FTP) og fildownload (HTTPS) genereret i denne periode vil derfor ikke indeholde ny data fra klokken 16, og indtil servicevinduet er afsluttet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
