@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-03T14:14:32Z</updated>
+  <updated>2024-12-04T07:19:42Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -116,12 +116,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55325</id>
     <title
       type="text">PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00</title>
-    <updated>2024-12-03T11:49:26Z</updated>
+    <updated>2024-12-04T07:19:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55325" />
     <content
       type="text">Besked: PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00
+
+04.12.2024: Servicevindue er gennemført.
 
 Der er planlagt servicevindue på PROD tirsdag den 3. december 2024 i tidsrummet klokken 16:00 - 24:00.
 
@@ -130,7 +132,7 @@ Under servicevinduet vil der blive udført planlagt systemarbejde, som medfører
 Webservices, filudtræk (FTP) og fildownload (HTTPS) genereret i denne periode vil derfor ikke indeholde ny data fra klokken 16, og indtil servicevinduet er afsluttet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 55325&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
