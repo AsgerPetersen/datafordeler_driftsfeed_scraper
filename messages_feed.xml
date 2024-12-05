@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-05T09:38:26Z</updated>
+  <updated>2024-12-05T09:45:58Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -53,6 +53,26 @@ Sagsreference: 55488&#xD;
 </content>
   </entry>
   <entry>
+    <id>55781</id>
+    <title
+      type="text">DHM dataopdatering 2023</title>
+    <updated>2024-12-05T09:45:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55781" />
+    <content
+      type="text">Besked: DHM dataopdatering 2023
+
+DHM 2023 data bliver opdateret i december.
+
+I øjeblikket er WMS og fildownload opdateret. De resterende bliver opdateret løbet af december.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 55781&#xD;
+</content>
+  </entry>
+  <entry>
     <id>54838</id>
     <title
       type="text">CVR udfører datavask på cirka 1,8 millioner virksomheder og P-enheder</title>
@@ -90,32 +110,6 @@ Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR)&#xD
 Service: Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 55679&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>55325</id>
-    <title
-      type="text">PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00</title>
-    <updated>2024-12-04T07:19:42Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55325" />
-    <content
-      type="text">Besked: PROD servicevindue den 3. december 2024 klokken 16:00 - 24:00
-
-04.12.2024: Servicevindue er gennemført.
-
-Der er planlagt servicevindue på PROD tirsdag den 3. december 2024 i tidsrummet klokken 16:00 - 24:00.
-
-Under servicevinduet vil der blive udført planlagt systemarbejde, som medfører, at der i perioden vil være stop i dataopdatering og udsendelse af hændelser.
-
-Webservices, filudtræk (FTP) og fildownload (HTTPS) genereret i denne periode vil derfor ikke indeholde ny data fra klokken 16, og indtil servicevinduet er afsluttet.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 55325&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
