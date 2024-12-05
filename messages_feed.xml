@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-05T09:45:58Z</updated>
+  <updated>2024-12-05T10:00:45Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -192,16 +192,16 @@ Sagsreference: 55775&#xD;
     <id>55725</id>
     <title
       type="text">Længere svartider på tjenester med geodata</title>
-    <updated>2024-12-04T13:51:57Z</updated>
+    <updated>2024-12-05T10:00:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55725" />
     <content
       type="text">Besked: Længere svartider på tjenester med geodata
 
-04.12.2024 klokken 15:00: Klimadatastyrelsen arbejder fortsat med allerhøjeste prioritet sammen med Netcompany på at løse problemet. Tilgængelighed på tjenesterne bliver prioriteret, men længere svartider vil fortsat forekomme for GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM) tjenester, til problemet er løst. Det er ikke muligt endnu at give en tidshorisont for en løsning, og vi beklager igen de gener, som det medfører for anvendere og leverandører af services med geodata fra Datafordeleren.
+05.12.2024 klokken 11:00: Klimadatastyrelsen arbejder fortsat med allerhøjeste prioritet sammen med Netcompany på at løse problemet. Tilgængelighed på tjenesterne bliver prioriteret, men længere svartider vil fortsat forekomme for GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM) tjenester, til problemet er løst. Det er ikke muligt endnu at give en tidshorisont for en løsning, og vi beklager igen de gener, som det medfører for anvendere og leverandører af services med geodata fra Datafordeleren.
 
-Næste status senest klokken 11:00 torsdag den 5. december 2024.
+Næste status senest klokken 15:00 torsdag den 5. december 2024.
 
 03.12.2024 klokken 15:00: Anvendere har siden torsdag den 21. november 2024 kunnet opleve længere svartider på Datafordelerens tjenester med GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM).
 
