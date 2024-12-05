@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-04T13:51:57Z</updated>
+  <updated>2024-12-05T07:37:26Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -116,6 +116,32 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 55325&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55717</id>
+    <title
+      type="text">Test06 servicevindue mandag den 9. december 2024 klokken 9:00 – 17:00</title>
+    <updated>2024-12-05T07:37:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55717" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 9. december 2024 klokken 9:00 – 17:00
+
+I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test06 mandag den 9. december 2024 klokken 9:00 – 17:00.
+
+I tidsrummet er dataopdatering på miljøet være sat på pause.
+
+Efter servicevinduet vil fildownload (HTTPS) være lukket i miljøet indtil 21. januar 2025. 
+
+Læs mere om ekstern test i Datafordelerens Moderniseringsprojekt på datafordeler.dk&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 55717&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
