@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-05T13:57:30Z</updated>
+  <updated>2024-12-05T21:22:37Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -192,20 +192,24 @@ Sagsreference: 55775&#xD;
     <id>55725</id>
     <title
       type="text">Længere svartider på tjenester med geodata</title>
-    <updated>2024-12-05T13:57:30Z</updated>
+    <updated>2024-12-05T21:22:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55725" />
     <content
       type="text">Besked: Længere svartider på tjenester med geodata
 
-05.12.2024 klokken 15:00: Klimadatastyrelsen arbejder fortsat med allerhøjeste prioritet sammen med Netcompany på at løse problemet. Tilgængelighed på tjenesterne bliver prioriteret, men længere svartider vil fortsat forekomme for GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM) tjenester, til problemet er løst. Det er ikke muligt endnu at give en tidshorisont for en løsning, og vi beklager igen de gener, som det medfører for anvendere og leverandører af services med geodata fra Datafordeleren.
+05.12.2024 klokken 22:30:
+
+Det har vist sig at være et problem med 2024 dataopdateringen i GeoDanmark Ortofoto den 21. november 2024, der efterfølgende har forårsaget meget langsomme svartider på webservices med WMS, WMTS og WCS. På den baggrund er data i GeoDanmark Ortofoto rullet tilbage til 2023-versionen. Der bliver arbejdet på at gøre 2024-data klar til GeoDanmark Ortofoto på Datafordeleren. Indtil da er det muligt at hente temporære 2024 ortofotos (midlertidige/QuickOrto) på dataforsyningen.dk. Vi beklager de gener, problemet har medført for anvendere af geodata.
 
 Næste status senest klokken 11:00 fredag den 6. december 2024.
 
-03.12.2024 klokken 15:00: Anvendere har siden torsdag den 21. november 2024 kunnet opleve længere svartider på Datafordelerens tjenester med GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM).
+ 
 
- &#xD;
+05.12.2024 klokken 15:00:
+
+Klimadatastyrelsen arbejder fortsat med allerhøjeste prioritet sammen med Netcompany på at løse problemet. Tilgængelighed på tjenesterne bliver prioriteret, men længere svartider vil fortsat forekomme for GeoDanmark Ortofoto, Skærmkortet og Danmarks Højdemodel (DHM) tjenester, til problemet er løst. Det er ikke muligt endnu at give en tidshorisont for en løsning, og vi beklager igen de gener, som det medfører for anvendere og leverandører af services med geodata fra Datafordeleren.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
