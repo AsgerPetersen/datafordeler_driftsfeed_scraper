@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-05T07:38:43Z</updated>
+  <updated>2024-12-05T07:53:10Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -168,6 +168,26 @@ Status: I gang&#xD;
 Sagsreference: 55326&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55775</id>
+    <title
+      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-12-05T07:53:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55775" />
+    <content
+      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet
+
+05.12.2024 klokken 08:50: Matriklen dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 04.12.2024 klokken 13:00:06.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 55775&#xD;
 </content>
   </entry>
   <entry>
