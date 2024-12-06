@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-06T12:35:08Z</updated>
+  <updated>2024-12-06T12:55:00Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -146,7 +146,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55725</id>
     <title
       type="text">Længere svartider på tjenester med geodata</title>
-    <updated>2024-12-06T12:35:08Z</updated>
+    <updated>2024-12-06T12:55:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55725" />
@@ -155,7 +155,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 06.12.2024 klokken 13:30: Opdateret med link.
 
-Svartider på webservices med WMS, WMTS og WCS er i normal drift. Der bliver arbejdet på at gøre 2024-data klar til GeoDanmark Ortofoto på Datafordeleren. Læs også under Ændringer. Indtil da er det muligt at hente temporære 2024 ortofotos (midlertidige/QuickOrto) på dataforsyningen.dk. Vi beklager de gener, problemet har medført for anvendere af geodata.
+06.12.2024 klokken 11:00: Svartider på webservices med WMS, WMTS og WCS er i normal drift. Der bliver arbejdet på at gøre 2024-data klar til GeoDanmark Ortofoto på Datafordeleren. Læs også under Ændringer. Indtil da er det muligt at hente temporære 2024 ortofotos (midlertidige/QuickOrto) på dataforsyningen.dk. Vi beklager de gener, problemet har medført for anvendere af geodata.
 
  &#xD;
 Register: Alle&#xD;
