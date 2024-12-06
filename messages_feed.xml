@@ -6,17 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-05T21:24:06Z</updated>
+  <updated>2024-12-06T06:15:37Z</updated>
   <entry>
     <id>54175</id>
     <title
       type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift</title>
-    <updated>2024-12-03T11:51:15Z</updated>
+    <updated>2024-12-06T06:15:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54175" />
     <content
       type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift
+
+06.12.2024: Certifikatet er skiftet på PROD. Hent de nye certifikater i Dokumentationen.
 
 Certifikater til at modtage PUSH hændelser fra Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
 
@@ -31,7 +33,7 @@ Certifikater til PROD ligger i Kommende. Certifikater til TEST ligger i Gældend
 Læs om navneskiftet på Klimadatastyrelsens hjemmeside &#xD;
 Register: Alle&#xD;
 Service: Hændelser&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 54175&#xD;
 </content>
   </entry>
