@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-09T11:57:06Z</updated>
+  <updated>2024-12-09T14:44:28Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -134,19 +134,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55857</id>
     <title
       type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-09T11:51:50Z</updated>
+    <updated>2024-12-09T14:44:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55857" />
     <content
       type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
 
+09.12.2024 klokken 15:45: Problemet er løst. CVR dataopdatering er tilbage i normal drift.
+
 09.12.2024 klokken 12:45: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 05.12.2024 klokken 18:36
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 55857&#xD;
 </content>
   </entry>
