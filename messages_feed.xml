@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-09T11:24:53Z</updated>
+  <updated>2024-12-09T11:30:15Z</updated>
   <entry>
     <id>54175</id>
     <title
@@ -120,16 +120,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>55717</id>
     <title
       type="text">Test06 servicevindue mandag den 9. december klokken 9:00 til tirsdag den 10. december 2024 klokken 21:00</title>
-    <updated>2024-12-09T11:24:53Z</updated>
+    <updated>2024-12-09T11:30:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55717" />
     <content
       type="text">Besked: Test06 servicevindue mandag den 9. december klokken 9:00 til tirsdag den 10. december 2024 klokken 21:00
 
-09.12.2024: Servicevinduet er udvidet, og gælder fra mandag den 9. december klokken 9:00 til tirsdag den 10. december 2024 klokken 21:00.
-
-I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test06 mandag den 9. december 2024 klokken 9:00 – 17:00. 
+09.12.2024: Servicevinduet er udvidet. I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test06 mandag den 9. december klokken 9:00 til tirsdag den 10. december 2024 klokken 21:00.
 
 I tidsrummet er dataopdatering på miljøet være sat på pause.
 
