@@ -6,42 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-09T11:30:15Z</updated>
-  <entry>
-    <id>54175</id>
-    <title
-      type="text">Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift</title>
-    <updated>2024-12-06T06:15:37Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54175" />
-    <content
-      type="text">Besked: Skift af certifikater til PUSH abonnement på hændelser i forbindelse med styrelsens navneskift
-
-06.12.2024: Certifikatet er skiftet på PROD. Hent de nye certifikater i Dokumentationen.
-
-Certifikater til at modtage PUSH hændelser fra Datafordeleren bliver skiftet i forbindelse med at Styrelsen for Dataforsyning og Infrastruktur skiftede navn til Klimadatastyrelsen den 15. august 2024.
-
-De nye certifikater bliver skiftet på PROD den 5. december 2024.
-
-Der er skiftet certifikater på Datafordelerens TEST-miljøer.
-
-Hent de nye certifikater i Dokumentationen: https://confluence.sdfi.dk/x/LoBQAQ
-
-Certifikater til PROD ligger i Kommende. Certifikater til TEST ligger i Gældende.
-
-Læs om navneskiftet på Klimadatastyrelsens hjemmeside &#xD;
-Register: Alle&#xD;
-Service: Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 54175&#xD;
-</content>
-  </entry>
+  <updated>2024-12-09T11:45:44Z</updated>
   <entry>
     <id>55488</id>
     <title
       type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører</title>
-    <updated>2024-11-25T11:41:38Z</updated>
+    <updated>2024-12-09T11:45:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55488" />
