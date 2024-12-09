@@ -6,7 +6,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-09T11:45:44Z</updated>
+  <updated>2024-12-09T11:57:06Z</updated>
+  <entry>
+    <id>55858</id>
+    <title
+      type="text">Skærmkort opdatering</title>
+    <updated>2024-12-09T11:57:06Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55858" />
+    <content
+      type="text">Besked: Skærmkort opdatering
+
+Skærmkort WMS og fildownload blev opdateret i uge 47. WMTS forventes opdateret i løbet december.&#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 55858&#xD;
+</content>
+  </entry>
   <entry>
     <id>55488</id>
     <title
@@ -110,6 +128,26 @@ Status: I gang&#xD;
 Sagsreference: 55717&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55857</id>
+    <title
+      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2024-12-09T11:51:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55857" />
+    <content
+      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
+
+09.12.2024 klokken 12:45: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 05.12.2024 klokken 18:36
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 55857&#xD;
 </content>
   </entry>
   <entry>
