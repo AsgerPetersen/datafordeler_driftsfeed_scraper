@@ -6,7 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-10T14:52:21Z</updated>
+  <updated>2024-12-11T10:25:31Z</updated>
+  <entry>
+    <id>55921</id>
+    <title
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt</title>
+    <updated>2024-12-11T10:25:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/55921" />
+    <content
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt
+
+Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024, hvor den første version af Matriklen er lukket i produktionsmiljøet. Læs mere under Ændringer: https://datafordeler.dk/drift/aendringer&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 55921&#xD;
+</content>
+  </entry>
   <entry>
     <id>55858</id>
     <title
@@ -23,23 +40,6 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 55858&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>55488</id>
-    <title
-      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører</title>
-    <updated>2024-12-10T11:38:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55488" />
-    <content
-      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører
-
-Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024, hvor den første version af Matriklen lukker i produktionsmiljøet. Læs mere under Ændringer: https://datafordeler.dk/drift/aendringer&#xD;
-Register: Matriklen (MAT)&#xD;
-Status: Løst&#xD;
-Sagsreference: 55488&#xD;
 </content>
   </entry>
   <entry>
