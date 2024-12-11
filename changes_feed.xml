@@ -6,25 +6,21 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-12-10T13:42:05Z</updated>
+  <updated>2024-12-11T11:15:18Z</updated>
   <entry>
     <id>54178</id>
     <title
-      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024</title>
-    <updated>2024-12-10T13:42:05Z</updated>
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024</title>
+    <updated>2024-12-11T11:15:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/54178" />
     <content
-      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt
 
-Paralleldriften af Matriklen og Matriklen2 på Datafordeleren ophører den 10. december 2024, hvor den første version af Matriklen lukker i produktionsmiljøet.
+11.12.2024: Den første version af Matriklen er lukket på Datafordeleren den 10. december 2024.
 
-Den første version af Matriklen lukker i Datafordelerens testmiljøer den 11. november 2024.
-
-Alle kendte fejl på Matriklen2 er løst den 7. november 2024.
-
-Læs mere om ændringen af Matriklen2: https://confluence.sdfi.dk/x/sYDoB
+Læs mere om forskellen på Matriklen og Matriklen2: https://confluence.sdfi.dk/x/sYDoB
 
 Læs mere om Matriklen2: https://confluence.sdfi.dk/x/LQAGBg&#xD;
 Register: Matriklen (MAT)&#xD;
