@@ -152,25 +152,4 @@ Status: Løst&#xD;
 Sagsreference: 55725&#xD;
 </content>
   </entry>
-  <entry>
-    <id>55877</id>
-    <title
-      type="text">BBR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-10T11:35:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55877" />
-    <content
-      type="text">Besked: BBR dataopdatering er stoppet i produktionsmiljøet
-
-10.12.2024 klokken 12:30: Problemet er løst. BBR dataopdatering er tilbage normal drift.
-
-10.12.2024 klokken 08:45: BBR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 09.12.2024 klokken 16:04:47
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Status: Løst&#xD;
-Sagsreference: 55877&#xD;
-</content>
-  </entry>
 </feed>
