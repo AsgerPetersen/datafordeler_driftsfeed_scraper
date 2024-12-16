@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-16T11:37:36Z</updated>
+  <updated>2024-12-16T16:47:24Z</updated>
   <entry>
     <id>55921</id>
     <title
@@ -92,7 +92,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>55679</id>
     <title
       type="text">PROD servicevindue mandag den 16. december 2024 klokken 17:00 – 22:00</title>
-    <updated>2024-12-10T13:10:40Z</updated>
+    <updated>2024-12-16T16:47:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55679" />
@@ -104,7 +104,7 @@ Der er planlagt et servicevindue på PROD mandag den 16. december 2024 klokken 1
 I tidsrummet er dataopdatering på BBR og DAR sat på pause.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR)&#xD;
 Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 55679&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
