@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-17T13:07:55Z</updated>
+  <updated>2024-12-17T14:53:19Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -123,12 +123,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56070</id>
     <title
       type="text">DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-17T11:34:43Z</updated>
+    <updated>2024-12-17T14:53:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56070" />
     <content
       type="text">Besked: DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet
+
+17.12.2024 klokken 15:50: Problemet er løst. BBR og CVR dataopdatering er tilbage i normal drift.
 
 17.12.2024 klokken 12:30: Problemet med DAR dataopdatering er løst. Der bliver fortsat arbejdet på at løse problemet med dataopdatering for BBR og CVR.
 
@@ -137,7 +139,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Der bliver arbejdet på at løse problemet&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 56070&#xD;
 </content>
   </entry>
