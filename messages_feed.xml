@@ -6,30 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-17T09:24:41Z</updated>
-  <entry>
-    <id>55921</id>
-    <title
-      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt</title>
-    <updated>2024-12-12T09:32:29Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55921" />
-    <content
-      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt
-
-11.10.2024: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024, hvor den første version af Matriklen er lukket i produktionsmiljøet. Læs mere under Ændringer: https://datafordeler.dk/drift/aendringer
-
-14.06.2024: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil december 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt. 
-
-12.04.2024: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er forlænget indtil august 2024. Vi opfordrer dog fortsat til at skifte til Matriklen2 snarest muligt.
-
-01.02.2024: Vi gør opmærksom på, at Matriklen overgår til Matriklen2 på Datafordeleren den 31. marts 2024.  Vi opfordrer til, at der er skiftet til Matriklen2 snarest og senest 31. marts 2024.&#xD;
-Register: Matriklen (MAT)&#xD;
-Status: Løst&#xD;
-Sagsreference: 55921&#xD;
-</content>
-  </entry>
+  <updated>2024-12-17T11:34:43Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -141,37 +118,17 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>55991</id>
-    <title
-      type="text">DAR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-16T11:37:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55991" />
-    <content
-      type="text">Besked: DAR dataopdatering er stoppet i produktionsmiljøet
-
-16.12.2024 klokken 12:30: Problemet er løst. DAR dataopdatering er tilbage i normal drift.
-
-13.12.2024 klokken 15:30: DAR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 13.12.2024 klokken 14:19:57.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 55991&#xD;
-</content>
-  </entry>
-  <entry>
     <id>56070</id>
     <title
       type="text">DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-17T09:24:41Z</updated>
+    <updated>2024-12-17T11:34:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56070" />
     <content
       type="text">Besked: DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet
+
+17.12.2024 klokken 12:30: Problemet med DAR dataopdatering er løst. Der bliver fortsat arbejdet på at løse problemet med dataopdatering for BBR og CVR.
 
 17.12.2024 klokken 10:15: DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet. Sidste opdatering var 16.12.2024 klokken 17:00.
 
