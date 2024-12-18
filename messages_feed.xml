@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-17T14:53:19Z</updated>
+  <updated>2024-12-17T13:07:55Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -66,30 +66,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>55679</id>
-    <title
-      type="text">PROD servicevindue mandag den 16. december 2024 klokken 17:00 – 22:00</title>
-    <updated>2024-12-16T21:29:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/55679" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 16. december 2024 klokken 17:00 – 22:00
-
-16.12.2024 klokken 22:15: Servicevindue er gennemført.
-
-Der er planlagt et servicevindue på PROD mandag den 16. december 2024 klokken 17:00 – 22:00.
-
-I tidsrummet er dataopdatering på BBR og DAR sat på pause.&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 55679&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>55717</id>
     <title
       type="text">Test06 servicevindue mandag den 9. december klokken 9:00 til mandag den 17. december 2024 klokken 14:00</title>
@@ -117,30 +93,6 @@ Status: Gennemført&#xD;
 Sagsreference: 55717&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56070</id>
-    <title
-      type="text">DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2024-12-17T14:53:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56070" />
-    <content
-      type="text">Besked: DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet
-
-17.12.2024 klokken 15:50: Problemet er løst. BBR og CVR dataopdatering er tilbage i normal drift.
-
-17.12.2024 klokken 12:30: Problemet med DAR dataopdatering er løst. Der bliver fortsat arbejdet på at løse problemet med dataopdatering for BBR og CVR.
-
-17.12.2024 klokken 10:15: DAR, BBR og CVR dataopdatering er stoppet i produktionsmiljøet. Sidste opdatering var 16.12.2024 klokken 17:00.
-
-Der bliver arbejdet på at løse problemet&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 56070&#xD;
 </content>
   </entry>
   <entry>
