@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-18T13:07:57Z</updated>
+  <updated>2024-12-18T16:25:53Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -87,19 +87,21 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>56219</id>
     <title
       type="text">PROD servicevindue onsdag den 18. december 2024 klokken 17:00 – 19:00</title>
-    <updated>2024-12-18T13:07:57Z</updated>
+    <updated>2024-12-18T16:25:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56219" />
     <content
       type="text">Besked: PROD servicevindue onsdag den 18. december 2024 klokken 17:00 – 19:00
 
+18.12.2024 klokken 17:30: Servicevindue afsluttet.
+
 Der er planlagt et servicevindue på PROD onsdag den 18. december 2024 klokken 17:00 – 19:00.
 
 I tidsrummet kan der forekomme meget kortvarige perioder med længere svartider på WMTS tjenester. Vi beklager den korte varsel.&#xD;
 Register: Danmarks Højdemodel, GeoDanmark Ortofoto, Skærmkortet&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 56219&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
