@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-12-17T07:55:32Z</updated>
+  <updated>2024-12-19T12:09:38Z</updated>
   <entry>
     <id>54178</id>
     <title
@@ -54,7 +54,7 @@ Tidsangivelse: April 2025&#xD;
     <id>55628</id>
     <title
       type="text">GeoDanmark Ortofoto 2024</title>
-    <updated>2024-12-17T07:55:32Z</updated>
+    <updated>2024-12-19T12:09:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/55628" />
@@ -63,7 +63,7 @@ Tidsangivelse: April 2025&#xD;
 
 16.12.2024: GeoDanmark Ortofoto WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
 
-Vi forventer at GeoDanmark Ortofoto WMTS viser 2024 data i løbet af december.
+Vi forventer at GeoDanmark Ortofoto WMTS viser 2024 data i løbet januar 2025
 
 Vi opdaterer denne meddelelse, når WMTS indeholder 2024 data.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
