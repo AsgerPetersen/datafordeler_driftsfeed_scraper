@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Changes</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceChanges</id>
+  <updated>2024-12-20T06:34:37Z</updated>
+  <entry>
+    <id>54178</id>
+    <title
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024</title>
+    <updated>2024-12-11T11:15:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/54178" />
+    <content
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt
+
+11.12.2024: Den første version af Matriklen er lukket på Datafordeleren den 10. december 2024.
+
+Læs mere om forskellen på Matriklen og Matriklen2: https://confluence.sdfi.dk/x/sYDoB
+
+Læs mere om Matriklen2: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Register: Matriklen (MAT)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 54178&#xD;
+Tidsangivelse: 10. december 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55565</id>
+    <title
+      type="text">Påvirkning af fildownload fra UL1 ved idriftsættelse</title>
+    <updated>2024-11-27T11:49:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/55565" />
+    <content
+      type="text">Besked: Påvirkning af fildownload fra UL1 ved idriftsættelse
+
+I forbindelse med idriftsættelse af UL2 er der brug for at opdatere fildownload fra UL1. For de anvendere, som er begyndt at bruge de nye fildownload fra UL1, betyder det, at deltafiler sættes på pause i ugen op til go-live, samt at der efter go-live skal hentes et nyt totaldownload.
+
+Vi vender tilbage med detaljeret vejledning til, hvordan anvendere, der har taget de nye fildownload fra UL1 i brug, skal forholde sig omkring go-live i april 2025.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 55565&#xD;
+Tidsangivelse: April 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55628</id>
+    <title
+      type="text">GeoDanmark Ortofoto 2024</title>
+    <updated>2024-12-20T06:34:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/55628" />
+    <content
+      type="text">Besked: GeoDanmark Ortofoto 2024 
+
+16.12.2024: GeoDanmark Ortofoto WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
+
+Vi forventer at GeoDanmark Ortofoto WMTS viser 2024 data i løbet januar 2025
+
+Vi opdaterer denne meddelelse, når WMTS indeholder 2024 data.
+
+Læs mere under driftsmeddelelser&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Webservice, Filudtræk (FTP)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 55628&#xD;
+Tidsangivelse: December 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26622</id>
+    <title
+      type="text">Ændringer til CPR’s tjenester i 2025</title>
+    <updated>2024-10-11T11:17:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/26622" />
+    <content
+      type="text">Besked: Ændringer til CPR’s tjenester i 2025
+
+CPR’s tjenester på Datafordeleren bliver ændret i 2025, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
+
+De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af 2. kvartal 2025. Der vil være paralleldrift i minimum seks måneder. 
+
+Der bliver mulighed for at teste de ændrede CPR tjenester senest to måneder i testmiljø før release.
+
+Læs mere om de planlagte ændringer i CPR tjenesterne. 
+
+Der er p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
+
+Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
+
+KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk, at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice, Hændelser&#xD;
+Status: Forventet&#xD;
+Sagsreference: 26622&#xD;
+Tidsangivelse: 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46475</id>
+    <title
+      type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
+    <updated>2024-10-21T07:00:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/46475" />
+    <content
+      type="text">Besked: Kommende ændringer til Ejerfortegnelsens tjenester
+
+Der gennemføres en række ændringer og mindre justeringer til Ejerfortegnelsens tjenester på Datafordeleren. Ændringerne er foranlediget af de kommende ændringer til CPR’s tjenester, og Geodatastyrelsens løbende forbedring og tilpasning af de udstillede services.
+
+Ændringerne er planlagt til release på Datafordeleren sammen med de kommende ændringer til CPR's tjenester i 2025.
+
+Læs mere om de planlagte ændringer til Ejerfortegnelsen&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 46475&#xD;
+Tidsangivelse: 2025&#xD;
+</content>
+  </entry>
+</feed>
