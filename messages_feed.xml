@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-21T10:47:18Z</updated>
+  <updated>2024-12-21T20:37:43Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -102,42 +102,22 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>56304</id>
-    <title
-      type="text">PROD servicevindue lørdag den 21. december 2024 klokken 9:00 - 11:00</title>
-    <updated>2024-12-21T10:47:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56304" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 21. december 2024 i tidsrummet klokken 9:00 - 11:00
-
-Der er planlagt servicevindue på PROD lørdag den 21. december 2024 i tidsrummet klokken 9:00 - 11:00.
-
-Under servicevinduet vil man som anvender kortvarigt kunne opleve forsinkelse i levering af filudtræk.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 56304&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>56279</id>
     <title
       type="text">Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg"</title>
-    <updated>2024-12-19T14:46:28Z</updated>
+    <updated>2024-12-21T20:37:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56279" />
     <content
       type="text">Besked: Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg"
 
+21.12.2024: Problemet er løst. Filudtrækket "MATkortdataGaeldendeDKComplete_gpkg" leveres igen.
+
 19.12.2024: Leveringen af Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg" har været stoppet siden den 10. december 2024. Der arbejdes med høj prioritet på at løse problemet, så filudtrækket igen bliver leveret.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 56279&#xD;
 </content>
   </entry>
