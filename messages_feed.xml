@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-20T14:36:41Z</updated>
+  <updated>2024-12-21T10:47:18Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -105,7 +105,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>56304</id>
     <title
       type="text">PROD servicevindue lørdag den 21. december 2024 klokken 9:00 - 11:00</title>
-    <updated>2024-12-20T14:16:19Z</updated>
+    <updated>2024-12-21T10:47:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56304" />
@@ -117,7 +117,7 @@ Der er planlagt servicevindue på PROD lørdag den 21. december 2024 i tidsrumme
 Under servicevinduet vil man som anvender kortvarigt kunne opleve forsinkelse i levering af filudtræk.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 56304&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
