@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-21T20:37:43Z</updated>
+  <updated>2024-12-20T14:36:41Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -99,26 +99,6 @@ Status: Planlagt&#xD;
 Sagsreference: 54838&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56279</id>
-    <title
-      type="text">Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg"</title>
-    <updated>2024-12-21T20:37:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56279" />
-    <content
-      type="text">Besked: Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg"
-
-21.12.2024: Problemet er løst. Filudtrækket "MATkortdataGaeldendeDKComplete_gpkg" leveres igen.
-
-19.12.2024: Leveringen af Matriklen 2 filudtrækket "MATkortdataGaeldendeDKComplete_gpkg" har været stoppet siden den 10. december 2024. Der arbejdes med høj prioritet på at løse problemet, så filudtrækket igen bliver leveret.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Løst&#xD;
-Sagsreference: 56279&#xD;
 </content>
   </entry>
 </feed>
