@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2024-12-20T14:36:41Z</updated>
+  <updated>2025-01-02T08:41:05Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -67,14 +67,14 @@ Sagsreference: 56220&#xD;
     <id>56273</id>
     <title
       type="text">GeoDK Ortofoto 2024 via WMTS</title>
-    <updated>2024-12-20T14:36:41Z</updated>
+    <updated>2025-01-02T08:41:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56273" />
     <content
       type="text">Besked: GeoDK Ortofoto 2024 via WMTS
 
-20.12.2024: GeoDK Ortofoto 2024 er fortsat ikke tilgængelig via WMTS. Der arbejdes på at problemet er løst primo januar 2025. Vi beklager de gener det kan medføre for anvendelsen af GeoDK Ortofoto.&#xD;
+02.01.2025: GeoDK Ortofoto 2024 er fortsat ikke tilgængelig via WMTS. Der arbejdes på at problemet er løst primo januar 2025. Vi beklager de gener det kan medføre for anvendelsen af GeoDK Ortofoto.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
