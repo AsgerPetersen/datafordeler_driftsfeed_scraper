@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-02T08:41:05Z</updated>
+  <updated>2025-01-02T10:20:14Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -85,7 +85,7 @@ Sagsreference: 56273&#xD;
     <id>54838</id>
     <title
       type="text">CVR udfører datavask på cirka 1,8 millioner virksomheder og P-enheder</title>
-    <updated>2024-11-08T10:33:44Z</updated>
+    <updated>2025-01-02T10:20:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/54838" />
@@ -95,7 +95,7 @@ Sagsreference: 56273&#xD;
 Den 28. december 2024 udfører Det Centrale Virksomhedsregister (CVR) en større datavask på cirka 1,8 millioner virksomheder og P-enheder. I perioden med datavask kan frekvensen på dataopdateringer blive påvirket. Anvendere, som abonnerer på at modtage CVR branchekoder via PUSH og/eller PULL, vil opleve at modtage væsentlig flere hændelser end normalt, mens datavasken står på.&#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 54838&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
