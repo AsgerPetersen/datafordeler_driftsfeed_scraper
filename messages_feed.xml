@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-06T07:46:55Z</updated>
+  <updated>2025-01-06T07:56:07Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -104,15 +104,15 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>56370</id>
     <title
-      type="text">Test06 de webbaserede tjenester er utilgængelige.</title>
-    <updated>2025-01-06T07:46:55Z</updated>
+      type="text">Test06 webbaserede tjenester er utilgængelige.</title>
+    <updated>2025-01-06T07:56:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56370" />
     <content
-      type="text">Besked: Test06 de webbaserede tjenester er utilgængelige
+      type="text">Besked: Test06 webbaserede tjenester er utilgængelige
 
-06.01.2025, klokken 08:45: Webservicekald med brugernavn og kodeord fejler i øjeblikket på Test06. Der arbejdes på at få løst problemet.&#xD;
+06.01.2025 klokken 08:45: Webservicekald med brugernavn og kodeord fejler i øjeblikket på Test06. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
