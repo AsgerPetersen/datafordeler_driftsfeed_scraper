@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-09T09:09:40Z</updated>
+  <updated>2025-01-09T11:34:47Z</updated>
   <entry>
     <id>55858</id>
     <title
       type="text">Skærmkort opdatering</title>
-    <updated>2024-12-20T12:50:20Z</updated>
+    <updated>2025-01-09T11:34:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55858" />
     <content
       type="text">Besked: Skærmkort opdatering
 
-Skærmkort WMS og filudtræk (FTP) blev opdateret i uge 47. WMTS forventes opdateret i primo januar 2025.&#xD;
+Skærmkort WMS og filudtræk (FTP) blev opdateret i uge 47. WMTS forventes opdateret primo januar 2025.&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -29,7 +29,7 @@ Sagsreference: 55858&#xD;
     <id>55781</id>
     <title
       type="text">DHM dataopdatering 2023</title>
-    <updated>2024-12-20T12:50:59Z</updated>
+    <updated>2025-01-09T11:34:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55781" />
@@ -38,7 +38,7 @@ Sagsreference: 55858&#xD;
 
 DHM 2023 data bliver opdateret i december.
 
-I øjeblikket er WMS, filudtræk (FTP) og fildownload (HTTPS) opdateret. De resterende bliver opdateret i primo januar 2025.&#xD;
+I øjeblikket er WMS, filudtræk (FTP) og fildownload (HTTPS) opdateret. De resterende bliver opdateret primo januar 2025.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -79,26 +79,6 @@ Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 56273&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>54838</id>
-    <title
-      type="text">CVR udfører datavask på cirka 1,8 millioner virksomheder og P-enheder</title>
-    <updated>2025-01-07T08:50:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/54838" />
-    <content
-      type="text">Besked: CVR udfører datavask på cirka 1,8 millioner virksomheder og P-enheder
-
-Den 28. december 2024 udfører Det Centrale Virksomhedsregister (CVR) en større datavask på cirka 1,8 millioner virksomheder og P-enheder. I perioden med datavask kan frekvensen på dataopdateringer blive påvirket. Anvendere, som abonnerer på at modtage CVR branchekoder via PUSH og/eller PULL, vil opleve at modtage væsentlig flere hændelser end normalt, mens datavasken står på.&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 54838&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -143,26 +123,6 @@ Status: Planlagt&#xD;
 Sagsreference: 56638&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56370</id>
-    <title
-      type="text">Test06 webbaserede tjenester er utilgængelige.</title>
-    <updated>2025-01-06T12:52:20Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56370" />
-    <content
-      type="text">Besked: Test06 webbaserede tjenester er utilgængelige
-
-06.01.2025 klokken 13:50: Problemet er løst og de webbaserede tjenester er tilbage i normal drift.
-
-06.01.2025 klokken 08:45: Webbaserede tjenester er i øjeblikket utilgængelig på Test06. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 56370&#xD;
 </content>
   </entry>
 </feed>
