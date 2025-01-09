@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2024-12-20T06:34:37Z</updated>
+  <updated>2025-01-09T17:13:14Z</updated>
   <entry>
     <id>54178</id>
     <title
@@ -54,12 +54,14 @@ Tidsangivelse: April 2025&#xD;
     <id>55628</id>
     <title
       type="text">GeoDanmark Ortofoto 2024</title>
-    <updated>2024-12-20T06:34:37Z</updated>
+    <updated>2025-01-09T17:13:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/55628" />
     <content
       type="text">Besked: GeoDanmark Ortofoto 2024 
+
+09.01.2025 klokken 18:15: GeoDanmark Ortofoto, WMTS, WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
 
 16.12.2024: GeoDanmark Ortofoto WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
 
