@@ -6,22 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-09T17:00:51Z</updated>
+  <updated>2025-01-09T17:18:59Z</updated>
   <entry>
     <id>55858</id>
     <title
       type="text">Skærmkort opdatering</title>
-    <updated>2025-01-09T11:34:47Z</updated>
+    <updated>2025-01-09T17:18:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55858" />
     <content
       type="text">Besked: Skærmkort opdatering
 
+09.01.2025 klokken 18:15: Opdaterede skærmkort data er nu tilgængelig via WMTS.
+
 Skærmkort WMS og filudtræk (FTP) blev opdateret i uge 47. WMTS forventes opdateret primo januar 2025.&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 55858&#xD;
 </content>
   </entry>
@@ -29,19 +31,21 @@ Sagsreference: 55858&#xD;
     <id>55781</id>
     <title
       type="text">DHM dataopdatering 2023</title>
-    <updated>2025-01-09T11:34:22Z</updated>
+    <updated>2025-01-09T17:18:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/55781" />
     <content
       type="text">Besked: DHM dataopdatering 2023
 
+09.01.2025 klokken 18:15: DHM 2023 data er nu tilgængelig via WMTS.
+
 DHM 2023 data bliver opdateret i december.
 
 I øjeblikket er WMS, filudtræk (FTP) og fildownload (HTTPS) opdateret. De resterende bliver opdateret primo januar 2025.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 55781&#xD;
 </content>
   </entry>
@@ -67,17 +71,19 @@ Sagsreference: 56220&#xD;
     <id>56273</id>
     <title
       type="text">GeoDK Ortofoto 2024 via WMTS</title>
-    <updated>2025-01-02T08:41:05Z</updated>
+    <updated>2025-01-09T17:18:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56273" />
     <content
       type="text">Besked: GeoDK Ortofoto 2024 via WMTS
 
+09.01.2025 klokken 18:15: GeoDK Ortofoto 2024 data er nu tilgængelig via WMTS.
+
 02.01.2025: GeoDK Ortofoto 2024 er fortsat ikke tilgængelig via WMTS. Der arbejdes på at problemet er løst primo januar 2025. Vi beklager de gener det kan medføre for anvendelsen af GeoDK Ortofoto.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 56273&#xD;
 </content>
   </entry>
