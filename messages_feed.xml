@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-08T08:53:59Z</updated>
+  <updated>2025-01-09T09:09:40Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -119,6 +119,28 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 56217&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>56638</id>
+    <title
+      type="text">PROD servicevindue torsdag den 9. januar 2025 klokken 17:00 - 19:00</title>
+    <updated>2025-01-09T09:09:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/56638" />
+    <content
+      type="text">Besked: PROD servicevindue torsdag den 9. januar 2025 klokken 17:00 - 19:00
+
+Der er planlagt servicevindue på PROD torsdag den 9. januar 2025 i tidsrummet klokken 17:00 - 19:00.
+
+Under servicevinduet vil man som anvender kunne opleve kortvarig påvirkning på WMTS tjenester.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 56638&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
