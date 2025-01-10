@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-01-09T17:19:06Z</updated>
+  <updated>2025-01-10T07:01:58Z</updated>
   <entry>
     <id>54178</id>
     <title
       type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024</title>
-    <updated>2024-12-11T11:15:18Z</updated>
+    <updated>2025-01-10T07:01:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/54178" />
@@ -54,22 +54,14 @@ Tidsangivelse: April 2025&#xD;
     <id>55628</id>
     <title
       type="text">GeoDanmark Ortofoto 2024</title>
-    <updated>2025-01-09T17:19:06Z</updated>
+    <updated>2025-01-10T07:01:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/55628" />
     <content
       type="text">Besked: GeoDanmark Ortofoto 2024 
 
-09.01.2025 klokken 18:15: GeoDanmark Ortofoto, WMTS, WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
-
-16.12.2024: GeoDanmark Ortofoto WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.
-
-Vi forventer at GeoDanmark Ortofoto WMTS viser 2024 data i løbet januar 2025
-
-Vi opdaterer denne meddelelse, når WMTS indeholder 2024 data.
-
-Læs mere under driftsmeddelelser&#xD;
+09.01.2025: GeoDanmark Ortofoto WMTS, WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice, Filudtræk (FTP)&#xD;
 Status: Gennemført&#xD;
