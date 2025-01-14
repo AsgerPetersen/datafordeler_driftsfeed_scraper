@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-14T10:18:38Z</updated>
+  <updated>2025-01-14T10:44:42Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -155,12 +155,14 @@ Sagsreference: 56788&#xD;
     <id>56814</id>
     <title
       type="text">De webbaserede tjenester er utilgængelige</title>
-    <updated>2025-01-14T10:18:38Z</updated>
+    <updated>2025-01-14T10:44:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56814" />
     <content
       type="text">Besked: De webbaserede tjenester er utilgængelige
+
+14.01.2025 klokken 11:45: Problemet er løst. Nedennævnte berørte registres webbaserede tjenester er tilbage i normal drift. 
 
 14.01.2025 klokken 11:00: Man kan som anvender i øjeblikket opleve, at registrene BBR, DAGI, DAR, Fikspunkter, DHM, DTK, Danske stednavne, EBR, GeoDanmark Ortofoto, GeoDanmark Vektor, Matriklen og Skærmkortet webbaserede tjenester er berørt af længere svartider eller utilgængelighed. Der bliver arbejdet med højeste prioritet for at få problemet løst. Næste status cirka klokken 12:00.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Adresseregister (DAR), Danmarks Fikspunktsregister, Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), GeoDanmark Ortofoto, GeoDanmark Vektor, Historiske kort og data, Matriklen (MAT), Skærmkortet&#xD;
