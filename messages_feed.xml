@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-14T08:41:38Z</updated>
+  <updated>2025-01-14T10:03:00Z</updated>
   <entry>
     <id>55858</id>
     <title
@@ -149,6 +149,24 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 56788&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>56814</id>
+    <title
+      type="text">De webbaserede tjenester er utilgængelige</title>
+    <updated>2025-01-14T10:03:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/56814" />
+    <content
+      type="text">Besked: De webbaserede tjenester er utilgængelige
+
+14.01.2025 klokken 11:00: Man kan som anvender i øjeblikket opleve at registrene BBR, DAGI, DAR, Fikspunkter, DHM, DTK, Danske stednavne, EBR, GeoDanmark Ortofoto, GeoDanmark Vector, Matriklen og Skærmkortet webbaserede tjenester, er berørt af længere svartider eller utilgængelighed. Der arbejdes med højeste prioritet for at få problemet løst. Næste ny status senest kl. 12:00 på løsning af problemet.&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Adresseregister (DAR), Danmarks Fikspunktsregister, Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), GeoDanmark Ortofoto, GeoDanmark Vektor, Historiske kort og data, Matriklen (MAT), Skærmkortet&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 56814&#xD;
 </content>
   </entry>
 </feed>
