@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-14T11:38:05Z</updated>
+  <updated>2025-01-14T15:02:29Z</updated>
   <entry>
     <id>56220</id>
     <title
@@ -67,6 +67,30 @@ Status: Planlagt&#xD;
 Sagsreference: 56217&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>56839</id>
+    <title
+      type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
+    <updated>2025-01-14T15:02:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/56839" />
+    <content
+      type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
+
+14.01.2025 klokken 15:55: For to prædefinerede DHM filudtræk er der fejl dataindholdet efter 2024 dataopdateringen.
+
+DHMterræn mangler en del 10 km tiles i det prædefineret filudtræk.
+
+DHMoverflade, indeholder gamle data fra 2023.
+
+Der bliver arbejdet på at løse fejlen. &#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: I gang&#xD;
+Sagsreference: 56839&#xD;
 </content>
   </entry>
   <entry>
