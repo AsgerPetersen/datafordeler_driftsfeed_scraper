@@ -6,25 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-14T15:02:29Z</updated>
-  <entry>
-    <id>56220</id>
-    <title
-      type="text">Fildownload (HTTPS) er lukket i test06 indtil 21. januar 2025.</title>
-    <updated>2024-12-18T12:06:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56220" />
-    <content
-      type="text">Besked: Fildownload (HTTPS) er lukket i test06 indtil 21. januar 2025
-
- &#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 56220&#xD;
-</content>
-  </entry>
+  <updated>2025-01-15T07:34:49Z</updated>
   <entry>
     <id>56759</id>
     <title
@@ -65,6 +47,30 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 56217&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>56797</id>
+    <title
+      type="text">Test06 servicevindue den 16. januar 2025 klokken 10:00 - 17:00</title>
+    <updated>2025-01-15T07:34:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/56797" />
+    <content
+      type="text">Besked: Test06 servicevindue den 16. januar 2025 klokken 10:00 - 17:00
+
+Der er planlagt servicevindue på Test06 den 16. januar 2025 klokken 10:00 - 17:00 i forbindelse med moderniseringen af Datafordeleren.
+
+Der forventes ingen påvirkning på miljøet under servicevinduet.
+
+Fildownload (HTTPS) er lukket i Test06 indtil 21. januar 2025.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 56797&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
