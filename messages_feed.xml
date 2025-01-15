@@ -100,26 +100,6 @@ Sagsreference: 56839&#xD;
 </content>
   </entry>
   <entry>
-    <id>56788</id>
-    <title
-      type="text">CPR's dataopdateringer er ikke blevet indlæst som planlagt efter natten til fredag den 10. januar</title>
-    <updated>2025-01-14T08:41:38Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56788" />
-    <content
-      type="text">Besked: CPR's dataopdateringer er ikke blevet indlæst som planlagt efter natten til fredag den 10. januar
-
-14.01.2025 klokken 09:45: Planlagte CPR dataopdatering gennemført i nat og problemet er løst.
-
-13.01.2025 klokken 17:15: Den normale CPR dataopdatering er ikke blevet indlæst som planlagt efter natten til fredag den 10. januar i tidsrummet klokken 01:00-03:00. Dette har også medført, at CPR hændelser ikke er blevet udsendt natten til lørdag den 11. januar. CPR dataopdatering og hændelser bliver igen leveret med næste planlagte dataopdatering natten til tirsdag den 14. januar.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 56788&#xD;
-</content>
-  </entry>
-  <entry>
     <id>56814</id>
     <title
       type="text">De webbaserede tjenester er utilgængelige</title>
