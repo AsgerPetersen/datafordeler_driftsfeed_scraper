@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-15T07:34:49Z</updated>
+  <updated>2025-01-16T11:04:58Z</updated>
   <entry>
     <id>56759</id>
     <title
@@ -55,7 +55,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56797</id>
     <title
       type="text">Test06 servicevindue den 16. januar 2025 klokken 10:00 - 17:00</title>
-    <updated>2025-01-15T07:34:49Z</updated>
+    <updated>2025-01-16T10:57:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56797" />
@@ -69,7 +69,7 @@ Der forventes ingen påvirkning på miljøet under servicevinduet.
 Fildownload (HTTPS) er lukket i Test06 indtil 21. januar 2025.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 56797&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -79,12 +79,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56839</id>
     <title
       type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
-    <updated>2025-01-14T15:02:29Z</updated>
+    <updated>2025-01-16T11:04:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56839" />
     <content
       type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
+
+16.01.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
 
 14.01.2025 klokken 15:55: For to prædefinerede DHM filudtræk er der fejl dataindholdet efter 2024 dataopdateringen.
 
@@ -97,26 +99,6 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 56839&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56814</id>
-    <title
-      type="text">De webbaserede tjenester er utilgængelige</title>
-    <updated>2025-01-14T11:38:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56814" />
-    <content
-      type="text">Besked: De webbaserede tjenester er utilgængelige
-
-14.01.2025 klokken 11:45: Problemet er løst. Nedennævnte berørte registres webbaserede tjenester er tilbage i normal drift. 
-
-14.01.2025 klokken 11:00: Man kan som anvender i øjeblikket opleve, at registrene BBR, DAGI, DAR, Fikspunkter, DHM, DTK, Danske stednavne, EBR, GeoDanmark Ortofoto, GeoDanmark Vektor, Matriklen og Skærmkortet webbaserede tjenester er berørt af længere svartider eller utilgængelighed. Der bliver arbejdet med højeste prioritet for at få problemet løst. Næste status cirka klokken 12:00.&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Administrative Geografiske Inddeling (DAGI), Danmarks Adresseregister (DAR), Danmarks Fikspunktsregister, Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), Danske Stednavne, Ejendomsbeliggenhedsregisteret (EBR), GeoDanmark Ortofoto, GeoDanmark Vektor, Historiske kort og data, Matriklen (MAT), Skærmkortet&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 56814&#xD;
 </content>
   </entry>
 </feed>
