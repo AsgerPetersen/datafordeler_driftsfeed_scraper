@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-16T11:04:58Z</updated>
+  <updated>2025-01-17T06:28:35Z</updated>
   <entry>
     <id>56759</id>
     <title
@@ -55,7 +55,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56797</id>
     <title
       type="text">Test06 servicevindue den 16. januar 2025 klokken 10:00 - 17:00</title>
-    <updated>2025-01-16T10:57:41Z</updated>
+    <updated>2025-01-17T06:28:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56797" />
@@ -69,7 +69,7 @@ Der forventes ingen påvirkning på miljøet under servicevinduet.
 Fildownload (HTTPS) er lukket i Test06 indtil 21. januar 2025.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 56797&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
