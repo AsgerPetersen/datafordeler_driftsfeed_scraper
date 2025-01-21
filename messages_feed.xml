@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-20T13:12:17Z</updated>
+  <updated>2025-01-21T10:02:05Z</updated>
   <entry>
     <id>56797</id>
     <title
@@ -27,6 +27,27 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 56797&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>57107</id>
+    <title
+      type="text">PROD servicevindue torsdag den 23. januar 2025 klokken 17:00 - 22:00</title>
+    <updated>2025-01-21T10:02:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/57107" />
+    <content
+      type="text">Besked: PROD servicevindue torsdag den 23. januar 2025 klokken 17:00 - 22:00
+
+Der er planlagt servicevindue på PROD torsdag den 23. januar 2025 klokken 17:00 - 22:00.
+
+Der er ingen påvirkning på miljøet under servicevinduet.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 57107&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
