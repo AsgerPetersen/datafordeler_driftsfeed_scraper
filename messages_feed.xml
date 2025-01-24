@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-24T06:53:51Z</updated>
+  <updated>2025-01-24T06:57:35Z</updated>
   <entry>
     <id>57166</id>
     <title
@@ -31,12 +31,14 @@ Sagsreference: 57166&#xD;
     <id>57107</id>
     <title
       type="text">PROD servicevindue torsdag den 23. januar 2025 klokken 17:00 - 22:00</title>
-    <updated>2025-01-24T06:53:51Z</updated>
+    <updated>2025-01-24T06:57:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57107" />
     <content
       type="text">Besked: PROD servicevindue torsdag den 23. januar 2025 klokken 17:00 - 22:00
+
+24.01.2025: Servicevinduet er gennemført.
 
 Der er planlagt servicevindue på PROD torsdag den 23. januar 2025 klokken 17:00 - 22:00.
 
