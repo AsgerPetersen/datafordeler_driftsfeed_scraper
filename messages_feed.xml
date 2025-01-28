@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-27T10:48:05Z</updated>
+  <updated>2025-01-28T07:13:23Z</updated>
   <entry>
     <id>57166</id>
     <title
@@ -45,6 +45,26 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 56217&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>56218</id>
+    <title
+      type="text">PROD servicevindue den 1. februar 2025 klokken 14:00 til 16:00</title>
+    <updated>2025-01-28T07:13:23Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/56218" />
+    <content
+      type="text">Besked: PROD servicevindue den 1. februar 2025 klokken 14:00 til 16:00
+
+I perioden vil der være nedetid på FTP/SFTP, fildownload (HTTPS), filudtræk (FTP) og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 56218&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
