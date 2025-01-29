@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-29T10:07:17Z</updated>
+  <updated>2025-01-28T07:13:23Z</updated>
   <entry>
     <id>57166</id>
     <title
@@ -45,28 +45,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 56217&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>57318</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 28. januar 2025</title>
-    <updated>2025-01-29T10:07:17Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57318" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 28. januar 2025
-
-Der er planlagt servicevindue på Test03 og Test04 fra klokken 08-12:30 og Test06 fra klokken 12:30-17:00.
-
-I perioderne vil dataopdatering være stoppet på miljøerne.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 57318&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
