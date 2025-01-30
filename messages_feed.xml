@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-28T07:13:23Z</updated>
+  <updated>2025-01-30T11:02:28Z</updated>
   <entry>
     <id>57166</id>
     <title
@@ -25,28 +25,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 57166&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56217</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue den 29. januar 2025 fra klokken 17:00 til den 30. januar 2025 klokken 02:00</title>
-    <updated>2025-01-13T11:39:38Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56217" />
-    <content
-      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 29. januar 2025 fra klokken 17:00 til torsdag den 30. januar 2025 klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 29. januar 2025 fra klokken 17:00 til torsdag den 30. januar 2025 klokken 02:00.
-
-I perioden vil miljøerne være helt eller delvis utilgængelige.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 56217&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -73,14 +51,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56839</id>
     <title
       type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
-    <updated>2025-01-27T10:48:05Z</updated>
+    <updated>2025-01-30T11:02:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56839" />
     <content
       type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
 
-27.01.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
+30.01.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
 
 14.01.2025 klokken 15:55: For to prædefinerede DHM filudtræk er der fejl dataindholdet efter 2024 dataopdateringen.
 
