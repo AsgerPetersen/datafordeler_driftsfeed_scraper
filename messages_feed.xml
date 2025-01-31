@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-01-31T12:51:45Z</updated>
+  <updated>2025-01-31T13:01:51Z</updated>
   <entry>
     <id>57463</id>
     <title
@@ -95,7 +95,7 @@ Sagsreference: 56839&#xD;
     <id>57464</id>
     <title
       type="text">BBR dataopdatering er stoppet</title>
-    <updated>2025-01-31T12:51:45Z</updated>
+    <updated>2025-01-31T13:01:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57464" />
@@ -109,7 +109,7 @@ Sagsreference: 56839&#xD;
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 57464&#xD;
 </content>
   </entry>
