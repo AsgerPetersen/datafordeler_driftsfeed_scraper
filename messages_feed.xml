@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-04T08:59:18Z</updated>
+  <updated>2025-02-04T14:36:56Z</updated>
   <entry>
     <id>57166</id>
     <title
@@ -49,6 +49,26 @@ Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: Løst&#xD;
 Sagsreference: 57520&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>57328</id>
+    <title
+      type="text">PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00</title>
+    <updated>2025-02-04T14:36:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/57328" />
+    <content
+      type="text">Besked: PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00
+
+Mens servicevinduet pågår vil registres dataopdateringer være på pause.&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 57328&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
