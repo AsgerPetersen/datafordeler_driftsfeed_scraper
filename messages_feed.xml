@@ -28,30 +28,6 @@ Sagsreference: 57166&#xD;
 </content>
   </entry>
   <entry>
-    <id>57520</id>
-    <title
-      type="text">Dokumentation i Confluence er ikke tilgængelig</title>
-    <updated>2025-02-04T08:59:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57520" />
-    <content
-      type="text">Besked: Dokumentation i Confluence er ikke tilgængelig
-
-04.02.2025 klokken 09:30 Dokumentation for Datafordeleren er tilgængelig igen.
-
- 
-
-Man kan i øjeblikket opleve, at dokumentation for Datafordeleren i Confluence er utilgængelig.
-
-Vi arbejder på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 57520&#xD;
-</content>
-  </entry>
-  <entry>
     <id>57328</id>
     <title
       type="text">PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00</title>
@@ -95,28 +71,6 @@ Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 56839&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>57464</id>
-    <title
-      type="text">BBR dataopdatering er stoppet</title>
-    <updated>2025-01-31T13:01:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57464" />
-    <content
-      type="text">Besked: BBR dataopdatering er stoppet i produktionsmiljøet
-
-31.01.2025 klokken 10:44 Dataopdateringen kører igen i normal drift.
-
-31.01.2025 klokken 11:30: BBR dataopdatering er stoppet i produktionsmiljøet. Sidste opdatering var 30.01.2025 klokken 13:57.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 57464&#xD;
 </content>
   </entry>
 </feed>
