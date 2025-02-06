@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-06T08:28:58Z</updated>
+  <updated>2025-02-06T11:09:59Z</updated>
   <entry>
     <id>57607</id>
     <title
@@ -30,17 +30,37 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>57625</id>
+    <title
+      type="text">PROD servicevindue den 22. februar 2025 klokken 14:00 til 16:00</title>
+    <updated>2025-02-06T11:08:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/57625" />
+    <content
+      type="text">Besked: PROD servicevindue den 22. februar 2025 klokken 14:00 til 16:00
+
+I perioden vil der være nedetid på FTP/SFTP, fildownload (HTTPS), filudtræk (FTP) og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 57625&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>57328</id>
     <title
       type="text">PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00</title>
-    <updated>2025-02-04T14:36:56Z</updated>
+    <updated>2025-02-06T11:05:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57328" />
     <content
       type="text">Besked: PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00
 
-Mens servicevinduet pågår vil registres dataopdateringer være på pause.&#xD;
+Mens servicevinduet pågår, vil registres dataopdateringer være på pause.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
 Status: Planlagt&#xD;
@@ -53,14 +73,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56839</id>
     <title
       type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
-    <updated>2025-02-06T07:29:01Z</updated>
+    <updated>2025-02-06T11:09:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56839" />
     <content
       type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
 
-06.02.2025 klokken 08.30: Problemet er løst. Filudtrækkende leveres nu med korrekte data.
+06.02.2025 klokken 08.30: Problemet er løst. Filudtræk leveres nu med korrekte data.
 
 03.02.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
 
