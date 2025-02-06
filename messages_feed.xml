@@ -6,27 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-04T14:36:56Z</updated>
-  <entry>
-    <id>57166</id>
-    <title
-      type="text">EJF udfører datarettelse onsdag den 5. februar</title>
-    <updated>2025-01-31T10:21:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57166" />
-    <content
-      type="text">Besked: EJF udfører datarettelse onsdag den 5. februar
-
-EJF udfører datarettelser, som bliver afviklet onsdag den 5. februar.
-Læs mere om datarettelsen i EJF i dokumentationen:
-https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 57166&#xD;
-</content>
-  </entry>
+  <updated>2025-02-06T07:29:01Z</updated>
   <entry>
     <id>57328</id>
     <title
@@ -51,12 +31,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>56839</id>
     <title
       type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
-    <updated>2025-02-03T10:28:31Z</updated>
+    <updated>2025-02-06T07:29:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/56839" />
     <content
       type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
+
+06.02.2025 klokken 08.30: Problemet er løst. Filudtrækkende leveres nu med korrekte data.
 
 03.02.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
 
@@ -69,7 +51,7 @@ DHMoverflade, indeholder gamle data fra 2023.
 Der bliver arbejdet på at løse fejlen. &#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 56839&#xD;
 </content>
   </entry>
