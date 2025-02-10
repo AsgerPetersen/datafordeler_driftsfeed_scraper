@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-07T10:51:48Z</updated>
+  <updated>2025-02-10T08:03:51Z</updated>
   <entry>
     <id>57607</id>
     <title
       type="text">Test06 servicevindue fredag den 7. februar 2025 klokken 10:45-15:00</title>
-    <updated>2025-02-07T10:51:48Z</updated>
+    <updated>2025-02-10T08:03:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57607" />
@@ -23,7 +23,7 @@ Der er planlagt servicevindue på Test06 servicevindue fredag den 7. februar 202
 I tidsrummet vil der være ustabilitet på fildownload, GraphQL, Datafordeler Administration og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 57607&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
