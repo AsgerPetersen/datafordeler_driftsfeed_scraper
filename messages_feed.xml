@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-07T07:27:05Z</updated>
+  <updated>2025-02-06T11:08:43Z</updated>
   <entry>
     <id>57625</id>
     <title
@@ -25,56 +25,6 @@ Status: Planlagt&#xD;
 Sagsreference: 57625&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>57328</id>
-    <title
-      type="text">PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00</title>
-    <updated>2025-02-07T07:27:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57328" />
-    <content
-      type="text">Besked: PROD servicevindue den 6. februar 2025 klokken 16:00 til 21:00
-
-07.02.2025 klokken 08:30: Gennemført
-
-Mens servicevinduet pågår, vil registres dataopdateringer være på pause.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 57328&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>56839</id>
-    <title
-      type="text">To DHM prædefinerede filudtræk indeholder ikke korrekte data</title>
-    <updated>2025-02-06T11:09:59Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/56839" />
-    <content
-      type="text">Besked: To DHM prædefinerede filudtræk indeholder ikke korrekte data
-
-06.02.2025 klokken 08.30: Problemet er løst. Filudtræk leveres nu med korrekte data.
-
-03.02.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse fejlen. 
-
-14.01.2025 klokken 15:55: For to prædefinerede DHM filudtræk er der fejl dataindholdet efter 2024 dataopdateringen.
-
-DHMterræn mangler en del 10 km tiles i det prædefineret filudtræk.
-
-DHMoverflade, indeholder gamle data fra 2023.
-
-Der bliver arbejdet på at løse fejlen. &#xD;
-Register: Danmarks Højdemodel&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Løst&#xD;
-Sagsreference: 56839&#xD;
 </content>
   </entry>
 </feed>
