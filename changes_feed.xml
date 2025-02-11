@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-01-10T07:01:58Z</updated>
+  <updated>2025-02-11T10:22:37Z</updated>
   <entry>
     <id>54178</id>
     <title
@@ -48,6 +48,44 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Forventet&#xD;
 Sagsreference: 55565&#xD;
 Tidsangivelse: April 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>57804</id>
+    <title
+      type="text">Nye historiske tjenester for Danmarks Højdemodel 2019-2023</title>
+    <updated>2025-02-11T10:22:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/57804" />
+    <content
+      type="text">Besked: Nye historiske tjenester for Danmarks Højdemodel 2019-2023
+
+Der er for Danmarks Højdemodel (DHM) oprettet nye tjenester med landsdækkende 2019 – 2023 data.
+
+Der er følgende nye historiske tjenester:
+
+WMS
+
+	DHM2023 Historik WMS (Terræn_skyggekort og Overflade_skyggekort)
+
+
+
+Filudtræk
+
+	DHM 2023 Punktsky Prægenereret LAZ
+	DHM 2023 Terræn Prægenereret GeoTIFF
+	DHM 2023 Overflade Prægenereret GeoTIFF
+	DHM 2023 Højdekurver Prægenereret GPKG
+
+
+
+Se mere i Dataoversigten og i dokumentationen for Danmarks Højdemodel (DHM)&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Webservice, Filudtræk (FTP)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 57804&#xD;
+Tidsangivelse: Januar 2025&#xD;
 </content>
   </entry>
   <entry>
