@@ -1,79 +1,163 @@
-<!DOCTYPE html>
-<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <meta charset="utf-8" />
-        <title> HTTP Error 500.30 - ASP.NET Core app failed to start </title>
-        <style>
-            body {
-                font-family: 'Segoe UI', Tahoma, Arial, Helvetica, sans-serif;
-                font-size: .813em;
-                color: #222;
-                background-color: #fff;
-            }
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Changes</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceChanges</id>
+  <updated>2025-02-11T10:22:37Z</updated>
+  <entry>
+    <id>54178</id>
+    <title
+      type="text">Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt den 10. december 2024</title>
+    <updated>2025-01-10T07:01:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/54178" />
+    <content
+      type="text">Besked: Paralleldriften af Matriklen og Matriklen2 på Datafordeleren er ophørt
 
-            h1, h2, h3, h4, h5 {
-                /*font-family: 'Segoe UI',Tahoma,Arial,Helvetica,sans-serif;*/
-                font-weight: 100;
-            }
+11.12.2024: Den første version af Matriklen er lukket på Datafordeleren den 10. december 2024.
 
-            h1 {
-                color: #44525e;
-                margin: 15px 0 15px 0;
-            }
+Læs mere om forskellen på Matriklen og Matriklen2: https://confluence.sdfi.dk/x/sYDoB
 
-            h2 {
-                margin: 10px 5px 0 0;
-            }
+Læs mere om Matriklen2: https://confluence.sdfi.dk/x/LQAGBg&#xD;
+Register: Matriklen (MAT)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 54178&#xD;
+Tidsangivelse: 10. december 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55565</id>
+    <title
+      type="text">Påvirkning af fildownload fra UL1 ved idriftsættelse</title>
+    <updated>2024-11-27T11:49:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/55565" />
+    <content
+      type="text">Besked: Påvirkning af fildownload fra UL1 ved idriftsættelse
 
-            h3 {
-                color: #363636;
-                margin: 5px 5px 0 0;
-            }
+I forbindelse med idriftsættelse af UL2 er der brug for at opdatere fildownload fra UL1. For de anvendere, som er begyndt at bruge de nye fildownload fra UL1, betyder det, at deltafiler sættes på pause i ugen op til go-live, samt at der efter go-live skal hentes et nyt totaldownload.
 
-            code {
-                font-family: Consolas, "Courier New", courier, monospace;
-            }
+Vi vender tilbage med detaljeret vejledning til, hvordan anvendere, der har taget de nye fildownload fra UL1 i brug, skal forholde sig omkring go-live i april 2025.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 55565&#xD;
+Tidsangivelse: April 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>57804</id>
+    <title
+      type="text">Nye historiske tjenester for Danmarks Højdemodel 2019-2023</title>
+    <updated>2025-02-11T10:22:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/57804" />
+    <content
+      type="text">Besked: Nye historiske tjenester for Danmarks Højdemodel 2019-2023
 
-            body .titleerror {
-                padding: 3px 3px 6px 3px;
-                display: block;
-                font-size: 1.5em;
-                font-weight: 100;
-            }
+Der er for Danmarks Højdemodel (DHM) oprettet nye tjenester med landsdækkende 2019 – 2023 data.
 
-            a {
-                color: #1ba1e2;
-                text-decoration: none;
-            }
+Der er følgende nye historiske tjenester:
 
-                a:hover {
-                    color: #13709e;
-                    text-decoration: underline;
-                }
+WMS
 
-            li {
-                margin: 5px;
-            }
+	DHM2023 Historik WMS (Terræn_skyggekort og Overflade_skyggekort)
 
-        </style>
-    </head>
-    <body>
-        <h1> HTTP Error 500.30 - ASP.NET Core app failed to start </h1>
 
-        <h2> Common solutions to this issue: </h2><ul><li>The app failed to start</li><li>The app started but then stopped</li><li>The app started but threw an exception during startup</li></ul>
 
-        
+Filudtræk
 
-        <h2> Troubleshooting steps: </h2>
-        <ul>
-            <li> Check the system event log for error messages </li>
-            <li> Enable logging the application process' stdout messages </li>
-            <li> Attach a debugger to the application process and inspect </li>
-        </ul>
+	DHM 2023 Punktsky Prægenereret LAZ
+	DHM 2023 Terræn Prægenereret GeoTIFF
+	DHM 2023 Overflade Prægenereret GeoTIFF
+	DHM 2023 Højdekurver Prægenereret GPKG
 
-        <h2>
-            For more guidance on diagnosing and handling these errors, visit
-             <a href="https://go.microsoft.com/fwlink/?LinkID=2028526"> <cite>Troubleshoot ASP.NET Core on Azure App Service and IIS</cite></a>.
-        </h2>
-    </body>
-</html>
+
+
+Se mere i Dataoversigten og i dokumentationen for Danmarks Højdemodel (DHM)&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Webservice, Filudtræk (FTP)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 57804&#xD;
+Tidsangivelse: Januar 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>55628</id>
+    <title
+      type="text">GeoDanmark Ortofoto 2024</title>
+    <updated>2025-01-10T07:01:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/55628" />
+    <content
+      type="text">Besked: GeoDanmark Ortofoto 2024 
+
+09.01.2025: GeoDanmark Ortofoto WMTS, WMS og filudtræk for 2024 er nu tilgængelig på Datafordeleren.&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Webservice, Filudtræk (FTP)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 55628&#xD;
+Tidsangivelse: December 2024&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>26622</id>
+    <title
+      type="text">Ændringer til CPR’s tjenester i 2025</title>
+    <updated>2024-10-11T11:17:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/26622" />
+    <content
+      type="text">Besked: Ændringer til CPR’s tjenester i 2025
+
+CPR’s tjenester på Datafordeleren bliver ændret i 2025, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
+
+De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af 2. kvartal 2025. Der vil være paralleldrift i minimum seks måneder. 
+
+Der bliver mulighed for at teste de ændrede CPR tjenester senest to måneder i testmiljø før release.
+
+Læs mere om de planlagte ændringer i CPR tjenesterne. 
+
+Der er p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
+
+Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
+
+KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk, at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice, Hændelser&#xD;
+Status: Forventet&#xD;
+Sagsreference: 26622&#xD;
+Tidsangivelse: 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>46475</id>
+    <title
+      type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
+    <updated>2024-10-21T07:00:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/46475" />
+    <content
+      type="text">Besked: Kommende ændringer til Ejerfortegnelsens tjenester
+
+Der gennemføres en række ændringer og mindre justeringer til Ejerfortegnelsens tjenester på Datafordeleren. Ændringerne er foranlediget af de kommende ændringer til CPR’s tjenester, og Geodatastyrelsens løbende forbedring og tilpasning af de udstillede services.
+
+Ændringerne er planlagt til release på Datafordeleren sammen med de kommende ændringer til CPR's tjenester i 2025.
+
+Læs mere om de planlagte ændringer til Ejerfortegnelsen&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 46475&#xD;
+Tidsangivelse: 2025&#xD;
+</content>
+  </entry>
+</feed>
