@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-17T07:33:55Z</updated>
+  <updated>2025-02-17T11:04:07Z</updated>
   <entry>
     <id>57625</id>
     <title
@@ -28,39 +28,17 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>57878</id>
-    <title
-      type="text">Test06 servicevindue fredag den 14. februar 2025 klokken 10:00-11:00</title>
-    <updated>2025-02-13T08:56:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57878" />
-    <content
-      type="text">Besked: Test06 servicevindue fredag den 14. februar 2025 klokken 10:00-11:00
-
-Der er planlagt servicevindue på Test06 servicevindue fredag den 14. februar 2025 fra klokken 10:00-11:00.
-
-I tidsrummet vil der være ustabilitet på fildownload, GraphQL, Datafordeler Administration og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 57878&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>57906</id>
     <title
       type="text">Afbrydelse i den normale udsendelse af BBR hændelser</title>
-    <updated>2025-02-17T07:33:55Z</updated>
+    <updated>2025-02-17T11:04:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57906" />
     <content
       type="text">Besked: Afbrydelse i den normale udsendelse af BBR hændelser
 
-17.02.2025 klokken 08:30: Køen er kørt igennem og BBR hændelser er tilbage i normal drift.
+17.02.2025 klokken 08:30: Køen er kørt igennem, og BBR hændelser er tilbage i normal drift.
 
 14.02.2025 klokken 10:15: Problemet er løst i går (13.02.2025) og hændelser udsendes igen. Afbrydelsen indtraf den 7. februar 2025. Grundet afbrydelsen er der opstået en kø i udsendelsen og forårsager en forsinket modtagelse af hændelser for anvendere. Køen behandles løbende og forventes nedbragt i løbet af dagen (14.02.2025).&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
