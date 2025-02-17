@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-17T07:24:51Z</updated>
+  <updated>2025-02-17T07:33:55Z</updated>
   <entry>
     <id>57625</id>
     <title
@@ -53,7 +53,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>57906</id>
     <title
       type="text">Afbrydelse i den normale udsendelse af BBR hændelser</title>
-    <updated>2025-02-17T07:24:51Z</updated>
+    <updated>2025-02-17T07:33:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/57906" />
@@ -65,7 +65,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 14.02.2025 klokken 10:15: Problemet er løst i går (13.02.2025) og hændelser udsendes igen. Afbrydelsen indtraf den 7. februar 2025. Grundet afbrydelsen er der opstået en kø i udsendelsen og forårsager en forsinket modtagelse af hændelser for anvendere. Køen behandles løbende og forventes nedbragt i løbet af dagen (14.02.2025).&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Hændelser&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 57906&#xD;
 </content>
   </entry>
