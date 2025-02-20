@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-18T12:09:20Z</updated>
+  <updated>2025-02-20T07:32:46Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -47,10 +47,32 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>58106</id>
+    <title
+      type="text">Servicevindue på Datafordelerens Dokumentation mandag den 24. februar 2025 klokken 10:00 – 12:00</title>
+    <updated>2025-02-20T07:32:46Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/58106" />
+    <content
+      type="text">Besked: Servicevindue på Datafordelerens Dokumentation mandag den 24. februar 2025 klokken 10:00 – 12:00
+
+Der er servicevindue mandag den 24. februar klokken 10:00 – 12:00 på Datafordelerens Dokumentation.
+
+Anvendere kan i perioden opleve, at der kortvarigt ikke er adgang til Dokumentation for Datafordeleren.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 58106&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>58024</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 19. februar 2025 klokken 17:00 - 02:00</title>
-    <updated>2025-02-18T12:09:20Z</updated>
+    <updated>2025-02-20T07:30:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58024" />
@@ -62,7 +84,7 @@ Der er planlagt servicevindue på Test03, Test04 og Test06 fra onsdag den 19. fe
 I perioden vil testmiljøerne være utilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 58024&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
