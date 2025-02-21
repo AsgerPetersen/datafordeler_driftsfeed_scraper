@@ -68,26 +68,4 @@ Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
-  <entry>
-    <id>58024</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 19. februar 2025 klokken 17:00 - 02:00</title>
-    <updated>2025-02-20T07:30:35Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58024" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 19. februar 2025
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 fra onsdag den 19. februar 2025 klokken 17:00 - 02:00.
-
-I perioden vil testmiljøerne være utilgængelige.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 58024&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
 </feed>
