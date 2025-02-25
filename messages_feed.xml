@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-18T09:09:49Z</updated>
+  <updated>2025-02-25T09:34:44Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -24,6 +24,32 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 58002&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>58204</id>
+    <title
+      type="text">Test03 servicevindue mandag den 3. marts klokken 10:00 til fredag den 7. marts 2025 klokken 16:00</title>
+    <updated>2025-02-25T09:34:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/58204" />
+    <content
+      type="text">Besked: Test03 servicevindue mandag den 3. marts klokken 10:00 til fredag den 7. marts 2025 klokken 16:00
+
+I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test03 mandag den 3. marts klokken 10:00 til fredag den 7. marts 2025 klokken 16:00.
+
+I tidsrummet vil dataopdatering og WFS-tjenester på miljøet være sat på pause.
+
+Efter servicevinduet vil fildownload (HTTPS) være lukket i miljøet indtil mandag den 10. marts 2025. 
+
+Læs mere om ekstern test i Datafordelerens Moderniseringsprojekt&#xD;
+Register: Alle&#xD;
+Service: Webservice, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 58204&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
 </feed>
