@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-24T11:11:25Z</updated>
+  <updated>2025-02-18T09:09:49Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -24,48 +24,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 58002&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>57625</id>
-    <title
-      type="text">PROD servicevindue lørdag den 22. februar 2025 klokken 14:00 til 16:00</title>
-    <updated>2025-02-24T11:11:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/57625" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 22. februar 2025 klokken 14:00 til 16:00
-
-I perioden vil der være nedetid på FTP/SFTP, fildownload (HTTPS), filudtræk (FTP) og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 57625&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>58106</id>
-    <title
-      type="text">Servicevindue på Datafordelerens Dokumentation mandag den 24. februar 2025 klokken 10:00 – 12:00</title>
-    <updated>2025-02-24T11:11:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58106" />
-    <content
-      type="text">Besked: Servicevindue på Datafordelerens Dokumentation mandag den 24. februar 2025 klokken 10:00 – 12:00
-
-Der er servicevindue mandag den 24. februar klokken 10:00 – 12:00 på Datafordelerens Dokumentation.
-
-Anvendere kan i perioden opleve, at der kortvarigt ikke er adgang til Dokumentation for Datafordeleren.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 58106&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
 </feed>
