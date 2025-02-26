@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-26T11:35:39Z</updated>
+  <updated>2025-02-26T14:33:29Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -72,6 +72,24 @@ Status: Planlagt&#xD;
 Sagsreference: 58204&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>58349</id>
+    <title
+      type="text">SVR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-02-26T14:33:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/58349" />
+    <content
+      type="text">Besked: SVR dataopdatering er stoppet i produktionsmiljøet
+
+26.02.2025 klokken 15:30: SVR dataopdatering er stoppet i produktionsmiljøet, der bliver arbejdet på at løse problemet.&#xD;
+Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 58349&#xD;
 </content>
   </entry>
 </feed>
