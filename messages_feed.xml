@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-02-26T14:33:29Z</updated>
+  <updated>2025-02-27T11:33:38Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -30,7 +30,7 @@ Sagsreference: 58002&#xD;
     <id>58317</id>
     <title
       type="text">Test06 servicevindue torsdag den 27. februar 2025 klokken 10:00-13:00</title>
-    <updated>2025-02-26T07:14:35Z</updated>
+    <updated>2025-02-27T11:33:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58317" />
@@ -42,7 +42,7 @@ Der er planlagt servicevindue på Test06 servicevindue torsdag den 27. februar 2
 I tidsrummet vil der være ustabilitet på fildownload, GraphQL, Datafordeler Administration og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 58317&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
