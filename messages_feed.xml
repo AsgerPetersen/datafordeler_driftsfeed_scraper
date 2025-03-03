@@ -27,28 +27,6 @@ Sagsreference: 58002&#xD;
 </content>
   </entry>
   <entry>
-    <id>58317</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 27. februar 2025 klokken 10:00-13:00</title>
-    <updated>2025-02-27T12:04:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58317" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 27. februar 2025 klokken 10:00-13:00
-
-Der er planlagt servicevindue på Test06 servicevindue torsdag den 27. februar 2025 fra klokken 10:00-13:00.
-
-I tidsrummet vil der være ustabilitet på fildownload, GraphQL, Datafordeler Administration og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 58317&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>58204</id>
     <title
       type="text">Test03 servicevindue mandag den 3. marts klokken 10:00 til fredag den 7. marts 2025 klokken 16:00</title>
