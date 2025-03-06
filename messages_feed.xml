@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-06T10:14:45Z</updated>
+  <updated>2025-03-06T11:23:13Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -50,6 +50,27 @@ Register: Alle&#xD;
 Service: Webservice, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 58204&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>58533</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue torsdag den 13. marts 2025 </title>
+    <updated>2025-03-06T11:23:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/58533" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue torsdag den 13. marts 2025
+
+I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test03, Test04 og Test06 torsdag den 13. marts 2025 klokken 9:00 - 13:00.
+
+I perioden vil miljøerne være helt eller delvis utilgængelige.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 58533&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
