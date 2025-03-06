@@ -6,23 +6,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-06T07:15:23Z</updated>
+  <updated>2025-03-06T10:14:45Z</updated>
   <entry>
     <id>58002</id>
     <title
       type="text">EJF udfører datarettelse mandag den 3. marts</title>
-    <updated>2025-02-18T09:09:49Z</updated>
+    <updated>2025-03-06T10:14:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58002" />
     <content
       type="text">Besked: EJF udfører datarettelse mandag den 3. marts
 
+06.03.2025: Geodatastyrelsen har fundet en mindre fejl i forhold til datarettelsen i Ejerfortegnelsen (EJF), som medfører, at ikke alle BFE'er er blevet rettet. EJF melder ud, når resterende BFE'er bliver rettet.
+
 Ejerfortegnelsen adviserer om datarettelse mandag den 3. marts
 Læs mere her: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 58002&#xD;
 </content>
   </entry>
@@ -50,26 +52,6 @@ Status: I gang&#xD;
 Sagsreference: 58204&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>58349</id>
-    <title
-      type="text">SVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-03-04T07:56:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58349" />
-    <content
-      type="text">Besked: SVR dataopdatering er stoppet i produktionsmiljøet
-
-04.03.2025 klokken 09:00: Problemet er løst. SVR dataopdatering er tilbage i normal drift
-
-26.02.2025 klokken 15:30: SVR dataopdatering er stoppet i produktionsmiljøet, der bliver arbejdet på at løse problemet.&#xD;
-Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 58349&#xD;
 </content>
   </entry>
   <entry>
