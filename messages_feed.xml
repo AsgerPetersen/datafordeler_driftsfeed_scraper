@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-05T08:56:13Z</updated>
+  <updated>2025-03-06T07:15:23Z</updated>
   <entry>
     <id>58002</id>
     <title
@@ -76,19 +76,21 @@ Sagsreference: 58349&#xD;
     <id>58524</id>
     <title
       type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-03-05T08:56:13Z</updated>
+    <updated>2025-03-06T07:15:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58524" />
     <content
       type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
 
+06.03.2025 klokken 08:15: Problemet er løst. CVR dataopdatering er tilbage i normal drift.
+
 05.03.2025 klokken 09:55: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 05.03.2025 klokken 06:41
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 58524&#xD;
 </content>
   </entry>
