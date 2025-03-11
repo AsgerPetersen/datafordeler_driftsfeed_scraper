@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-11T12:28:19Z</updated>
+  <updated>2025-03-11T15:25:33Z</updated>
   <entry>
     <id>58533</id>
     <title
@@ -32,12 +32,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>58820</id>
     <title
       type="text">Fejl 403 på tjenester med fortrolige data</title>
-    <updated>2025-03-11T09:36:03Z</updated>
+    <updated>2025-03-11T15:25:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58820" />
     <content
       type="text">Besked: Fejl 403 på tjenester med fortrolige data
+
+11.03.2025 klokken 16:30: Problemet er løst.
 
 11.03.2025 klokken 10:30: Man kan i øjeblikket opleve en fejl 403 på tjenester med fortrolige data.
 
@@ -50,7 +52,7 @@ Der bliver arbejdet med høj prioritet på at løse problemet.
  &#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI), Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR), Ejendomsvurdering (VUR), Ejerfortegnelsen (EJF), Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 58820&#xD;
 </content>
   </entry>
