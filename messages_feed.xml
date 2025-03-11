@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-11T09:36:03Z</updated>
+  <updated>2025-03-11T09:54:50Z</updated>
   <entry>
     <id>58533</id>
     <title
@@ -52,6 +52,24 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI), Det Centrale Per
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 58820&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>58823</id>
+    <title
+      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-03-11T09:54:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/58823" />
+    <content
+      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
+
+11.03.2025 klokken 10:55: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var klokken 09:09:45. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 58823&#xD;
 </content>
   </entry>
 </feed>
