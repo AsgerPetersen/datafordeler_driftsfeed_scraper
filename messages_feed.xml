@@ -56,24 +56,4 @@ Status: Løst&#xD;
 Sagsreference: 58820&#xD;
 </content>
   </entry>
-  <entry>
-    <id>58823</id>
-    <title
-      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-03-11T12:28:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58823" />
-    <content
-      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
-
-11.03.2025 klokken 13:30: Problemet er løst. CVR dataopdatering er tilbage i normal drift.
-
-11.03.2025 klokken 10:55: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var klokken 09:09:45. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 58823&#xD;
-</content>
-  </entry>
 </feed>
