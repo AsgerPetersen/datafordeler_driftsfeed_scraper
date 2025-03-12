@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-12T10:56:50Z</updated>
+  <updated>2025-03-12T14:37:39Z</updated>
   <entry>
     <id>58533</id>
     <title
@@ -60,16 +60,18 @@ Sagsreference: 58820&#xD;
     <id>58848</id>
     <title
       type="text">Fejl på filudtræk i test03</title>
-    <updated>2025-03-12T10:56:50Z</updated>
+    <updated>2025-03-12T14:37:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58848" />
     <content
       type="text">Besked: Restore af filudtræk på Test03
 
+12.03.2025 klokken 15:30: Problemet er løst. Filudtræk er igen tilgængelig på Test03.
+
 12.03.2025 klokken 11:45: Der i øjeblikket en restore af filudtræk i gang på Test03. Dette vil forårsage, at alle filudtræk fra 10. marts og frem vil blive genstartet. Årsagen til restore er, at der er opdaget en fejl i miljøet.&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 58848&#xD;
 </content>
   </entry>
