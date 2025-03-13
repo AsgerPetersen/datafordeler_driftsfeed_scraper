@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-13T07:36:33Z</updated>
+  <updated>2025-03-13T09:59:00Z</updated>
   <entry>
     <id>58533</id>
     <title
@@ -79,19 +79,21 @@ Sagsreference: 58848&#xD;
     <id>58867</id>
     <title
       type="text">BBR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-03-13T07:36:33Z</updated>
+    <updated>2025-03-13T09:59:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/58867" />
     <content
       type="text">Besked: BBR dataopdatering er stoppet i produktionsmiljøet
 
+13.03.2025 klokken 11:00: Problemet er løst. BBR dataopdatering er tilbage i normal drift.
+
 13.03.2025 klokken 08:30: BBR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 12.03.2025 klokken 18:31.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 58867&#xD;
 </content>
   </entry>
