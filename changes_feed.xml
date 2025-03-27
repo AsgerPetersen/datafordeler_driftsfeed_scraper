@@ -8,27 +8,6 @@
   <id>serviceChanges</id>
   <updated>2025-03-13T08:56:21Z</updated>
   <entry>
-    <id>55565</id>
-    <title
-      type="text">Påvirkning af fildownload fra UL1 ved idriftsættelse</title>
-    <updated>2024-11-27T11:49:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/55565" />
-    <content
-      type="text">Besked: Påvirkning af fildownload fra UL1 ved idriftsættelse
-
-I forbindelse med idriftsættelse af UL2 er der brug for at opdatere fildownload fra UL1. For de anvendere, som er begyndt at bruge de nye fildownload fra UL1, betyder det, at deltafiler sættes på pause i ugen op til go-live, samt at der efter go-live skal hentes et nyt totaldownload.
-
-Vi vender tilbage med detaljeret vejledning til, hvordan anvendere, der har taget de nye fildownload fra UL1 i brug, skal forholde sig omkring go-live i april 2025.&#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Forventet&#xD;
-Sagsreference: 55565&#xD;
-Tidsangivelse: April 2025&#xD;
-</content>
-  </entry>
-  <entry>
     <id>57804</id>
     <title
       type="text">Nye historiske tjenester for Danmarks Højdemodel 2019-2023</title>
