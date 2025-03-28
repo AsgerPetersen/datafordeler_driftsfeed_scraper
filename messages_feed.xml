@@ -28,27 +28,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>58959</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 26. marts til torsdag den 27. marts 2025</title>
-    <updated>2025-03-18T10:18:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58959" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue fra onsdag den 26. marts til torsdag den 27. marts 2025
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 fra onsdag den 26. marts til torsdag den 27. marts 2025 klokken 17:00 - 02:00.
-
-I perioden vil testmiljøerne være utilgængelige.&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 58959&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>58960</id>
     <title
       type="text">PROD servicevindue lørdag den 29. marts 2025 klokken 14:00 til 16:00</title>
