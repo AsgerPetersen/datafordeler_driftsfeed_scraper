@@ -74,20 +74,4 @@ Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
-  <entry>
-    <id>59476</id>
-    <title
-      type="text">EJF dataopdatering er stoppet i TEST03</title>
-    <updated>2025-03-28T12:25:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59476" />
-    <content
-      type="text">Besked: 28.03.2025 klokken 13:30: EJF dataopdatering er stoppet i TEST03, der bliver arbejdet på at løse problemet &#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 59476&#xD;
-</content>
-  </entry>
 </feed>
