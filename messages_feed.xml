@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-03-31T05:51:47Z</updated>
+  <updated>2025-03-27T13:13:30Z</updated>
   <entry>
     <id>59022</id>
     <title
@@ -25,25 +25,6 @@ Status: Planlagt&#xD;
 Sagsreference: 59022&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>58960</id>
-    <title
-      type="text">PROD servicevindue lørdag den 29. marts 2025 klokken 14:00 til 16:00</title>
-    <updated>2025-03-31T05:51:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/58960" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 29. marts 2025 klokken 14:00 til 16:00
-
-I perioden vil der være nedetid på FTP/SFTP, fildownload (HTTPS), filudtræk (FTP) og dataopdatering.&#xD;
-Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 58960&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
