@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-08T09:01:45Z</updated>
+  <updated>2025-04-08T11:04:38Z</updated>
   <entry>
     <id>59022</id>
     <title
@@ -35,7 +35,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>59445</id>
     <title
       type="text">PROD servicevindue den 22. april til den 27. april 2025</title>
-    <updated>2025-03-27T13:13:30Z</updated>
+    <updated>2025-04-08T11:04:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/59445" />
@@ -48,7 +48,7 @@ Anvendere kan i perioden opleve forsinkelse på webservices og filudtræk (FTP).
 
 Dataopdatering og hændelser er stoppet på produktionsmiljøet i perioden den 22. – 23. april.
 
-Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april. Se vejledning til anvendere af nye fildownloads fra UL1
+Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april. Den sidste deltafil bliver genereret natten til den 22. april mellem klokken 2 og 3. Deltaer kan hentes indtil 22. april klokken 10, hvor servicevinduet starter. Den 28. april klokken 9 er det forventet at totaldownload vil være klar. Totaldownload vil indeholde alle opdateringer, der har været i løbet af servicevinduet. Se vejledning til anvendere af nye fildownloads fra UL1
 
 Læs mere om moderniseringen af Datafordeleren&#xD;
 Register: Alle&#xD;
