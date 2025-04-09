@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-08T13:28:56Z</updated>
+  <updated>2025-04-08T11:04:38Z</updated>
   <entry>
     <id>59022</id>
     <title
@@ -57,30 +57,6 @@ Status: Planlagt&#xD;
 Sagsreference: 59445&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>59673</id>
-    <title
-      type="text">VUR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-04-08T13:28:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59673" />
-    <content
-      type="text">Besked: VUR dataopdatering er stoppet i produktionsmiljøet
-
-08.04.2025 klokken 15.15: VUR dataopdatering kører igen og der er normal drift.
-
-08.04.2025 klokken 11.00: VUR dataopdatering er stadig stoppet i produktionsmiljøet. Der arbejdes på at løse problemet.
-
-07.04.2025 klokken 09:00: VUR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 04.04.2025.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 59673&#xD;
 </content>
   </entry>
 </feed>
