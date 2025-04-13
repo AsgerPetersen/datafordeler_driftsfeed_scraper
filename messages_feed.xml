@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2025-04-11T13:08:40Z</updated>
+  <entry>
+    <id>59022</id>
+    <title
+      type="text">EJF udfører datarettelse onsdag den 2. april</title>
+    <updated>2025-04-07T11:45:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/59022" />
+    <content
+      type="text">Besked: EJF udfører datarettelse onsdag den 2. april
+
+07.04.2025 klokken 13:30: EJF datarettelse er udsat.
+
+EJF melder, at fra den 9. april og frem vil der kunne forekomme rettelser af tinglyste ejerandele for ejerskaber uden tinglyste ejerandele. Der skal i alt gennemgås cirka 1,9 millioner BFE-nr., hvorfor rettelsen kan tage op til cirka 3 måneder, før det er gennemført.
+
+Læs mere i dokumentationen: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680#Datarettelser(EJF)-Ejerfortegnelsenadvisereromstartafdatarettelsed.2.april &#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 59022&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>59445</id>
+    <title
+      type="text">PROD servicevindue den 22. april til den 27. april 2025</title>
+    <updated>2025-04-11T13:08:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/59445" />
+    <content
+      type="text">Besked: PROD servicevindue den 22. april til den 27. april 2025
+
+Som led i forberedelse af idriftsættelsen af Udviklingsleverance 2 vil PROD miljøet være under servicevindue i perioden tirsdag den 22. april til søndag den 27. april 2025.
+
+Anvendere kan i perioden opleve forsinkelse på webservices og filudtræk (FTP).
+
+Dataopdatering og hændelser er stoppet på produktionsmiljøet i perioden den 22. – 23. april.
+
+Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april og metoderne GetAvailableFiledownloads og GetFile er lukket. Den sidste deltafil bliver genereret natten til den 22. april mellem klokken 2 og 3. Deltaer kan hentes indtil 22. april klokken 10, hvor servicevinduet starter. Den 28. april klokken 9 er det forventet at totaldownload vil være klar. Totaldownload vil indeholde alle opdateringer, der har været i løbet af servicevinduet. Se vejledning til anvendere af nye fildownloads fra UL1
+
+Læs mere om moderniseringen af Datafordeleren&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 59445&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>59809</id>
+    <title
+      type="text">Servicevindue på Datafordelerens Dokumentation torsdag den 24. april 2025 klokken 9:00 – 10:00</title>
+    <updated>2025-04-10T06:45:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/59809" />
+    <content
+      type="text">Besked: Servicevindue på Datafordelerens Dokumentation torsdag den 24. april 2025 klokken 9:00 – 10:00
+
+Der er servicevindue torsdag den 24. april klokken 9:00 – 10:00 på Datafordelerens Dokumentation.
+
+Anvendere kan i perioden opleve, at der kortvarigt ikke er adgang til Dokumentation for Datafordeleren.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 59809&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+</feed>
