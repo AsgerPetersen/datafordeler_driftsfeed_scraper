@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-16T10:17:23Z</updated>
+  <updated>2025-04-16T13:54:22Z</updated>
   <entry>
     <id>59022</id>
     <title
@@ -125,17 +125,19 @@ Sagsreference: 59916&#xD;
     <id>59949</id>
     <title
       type="text">Matriklen og EBR dataopdatering er stoppet i Test06</title>
-    <updated>2025-04-16T10:17:23Z</updated>
+    <updated>2025-04-16T13:54:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/59949" />
     <content
       type="text">Besked: Matriklen og EBR dataopdatering er stoppet i Test06
 
+16.04.2025 klokken 16:00: Problemet er løst. Matriklen og EBR dataopdatering er tilbage i normal drift.
+
 16.04.2025: Matriklen og EBR dataopdatering er stoppet i Test06. Der bliver arbejdet på at løse problemet&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 59949&#xD;
 </content>
   </entry>
