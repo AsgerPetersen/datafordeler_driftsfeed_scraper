@@ -8,30 +8,6 @@
   <id>serviceMessages</id>
   <updated>2025-04-16T13:54:22Z</updated>
   <entry>
-    <id>59022</id>
-    <title
-      type="text">EJF udfører datarettelse onsdag den 2. april</title>
-    <updated>2025-04-07T11:45:29Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59022" />
-    <content
-      type="text">Besked: EJF udfører datarettelse onsdag den 2. april
-
-07.04.2025 klokken 13:30: EJF datarettelse er udsat.
-
-EJF melder, at fra den 9. april og frem vil der kunne forekomme rettelser af tinglyste ejerandele for ejerskaber uden tinglyste ejerandele. Der skal i alt gennemgås cirka 1,9 millioner BFE-nr., hvorfor rettelsen kan tage op til cirka 3 måneder, før det er gennemført.
-
-Læs mere i dokumentationen: https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680#Datarettelser(EJF)-Ejerfortegnelsenadvisereromstartafdatarettelsed.2.april &#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 59022&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>59917</id>
     <title
       type="text">PROD servicevindue den 24. april 2025 klokken 20:00 til 24:00</title>
@@ -99,26 +75,6 @@ Status: Planlagt&#xD;
 Sagsreference: 59809&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>59916</id>
-    <title
-      type="text">VUR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-04-15T12:03:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59916" />
-    <content
-      type="text">Besked: VUR dataopdatering er stoppet i produktionsmiljøet
-
-15.04.2025 klokken 14:00: Problemet er løst. VUR dataopdatering er tilbage i normal drift.
-
-14.04.2025 klokken 12:00: VUR dataopdatering er stoppet i produktionsmiljøet. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 59916&#xD;
 </content>
   </entry>
   <entry>
