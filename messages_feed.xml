@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-22T08:03:04Z</updated>
+  <updated>2025-04-22T11:56:13Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -75,6 +75,24 @@ Status: Planlagt&#xD;
 Sagsreference: 59809&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>59993</id>
+    <title
+      type="text">Filudtræk virker i øjeblikket ikke</title>
+    <updated>2025-04-22T11:56:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/59993" />
+    <content
+      type="text">Besked: Filudtræk virker i øjeblikket ikke
+
+22-04-2025 klokken 13.50: Filudtræk virker i øjeblikket ikke. Der arbejdes på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: I gang&#xD;
+Sagsreference: 59993&#xD;
 </content>
   </entry>
 </feed>
