@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-14T10:11:28Z</updated>
+  <updated>2025-04-22T08:03:04Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -31,7 +31,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>59445</id>
     <title
       type="text">PROD servicevindue den 22. april til den 27. april 2025</title>
-    <updated>2025-04-11T13:08:40Z</updated>
+    <updated>2025-04-22T08:03:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/59445" />
@@ -49,7 +49,7 @@ Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april
 Læs mere om moderniseringen af Datafordeleren&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 59445&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
