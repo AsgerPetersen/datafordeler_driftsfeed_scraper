@@ -97,24 +97,4 @@ Status: I gang&#xD;
 Sagsreference: 60013&#xD;
 </content>
   </entry>
-  <entry>
-    <id>59993</id>
-    <title
-      type="text">Filudtræk virker i øjeblikket ikke</title>
-    <updated>2025-04-22T17:31:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59993" />
-    <content
-      type="text">Besked: Filudtræk virker i øjeblikket ikke
-
-22-04-2025 klokken 16.30: Fejlen er løst og filudtræk virker igen.
-
-22-04-2025 klokken 13.50: Filudtræk virker i øjeblikket ikke. Der abejdes på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Løst&#xD;
-Sagsreference: 59993&#xD;
-</content>
-  </entry>
 </feed>
