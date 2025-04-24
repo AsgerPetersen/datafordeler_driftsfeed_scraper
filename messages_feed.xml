@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-24T08:21:23Z</updated>
+  <updated>2025-04-24T10:51:16Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -105,12 +105,14 @@ Sagsreference: 60033&#xD;
     <id>60013</id>
     <title
       type="text">WFS endepunkt på wfs.datafordeler.dk er utilgængeligt</title>
-    <updated>2025-04-23T07:52:42Z</updated>
+    <updated>2025-04-24T10:51:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60013" />
     <content
       type="text">Besked: WFS endepunkt på wfs.datafordeler.dk er utilgængeligt
+
+24.04.2025 klokken 12:45: Fejlen er lokaliseret, og vi arbejder fortsat på at implementere en løsning. Vi forventer, den er klar i løbet af mandag den 28. april.
 
 23.04.2025 klokken 9:50: WFS endepunkt på wfs.datafordeler.dk (Geoserver) er i øjeblikket utilgængeligt. Det er i stedet muligt at bruge endepunktet services.datafordeler.dk for at få adgang til tjenester med WFS. Bemærk at det er muligt at få oplyst url med endepunkt services.datafordeler.dk under WFS i Dataoversigten på datafordeler.dk. Vælg version uden Geoserver.
 
