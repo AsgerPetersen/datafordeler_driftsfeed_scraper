@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-24T07:09:20Z</updated>
+  <updated>2025-04-24T08:21:23Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -31,7 +31,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>59445</id>
     <title
       type="text">PROD servicevindue den 22. april til den 27. april 2025</title>
-    <updated>2025-04-22T08:03:04Z</updated>
+    <updated>2025-04-24T08:21:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/59445" />
@@ -44,7 +44,13 @@ Anvendere kan i perioden opleve forsinkelse på webservices og filudtræk (FTP).
 
 Dataopdatering og hændelser er stoppet på produktionsmiljøet i perioden den 22. – 23. april.
 
-Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april og metoderne GetAvailableFiledownloads og GetFile er lukket. Den sidste deltafil bliver genereret natten til den 22. april mellem klokken 2 og 3. Deltaer kan hentes indtil 22. april klokken 10, hvor servicevinduet starter. Den 28. april klokken 9 er det forventet at totaldownload vil være klar. Totaldownload vil indeholde alle opdateringer, der har været i løbet af servicevinduet. Se vejledning til anvendere af nye fildownloads fra UL1
+Deltafiler på fildownload (HTTPS) er sat på pause i perioden 22. – 27. april:
+
+	Metoderne GetAvailableFiledownloads og GetFile er lukket.
+	Den sidste deltafil bliver genereret natten til den 22. april mellem klokken 2 og 3. Deltaer kan hentes indtil 22. april klokken 10, hvor servicevinduet starter.
+	Den 28. april klokken 9 er det forventet, at totaldownload vil være klar. Totaldownload vil indeholde alle opdateringer, der har været i løbet af servicevinduet. Se vejledning til anvendere af nye fildownloads fra UL1
+
+
 
 Læs mere om moderniseringen af Datafordeleren&#xD;
 Register: Alle&#xD;
@@ -81,14 +87,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60033</id>
     <title
       type="text">CPR dataopdatering er stoppet i produktionmiljøet</title>
-    <updated>2025-04-24T06:44:11Z</updated>
+    <updated>2025-04-24T08:20:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60033" />
     <content
       type="text">Besked: CPR dataopdatering er stoppet
 
-25-04-2025 Klokken 08:30 CPR Har ikke indlæst Data i nat d. 24-04-2025. Der arbejdes på at løse problemet.&#xD;
+25-04-2025 Klokken 08:30 CPR Har ikke indlæst Data i nat den 24-04-2025. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
