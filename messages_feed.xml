@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-25T10:47:58Z</updated>
+  <updated>2025-04-25T12:48:23Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -109,17 +109,23 @@ Sagsreference: 60185&#xD;
     <id>60033</id>
     <title
       type="text">CPR dataopdatering er stoppet i produktionmiljøet</title>
-    <updated>2025-04-25T08:45:57Z</updated>
+    <updated>2025-04-25T12:48:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60033" />
     <content
       type="text">Besked: CPR dataopdatering er stoppet
 
-25.04.2025 Klokken 08:30 CPR har ikke indlæst data 24.04.2025. Der bliver arbejdet på at løse problemet.&#xD;
+25.04.2025 Klokken 14:45:
+
+Problemet er løst. CPR dataopdateringen der ikke blev indlæst den 24.04.2025 er nu indlæst. Dataopdateringen er ligeledes indlæst for den 25.04.2025. Dermed er CPR dataopdateringen tilbage i normal drift.
+
+24.04.2025 Klokken 08:30:
+
+CPR har ikke indlæst data 24.04.2025. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60033&#xD;
 </content>
   </entry>
