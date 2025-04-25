@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-24T11:02:06Z</updated>
+  <updated>2025-04-25T08:46:20Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -84,17 +84,37 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>60185</id>
+    <title
+      type="text">DAR Husnumre fejler med dubletter</title>
+    <updated>2025-04-25T08:46:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60185" />
+    <content
+      type="text">Besked: DAR Husnumre fejler med dubletter
+
+25.04.2025 klokken 10:30: Man kan opleve, at REST tjenesten DAR Husnumre fejler med dubletter, hvis Timestamp i kaldet er efter den 22.04.2025.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 60185&#xD;
+</content>
+  </entry>
+  <entry>
     <id>60033</id>
     <title
       type="text">CPR dataopdatering er stoppet i produktionmiljøet</title>
-    <updated>2025-04-24T11:02:06Z</updated>
+    <updated>2025-04-25T08:45:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60033" />
     <content
       type="text">Besked: CPR dataopdatering er stoppet
 
-25.04.2025 Klokken 08:30 CPR Har ikke indlæst Data i nat den 24.04.2025. Der bliver arbejdet på at løse problemet.&#xD;
+25.04.2025 Klokken 08:30 CPR har ikke indlæst data 24.04.2025. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
