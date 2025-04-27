@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-27T10:24:01Z</updated>
+  <updated>2025-04-27T11:57:09Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -113,17 +113,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60226</id>
     <title
       type="text">Webservices, Dataopdatering, Hændelser og Filudtræk (FTP) er ikke tilgængelige</title>
-    <updated>2025-04-27T10:24:01Z</updated>
+    <updated>2025-04-27T11:57:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60226" />
     <content
       type="text">Besked: Webservices, Dataopdatering, Hændelser og Filudtræk (FTP) er ikke tilgængelige
 
+27.04.2025 klokken 13:45: Problemet er løst, og Webservices, Dataopdatering, Hændelser og Filudtræk (FTP) er igen tilgængelige på Datafordeleren.
+
 27.04.2025 klokken 12:00: Man kan i øjeblikket opleve, at Webservices, Dataopdatering, Hændelser og Filudtræk (FTP) ikke er tilgængelige på Datafordeleren. Det betyder blandt andet, at abonnementer ikke modtager mail med Hændelser og Filudtræk. Fejlen er lokaliseret, og der bliver arbejdet med højeste prioritet på at løse problemet. Vi beklager de gener, problemet kan være årsag til.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60226&#xD;
 </content>
   </entry>
