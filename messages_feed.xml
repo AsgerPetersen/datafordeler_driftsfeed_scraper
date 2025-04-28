@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-28T07:29:04Z</updated>
+  <updated>2025-04-28T08:27:02Z</updated>
   <entry>
     <id>59917</id>
     <title
@@ -133,12 +133,14 @@ Sagsreference: 60185&#xD;
     <id>60013</id>
     <title
       type="text">WFS endepunkt på wfs.datafordeler.dk er utilgængeligt</title>
-    <updated>2025-04-24T10:51:16Z</updated>
+    <updated>2025-04-28T08:27:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60013" />
     <content
       type="text">Besked: WFS endepunkt på wfs.datafordeler.dk er utilgængeligt
+
+24.04.2025 klokken 10:00: Fejlen er løst, og WFS med endepunkt wfs.datafordeler.dk er igen i normal drift.
 
 24.04.2025 klokken 12:45: Fejlen er lokaliseret, og vi arbejder fortsat på at implementere en løsning. Vi forventer, den er klar i løbet af mandag den 28. april.
 
@@ -147,7 +149,7 @@ Sagsreference: 60185&#xD;
 Der bliver arbejdet med højeste prioritet på at løse fejlen. Vi beklager eventuelle gener.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60013&#xD;
 </content>
   </entry>
