@@ -6,32 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-28T08:27:02Z</updated>
-  <entry>
-    <id>59917</id>
-    <title
-      type="text">PROD servicevindue den 24. april 2025 klokken 20:00 til 24:00</title>
-    <updated>2025-04-14T10:11:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/59917" />
-    <content
-      type="text">Besked: PROD servicevindue den 24. april 2025 klokken 20:00 til 24:00
-
-Mens servicevinduet pågår, vil dataopdateringer være på pause for følgende registre: MAT, EBR og EJF.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 59917&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
+  <updated>2025-04-28T10:37:51Z</updated>
   <entry>
     <id>59445</id>
     <title
       type="text">PROD servicevindue den 22. april til den 27. april 2025</title>
-    <updated>2025-04-28T07:29:04Z</updated>
+    <updated>2025-04-28T10:37:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/59445" />
@@ -127,30 +107,6 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 60185&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60013</id>
-    <title
-      type="text">WFS endepunkt på wfs.datafordeler.dk er utilgængeligt</title>
-    <updated>2025-04-28T08:27:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60013" />
-    <content
-      type="text">Besked: WFS endepunkt på wfs.datafordeler.dk er utilgængeligt
-
-24.04.2025 klokken 10:00: Fejlen er løst, og WFS med endepunkt wfs.datafordeler.dk er igen i normal drift.
-
-24.04.2025 klokken 12:45: Fejlen er lokaliseret, og vi arbejder fortsat på at implementere en løsning. Vi forventer, den er klar i løbet af mandag den 28. april.
-
-23.04.2025 klokken 9:50: WFS endepunkt på wfs.datafordeler.dk (Geoserver) er i øjeblikket utilgængeligt. Det er i stedet muligt at bruge endepunktet services.datafordeler.dk for at få adgang til tjenester med WFS. Bemærk at det er muligt at få oplyst url med endepunkt services.datafordeler.dk under WFS i Dataoversigten på datafordeler.dk. Vælg version uden Geoserver.
-
-Der bliver arbejdet med højeste prioritet på at løse fejlen. Vi beklager eventuelle gener.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 60013&#xD;
 </content>
   </entry>
 </feed>
