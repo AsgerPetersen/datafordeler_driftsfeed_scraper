@@ -6,7 +6,29 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-29T08:35:53Z</updated>
+  <updated>2025-04-29T12:24:59Z</updated>
+  <entry>
+    <id>60293</id>
+    <title
+      type="text">PROD servicevindue tirsdag den 13. maj 2025 klokken 17:00 - 22:00</title>
+    <updated>2025-04-29T12:24:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60293" />
+    <content
+      type="text">Besked: PROD servicevindue tirsdag den 13. maj 2025 klokken 17:00 - 22:00
+
+Der er planlagt servicevindue på PROD tirsdag den 13. maj 2025 klokken 17:00 - 22:00.
+
+Anvendere kan i tidsrummet opleve kortvarig nedetid på webservices og geodata-tjenester. Der vil være forsinkelse på generering af filudtræk (FTP), da de genstartes i perioden.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60293&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
   <entry>
     <id>60182</id>
     <title
