@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-28T10:37:51Z</updated>
+  <updated>2025-04-29T08:35:53Z</updated>
   <entry>
     <id>59445</id>
     <title
@@ -85,6 +85,26 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 60226&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60297</id>
+    <title
+      type="text">CVR Fildownload (HTTPS) med API key er ikke tilgængeligt på datafordeler.dk</title>
+    <updated>2025-04-29T08:35:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60297" />
+    <content
+      type="text">Besked: CVR Fildownload (HTTPS) med API key er ikke tilgængeligt på datafordeler.dk
+
+29.04.2025 klokken 10:30: CVR Fildownload (HTTPS) med API key er i øjeblikket ikke tilgængeligt i Dataoversigten på datafordeler.dk. Vi arbejder på at løse problemet.
+
+Det er stadig muligt at hente CVR Fildownload (HTTPS) via api. Læs mere i Datafordelerens dokumentation: https://confluence.sdfi.dk/x/ggGPCw&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 60297&#xD;
 </content>
   </entry>
   <entry>
