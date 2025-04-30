@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-30T06:24:56Z</updated>
+  <updated>2025-04-30T06:25:24Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -101,7 +101,7 @@ Sagsreference: 60185&#xD;
     <id>60317</id>
     <title
       type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-04-30T06:24:56Z</updated>
+    <updated>2025-04-30T06:25:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60317" />
