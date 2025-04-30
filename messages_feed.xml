@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-30T08:59:22Z</updated>
+  <updated>2025-04-30T09:31:05Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -81,12 +81,14 @@ Sagsreference: 60297&#xD;
     <id>60185</id>
     <title
       type="text">DAR Husnumre fejler med dubletter</title>
-    <updated>2025-04-25T10:47:58Z</updated>
+    <updated>2025-04-30T09:31:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60185" />
     <content
       type="text">Besked: DAR Husnumre og Navngivenvej fejler med dubletter
+
+30.04.2025 klokken 11:30: Problemet er løst.
 
 25.04.2025 klokken 12:45: Man kan opleve inkonsistens data i DAR på grund af problemer med indlæsning. Det har blandt andet resulteret i dubletter af Husnummer og Navngivenvej.
 
@@ -95,7 +97,7 @@ Sagsreference: 60297&#xD;
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60185&#xD;
 </content>
   </entry>
