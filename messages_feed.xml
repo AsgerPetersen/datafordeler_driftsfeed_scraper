@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-04-29T12:24:59Z</updated>
+  <updated>2025-04-30T06:24:56Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -95,6 +95,26 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 60185&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60317</id>
+    <title
+      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-04-30T06:24:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60317" />
+    <content
+      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
+
+30.04.2025 klokken 08:30: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 29.04.2025 klokken 17:42:43.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 60317&#xD;
 </content>
   </entry>
 </feed>
