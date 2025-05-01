@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-01T11:05:33Z</updated>
+  <updated>2025-05-01T14:25:35Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -121,6 +121,24 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 60317&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60366</id>
+    <title
+      type="text">Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm</title>
+    <updated>2025-05-01T14:25:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60366" />
+    <content
+      type="text">Besked: Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm
+
+01-05-2025 klokken 16.20: Der er fejl i DHM Punktsky fildownload data og der mangler data i GeoDanmark Orthofoto 12,5 cm fildownload. Der arbejdes på at løse problemet.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 60366&#xD;
 </content>
   </entry>
 </feed>
