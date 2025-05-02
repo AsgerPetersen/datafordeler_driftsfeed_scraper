@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-02T08:34:13Z</updated>
+  <updated>2025-05-02T10:04:48Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -33,7 +33,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60182</id>
     <title
       type="text">Test04 servicevindue mandag den 5. maj til fredag den 9. maj 2025</title>
-    <updated>2025-04-25T14:17:50Z</updated>
+    <updated>2025-05-02T10:04:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60182" />
@@ -43,6 +43,8 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test04 mandag den 5. maj til fredag den 9. maj 2025.
 
 I tidsrummet vil dataopdatering, fildownload og WFS-tjenester på miljøet være sat på pause.
+
+Fredag den 9. maj, klokken 10 :00 til 11:00 kan webservices være utilgængelige.
 
 Efter servicevinduet vil fildownload (HTTPS) være lukket i miljøet indtil mandag den 12. maj 2025. 
 
