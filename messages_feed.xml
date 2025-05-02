@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-02T06:32:05Z</updated>
+  <updated>2025-05-02T08:34:13Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -59,66 +59,20 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60370</id>
     <title
       type="text">CPR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-02T06:32:05Z</updated>
+    <updated>2025-05-02T08:34:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60370" />
     <content
       type="text">Besked: CPR dataopdatering er stoppet i produktionsmiljøet
 
-02.05.2025 klokken 08:30: CPR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 01.04.2025 klokken 03:15:35.
+02.05.2025 klokken 08:30: CPR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 01.05.2025 klokken 03:15:35.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 60370&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60297</id>
-    <title
-      type="text">CVR Fildownload (HTTPS) med API key er ikke tilgængeligt på datafordeler.dk</title>
-    <updated>2025-04-30T08:59:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60297" />
-    <content
-      type="text">Besked: CVR Fildownload (HTTPS) med API key er ikke tilgængeligt på datafordeler.dk
-
-30.04.2025 klokken 11:00: Problemet er løst. CVR Fildownload (HTTPS) er igen tilgængelige på datafordeler.dk.
-
-29.04.2025 klokken 10:30: CVR Fildownload (HTTPS) med API key er i øjeblikket ikke tilgængeligt i Dataoversigten på datafordeler.dk. Vi arbejder på at løse problemet.
-
-Det er stadig muligt at hente CVR Fildownload (HTTPS) via api. Læs mere i Datafordelerens dokumentation: https://confluence.sdfi.dk/x/ggGPCw&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 60297&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60185</id>
-    <title
-      type="text">DAR Husnumre fejler med dubletter</title>
-    <updated>2025-04-30T09:31:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60185" />
-    <content
-      type="text">Besked: DAR Husnumre og Navngivenvej fejler med dubletter
-
-30.04.2025 klokken 11:30: Problemet er løst.
-
-25.04.2025 klokken 12:45: Man kan opleve inkonsistens data i DAR på grund af problemer med indlæsning. Det har blandt andet resulteret i dubletter af Husnummer og Navngivenvej.
-
-25.04.2025 klokken 10:30: Man kan opleve, at REST tjenesten DAR Husnumre fejler med dubletter, hvis Timestamp i kaldet er efter den 22.04.2025.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 60185&#xD;
 </content>
   </entry>
   <entry>
