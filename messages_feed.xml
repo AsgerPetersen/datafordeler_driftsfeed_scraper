@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-02T10:04:48Z</updated>
+  <updated>2025-05-02T13:45:15Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -75,6 +75,26 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 60370&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60388</id>
+    <title
+      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-05-02T13:45:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60388" />
+    <content
+      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
+
+02.05.2025 klokken 15:45: CVR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 02.05.2025 klokken 13:28.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 60388&#xD;
 </content>
   </entry>
   <entry>
