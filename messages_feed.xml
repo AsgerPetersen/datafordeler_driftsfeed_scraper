@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-01T14:25:35Z</updated>
+  <updated>2025-05-02T06:32:05Z</updated>
   <entry>
     <id>60293</id>
     <title
@@ -53,6 +53,26 @@ Status: Planlagt&#xD;
 Sagsreference: 60182&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60370</id>
+    <title
+      type="text">CPR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-05-02T06:32:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60370" />
+    <content
+      type="text">Besked: CPR dataopdatering er stoppet i produktionsmiljøet
+
+02.05.2025 klokken 08:30: CPR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 01.04.2025 klokken 03:15:35.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 60370&#xD;
 </content>
   </entry>
   <entry>
