@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-07T05:58:28Z</updated>
+  <updated>2025-05-07T09:24:35Z</updated>
   <entry>
     <id>60439</id>
     <title
@@ -25,6 +25,31 @@ Register: Alle&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 60439&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60458</id>
+    <title
+      type="text">SSH-nøgler udfaser DSA signaturer</title>
+    <updated>2025-05-07T09:24:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60458" />
+    <content
+      type="text">Besked: SSH-nøgler udfaser DSA signaturer
+
+Med virkning fra 25.06.2025 er det ikke længere muligt at bruge SSH-nøgler med DSA-signaturer på Datafordeleren. Det betyder, at alle anvendere der bruger DSA i deres SSH-nøgler herefter ikke længere vil kunne tilgå data fra Datafordeleren. 
+
+Læs mere om hvordan du udskifter din SSH-nøgle i Datafordelerens dokumentation:
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665289
+
+Læs mere om hvordan du genererer din SSH-nøgle i Datafordelerens dokumentation:
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665369&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60458&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
