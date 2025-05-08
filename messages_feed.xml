@@ -6,27 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-07T09:24:35Z</updated>
-  <entry>
-    <id>60439</id>
-    <title
-      type="text">Pause i dataopdatering 06.05.2025 klokken 17:00-18:00</title>
-    <updated>2025-05-07T05:58:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60439" />
-    <content
-      type="text">Besked: Pause i dataopdatering 06.05.2025 klokken 17:00-18:00
-
-06.05.2025 klokken 14:30: Der vil i tidsrummet 17:00-18:00 i dag den 6. maj være en pause i den normale register dataopdatering på Datafordelerens produktionsmiljø. Filer vil være tilgængelige, men senest opdateret klokken 16:59. Vi forventer, at dataopdatering fungerer som normalt efter klokken 18:00.
-
-Vi beklager den korte varsel.&#xD;
-Register: Alle&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 60439&#xD;
-</content>
-  </entry>
+  <updated>2025-05-08T10:04:36Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -103,61 +83,17 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>60432</id>
-    <title
-      type="text">Test03: GraphQL, Fildownload (HTTPS) og WFS Geoserver er utilgængelige</title>
-    <updated>2025-05-06T12:58:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60432" />
-    <content
-      type="text">Besked: Test03: GraphQL, Fildownload (HTTPS) og WFS Geoserver er utilgængelige
-
-06.05.2025 klokken 15:00: Problemet er løst. GraphQL, Fildownload (HTTPS) og WFS Geoserver er igen tilgængelige på Test03.
-
-06.05.2025 klokken 13:00: Man kan i øjeblikket opleve, at GraphQL, Fildownload (HTTPS) og WFS Geoserver er utilgængelige på Test03.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 60432&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60393</id>
-    <title
-      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-06T06:27:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60393" />
-    <content
-      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
-
-06.05.2025 klokken 08:30: Problemet er løst. EJF dataopdatering er tilbage i normal drift.
-
-05.05.2025 klokken 08:30: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 03.05.2025 klokken 07:06:45.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 60393&#xD;
-</content>
-  </entry>
-  <entry>
     <id>60366</id>
     <title
       type="text">Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm</title>
-    <updated>2025-05-06T10:05:01Z</updated>
+    <updated>2025-05-08T10:04:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60366" />
     <content
       type="text">Besked: Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm
 
-06.05.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse problemet.
+08.05.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse problemet.
 
 01.05.2025 klokken 16:20: Der er fejl i DHM Punktsky fildownload data, og der mangler data i GeoDanmark Orthofoto 12,5 cm fildownload. Der arbejdes på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
