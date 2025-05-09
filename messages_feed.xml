@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-09T11:13:59Z</updated>
+  <updated>2025-05-09T11:14:13Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -36,7 +36,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>60514</id>
     <title
       type="text">PROD servicevindue mandag den 12. maj fra klokken 09:00 til klokken 10:00</title>
-    <updated>2025-05-09T11:13:59Z</updated>
+    <updated>2025-05-09T11:14:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60514" />
@@ -48,7 +48,7 @@ Mens servicevinduet pågår, kan der opleves længere svartider på at hente fil
  &#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Ikke planlagt&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 60514&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
