@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-08T13:14:42Z</updated>
+  <updated>2025-05-08T10:04:36Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -50,28 +50,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60293&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60491</id>
-    <title
-      type="text">PROD servicevindue fredag den 09. maj fra klokken 08:00 til klokken 09:00</title>
-    <updated>2025-05-08T13:14:42Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60491" />
-    <content
-      type="text">Besked: PROD servicevindue fredag den 09. maj fra klokken 08:00 til klokken 09:00
-
-Mens servicevinduet pågår, kan der opleves længere svartider på at hente fildownload 
-
- &#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 60491&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
