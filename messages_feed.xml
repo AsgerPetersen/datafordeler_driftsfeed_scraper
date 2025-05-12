@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-12T07:33:28Z</updated>
+  <updated>2025-05-12T10:06:37Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -30,28 +30,6 @@ Status: Planlagt&#xD;
 Sagsreference: 60458&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60514</id>
-    <title
-      type="text">PROD servicevindue mandag den 12. maj fra klokken 09:00 til klokken 10:00</title>
-    <updated>2025-05-09T11:14:13Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60514" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 12. maj fra klokken 09:00 til klokken 10:00
-
-Mens servicevinduet pågår, kan der opleves længere svartider på at hente fildownload 
-
- &#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 60514&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -101,34 +79,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>60182</id>
-    <title
-      type="text">Test04 servicevindue mandag den 5. maj til fredag den 9. maj 2025</title>
-    <updated>2025-05-12T05:12:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60182" />
-    <content
-      type="text">Besked: Test04 servicevindue mandag den 5. maj til fredag den 9. maj 2025
-
-I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test04 mandag den 5. maj til fredag den 9. maj 2025.
-
-I tidsrummet vil dataopdatering, fildownload og WFS-tjenester på miljøet være sat på pause.
-
-Fredag den 9. maj, klokken 10:00 til 11:00 kan webservices være utilgængelige.
-
-Efter servicevinduet vil fildownload (HTTPS) være lukket i miljøet indtil mandag den 12. maj 2025. 
-
-Læs mere om moderniseringen af Datafordeleren&#xD;
-Register: Alle&#xD;
-Service: Webservice, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60182&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>60366</id>
     <title
       type="text">Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm</title>
@@ -154,19 +104,21 @@ Sagsreference: 60366&#xD;
     <id>60534</id>
     <title
       type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-12T06:30:19Z</updated>
+    <updated>2025-05-12T10:06:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60534" />
     <content
       type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
 
+12.05.2025 klokken 12:00: Problemet er løst. EJF dataopdatering er tilbage i normal drift.
+
 12.05.2025 klokken 08:30: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 11.05.2025 klokken 19:36:48.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60534&#xD;
 </content>
   </entry>
