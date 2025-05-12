@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-12T05:12:50Z</updated>
+  <updated>2025-05-12T05:26:58Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -50,6 +50,30 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60514&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60533</id>
+    <title
+      type="text">PROD servicevindue mandag den 12. maj 2025 klokken 19:30 - 21:00</title>
+    <updated>2025-05-12T05:26:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60533" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 12. maj 2025 klokken 19:30 - 21:00
+
+Der er planlagt servicevindue på PROD mandag den 12. maj 2025 klokken 19:30 - 21:00.
+
+Anvendere kan i tidsrummet opleve utilgængelighed på webservices, filudtræk (FTP), hændelser og dataopdatering.
+
+Vi beklager den korte varsel.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60533&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
