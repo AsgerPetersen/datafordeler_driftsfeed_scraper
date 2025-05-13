@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-13T05:01:05Z</updated>
+  <updated>2025-05-13T06:21:57Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -36,7 +36,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>60600</id>
     <title
       type="text">Test06 servicevindue tirsdag den 13. maj fra klokken 08:00 til klokken 12:00</title>
-    <updated>2025-05-12T13:10:23Z</updated>
+    <updated>2025-05-13T06:21:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60600" />
@@ -48,7 +48,7 @@ Der er planlagt servicevindue på Test06 tirsdag den 13. maj 2025 klokken 08:00 
 Anvendere kan i tidsrummet opleve kortvarig nedetid på webservices, geodata-tjenester.  Der vil være forsinkelse på generering af filudtræk (FTP), da de genstartes i perioden.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 60600&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
