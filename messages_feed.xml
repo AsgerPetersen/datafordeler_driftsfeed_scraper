@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-13T08:35:10Z</updated>
+  <updated>2025-05-13T10:12:38Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -103,16 +103,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60366</id>
     <title
       type="text">Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm</title>
-    <updated>2025-05-09T09:35:22Z</updated>
+    <updated>2025-05-13T10:12:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60366" />
     <content
       type="text">Besked: Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm
 
-09.05.2025 Klokken 11:30: DHM Punktsky er i øjeblikket ikke tilgængelig. Fejl i data er fundet og i gang med at blive rettet. GeoDanmark Orthofoto 12,5 cm Fildownload (HTTPS) er igen med fuldt indhold i data.
+13.05.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse problemet.
 
-08.05.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse problemet.
+09.05.2025 Klokken 11:30: DHM Punktsky er i øjeblikket ikke tilgængelig. Fejl i data er fundet og i gang med at blive rettet. GeoDanmark Orthofoto 12,5 cm Fildownload (HTTPS) er igen med fuldt indhold i data.
 
 01.05.2025 klokken 16:20: Der er fejl i DHM Punktsky fildownload data, og der mangler data i GeoDanmark Orthofoto 12,5 cm fildownload. Der arbejdes på at løse problemet.&#xD;
 Register: Danmarks Højdemodel&#xD;
