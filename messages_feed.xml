@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-14T05:52:17Z</updated>
+  <updated>2025-05-14T10:03:09Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -33,44 +33,23 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>60600</id>
+    <id>60591</id>
     <title
-      type="text">Test06 servicevindue tirsdag den 13. maj fra klokken 08:00 til klokken 12:00</title>
-    <updated>2025-05-13T08:35:10Z</updated>
+      type="text">Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00</title>
+    <updated>2025-05-14T10:03:09Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60600" />
+      href="https://datafordeler.dk/drift/meddelelser/60591" />
     <content
-      type="text">Besked: Test06 servicevindue tirsdag den 13. maj fra klokken 08:00 til klokken 12:00
+      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00
 
-Der er planlagt servicevindue på Test06 tirsdag den 13. maj 2025 klokken 08:00 - 12:00.
+Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00.
 
-Anvendere kan i tidsrummet opleve kortvarig nedetid på webservices, geodata-tjenester.  Der vil være forsinkelse på generering af filudtræk (FTP), da de genstartes i perioden.&#xD;
+Under servicevinduet kan man som anvender opleve periodevis utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
 Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60600&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60611</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 13. maj 2025 klokken 17:00 - 22:00</title>
-    <updated>2025-05-14T05:52:17Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60611" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 13. maj 2025 klokken 17:00 - 22:00
-
-Der er planlagt servicevindue på PROD tirsdag den 13. maj 2025 klokken 17:00 - 22:00.
-
-Anvendere kan i tidsrummet opleve kortvarig nedetid på webservices, geodata-tjenester, hændelser og dataopdatering. Der vil være forsinkelse på generering af filudtræk (FTP), da de genstartes i perioden.&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60611&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60591&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -95,28 +74,6 @@ Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 60366&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60534</id>
-    <title
-      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-12T10:06:37Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60534" />
-    <content
-      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
-
-12.05.2025 klokken 12:00: Problemet er løst. EJF dataopdatering er tilbage i normal drift.
-
-12.05.2025 klokken 08:30: EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 11.05.2025 klokken 19:36:48.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 60534&#xD;
 </content>
   </entry>
 </feed>
