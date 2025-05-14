@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-13T10:12:38Z</updated>
+  <updated>2025-05-14T05:52:17Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -55,34 +55,10 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>60533</id>
-    <title
-      type="text">PROD servicevindue mandag den 12. maj 2025 klokken 19:30 - 21:00</title>
-    <updated>2025-05-13T05:01:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60533" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 12. maj 2025 klokken 19:30 - 21:00
-
-Der er planlagt servicevindue på PROD mandag den 12. maj 2025 klokken 19:30 - 21:00.
-
-Anvendere kan i tidsrummet opleve utilgængelighed på webservices, filudtræk (FTP), hændelser og dataopdatering.
-
-Vi beklager den korte varsel.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60533&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>60611</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. maj 2025 klokken 17:00 - 22:00</title>
-    <updated>2025-05-13T08:35:05Z</updated>
+    <updated>2025-05-14T05:52:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60611" />
@@ -93,7 +69,7 @@ Der er planlagt servicevindue på PROD tirsdag den 13. maj 2025 klokken 17:00 - 
 
 Anvendere kan i tidsrummet opleve kortvarig nedetid på webservices, geodata-tjenester, hændelser og dataopdatering. Der vil være forsinkelse på generering af filudtræk (FTP), da de genstartes i perioden.&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 60611&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
