@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2025-05-15T13:09:52Z</updated>
+  <entry>
+    <id>60458</id>
+    <title
+      type="text">SSH-nøgler udfaser DSA signaturer</title>
+    <updated>2025-05-07T09:24:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60458" />
+    <content
+      type="text">Besked: SSH-nøgler udfaser DSA signaturer
+
+Med virkning fra 25.06.2025 er det ikke længere muligt at bruge SSH-nøgler med DSA-signaturer på Datafordeleren. Det betyder, at alle anvendere der bruger DSA i deres SSH-nøgler herefter ikke længere vil kunne tilgå data fra Datafordeleren. 
+
+Læs mere om hvordan du udskifter din SSH-nøgle i Datafordelerens dokumentation:
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665289
+
+Læs mere om hvordan du genererer din SSH-nøgle i Datafordelerens dokumentation:
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665369&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60458&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60591</id>
+    <title
+      type="text">Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00</title>
+    <updated>2025-05-14T10:03:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60591" />
+    <content
+      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00.
+
+Under servicevinduet kan man som anvender opleve periodevis utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60591&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60658</id>
+    <title
+      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-05-15T12:28:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60658" />
+    <content
+      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
+
+15.05.2025 klokken 14:30. Problemet er løst. Dataopdateringen er nu i normal drift
+
+15.05.2025 klokken 10:45. EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 14.05.2025 klokken 20:33
+
+Der arbejdes på at løse problemet&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 60658&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60366</id>
+    <title
+      type="text">Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm</title>
+    <updated>2025-05-15T13:09:52Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60366" />
+    <content
+      type="text">Besked: Fildownload (HTTPS) - fejl i data for DHM Punktsky og manglende data for GeoDKO12,5cm
+
+15.05.2025 klokken 15:00: Problemet er nu løst.
+
+13.05.2025 klokken 12:00: Der bliver fortsat arbejdet på at løse problemet.
+
+09.05.2025 Klokken 11:30: DHM Punktsky er i øjeblikket ikke tilgængelig. Fejl i data er fundet og i gang med at blive rettet. GeoDanmark Orthofoto 12,5 cm Fildownload (HTTPS) er igen med fuldt indhold i data.
+
+01.05.2025 klokken 16:20: Der er fejl i DHM Punktsky fildownload data, og der mangler data i GeoDanmark Orthofoto 12,5 cm fildownload. Der arbejdes på at løse problemet.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Løst&#xD;
+Sagsreference: 60366&#xD;
+</content>
+  </entry>
+</feed>
