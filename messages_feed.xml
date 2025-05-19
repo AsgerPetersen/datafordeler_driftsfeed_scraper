@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-19T08:10:55Z</updated>
+  <updated>2025-05-19T10:11:02Z</updated>
   <entry>
     <id>60705</id>
     <title
       type="text">DAGI Fildownload (HTTPS) uden indhold i version 2</title>
-    <updated>2025-05-19T08:10:55Z</updated>
+    <updated>2025-05-19T10:11:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60705" />
     <content
       type="text">Besked: DAGI Fildownload (HTTPS) uden indhold i version 2
 
-19.05.2025 klokken10:00: DAGI Fildownload (HTTPS) udstiller entiteter uden indhold i version 2. Dataoversigten på datafordeler.dk viser entiteter fra både version 1 og 2. Der er i øjeblikket ikke data i entiteter fra version 2 (markeret med underscore i filnavn for eksempel Politikreds_250000). Det gælder også, hvis anvendere benytter API på Datafordeleren til at hente data fra DAGI.
+19.05.2025: DAGI Fildownload (HTTPS) udstiller entiteter uden indhold i version 2. Dataoversigten på datafordeler.dk viser entiteter fra både version 1 og 2. Der er i øjeblikket ikke data i entiteter fra version 2 (markeret med underscore i filnavn for eksempel Politikreds_250000). Det gælder også, hvis anvendere benytter API på Datafordeleren til at hente data fra DAGI.
 
 Der bliver arbejdet på at gøre data klar til entiteterne i version 2, men det er endnu ikke muligt at give et tidspunkt for, hvornår data er klar.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
@@ -92,28 +92,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 60697&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60658</id>
-    <title
-      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-15T12:28:54Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60658" />
-    <content
-      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
-
-15.05.2025 klokken 14:30. Problemet er løst. Dataopdateringen er nu i normal drift
-
-15.05.2025 klokken 10:45. EJF dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 14.05.2025 klokken 20:33
-
-Der arbejdes på at løse problemet&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 60658&#xD;
 </content>
   </entry>
   <entry>
