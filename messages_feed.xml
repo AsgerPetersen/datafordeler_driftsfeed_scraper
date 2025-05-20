@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-19T10:23:26Z</updated>
+  <updated>2025-05-20T07:38:03Z</updated>
   <entry>
     <id>60705</id>
     <title
@@ -78,12 +78,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60697</id>
     <title
       type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-19T10:20:56Z</updated>
+    <updated>2025-05-20T07:38:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60697" />
     <content
       type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
+
+20.05.2025 klokken 09:30: Køen er afviklet. EJF dataopdatering er tilbage i normal drift.
 
 19.05.2025 klokken 12:30: Problemet er løst. Der er opbygget en kø af datapakker, der er i gang med at blive indlæst.
 
@@ -92,7 +94,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Der arbejdes på at løse problemet.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60697&#xD;
 </content>
   </entry>
