@@ -98,28 +98,4 @@ Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
-  <entry>
-    <id>60697</id>
-    <title
-      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-05-20T07:38:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60697" />
-    <content
-      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
-
-20.05.2025 klokken 09:30: Køen er afviklet. EJF dataopdatering er tilbage i normal drift.
-
-19.05.2025 klokken 12:30: Problemet er løst. Der er opbygget en kø af datapakker, der er i gang med at blive indlæst.
-
-19.05.2025 klokken 07:55. EJF dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 17.05.2025 klokken 02:15.
-
-Der arbejdes på at løse problemet.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 60697&#xD;
-</content>
-  </entry>
 </feed>
