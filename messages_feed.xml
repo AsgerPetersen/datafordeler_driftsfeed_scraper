@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-21T10:48:04Z</updated>
+  <updated>2025-05-23T06:51:18Z</updated>
   <entry>
     <id>60705</id>
     <title
@@ -102,7 +102,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60764</id>
     <title
       type="text">Servicevindue på Test03 23. maj 2025 og Test04 26. maj 2025</title>
-    <updated>2025-05-21T10:48:04Z</updated>
+    <updated>2025-05-23T06:51:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60764" />
@@ -116,7 +116,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og geodata-tjenester.
 Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 60764&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
