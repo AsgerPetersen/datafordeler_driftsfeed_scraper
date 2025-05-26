@@ -8,26 +8,6 @@
   <id>serviceMessages</id>
   <updated>2025-05-23T06:51:18Z</updated>
   <entry>
-    <id>60705</id>
-    <title
-      type="text">DAGI Fildownload (HTTPS) uden indhold i version 2</title>
-    <updated>2025-05-19T10:11:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60705" />
-    <content
-      type="text">Besked: DAGI Fildownload (HTTPS) uden indhold i version 2
-
-19.05.2025: DAGI Fildownload (HTTPS) udstiller entiteter uden indhold i version 2. Dataoversigten på datafordeler.dk viser entiteter fra både version 1 og 2. Der er i øjeblikket ikke data i entiteter fra version 2 (markeret med underscore i filnavn for eksempel Politikreds_250000). Det gælder også, hvis anvendere benytter API på Datafordeleren til at hente data fra DAGI.
-
-Der bliver arbejdet på at gøre data klar til entiteterne i version 2, men det er endnu ikke muligt at give et tidspunkt for, hvornår data er klar.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 60705&#xD;
-</content>
-  </entry>
-  <entry>
     <id>60458</id>
     <title
       type="text">SSH-nøgler udfaser DSA signaturer</title>
