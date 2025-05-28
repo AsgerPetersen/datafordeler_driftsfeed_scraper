@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-27T09:03:22Z</updated>
+  <updated>2025-05-28T06:33:22Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -73,6 +73,33 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>60864</id>
+    <title
+      type="text">Servicevindue på Test06 2. juni 2025 og Test03 4. juni 2025</title>
+    <updated>2025-05-28T06:33:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60864" />
+    <content
+      type="text">Besked: Servicevindue på Test06 2. juni 2025 og Test03 4. juni 2025
+
+Der er planlagt servicevindue på testmiløjerne:
+
+	Test06 mandag den 2. juni 2025 fra klokken 10:00-15:00
+	Test03 onsdag den 4. juni 2025 fra klokken 10:00-15:00
+
+
+
+Anvendere kan i tidsrummene opleve nedetid på hændelser og dataopdatering. &#xD;
+Register: Alle&#xD;
+Service: Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60864&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>60737</id>
     <title
       type="text">PROD servicevindue tirsdag den 3. juni fra klokken 15:00 til klokken 23:00</title>
@@ -92,30 +119,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60737&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60764</id>
-    <title
-      type="text">Servicevindue på Test03 23. maj 2025 og Test04 26. maj 2025</title>
-    <updated>2025-05-27T05:36:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60764" />
-    <content
-      type="text">Besked: Servicevindue på Test03 23. maj 2025 og Test04 26. maj 2025
-
-Der er planlagt servicevindue på Test03 fredag den 23. maj klokken 09:00 - 16:00 og Test04 mandag den 26. maj klokken 09:00 - 16:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices og geodata-tjenester.
-
-Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60764&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
