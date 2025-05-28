@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-28T11:31:33Z</updated>
+  <updated>2025-05-28T12:23:03Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -90,6 +90,30 @@ Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60864&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>60866</id>
+    <title
+      type="text">PROD servicevindue torsdag den 12. juni fra klokken 17:00 til klokken 21:00</title>
+    <updated>2025-05-28T12:23:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/60866" />
+    <content
+      type="text">Besked: PROD servicevindue torsdag den 12. juni fra klokken 17:00 til klokken 21:00
+
+Der er planlagt servicevindue på PROD torsdag den 12. juni 2025 fra klokken 17:00 - 21:00.
+
+Anvendere kan i tidsrummet opleve længere svartider på webservices, GraphQL og fildownload (HTTPS).
+
+Anvendere kan også opleve længere svartider på Administrationsportalen, Selvbetjeningen og Datafordeler Administration. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 60866&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
