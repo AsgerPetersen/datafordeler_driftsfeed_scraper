@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-03-13T08:56:21Z</updated>
+  <updated>2025-05-28T11:46:26Z</updated>
   <entry>
     <id>58864</id>
     <title
@@ -91,22 +91,22 @@ Tidsangivelse: 18. september 2025&#xD;
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2025</title>
-    <updated>2024-10-11T11:17:57Z</updated>
+    <updated>2025-05-28T11:46:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
     <content
       type="text">Besked: Ændringer til CPR’s tjenester i 2025
 
-CPR’s tjenester på Datafordeleren bliver ændret i 2025, og anvenderne skal tilpasse i egne systemer for at tilgå de ændrede CPR tjenester.
+Der er planlagt ændringer på CPR’s tjenester i 2025. Ændringerne bliver introduceret som et nyt register på Datafordeleren.
 
-De nye versioner af tjenesterne vil blive introduceret med paralleldrift som et nyt register på Datafordeleren, og der forventes release af de nye tjenester i løbet af 2. kvartal 2025. Der vil være paralleldrift i minimum seks måneder. 
+CPR´s ændrede resttjenester er forventet at blive tilgængelig for anvendere i Datafordelerens testmiljø i maj 2025, men vil ikke blive tilgængelig for anvendere i Datafordelerens produktionsmiljø. De ændrede resttjenester er baseret på en opdateret datamodel for CPR.
 
-Der bliver mulighed for at teste de ændrede CPR tjenester senest to måneder i testmiljø før release.
+CPR’s GraphQL-tjenester forventes at blive releaset med Udviklingsleverance 3 i Datafordelerens moderniseringsprojekt, som er planlagt i slutningen af november 2025. CPR’s GraphQL-tjenester vil være baseret på den opdaterede datamodel.
 
 Læs mere om de planlagte ændringer i CPR tjenesterne. 
 
-Der er p.t. en igangværende intern test af de kommende CPR tjenester på Test03.
+Læs mere om Datafordelerens moderniseringsprojekt.
 
 Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
 
