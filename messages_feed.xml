@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-28T06:33:22Z</updated>
+  <updated>2025-05-28T06:38:00Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -76,14 +76,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60864</id>
     <title
       type="text">Servicevindue på Test06 2. juni 2025 og Test03 4. juni 2025</title>
-    <updated>2025-05-28T06:33:22Z</updated>
+    <updated>2025-05-28T06:38:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60864" />
     <content
       type="text">Besked: Servicevindue på Test06 2. juni 2025 og Test03 4. juni 2025
 
-Der er planlagt servicevindue på testmiløjerne:
+Der er planlagt servicevindue på testmiljøerne:
 
 	Test06 mandag den 2. juni 2025 fra klokken 10:00-15:00
 	Test03 onsdag den 4. juni 2025 fra klokken 10:00-15:00
