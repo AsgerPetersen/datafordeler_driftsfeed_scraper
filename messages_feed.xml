@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-02T08:10:45Z</updated>
+  <updated>2025-06-02T10:15:46Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -48,28 +48,6 @@ Status: Planlagt&#xD;
 Sagsreference: 60458&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60591</id>
-    <title
-      type="text">Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00</title>
-    <updated>2025-05-19T10:23:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60591" />
-    <content
-      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 28. maj 2025 fra klokken 17:00 til torsdag den 29. maj 2025 klokken 02:00.
-
-Under servicevinduet kan man som anvender opleve utilgængelighed på alle tjenester og afbrydelser i dataopdateringen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 60591&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -170,17 +148,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61144</id>
     <title
       type="text">Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen </title>
-    <updated>2025-06-02T05:49:22Z</updated>
+    <updated>2025-06-02T10:15:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61144" />
     <content
       type="text">Besked: Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen 
 
+02.06.2025 klokken 12:15: Problemet er løst. BBR, CVR, GeoDanmark Vector og Matriklen er tilbage i normal drift. EJF har fået opbygget en kø af datapakker, der er i gang med at blive afviklet.
+
 02.06.2025 klokken 07:45: Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen. Der bliver arbejdet på at løse problemet med høj prioritet. &#xD;
 Register: Bygnings- og Boligregisteret (BBR), Det Centrale Virksomhedsregister (CVR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 61144&#xD;
 </content>
   </entry>
