@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-05-28T12:23:03Z</updated>
+  <updated>2025-06-02T05:49:22Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -164,6 +164,24 @@ Status: Planlagt&#xD;
 Sagsreference: 61119&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61144</id>
+    <title
+      type="text">Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen </title>
+    <updated>2025-06-02T05:49:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61144" />
+    <content
+      type="text">Besked: Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen 
+
+02.06.2025 klokken 07:45: Dataopdatering er stoppet for BBR, CVR, EJF, GeoDanmark Vector og Matriklen. Der bliver arbejdet på at løse problemet med høj prioritet. &#xD;
+Register: Bygnings- og Boligregisteret (BBR), Det Centrale Virksomhedsregister (CVR), Ejerfortegnelsen (EJF), GeoDanmark Vektor, Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 61144&#xD;
 </content>
   </entry>
 </feed>
