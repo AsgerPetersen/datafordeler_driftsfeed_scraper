@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-03T12:30:27Z</updated>
+  <updated>2025-06-03T13:01:52Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -100,7 +100,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>60737</id>
     <title
       type="text">PROD servicevindue tirsdag den 3. juni fra klokken 15:00 til klokken 23:00</title>
-    <updated>2025-05-20T12:53:22Z</updated>
+    <updated>2025-06-03T13:01:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60737" />
@@ -114,7 +114,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices, hændelser, geodata-t
 Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 60737&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
