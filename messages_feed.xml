@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-02T10:15:46Z</updated>
+  <updated>2025-06-03T06:07:55Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -124,7 +124,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61119</id>
     <title
       type="text">Test06 servicevindue mandag den 2. juni 2025</title>
-    <updated>2025-06-02T08:10:45Z</updated>
+    <updated>2025-06-03T06:07:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61119" />
@@ -138,7 +138,7 @@ I tidsrummet 10:00 - 15:00 kan anvendere opleve nedetid på hændelser og dataop
 I tidsrummet 15:00 - 16:00 kan anvendere ikke tilgå miljøet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 61119&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
