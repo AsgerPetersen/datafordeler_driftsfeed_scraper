@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-02T10:15:46Z</updated>
+  <updated>2025-06-03T12:30:27Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -118,6 +118,24 @@ Status: Planlagt&#xD;
 Sagsreference: 60737&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61191</id>
+    <title
+      type="text">CPR dataopdatering fejl på pakke med sekvensnummer 2010</title>
+    <updated>2025-06-03T12:30:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61191" />
+    <content
+      type="text">Besked: CPR dataopdatering fejl på pakke med sekvensnummer 2010
+
+03.06.2025 klokken 14:30: CPR dataopdatering fejlede natten til i dag for pakken med sekvensnummer 2010. Pakken ligger klar til opdatering og vil blive indlæst natten til onsdag.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 61191&#xD;
 </content>
   </entry>
   <entry>
