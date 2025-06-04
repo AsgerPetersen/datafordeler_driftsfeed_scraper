@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-04T05:55:20Z</updated>
+  <updated>2025-06-04T08:12:54Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -54,7 +54,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>60864</id>
     <title
       type="text">Test03 servicevindue 4. juni 2025 klokken 10:00-15:00</title>
-    <updated>2025-05-28T11:22:30Z</updated>
+    <updated>2025-06-04T08:11:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60864" />
@@ -66,7 +66,7 @@ Der er planlagt servicevindue på Test03 onsdag den 4. juni 2025 fra klokken 10:
 Anvendere kan i tidsrummet opleve nedetid på hændelser og dataopdatering. &#xD;
 Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 60864&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -126,12 +126,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61191</id>
     <title
       type="text">CPR dataopdatering fejl på pakke med sekvensnummer 2010</title>
-    <updated>2025-06-03T12:30:27Z</updated>
+    <updated>2025-06-04T08:12:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61191" />
     <content
       type="text">Besked: CPR dataopdatering fejl på pakke med sekvensnummer 2010
+
+04.06.2025 klokken 10:00: CPR dataopdateringen af pakke med sekvensnummer 2010 fejlede desværre igen. Data er derfor ikke opdateret siden 02.06.2025. Der bliver arbejdet med højeste prioritet på at opdatere pakken.
 
 03.06.2025 klokken 14:30: CPR dataopdatering fejlede natten til i dag for pakken med sekvensnummer 2010. Pakken ligger klar til opdatering og vil blive indlæst natten til onsdag.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
