@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-04T08:12:54Z</updated>
+  <updated>2025-06-04T10:47:24Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -126,14 +126,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61191</id>
     <title
       type="text">CPR dataopdatering fejl på pakke med sekvensnummer 2010</title>
-    <updated>2025-06-04T08:12:54Z</updated>
+    <updated>2025-06-04T10:47:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61191" />
     <content
       type="text">Besked: CPR dataopdatering fejl på pakke med sekvensnummer 2010
 
-04.06.2025 klokken 10:00: CPR dataopdateringen af pakke med sekvensnummer 2010 fejlede desværre igen. Data er derfor ikke opdateret siden 02.06.2025. Der bliver arbejdet med højeste prioritet på at opdatere pakken.
+04.06.2025 klokken 10:00: CPR dataopdateringen af pakke med sekvensnummer 2010 fejlede desværre igen. Data er derfor ikke opdateret siden 31.05.2025. Der bliver arbejdet med højeste prioritet på at opdatere pakken.
 
 03.06.2025 klokken 14:30: CPR dataopdatering fejlede natten til i dag for pakken med sekvensnummer 2010. Pakken ligger klar til opdatering og vil blive indlæst natten til onsdag.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
