@@ -51,28 +51,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>60864</id>
-    <title
-      type="text">Test03 servicevindue 4. juni 2025 klokken 10:00-15:00</title>
-    <updated>2025-06-04T08:11:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60864" />
-    <content
-      type="text">Besked: Servicevindue på Test03 4. juni 2025
-
-Der er planlagt servicevindue på Test03 onsdag den 4. juni 2025 fra klokken 10:00 - 15:00.
-
-Anvendere kan i tidsrummet opleve nedetid på hændelser og dataopdatering. &#xD;
-Register: Alle&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 60864&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>61218</id>
     <title
       type="text">Servicevindue på Test04 12. juni 2025</title>
@@ -140,32 +118,6 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60866&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60737</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 3. juni fra klokken 15:00 til klokken 23:00</title>
-    <updated>2025-06-04T05:55:20Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60737" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 3. juni fra klokken 15:00 til klokken 23:00
-
-04.06.2025 klokken 08:00: Servicevinduet er gennemført.
-
-Der er planlagt servicevindue på PROD tirsdag den 3. juni 2025 klokken 15:00 - 23:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices, hændelser, geodata-tjenester og dataopdatering. 
-
-Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60737&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
