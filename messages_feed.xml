@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-10T09:00:38Z</updated>
+  <updated>2025-06-10T09:35:17Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -128,7 +128,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61259</id>
     <title
       type="text">Test03 servicevindue tirsdag den 10. juni fra klokken 12:00 til klokken 17:00</title>
-    <updated>2025-06-10T08:15:58Z</updated>
+    <updated>2025-06-10T09:35:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61259" />
@@ -137,11 +137,9 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 Der er planlagt servicevindue på Test03 tirsdag den 10. juni 2025 fra klokken 12:00 - 17:00.
 
-Anvendere kan i tidsrummet opleve længere svartider på geodataservices og GraphQL.
+Anvendere kan i tidsrummet opleve utilgængelighed på GraphQL og WFS tjenesterne..
 
-Anvendere kan i tidsrummet opleve nedetid på dataopdatering og hændelser.
-
-Anvendere kan også opleve længere svartider på Datafordeler Administration.&#xD;
+Anvendere kan i tidsrummet opleve også opleve utilgængelighed på Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Planlagt&#xD;
