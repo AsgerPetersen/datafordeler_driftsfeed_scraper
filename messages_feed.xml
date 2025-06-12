@@ -6,22 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-10T09:00:38Z</updated>
+  <updated>2025-06-12T10:07:18Z</updated>
   <entry>
     <id>60847</id>
     <title
       type="text">Skærmkort opdatering</title>
-    <updated>2025-05-27T09:03:22Z</updated>
+    <updated>2025-06-12T10:07:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60847" />
     <content
       type="text">Besked: Skærmkort opdatering
 
-27.05.2024: Skærmkortet bliver opdateret i uge 24&#xD;
+12.06.2025: Skærmkortet er opdateret. 
+
+27.05.2025: Skærmkortet bliver opdateret i uge 24&#xD;
 Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 60847&#xD;
 </content>
   </entry>
@@ -54,7 +56,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>61218</id>
     <title
       type="text">Servicevindue på Test04 12. juni 2025</title>
-    <updated>2025-06-04T11:52:49Z</updated>
+    <updated>2025-06-12T10:05:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61218" />
@@ -66,7 +68,7 @@ Der er planlagt servicevindue på Test04 torsdag den 12. juni 2025 fra klokken 1
 Anvendere kan i tidsrummet opleve nedetid på hændelser og dataopdatering. &#xD;
 Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 61218&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -76,7 +78,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61205</id>
     <title
       type="text">Test06 servicevindue torsdag den 12. juni 2025</title>
-    <updated>2025-06-04T11:54:05Z</updated>
+    <updated>2025-06-12T10:06:06Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61205" />
@@ -90,7 +92,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og geodata-tjenester.
 Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 61205&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
