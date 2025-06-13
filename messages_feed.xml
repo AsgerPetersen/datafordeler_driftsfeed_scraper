@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-12T13:30:15Z</updated>
+  <updated>2025-06-13T08:25:39Z</updated>
   <entry>
     <id>60847</id>
     <title
@@ -78,7 +78,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61205</id>
     <title
       type="text">Test06 servicevindue torsdag den 12. juni 2025</title>
-    <updated>2025-06-12T10:06:06Z</updated>
+    <updated>2025-06-13T08:25:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61205" />
@@ -92,7 +92,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og geodata-tjenester.
 Der vil være forsinkelse på mailudsendelse for abonnementer på filudtræk (FTP).&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 61205&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
