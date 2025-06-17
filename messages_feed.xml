@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-17T09:10:39Z</updated>
+  <updated>2025-06-17T10:18:36Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -82,6 +82,52 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 60866&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61515</id>
+    <title
+      type="text">PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00</title>
+    <updated>2025-06-17T10:18:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61515" />
+    <content
+      type="text">Besked: PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00
+
+Der er planlagt servicevindue på PROD lørdag den 28. juni 2025 klokken 14:00 - 16:00.
+
+Anvendere kan i tidsrummet opleve nedetid på Filudtræk (FTP), Fildownload (HTTPS) og afbrydelser af dataopdatering. 
+
+ &#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 61515&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61514</id>
+    <title
+      type="text">Test03,Test04 og Test06 servicevindue onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00</title>
+    <updated>2025-06-17T10:18:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61514" />
+    <content
+      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00.
+
+Under servicevinduet kan man som anvender opleve utilgængelighed på alle tjenester, Selvbetjeningen, Administration og afbrydelser i dataopdateringen.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 61514&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
