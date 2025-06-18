@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-18T12:38:57Z</updated>
+  <updated>2025-06-18T14:17:12Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -85,15 +85,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>60866</id>
     <title
-      type="text">PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 21:00</title>
-    <updated>2025-06-10T09:00:38Z</updated>
+      type="text">PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 22:00</title>
+    <updated>2025-06-18T14:17:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/60866" />
     <content
-      type="text">Besked: PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 21:00
+      type="text">Besked: PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 22:00
 
-Der er planlagt servicevindue på PROD torsdag den 19. juni 2025 fra klokken 17:00 - 21:00.
+Der er planlagt servicevindue på PROD torsdag den 19. juni 2025 fra klokken 17:00 - 22:00.
 
 (Tidligere udmeldt servicevindue torsdag den 12. juni er rykket en uge.)
 
