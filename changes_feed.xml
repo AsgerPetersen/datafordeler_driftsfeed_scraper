@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-05-28T11:46:26Z</updated>
+  <updated>2025-06-18T06:44:36Z</updated>
   <entry>
     <id>58864</id>
     <title
       type="text">Udfasning af usikre cipher suites på Datafordelerens miljøer i september 2025</title>
-    <updated>2025-03-13T08:55:56Z</updated>
+    <updated>2025-06-18T06:44:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/58864" />
@@ -37,7 +37,7 @@ Tidsangivelse: 22. september 2025&#xD;
     <id>57230</id>
     <title
       type="text">Opgradering til TLS 1.3, ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer i september 2025</title>
-    <updated>2025-03-13T08:56:21Z</updated>
+    <updated>2025-06-18T06:44:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/57230" />
