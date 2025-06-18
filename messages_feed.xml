@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-17T10:18:36Z</updated>
+  <updated>2025-06-18T07:47:26Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -54,6 +54,30 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 61485&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61536</id>
+    <title
+      type="text">Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 16:00</title>
+    <updated>2025-06-18T07:41:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61536" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 16:00
+
+Der er planlagt servicevindue på Test06 mandag den 23. juni 2025 fra klokken 14:00 - 16:00.
+
+Anvendere kan i tidsrummet opleve længere svartider på webservices med geodata og GraphQL.
+
+Anvendere kan også opleve længere svartider på Datafordeler Administration for testmiljøet. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 61536&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -136,12 +160,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61507</id>
     <title
       type="text">CPR dataopdatering fejl på pakke med sekvensnummer 2018</title>
-    <updated>2025-06-17T09:10:39Z</updated>
+    <updated>2025-06-18T07:47:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61507" />
     <content
       type="text">Besked: CPR dataopdatering fejl på pakke med sekvensnummer 2018
+
+18.06.2025 klokken 09:30: Nattens CPR dataopdatering fejlede desværre igen. Der bliver arbejdet med højeste prioritet på at få opdateret pakken. CPR data er senest opdateret med data fra 14.06.2025.
 
 17.06.2025 klokken 09:20: CPR dataopdatering fejlede natten til i dag for pakken med sekvensnummer 2018. Pakken ligger klar til opdatering og vil blive indlæst natten til onsdag. CPR data er senest opdateret med data fra 14.06.2025.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
