@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-06-18T06:44:36Z</updated>
+  <updated>2025-06-18T12:24:48Z</updated>
   <entry>
     <id>58864</id>
     <title
@@ -36,17 +36,19 @@ Tidsangivelse: 22. september 2025&#xD;
   <entry>
     <id>57230</id>
     <title
-      type="text">Opgradering til TLS 1.3, ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer i september 2025</title>
-    <updated>2025-06-18T06:44:36Z</updated>
+      type="text">Opgradering af TLS til understøttelse af TLS 1.3, samt ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer</title>
+    <updated>2025-06-18T12:24:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/57230" />
     <content
-      type="text">Besked: Opgradering fra TLS 1.2 til TLS 1.3, ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer
+      type="text">Besked: Opgradering af TLS til understøttelse af TLS 1.3, samt ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer
 
 Endepunkter på Datafordelerens miljøer får nye IP-adresser i forbindelse opgradering af TLS på tjenester med fortrolige data. Ændringen for Produktion er planlagt til den 18. september 2025. Se datoer for testmiljøerne nedenfor.
 
 Hvis I anvender endepunkter med "cert" i navnet, skal I åbne i jeres systemer for nedenstående nye IP-adresser på miljøer og services, som I benytter. Selve endepunktet, I bruger, skal ikke ændres. Dermed har I fortsat adgang til tjenester med beskyttede data, når TLS på de nuværende IP-adresser bliver opdateret den 18. september 2025. 
+
+TLS 1.2 understøttes fortsat efter opgraderingen.
 
 Efter ændringen er det følgende IP-adresser for Datafordeleren for certupdate og certservices:
 

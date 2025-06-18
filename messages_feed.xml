@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-18T07:47:26Z</updated>
+  <updated>2025-06-18T12:37:49Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -160,12 +160,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61507</id>
     <title
       type="text">CPR dataopdatering fejl på pakke med sekvensnummer 2018</title>
-    <updated>2025-06-18T07:47:26Z</updated>
+    <updated>2025-06-18T12:37:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61507" />
     <content
       type="text">Besked: CPR dataopdatering fejl på pakke med sekvensnummer 2018
+
+18.06.2025 klokken 14:30: CPR dataopdatering af seneste pakker er nu succesfuldt indlæst. Dataopdateringen er dermed tilbage i normal drift, og opdateret med CPR data fra 17.06.2025.
 
 18.06.2025 klokken 09:30: Nattens CPR dataopdatering fejlede desværre igen. Der bliver arbejdet med højeste prioritet på at få opdateret pakken. CPR data er senest opdateret med data fra 14.06.2025.
 
