@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-19T08:44:51Z</updated>
+  <updated>2025-06-20T14:08:22Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -176,6 +176,41 @@ Status: Planlagt&#xD;
 Sagsreference: 61582&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61634</id>
+    <title
+      type="text">CPR-tjenester påvirket i forhold til manglende dataopdatering</title>
+    <updated>2025-06-20T14:08:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61634" />
+    <content
+      type="text">Besked: CPR-tjenester påvirket i forhold til manglende dataopdatering
+
+20.06.2025 klokken 16:05: Følgende CPR-tjenester er påvirket i forhold til mangelfuld dataopdatering:
+
+	Forældremyndighed
+	CPRhaendelse
+	Flyttepaabud
+	Kommunaleforhold
+	Kontaktadresse
+	Notat
+	Værgemål
+	Valgoplysninger
+
+
+
+Når korrekte data igen er indlæst på Datafordeleren, skal man hente personoplysninger igen, hvis man opbevarer data lokalt, og der er hentet personoplysninger efter den 4. maj 2025.
+
+Anvendere bør i den mellemliggende periode være særligt opmærksom på data om forældremyndighed.
+
+Der bliver arbejdet på at løse problemet med højeste prioritet.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 61634&#xD;
 </content>
   </entry>
 </feed>
