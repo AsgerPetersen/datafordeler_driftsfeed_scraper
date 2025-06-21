@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-20T14:08:22Z</updated>
+  <updated>2025-06-21T08:37:13Z</updated>
   <entry>
     <id>60458</id>
     <title
@@ -182,7 +182,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61634</id>
     <title
       type="text">CPR-tjenester påvirket i forhold til manglende dataopdatering</title>
-    <updated>2025-06-20T14:08:22Z</updated>
+    <updated>2025-06-21T08:37:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61634" />
@@ -202,7 +202,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 
 
-Når korrekte data igen er indlæst på Datafordeleren, skal man hente personoplysninger igen, hvis man opbevarer data lokalt, og der er hentet personoplysninger efter den 4. maj 2025.
+Når opdaterede data er indlæst på Datafordeleren, skal man hente personoplysninger igen, hvis man opbevarer data lokalt, og der er hentet personoplysninger efter den 4. maj 2025.
 
 Anvendere bør i den mellemliggende periode være særligt opmærksom på data om forældremyndighed.
 
