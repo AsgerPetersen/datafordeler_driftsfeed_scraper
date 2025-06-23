@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-23T11:12:05Z</updated>
+  <updated>2025-06-23T12:04:15Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -55,8 +55,8 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>61536</id>
     <title
-      type="text">Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 16:00</title>
-    <updated>2025-06-23T11:12:05Z</updated>
+      type="text">Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 17:00</title>
+    <updated>2025-06-23T12:04:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61536" />
@@ -70,7 +70,7 @@ Anvendere kan i tidsrummet opleve længere svartider på webservices med geodata
 Anvendere kan også opleve længere svartider på Datafordeler Administration for testmiljøet. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 61536&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
