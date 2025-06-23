@@ -33,32 +33,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>61485</id>
-    <title
-      type="text">Test04 servicevindue torsdag den 19. juni fra klokken 9:00 til klokken 14:00</title>
-    <updated>2025-06-16T14:14:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61485" />
-    <content
-      type="text">Besked: Test04 servicevindue torsdag den 19. juni fra klokken 9:00 til klokken 14:00
-
-Der er planlagt servicevindue på Test04 torsdag den 19. juni 2025 fra klokken 09:00 - 14:00.
-
-Anvendere kan i tidsrummet opleve længere svartider på geodata og GraphQL.
-
-Anvendere kan i tidsrummet opleve nedetid på dataopdatering og hændelser.
-
-Anvendere kan også opleve længere svartider på Datafordeler Administration for testmiljøet. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 61485&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>61536</id>
     <title
       type="text">Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 16:00</title>
@@ -78,34 +52,6 @@ Register: Alle&#xD;
 Service: Webservice, Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 61536&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60866</id>
-    <title
-      type="text">PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 22:00</title>
-    <updated>2025-06-18T14:17:12Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60866" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 19. juni fra klokken 17:00 til klokken 22:00
-
-Der er planlagt servicevindue på PROD torsdag den 19. juni 2025 fra klokken 17:00 - 22:00.
-
-(Tidligere udmeldt servicevindue torsdag den 12. juni er rykket en uge.)
-
-Anvendere kan i tidsrummet opleve længere svartider på webservices, GraphQL og fildownload (HTTPS).
-
-Anvendere kan i tidsrummet opleve nedetid på dataopdatering og hændelser.
-
-Anvendere kan også opleve længere svartider på Administrationsportalen (registre), Selvbetjeningen og Datafordeler Administration. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 60866&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
