@@ -6,7 +6,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-21T08:37:13Z</updated>
+  <updated>2025-06-23T06:46:10Z</updated>
+  <entry>
+    <id>61650</id>
+    <title
+      type="text">EJF udfører datarettelse tirsdag den 1. juli</title>
+    <updated>2025-06-23T06:46:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61650" />
+    <content
+      type="text">Besked: EJF udfører datarettelse tirsdag den 1. juli
+
+EJF udfører datarettelser, som bliver afviklet tirsdag den 1. juli.
+Læs mere om datarettelsen i EJF i dokumentationen:
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 61650&#xD;
+</content>
+  </entry>
   <entry>
     <id>60458</id>
     <title
