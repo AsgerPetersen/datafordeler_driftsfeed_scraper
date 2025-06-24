@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-24T05:07:18Z</updated>
+  <updated>2025-06-24T10:27:43Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -126,7 +126,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61582</id>
     <title
       type="text">Test03 servicevindue tirsdag den 24. juni fra klokken 12:00 til klokken 16:00</title>
-    <updated>2025-06-19T08:44:51Z</updated>
+    <updated>2025-06-24T10:27:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61582" />
@@ -138,7 +138,7 @@ Der er planlagt servicevindue på Test03 tirsdag den 24. juni fra klokken 12:00 
 Anvendere kan i tidsrummet opleve en korterevarende nedetid på webservices med geodata.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 61582&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
