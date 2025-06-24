@@ -53,30 +53,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>61536</id>
-    <title
-      type="text">Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 17:00</title>
-    <updated>2025-06-24T05:07:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61536" />
-    <content
-      type="text">Besked: Test06 servicevindue mandag den 23. juni fra klokken 14:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test06 mandag den 23. juni 2025 fra klokken 14:00 - 17:00.
-
-Anvendere kan i tidsrummet opleve længere svartider på webservices med geodata og GraphQL.
-
-Anvendere kan også opleve længere svartider på Datafordeler Administration for testmiljøet. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 61536&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>61515</id>
     <title
       type="text">PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00</title>
