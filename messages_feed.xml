@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-25T14:19:33Z</updated>
+  <updated>2025-06-25T10:52:13Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -98,43 +98,6 @@ Status: Planlagt&#xD;
 Sagsreference: 61774&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>61634</id>
-    <title
-      type="text">CPR-tjenester påvirket i forhold til manglende dataopdatering</title>
-    <updated>2025-06-25T14:19:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61634" />
-    <content
-      type="text">Besked: CPR-tjenester påvirket i forhold til manglende dataopdatering
-
-25.06.2025 klokken 16:15: CPR-tjenester med mangelfuld opdatering er nu opdateret, og problemet med manglende sletning af registreringer er identificeret og rettet. Har du et kopiregister, der opbevarer personoplysninger lokalt fra de nævnte tjenester, kan du opdatere ved hente data fra Datafordeleren. 
-
-25.06.2025 klokken 11:30: CPR-tjenester med mangelfuld opdatering er delvist opdaterede. Men anvenderne skal være opmærksom på, at der kan forekomme ikke-opdateret data i tabellerne i form af ikke-slettede registreringer. Anvenderne skal være særligt opmærksom på data om forældremyndighed. 
-
-Der bliver arbejdet på at løse problemet med højeste prioritet.
-
-20.06.2025 klokken 16:05: Følgende CPR-tjenester er påvirket i forhold til mangelfuld dataopdatering:
-
-	Forældremyndighed
-	CPRhaendelse
-	Flyttepaabud
-	Kommunaleforhold
-	Kontaktadresse
-	Notat
-	Værgemål
-	Valgoplysninger
-
-
-
-Når opdaterede data er indlæst på Datafordeleren, skal man hente personoplysninger igen, hvis man opbevarer data lokalt, og der er hentet personoplysninger efter den 4. maj 2025.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 61634&#xD;
 </content>
   </entry>
 </feed>
