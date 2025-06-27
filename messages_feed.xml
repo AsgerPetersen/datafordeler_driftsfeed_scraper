@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-26T08:50:10Z</updated>
+  <updated>2025-06-25T14:19:33Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -96,28 +96,6 @@ Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 61774&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>61514</id>
-    <title
-      type="text">Test03,Test04 og Test06 servicevindue onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00</title>
-    <updated>2025-06-26T08:50:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61514" />
-    <content
-      type="text">Besked: Test03,Test04 og Test06 servicevindue onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 25. juni 2025 fra klokken 17:00 til torsdag den 26. juni 2025 klokken 02:00.
-
-Under servicevinduet kan man som anvender opleve utilgængelighed på alle tjenester, Selvbetjeningen, Administration og afbrydelser i dataopdateringen.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 61514&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
