@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-25T10:52:13Z</updated>
+  <updated>2025-06-30T06:41:33Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -98,6 +98,26 @@ Status: Planlagt&#xD;
 Sagsreference: 61774&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>61859</id>
+    <title
+      type="text">Test03 og Test04 Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige.</title>
+    <updated>2025-06-30T06:41:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/61859" />
+    <content
+      type="text">Besked: Test03 og Test04 Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige.
+
+30.06.2025 klokken 08:45: Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige på Test03 og Test04.
+
+Der arbejdes på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 61859&#xD;
 </content>
   </entry>
 </feed>
