@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-30T07:52:25Z</updated>
+  <updated>2025-06-30T07:51:50Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -25,55 +25,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 61650&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>60458</id>
-    <title
-      type="text">SSH-nøgler udfaser DSA signaturer</title>
-    <updated>2025-06-25T10:12:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/60458" />
-    <content
-      type="text">Besked: SSH-nøgler udfaser DSA signaturer
-
-Med virkning fra 25.06.2025 er det ikke længere muligt at bruge SSH-nøgler med DSA-signaturer på Datafordeleren. Det betyder, at alle anvendere der bruger DSA i deres SSH-nøgler herefter ikke længere vil kunne tilgå data fra Datafordeleren. 
-
-Læs mere om hvordan du udskifter din SSH-nøgle i Datafordelerens dokumentation:
-https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665289
-
-Læs mere om hvordan du genererer din SSH-nøgle i Datafordelerens dokumentation:
-https://confluence.sdfi.dk/pages/viewpage.action?pageId=13665369&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 60458&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>61515</id>
-    <title
-      type="text">PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00</title>
-    <updated>2025-06-30T07:52:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61515" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00
-
-Der er planlagt servicevindue på PROD lørdag den 28. juni 2025 klokken 14:00 - 16:00.
-
-Anvendere kan i tidsrummet opleve nedetid på Filudtræk (FTP), Fildownload (HTTPS) og afbrydelser af dataopdatering. 
-
- &#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 61515&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
