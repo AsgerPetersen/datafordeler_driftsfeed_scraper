@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-06-30T06:41:33Z</updated>
+  <updated>2025-06-30T07:52:25Z</updated>
   <entry>
     <id>61650</id>
     <title
@@ -56,7 +56,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>61515</id>
     <title
       type="text">PROD servicevindue lørdag den 28. juni fra klokken 14:00 til klokken 16:00</title>
-    <updated>2025-06-17T10:18:36Z</updated>
+    <updated>2025-06-30T07:52:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61515" />
@@ -70,7 +70,7 @@ Anvendere kan i tidsrummet opleve nedetid på Filudtræk (FTP), Fildownload (HTT
  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 61515&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -104,19 +104,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61859</id>
     <title
       type="text">Test03 og Test04 Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige.</title>
-    <updated>2025-06-30T06:41:33Z</updated>
+    <updated>2025-06-30T07:51:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61859" />
     <content
       type="text">Besked: Test03 og Test04 Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige.
 
+30.06.2025 klokken 09:50: Problemet er løst.
+
 30.06.2025 klokken 08:45: Fildownload (HTTPS), WFS (geoserver) og Datafordeler administration er utilgængelige på Test03 og Test04.
 
 Der arbejdes på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 61859&#xD;
 </content>
   </entry>
