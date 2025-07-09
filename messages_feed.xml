@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-08T11:47:41Z</updated>
+  <updated>2025-07-09T05:27:00Z</updated>
   <entry>
     <id>61919</id>
     <title
       type="text">PROD servicevindue tirsdag den 8. juli fra klokken 17:00 til klokken 19:00</title>
-    <updated>2025-07-03T12:27:34Z</updated>
+    <updated>2025-07-09T05:27:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61919" />
@@ -23,7 +23,7 @@ Der er planlagt servicevindue på PROD tirsdag den 8. juli 2025 klokken 17:00 - 
 Der vil i tidsrummet være nedetid på dataopdatering og hændelser.&#xD;
 Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 61919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
