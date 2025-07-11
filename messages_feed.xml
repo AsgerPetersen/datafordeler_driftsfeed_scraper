@@ -6,26 +6,26 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-11T06:56:24Z</updated>
+  <updated>2025-07-11T07:01:35Z</updated>
   <entry>
     <id>62089</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 23. juli fra klokken 17:00 til klokken 02:00</title>
-    <updated>2025-07-11T06:56:24Z</updated>
+    <updated>2025-07-11T07:01:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62089" />
     <content
       type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 23. juli fra klokken 17:00 til klokken 02:00
 
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 23. juli 2025 fra klokken 17:00 til klokken 02:00.
+Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 23. juli 2025 fra klokken 17:00 til torsdag klokken 02:00.
 
 Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
 
 Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Ikke planlagt&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 62089&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -56,25 +56,23 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>61774</id>
+    <id>62090</id>
     <title
-      type="text">PROD servicevindue torsdag den 10. juli fra klokken 17:00 til klokken 22:00</title>
-    <updated>2025-07-11T05:57:04Z</updated>
+      type="text">PROD servicevindue lørdag den 26. juli fra klokken 14:00 til klokken 16:00</title>
+    <updated>2025-07-11T07:00:27Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61774" />
+      href="https://datafordeler.dk/drift/meddelelser/62090" />
     <content
-      type="text">Besked: PROD servicevindue torsdag den 10. juli fra klokken 17:00 til klokken 22:00
+      type="text">Besked: PROD servicevindue lørdag den 26. juli fra klokken 14:00 til klokken 16:00
 
-Der er planlagt servicevindue på PROD torsdag den 10. juli 2025 klokken 17:00 - 22:00.
+Der er planlagt servicevindue på PROD lørdag den 26. juli 2025 klokken 14:00 - 16:00.
 
-Der vil i tidsrummet være nedetid på dataopdatering og hændelser.
-
- &#xD;
+Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP) og dataopdatering.&#xD;
 Register: Alle&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 61774&#xD;
+Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 62090&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
