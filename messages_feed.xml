@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-11T09:48:45Z</updated>
+  <updated>2025-07-11T11:01:26Z</updated>
   <entry>
     <id>62095</id>
     <title
@@ -93,6 +93,26 @@ Status: Planlagt&#xD;
 Sagsreference: 62090&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62101</id>
+    <title
+      type="text">Delta fildownloads for BBR, EJF og MAT er ikke blevet genereret i nat</title>
+    <updated>2025-07-11T11:01:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62101" />
+    <content
+      type="text">Besked: Delta fildownloads for BBR, EJF og MAT er ikke blevet genereret i nat
+
+11.07.2025 klokken 13:00: Den normale generering af samtlige delta fildownloads fejlede i nat for registrene BBR, EJF og MAT.
+
+Opdaterede delta fildownloads vil være tilgængelige igen 12.07.2025 efter nattens kørsel.&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 62101&#xD;
 </content>
   </entry>
 </feed>
