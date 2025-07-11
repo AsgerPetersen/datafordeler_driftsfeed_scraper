@@ -6,7 +6,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-11T07:01:35Z</updated>
+  <updated>2025-07-11T08:48:36Z</updated>
+  <entry>
+    <id>62095</id>
+    <title
+      type="text">Forsinket opdatering af CPR data</title>
+    <updated>2025-07-11T08:48:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62095" />
+    <content
+      type="text">Besked: Forsinket opdatering af CPR data
+
+11.07.2025 klokken 10:45: Nattens planlagte indlæsning af CPR dataopdatering blev forsinket og først færdig indlæst  i dag klokken 09:45. Derfor blev CPR hændelser først udsendt på dette tidspunkt.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Hændelser, Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62095&#xD;
+</content>
+  </entry>
   <entry>
     <id>62089</id>
     <title
