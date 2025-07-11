@@ -6,29 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-09T05:27:00Z</updated>
-  <entry>
-    <id>61919</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 8. juli fra klokken 17:00 til klokken 19:00</title>
-    <updated>2025-07-09T05:27:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/61919" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 8. juli fra klokken 17:00 til klokken 19:00
-
-Der er planlagt servicevindue på PROD tirsdag den 8. juli 2025 klokken 17:00 - 19:00.
-
-Der vil i tidsrummet være nedetid på dataopdatering og hændelser.&#xD;
-Register: Alle&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 61919&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
+  <updated>2025-07-11T05:57:04Z</updated>
   <entry>
     <id>62042</id>
     <title
@@ -57,7 +35,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>61774</id>
     <title
       type="text">PROD servicevindue torsdag den 10. juli fra klokken 17:00 til klokken 22:00</title>
-    <updated>2025-06-25T10:52:13Z</updated>
+    <updated>2025-07-11T05:57:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/61774" />
@@ -71,7 +49,7 @@ Der vil i tidsrummet være nedetid på dataopdatering og hændelser.
  &#xD;
 Register: Alle&#xD;
 Service: Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 61774&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
