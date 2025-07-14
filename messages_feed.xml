@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-11T12:44:14Z</updated>
+  <updated>2025-07-14T07:57:13Z</updated>
   <entry>
     <id>62095</id>
     <title
@@ -99,19 +99,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62101</id>
     <title
       type="text">Delta Fildownload (HTTPS) for BBR, EJF og MAT er ikke blevet genereret i nat</title>
-    <updated>2025-07-11T12:44:14Z</updated>
+    <updated>2025-07-14T07:57:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62101" />
     <content
       type="text">Besked: Delta Fildownload (HTTPS) for BBR, EJF og MAT er ikke blevet genereret i nat
 
+14.07.2025 klokken 10:00 Problemet er løst. Delta Fildownload (HTTPS) for BBR, EJF og MAT blev genereret og gjort tilgængelige den 12.07.2025.
+
 11.07.2025 klokken 13:00: Den normale generering af samtlige Delta Fildownload (HTTPS) fejlede i nat for registrene BBR, EJF og MAT.
 
 Opdaterede Delta Fildownload (HTTPS) vil være tilgængelige igen 12.07.2025 efter nattens kørsel.&#xD;
 Register: Bygnings- og Boligregisteret (BBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 62101&#xD;
 </content>
   </entry>
