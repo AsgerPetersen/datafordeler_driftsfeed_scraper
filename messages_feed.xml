@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-15T08:24:19Z</updated>
+  <updated>2025-07-15T08:53:16Z</updated>
   <entry>
     <id>62095</id>
     <title
@@ -93,6 +93,26 @@ Status: Planlagt&#xD;
 Sagsreference: 62090&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62117</id>
+    <title
+      type="text">BBR Total Fildownload (HTTPS) fra lørdag den 12. juli 2025 er utilgængelig</title>
+    <updated>2025-07-15T08:53:16Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62117" />
+    <content
+      type="text">Besked: BBR Total Fildownload (HTTPS) fra lørdag den 12. juli 2025 er utilgængelig
+
+15.07.2025 klokken 11:00:  Det næste opdaterede BBR Total Fildownload (HTTPS) vil være tilgængelig lørdag den 19. juli 2025.
+
+Det nyeste tilgængelige BBR Total Fildownload (HTTPS) er fra den 5. juli 2025.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 62117&#xD;
 </content>
   </entry>
   <entry>
