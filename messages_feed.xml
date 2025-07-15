@@ -6,25 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-15T09:14:18Z</updated>
-  <entry>
-    <id>62095</id>
-    <title
-      type="text">Forsinket opdatering af CPR data</title>
-    <updated>2025-07-15T08:24:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62095" />
-    <content
-      type="text">Besked: Forsinket opdatering af CPR data
-
-11.07.2025 klokken 10:45: Nattens planlagte indlæsning af CPR dataopdatering blev forsinket og først færdigindlæst i dag klokken 09:45. Derfor blev CPR hændelser først udsendt på dette tidspunkt.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Hændelser, Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 62095&#xD;
-</content>
-  </entry>
+  <updated>2025-07-15T10:14:42Z</updated>
   <entry>
     <id>62089</id>
     <title
@@ -53,7 +35,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62042</id>
     <title
       type="text">Test03 servicevindue mandag den 14. juli fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-07-08T11:47:41Z</updated>
+    <updated>2025-07-15T10:14:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62042" />
@@ -67,7 +49,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), s
 Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 62042&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -133,28 +115,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 62128&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62101</id>
-    <title
-      type="text">Delta Fildownload (HTTPS) for BBR, EJF og MAT er ikke blevet genereret i nat</title>
-    <updated>2025-07-14T07:57:13Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62101" />
-    <content
-      type="text">Besked: Delta Fildownload (HTTPS) for BBR, EJF og MAT er ikke blevet genereret i nat
-
-14.07.2025 klokken 10:00 Problemet er løst. Delta Fildownload (HTTPS) for BBR, EJF og MAT blev genereret og gjort tilgængelige den 12.07.2025.
-
-11.07.2025 klokken 13:00: Den normale generering af samtlige Delta Fildownload (HTTPS) fejlede i nat for registrene BBR, EJF og MAT.
-
-Opdaterede Delta Fildownload (HTTPS) vil være tilgængelige igen 12.07.2025 efter nattens kørsel.&#xD;
-Register: Bygnings- og Boligregisteret (BBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 62101&#xD;
 </content>
   </entry>
 </feed>
