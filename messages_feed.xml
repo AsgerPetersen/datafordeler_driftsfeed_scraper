@@ -6,7 +6,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-15T09:14:18Z</updated>
+  <updated>2025-07-16T09:45:50Z</updated>
+  <entry>
+    <id>62168</id>
+    <title
+      type="text">Skærmkort opdateret</title>
+    <updated>2025-07-16T09:45:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62168" />
+    <content
+      type="text">Besked: Skærmkort opdatering
+
+16.07.2025: Skærmkortet er opdateret. 
+
+ &#xD;
+Register: Skærmkortet&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 62168&#xD;
+</content>
+  </entry>
   <entry>
     <id>62089</id>
     <title
