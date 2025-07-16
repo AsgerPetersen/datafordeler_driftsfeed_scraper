@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-15T10:14:42Z</updated>
+  <updated>2025-07-15T09:14:18Z</updated>
   <entry>
     <id>62089</id>
     <title
@@ -27,30 +27,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 62089&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62042</id>
-    <title
-      type="text">Test03 servicevindue mandag den 14. juli fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-07-15T10:14:42Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62042" />
-    <content
-      type="text">Besked: Test03 servicevindue mandag den 14. juli fra klokken 9:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test03 mandag den 14. juli 2025 fra klokken 9:00 til klokken 17:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), samt Selvbetjening, Administrationsportal og Datafordeler Administration for Test03.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 62042&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
