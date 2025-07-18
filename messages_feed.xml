@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-17T07:52:06Z</updated>
+  <updated>2025-07-18T09:30:09Z</updated>
   <entry>
     <id>62168</id>
     <title
@@ -25,6 +25,26 @@ Register: Skærmkortet&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 62168&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62200</id>
+    <title
+      type="text">Dokumentation i Confluence er periodevis utilgængelig</title>
+    <updated>2025-07-18T09:30:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62200" />
+    <content
+      type="text">Besked: Dokumentation i Confluence er periodevis utilgængelig
+
+Man kan i øjeblikket opleve, at dokumentation for Datafordeleren i Confluence er periodevis utilgængelig.
+
+Vi arbejder på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 62200&#xD;
 </content>
   </entry>
   <entry>
