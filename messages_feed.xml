@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-22T05:08:27Z</updated>
+  <updated>2025-07-22T11:00:01Z</updated>
   <entry>
     <id>62089</id>
     <title
@@ -81,19 +81,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62117</id>
     <title
       type="text">BBR Total Fildownload (HTTPS) fra lørdag den 12. juli 2025 er utilgængelig</title>
-    <updated>2025-07-15T09:02:16Z</updated>
+    <updated>2025-07-22T11:00:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62117" />
     <content
       type="text">Besked: BBR Total Fildownload (HTTPS) fra lørdag den 12. juli 2025 er utilgængelig
 
+22.07.2025 klokken 13:00: Problemet er løst. BBR Total Filedownload (HTTPS) er tilbage i normal drift.
+
 15.07.2025 klokken 11:00:  Det næste opdaterede BBR Total Fildownload (HTTPS) vil være tilgængelig lørdag den 19. juli 2025.
 
 Det nyeste tilgængelige BBR Total Fildownload (HTTPS) er fra den 5. juli 2025.&#xD;
 Register: Bygnings- og Boligregisteret (BBR)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 62117&#xD;
 </content>
   </entry>
@@ -101,19 +103,21 @@ Sagsreference: 62117&#xD;
     <id>62128</id>
     <title
       type="text">EJF Total Fildownload (HTTPS) fra mandag den 14. juli 2025 er utilgængelig</title>
-    <updated>2025-07-15T09:14:18Z</updated>
+    <updated>2025-07-22T10:59:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62128" />
     <content
       type="text">Besked: EJF Total Fildownload (HTTPS) fra mandag den 14. juli 2025 er utilgængelig
 
+22.07.2025 klokken 13:00: Problemet er løst. EJF Total Filedownload (HTTPS) er tilbage i normal drift.
+
 15.07.2025 klokken 11:15: Det næste opdaterede EJF Total Fildownload (HTTPS) vil være tilgængelig mandag den 21. juli 2025.
 
 Det nyeste tilgængelige EJF Total Fildownload (HTTPS) er fra den 7. juli 2025.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 62128&#xD;
 </content>
   </entry>
