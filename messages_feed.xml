@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-24T10:57:24Z</updated>
+  <updated>2025-07-28T10:08:41Z</updated>
   <entry>
     <id>62089</id>
     <title
@@ -51,6 +51,24 @@ Status: Planlagt&#xD;
 Sagsreference: 62090&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62496</id>
+    <title
+      type="text">Forsinket opdatering af EJF og Matriklen Fildownload (Https)</title>
+    <updated>2025-07-28T10:08:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62496" />
+    <content
+      type="text">Besked: Forsinket opdatering af EJF og Matriklen Fildownload (Https)
+
+28.07.2025: Fildownloads for Ejerfortegnelsen og Matriklen er ikke blevet opdateret som planlagt natten til søndag den 27. juli 2025. Disse fildownloads er i stedet blevet opdateret natten til mandag den 28. juli 2025.&#xD;
+Register: Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62496&#xD;
 </content>
   </entry>
 </feed>
