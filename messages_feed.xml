@@ -8,52 +8,6 @@
   <id>serviceMessages</id>
   <updated>2025-07-29T07:16:54Z</updated>
   <entry>
-    <id>62089</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 23. juli fra klokken 17:00 til klokken 02:00</title>
-    <updated>2025-07-24T10:57:24Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62089" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 23. juli fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 23. juli 2025 fra klokken 17:00 til torsdag klokken 02:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 62089&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62090</id>
-    <title
-      type="text">PROD servicevindue lørdag den 26. juli fra klokken 14:00 til klokken 16:00</title>
-    <updated>2025-07-11T07:00:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62090" />
-    <content
-      type="text">Besked: PROD servicevindue lørdag den 26. juli fra klokken 14:00 til klokken 16:00
-
-Der er planlagt servicevindue på PROD lørdag den 26. juli 2025 klokken 14:00 - 16:00.
-
-Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP) og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 62090&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>62496</id>
     <title
       type="text">Forsinket opdatering af EJF og Matriklen Fildownload (Https)</title>
