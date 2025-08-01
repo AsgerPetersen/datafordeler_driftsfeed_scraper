@@ -6,7 +6,67 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-07-31T10:44:11Z</updated>
+  <updated>2025-08-01T08:25:17Z</updated>
+  <entry>
+    <id>62578</id>
+    <title
+      type="text">Matriklen dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-08-01T08:17:19Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62578" />
+    <content
+      type="text">Besked: Matriklen dataopdatering er stoppet i produktionsmiljøet
+
+01.08.2025 klokken 10:15: Matriklen dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 31.07.2025 klokken 12:23:22.
+
+Der arbejdes på at løse problemet.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62578&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62579</id>
+    <title
+      type="text">EJF dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-08-01T08:25:17Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62579" />
+    <content
+      type="text">Besked: EJF dataopdatering er stoppet i produktionsmiljøet
+
+01.08.2025 klokken 10:15: EJF dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 30.07.2025 klokken 12:15:09.
+
+Der arbejdes på at løse problemet.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62579&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62580</id>
+    <title
+      type="text">EBR dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-08-01T08:25:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62580" />
+    <content
+      type="text">Besked: EBR dataopdatering er stoppet i produktionsmiljøet
+
+01.08.2025 klokken 10:15: EBR dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 31.07.2025 klokken 12:23:26.
+
+Der arbejdes på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62580&#xD;
+</content>
+  </entry>
   <entry>
     <id>62556</id>
     <title
