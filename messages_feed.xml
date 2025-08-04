@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-01T13:29:37Z</updated>
+  <updated>2025-08-04T08:21:03Z</updated>
   <entry>
     <id>62578</id>
     <title
@@ -71,6 +71,24 @@ Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 62580&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62610</id>
+    <title
+      type="text">Forsinket opdatering af GeoDanmark vector Fildownload (Https)</title>
+    <updated>2025-08-04T08:21:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62610" />
+    <content
+      type="text">Besked: Forsinket opdatering af GeoDanmark Vector Delta Fildownload (Https)
+
+04.08.2025: Fildownload for Delta GeoDanmark Vector er ikke blevet opdateret som planlagt natten til søndag den 3. august 2025. Disse fildownload er i stedet blevet opdateret natten til mandag den 4. august 2025.&#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 62610&#xD;
 </content>
   </entry>
   <entry>
