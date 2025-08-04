@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-04T08:21:03Z</updated>
+  <updated>2025-08-04T13:52:56Z</updated>
   <entry>
     <id>62610</id>
     <title
@@ -39,6 +39,26 @@ Der bliver arbejdet på at løse problemet.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Status: I gang&#xD;
 Sagsreference: 62556&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62629</id>
+    <title
+      type="text">Dataopdatering er stoppet for EBR, EJF og Matriklen</title>
+    <updated>2025-08-04T13:52:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62629" />
+    <content
+      type="text">Besked: Dataopdatering er stoppet for EBR, EJF og Matriklen
+
+04.08.2025 klokken 15:50: Dataopdatering er stoppet for EBR, EJF og Matriklen. 
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62629&#xD;
 </content>
   </entry>
 </feed>
