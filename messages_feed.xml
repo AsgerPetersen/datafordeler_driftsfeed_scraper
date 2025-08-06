@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-06T08:05:59Z</updated>
+  <updated>2025-08-06T10:04:24Z</updated>
   <entry>
     <id>62610</id>
     <title
-      type="text">Forsinket opdatering af GeoDanmark vector Fildownload (Https)</title>
-    <updated>2025-08-05T06:59:50Z</updated>
+      type="text">Forsinket opdatering af GeoDanmark vector Fildownload (HTTPS)</title>
+    <updated>2025-08-06T10:04:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62610" />
     <content
-      type="text">Besked: Forsinket opdatering af GeoDanmark Vector Delta Fildownload (Https)
+      type="text">Besked: Forsinket opdatering af GeoDanmark Vector Delta Fildownload (HTTPS)
 
-04.08.2025: Fildownload for Delta GeoDanmark Vector er ikke blevet opdateret som planlagt natten til søndag den 3. august 2025. Disse fildownload er i stedet blevet opdateret natten til mandag den 4. august 2025.&#xD;
+04.08.2025: Fildownload (HTTPS) for Delta GeoDanmark Vector er ikke blevet opdateret som planlagt natten til søndag den 3. august 2025. Disse fildownload er i stedet blevet opdateret natten til mandag den 4. august 2025.&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Løst&#xD;
