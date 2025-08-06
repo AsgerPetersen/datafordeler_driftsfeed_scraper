@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-06T10:04:24Z</updated>
+  <updated>2025-08-06T11:12:53Z</updated>
   <entry>
     <id>62610</id>
     <title
@@ -29,15 +29,16 @@ Sagsreference: 62610&#xD;
     <id>62556</id>
     <title
       type="text">DAGI WMS-tjenester på Test03, Test04 og Test06 er utilgængelige</title>
-    <updated>2025-07-31T10:44:11Z</updated>
+    <updated>2025-08-06T11:12:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62556" />
     <content
       type="text">Besked: DAGI WMS-tjenester på Test03, Test04 og Test06 er utilgængelige
-Der bliver arbejdet på at løse problemet.&#xD;
+
+06.08.2025 klokken 13:00: Problemet er løst.&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 62556&#xD;
 </content>
   </entry>
