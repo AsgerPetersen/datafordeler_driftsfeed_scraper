@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-08T07:40:01Z</updated>
+  <updated>2025-08-08T07:42:10Z</updated>
   <entry>
     <id>62700</id>
     <title
       type="text">Test03 servicevindue den 18. august til den 22. august 2025</title>
-    <updated>2025-08-08T07:40:01Z</updated>
+    <updated>2025-08-08T07:42:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62700" />
@@ -20,7 +20,7 @@
 
 Der er planlagt servicevindue på Test03 mandag den 18. august 2025 fra klokken 08:00 til fredag den 22. august 2025 klokken 17:00.
 
-Der vil i perioden være nedetid på Fildownload (HTTPS), GraphQL, webservices, hændelser og dataopdatering samt Datafordeler Administration.&#xD;
+Der vil i servicevinduet periodevist være nedetid på Fildownload (HTTPS), GraphQL, webservices, hændelser og dataopdatering samt Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
