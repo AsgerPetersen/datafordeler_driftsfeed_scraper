@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-08T07:42:10Z</updated>
+  <updated>2025-08-08T12:03:24Z</updated>
   <entry>
     <id>62700</id>
     <title
@@ -25,6 +25,30 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 62700&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62713</id>
+    <title
+      type="text">Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00</title>
+    <updated>2025-08-08T12:03:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62713" />
+    <content
+      type="text">Besked: Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test04 mandag den 18. august 2025 fra klokken 9:00 til klokken 17:00.
+
+Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), samt Selvbetjening, Administrationsportal og Datafordeler Administration for Test04.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 62713&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
