@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-11T11:23:28Z</updated>
+  <updated>2025-08-11T11:29:35Z</updated>
   <entry>
     <id>62700</id>
     <title
@@ -25,6 +25,28 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 62700&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62728</id>
+    <title
+      type="text">PROD servicevindue lørdag den 30. august fra klokken 14:00 til klokken 16:00</title>
+    <updated>2025-08-11T11:29:35Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62728" />
+    <content
+      type="text">Besked: PROD servicevindue lørdag den 30. august fra klokken 14:00 til klokken 16:00
+
+Der er planlagt servicevindue på PROD lørdag den 30. august 2025 klokken 14:00 - 16:00.
+
+Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP) og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 62728&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -57,7 +79,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62727</id>
     <title
       type="text">EBR Filudtræk (FTP) indeholder forældet data fra Matriklen</title>
-    <updated>2025-08-11T11:23:28Z</updated>
+    <updated>2025-08-11T11:23:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62727" />
