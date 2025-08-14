@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-11T11:29:35Z</updated>
+  <updated>2025-08-14T07:07:00Z</updated>
   <entry>
     <id>62700</id>
     <title
@@ -25,6 +25,30 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 62700&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62755</id>
+    <title
+      type="text">Test06 servicevindue mandag den 25. august fra klokken 9:00 til klokken 17:00</title>
+    <updated>2025-08-14T07:06:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62755" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 25. august fra klokken 9:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test06 mandag den 25. august 2025 fra klokken 9:00 til klokken 17:00.
+
+Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), samt Selvbetjening, Administrationsportal og Datafordeler Administration for Test06.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 62755&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -71,6 +95,29 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 62713&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62753</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue torsdag den 28. august fra klokken 17:00 til klokken 02:00</title>
+    <updated>2025-08-14T07:07:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62753" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue torsdag den 28. august fra klokken 17:00 til klokken 02:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06, torsdag den 28. august fra klokken 17:00 til klokken 02:00
+
+Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 62753&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
