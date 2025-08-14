@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-14T07:07:00Z</updated>
+  <updated>2025-08-14T09:51:05Z</updated>
   <entry>
     <id>62700</id>
     <title
@@ -126,12 +126,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62727</id>
     <title
       type="text">EBR Filudtræk (FTP) indeholder forældet data fra Matriklen</title>
-    <updated>2025-08-11T11:23:56Z</updated>
+    <updated>2025-08-14T09:51:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62727" />
     <content
       type="text">Besked: EBR Filudtræk (FTP) indeholder forældet data fra Matriklen
+
+14.08.2025: Problemet forventes løst ultimo september 2025.
 
 11.08.2025: EBR Filudtræk (FTP) indeholder forældet data fra Matriklen. Følgende Filudtræk (FTP) er berørt:
 
