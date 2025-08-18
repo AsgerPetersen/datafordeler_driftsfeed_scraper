@@ -6,12 +6,33 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-14T09:51:05Z</updated>
+  <updated>2025-08-18T10:11:04Z</updated>
+  <entry>
+    <id>62893</id>
+    <title
+      type="text">EJF udfører datarettelse fredag den 29. august</title>
+    <updated>2025-08-18T10:11:04Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62893" />
+    <content
+      type="text">Besked: EJF udfører datarettelse fredag den 29. august
+
+EJF udfører datarettelser, som bliver afviklet fredag den 29. august.
+Læs mere om datarettelsen i EJF i dokumentationen:
+
+https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 62893&#xD;
+</content>
+  </entry>
   <entry>
     <id>62700</id>
     <title
       type="text">Test03 servicevindue den 18. august til den 22. august 2025</title>
-    <updated>2025-08-08T07:42:10Z</updated>
+    <updated>2025-08-18T10:06:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62700" />
@@ -23,7 +44,7 @@ Der er planlagt servicevindue på Test03 mandag den 18. august 2025 fra klokken 
 Der vil i servicevinduet periodevist være nedetid på Fildownload (HTTPS), GraphQL, webservices, hændelser og dataopdatering samt Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 62700&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -79,7 +100,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62713</id>
     <title
       type="text">Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-08-08T12:03:24Z</updated>
+    <updated>2025-08-18T10:06:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62713" />
@@ -93,7 +114,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), s
 Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 62713&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -120,36 +141,6 @@ Status: Planlagt&#xD;
 Sagsreference: 62753&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62727</id>
-    <title
-      type="text">EBR Filudtræk (FTP) indeholder forældet data fra Matriklen</title>
-    <updated>2025-08-14T09:51:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62727" />
-    <content
-      type="text">Besked: EBR Filudtræk (FTP) indeholder forældet data fra Matriklen
-
-14.08.2025: Problemet forventes løst ultimo september 2025.
-
-11.08.2025: EBR Filudtræk (FTP) indeholder forældet data fra Matriklen. Følgende Filudtræk (FTP) er berørt:
-
-	EBR Complete XML_HF
-	EBR Complete JSON_HF
-	EBR DeltaDaily XML_HF
-	EBR DeltaDaily JSON_HF
-	Ejendomsbeliggenhed_HF
-
-
-
-Hvis man har oprettet et abonnement på EBR  med  et af ovenstående Filudtræk (FTP), vil data ikke være opdateret. Filudtræk (FTP) for EBR af typen Simpel er opdateret og kan anvendes i stedet. Det er også muligt at benytte EBR REST tjenester.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR)&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
-Sagsreference: 62727&#xD;
 </content>
   </entry>
 </feed>
