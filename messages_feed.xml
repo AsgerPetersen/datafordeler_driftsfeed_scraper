@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-18T10:11:04Z</updated>
+  <updated>2025-08-19T11:11:10Z</updated>
   <entry>
     <id>62893</id>
     <title
@@ -100,7 +100,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>62713</id>
     <title
       type="text">Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-08-18T10:06:27Z</updated>
+    <updated>2025-08-19T11:11:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62713" />
@@ -114,7 +114,7 @@ Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), s
 Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 62713&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
