@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-19T11:11:10Z</updated>
+  <updated>2025-08-19T12:08:15Z</updated>
   <entry>
     <id>62893</id>
     <title
@@ -97,30 +97,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>62713</id>
-    <title
-      type="text">Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-08-19T11:11:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62713" />
-    <content
-      type="text">Besked: Test04 servicevindue mandag den 18. august fra klokken 9:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test04 mandag den 18. august 2025 fra klokken 9:00 til klokken 17:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), samt Selvbetjening, Administrationsportal og Datafordeler Administration for Test04.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 62713&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>62753</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue torsdag den 28. august fra klokken 17:00 til klokken 02:00</title>
@@ -141,6 +117,24 @@ Status: Planlagt&#xD;
 Sagsreference: 62753&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>62948</id>
+    <title
+      type="text">Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret</title>
+    <updated>2025-08-19T12:08:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/62948" />
+    <content
+      type="text">Besked: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret
+
+19.08.2025 klokken 14:00: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret natten til tirsdag den 19. august 2025. Data forventes opdateret natten mellem tirsdag den 19. august og onsdag den 20. august.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 62948&#xD;
 </content>
   </entry>
 </feed>
