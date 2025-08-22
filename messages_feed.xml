@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-21T11:00:22Z</updated>
+  <updated>2025-08-18T10:11:04Z</updated>
   <entry>
     <id>62893</id>
     <title
@@ -26,30 +26,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 62893&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62700</id>
-    <title
-      type="text">Test03 servicevindue den 18. august til den 22. august 2025</title>
-    <updated>2025-08-21T11:00:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62700" />
-    <content
-      type="text">Besked: Test03 servicevindue den 18. august til den 22. august 2025
-
-21.08.2025 klokken 13:00: Servicevinduet på Test03 er gennemført.
-
-Der er planlagt servicevindue på Test03 mandag den 18. august 2025 fra klokken 08:00 til fredag den 22. august 2025 klokken 17:00.
-
-Der vil i servicevinduet periodevist være nedetid på Fildownload (HTTPS), GraphQL, webservices, hændelser og dataopdatering samt Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 62700&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
