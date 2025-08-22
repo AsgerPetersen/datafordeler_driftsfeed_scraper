@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-18T10:11:04Z</updated>
+  <updated>2025-08-22T11:24:34Z</updated>
   <entry>
     <id>62893</id>
     <title
       type="text">EJF udfører datarettelse fredag den 29. august</title>
-    <updated>2025-08-18T10:11:04Z</updated>
+    <updated>2025-08-22T11:24:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/62893" />
     <content
       type="text">Besked: EJF udfører datarettelse fredag den 29. august
 
-EJF udfører datarettelser, som bliver afviklet fredag den 29. august.
+EJF udfører datarettelser, som bliver afviklet fredag den 29. august. Bemærk at datarettelsen medfører en øget mængde udsendte hændelser.
 Læs mere om datarettelsen i EJF i dokumentationen:
 
 https://confluence.sdfi.dk/pages/viewpage.action?pageId=152004680&#xD;
