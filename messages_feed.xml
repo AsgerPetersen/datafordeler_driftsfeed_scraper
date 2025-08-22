@@ -121,22 +121,4 @@ Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
-  <entry>
-    <id>62948</id>
-    <title
-      type="text">Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret</title>
-    <updated>2025-08-19T12:08:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62948" />
-    <content
-      type="text">Besked: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret
-
-19.08.2025 klokken 14:00: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret natten til tirsdag den 19. august 2025. Data forventes opdateret natten mellem tirsdag den 19. august og onsdag den 20. august.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 62948&#xD;
-</content>
-  </entry>
 </feed>
