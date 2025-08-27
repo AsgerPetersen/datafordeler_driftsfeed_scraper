@@ -6,21 +6,21 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-08-22T10:16:04Z</updated>
+  <updated>2025-08-27T11:13:59Z</updated>
   <entry>
     <id>63118</id>
     <title
       type="text">Ny version af GetAvailableFiledownloads for Filedownload (HTTPS) 27. november 2025</title>
-    <updated>2025-08-22T10:16:04Z</updated>
+    <updated>2025-08-27T11:13:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/63118" />
     <content
       type="text">Besked: Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 27. november 2025
 
-I forbindelse med at der indføres paging på tjenesten GetAvailableFiledownloads med udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt, kommer Fildownload (HTTPS) REST-API’et i en version 2. Udviklingsleverancen er planlagt til release på produktionsmiljøet den 27. november 2025.
+I forbindelse med at der indføres paging på metoden GetAvailableFiledownloads med udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt, kommer Fildownload (HTTPS) REST-API’et i en version 2. Udviklingsleverancen er planlagt til release på produktionsmiljøet den 27. november 2025.
 
-Du skal som anvender være opmærksom på, om du i forvejen kalder tjenesten med eller uden versionsnummer for Fildownload (HTTPS) REST-API’et. Kalder du uden versionsnummer, vil du automatisk kalde den nyeste version.
+Du skal som anvender være opmærksom på, om du i forvejen kalder metoden med eller uden versionsnummer for Fildownload (HTTPS) REST-API’et. Kalder du uden versionsnummer, vil du automatisk kalde den nyeste version.
 
 Læs mere om versioner i dokumentation for Fildownload (HTTPS) REST-API.&#xD;
 Register: Alle&#xD;
