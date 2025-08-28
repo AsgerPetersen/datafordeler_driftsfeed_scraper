@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-27T07:26:47Z</updated>
+  <updated>2025-08-28T10:04:49Z</updated>
   <entry>
     <id>62893</id>
     <title
@@ -26,30 +26,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 62893&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>62755</id>
-    <title
-      type="text">Test06 servicevindue mandag den 25. august fra klokken 9:00 til klokken 17:00</title>
-    <updated>2025-08-26T10:01:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/62755" />
-    <content
-      type="text">Besked: Test06 servicevindue mandag den 25. august fra klokken 9:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test06 mandag den 25. august 2025 fra klokken 9:00 til klokken 17:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices og Filudtræk (FTP), samt Selvbetjening, Administrationsportal og Datafordeler Administration for Test06.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 62755&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -101,17 +77,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63247</id>
     <title
       type="text">Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret</title>
-    <updated>2025-08-27T07:26:47Z</updated>
+    <updated>2025-08-28T10:04:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63247" />
     <content
       type="text">Besked: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret
 
+28:08.2025 klokken 12:00: Data er opdateret.
+
 27.08.2025 klokken 09:25: Delta Fildownload (HTTPS) for Matriklen er ikke blevet opdateret natten til onsdag den 27. august 2025. Data forventes opdateret natten mellem onsdag den 27. august og torsdag den 28. august.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 63247&#xD;
 </content>
   </entry>
