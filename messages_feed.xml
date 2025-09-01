@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-08-29T11:57:16Z</updated>
+  <updated>2025-09-01T06:33:17Z</updated>
   <entry>
     <id>62893</id>
     <title
@@ -28,6 +28,26 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 62893&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63315</id>
+    <title
+      type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
+    <updated>2025-09-01T06:33:17Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63315" />
+    <content
+      type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
+
+Datafordelerens dokumentation i Confluence er ikke tilgængelig.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 63315&#xD;
 </content>
   </entry>
   <entry>
