@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-04T05:47:58Z</updated>
+  <updated>2025-09-05T10:34:38Z</updated>
   <entry>
     <id>63388</id>
     <title
@@ -25,6 +25,32 @@ Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 63388&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63424</id>
+    <title
+      type="text">PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00</title>
+    <updated>2025-09-05T10:34:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63424" />
+    <content
+      type="text">Besked: PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00
+
+Der er planlagt servicevindue på PROD onsdag den 17. september 2025 fra klokken 15:00 - 22:00.
+
+Anvendere kan i tidsrummet opleve nedetid på moderniserede geo-tjenester og Filudtræk (FTP), samt på Datafordeler Administration.
+
+Anvendere kan opleve længere svartider på webservices, GraphQL og Fildownload (HTTPS), samt på Selvbetjening og Administrationsportal.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 63424&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
