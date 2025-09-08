@@ -6,27 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-08T08:02:28Z</updated>
-  <entry>
-    <id>63388</id>
-    <title
-      type="text">CVR dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-04T05:47:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63388" />
-    <content
-      type="text">Besked: CVR dataopdatering er stoppet i produktionsmiljøet
-
-04.09.2025 klokken 07:45: Problemet er løst. CVR dataopdatering er tilbage i normal drift.
-
-03.09.2025 klokken 11:30: CVR dataopdatering er stoppet i produktionsmiljøet.  Der arbejdes på at løse problemet&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 63388&#xD;
-</content>
-  </entry>
+  <updated>2025-09-08T10:11:21Z</updated>
   <entry>
     <id>63424</id>
     <title
@@ -57,7 +37,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63452</id>
     <title
       type="text">Test06 servicevindue mandag den 15. september til fredag den 19. september 2025</title>
-    <updated>2025-09-08T08:02:28Z</updated>
+    <updated>2025-09-08T10:11:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63452" />
@@ -79,16 +59,18 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63317</id>
     <title
       type="text">GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-01T06:37:53Z</updated>
+    <updated>2025-09-08T10:07:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63317" />
     <content
       type="text">Besked: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet
 
+08.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
+
 01.09.2025 klokken 08:30: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
 
-Der bliver arbejdet på at løse problemet&#xD;
+ &#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -99,16 +81,16 @@ Sagsreference: 63317&#xD;
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-01T08:27:15Z</updated>
+    <updated>2025-09-08T10:05:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.
+08.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
 
-Vi arbejder på at løse problemet.&#xD;
+01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
