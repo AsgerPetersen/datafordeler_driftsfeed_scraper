@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-08T10:11:21Z</updated>
+  <updated>2025-09-10T10:16:31Z</updated>
   <entry>
     <id>63424</id>
     <title
@@ -59,14 +59,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63317</id>
     <title
       type="text">GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-08T10:07:20Z</updated>
+    <updated>2025-09-10T10:16:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63317" />
     <content
       type="text">Besked: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet
 
-08.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
+10.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
 
 01.09.2025 klokken 08:30: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
 
@@ -81,14 +81,14 @@ Sagsreference: 63317&#xD;
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-08T10:05:21Z</updated>
+    <updated>2025-09-10T10:16:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-08.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
+10.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
