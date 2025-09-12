@@ -6,7 +6,31 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-10T10:16:31Z</updated>
+  <updated>2025-09-12T08:47:38Z</updated>
+  <entry>
+    <id>63617</id>
+    <title
+      type="text">Ejerfortegnelsen (EJF) udfører datarettelser frem til ultimo december 2025</title>
+    <updated>2025-09-12T08:47:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63617" />
+    <content
+      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser frem til ultimo december 2025
+
+12.09.2025: Geodatastyrelsen udfører datarettelser på tinglyste ejerandele i Ejerfortegnelsen (EJF). Datarettelserne vil blive udført løbende frem til ultimo december 2025 og omfatter i alt cirka 250.000 rettelser. 
+
+For hver rettelse inden for et BFE nummer vil der ske hændelser med mindst et EjerskabUPDATE og et EjerskifteUPDATE, hvor at de tinglyste ejerandele vil blive indsat for ejerskaberne og en anmeldelsesdato bliver indsat på seneste ejerskifte.
+
+Alle rettelser kan identificeres ved datarækker markeret via registreringsaktør, virkningsaktør, forretningshændelsen og forretningsprocessen vil være sat til "Landsdækkende kørsel".
+
+Følg med i rettelserne på https://confluence.sdfi.dk/x/SGgPCQ&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 63617&#xD;
+</content>
+  </entry>
   <entry>
     <id>63424</id>
     <title
