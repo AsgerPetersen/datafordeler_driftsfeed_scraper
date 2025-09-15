@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-12T08:47:38Z</updated>
+  <updated>2025-09-15T10:15:38Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -61,7 +61,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63452</id>
     <title
       type="text">Test06 servicevindue mandag den 15. september til fredag den 19. september 2025</title>
-    <updated>2025-09-08T10:11:21Z</updated>
+    <updated>2025-09-15T10:06:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63452" />
@@ -73,7 +73,7 @@ I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevi
 Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test06.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 63452&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -83,14 +83,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63317</id>
     <title
       type="text">GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-10T10:16:13Z</updated>
+    <updated>2025-09-15T10:15:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63317" />
     <content
       type="text">Besked: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet
 
-10.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
+15.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
 
 01.09.2025 klokken 08:30: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
 
@@ -105,14 +105,14 @@ Sagsreference: 63317&#xD;
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-10T10:16:31Z</updated>
+    <updated>2025-09-15T10:08:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-10.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
+15.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
