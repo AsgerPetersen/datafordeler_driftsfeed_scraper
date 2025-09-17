@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-16T10:18:05Z</updated>
+  <updated>2025-09-17T09:01:55Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -80,23 +80,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>63658</id>
+    <id>63740</id>
     <title
-      type="text">Forsinket opdatering af EJF Fildownload (HTTPS)</title>
-    <updated>2025-09-16T10:18:05Z</updated>
+      type="text">Forsinket opdatering af GeoDanmark Vector Delta Fildownload (HTTPS)</title>
+    <updated>2025-09-17T09:01:55Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63658" />
+      href="https://datafordeler.dk/drift/meddelelser/63740" />
     <content
-      type="text">Besked: Forsinket opdatering af EJF Fildownload (HTTPS)
+      type="text">Besked: Forsinket opdatering af GeoDanmark Vector Delta Fildownload (HTTPS)
 
-16.09.2025: Sagen er løst, og data er opdateret.
-
-15.09.2025: Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til mandag den 15.09.2025. Fildownload bliver forventet opdateret natten til tirsdag den 16.09.2025.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
+17.09.2025: Fildownload (HTTPS) for Delta GeoDanmark Vector er ikke blevet opdateret som planlagt natten til onsdag den 17. september 2025. Disse fildownload bliver i stedet opdateret natten til torsdag den 18. september 2025.&#xD;
+Register: GeoDanmark Vektor&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 63658&#xD;
+Status: I gang&#xD;
+Sagsreference: 63740&#xD;
 </content>
   </entry>
   <entry>
