@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-17T09:01:55Z</updated>
+  <updated>2025-09-17T09:50:25Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -82,15 +82,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>63740</id>
     <title
-      type="text">Forsinket opdatering af GeoDanmark Vector Delta Fildownload (HTTPS)</title>
-    <updated>2025-09-17T09:01:55Z</updated>
+      type="text">Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)</title>
+    <updated>2025-09-17T09:49:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63740" />
     <content
-      type="text">Besked: Forsinket opdatering af GeoDanmark Vector Delta Fildownload (HTTPS)
+      type="text">Besked: Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)
 
-17.09.2025: Fildownload (HTTPS) for Delta GeoDanmark Vector er ikke blevet opdateret som planlagt natten til onsdag den 17. september 2025. Disse fildownload bliver i stedet opdateret natten til torsdag den 18. september 2025.&#xD;
+17.09.2025: Fildownload (HTTPS) for Delta GeoDanmark Vektor er ikke blevet opdateret som planlagt natten til onsdag den 17. september 2025. Disse fildownload bliver i stedet opdateret natten til torsdag den 18. september 2025.&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
@@ -100,17 +100,17 @@ Sagsreference: 63740&#xD;
   <entry>
     <id>63317</id>
     <title
-      type="text">GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-15T10:15:38Z</updated>
+      type="text">GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2025-09-17T09:50:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63317" />
     <content
-      type="text">Besked: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet
+      type="text">Besked: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet
 
 15.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
 
-01.09.2025 klokken 08:30: GeoDanmark Vector dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
+01.09.2025 klokken 08:30: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
 
  &#xD;
 Register: GeoDanmark Vektor&#xD;
