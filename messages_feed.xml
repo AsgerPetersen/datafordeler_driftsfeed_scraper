@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-17T09:50:25Z</updated>
+  <updated>2025-09-17T10:15:45Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -29,6 +29,24 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 63617&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63746</id>
+    <title
+      type="text">Skærmkort opdateret</title>
+    <updated>2025-09-17T10:15:45Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63746" />
+    <content
+      type="text">Besked: Skærmkort opdateret
+
+17.09.2025: Skærmkortet er opdateret. &#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice&#xD;
+Status: Løst&#xD;
+Sagsreference: 63746&#xD;
 </content>
   </entry>
   <entry>
@@ -101,21 +119,21 @@ Sagsreference: 63740&#xD;
     <id>63317</id>
     <title
       type="text">GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-17T09:50:25Z</updated>
+    <updated>2025-09-17T10:10:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63317" />
     <content
       type="text">Besked: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet
 
-15.09.2025 klokken 12:00: Der bliver arbejdet på at løse problemet.
+17.09.2025 klokken 12:00: GeoDanmark Vektor dataopdatering kører igen.
 
 01.09.2025 klokken 08:30: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
 
  &#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 63317&#xD;
 </content>
   </entry>
