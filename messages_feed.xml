@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-18T11:19:00Z</updated>
+  <updated>2025-09-18T12:52:51Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -85,17 +85,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63788</id>
     <title
       type="text">REST tjenester og webservices kan have langsomme svartider</title>
-    <updated>2025-09-18T11:19:00Z</updated>
+    <updated>2025-09-18T12:52:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63788" />
     <content
       type="text">Besked: REST tjenester og webservices kan have langsomme svartider
 
+18.09.2025 klokken 14:45: Problemet er løst.
+
 18.09.2025 klokken 13:15: Anvendere kan i øjeblikket opleve langsomme svartider på REST tjenester og webservices. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 63788&#xD;
 </content>
   </entry>
