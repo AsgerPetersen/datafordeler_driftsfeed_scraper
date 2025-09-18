@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-18T06:02:07Z</updated>
+  <updated>2025-09-18T10:16:36Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -29,52 +29,6 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 63617&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>63746</id>
-    <title
-      type="text">Skærmkort opdateret</title>
-    <updated>2025-09-17T10:15:45Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63746" />
-    <content
-      type="text">Besked: Skærmkort opdateret
-
-17.09.2025: Skærmkortet er opdateret. &#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 63746&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>63424</id>
-    <title
-      type="text">PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00</title>
-    <updated>2025-09-18T06:02:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63424" />
-    <content
-      type="text">Besked: PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00
-
-18-09-2025 klokken 8: Servicevinduet er gennemført.
-
-Der er planlagt servicevindue på PROD onsdag den 17. september 2025 fra klokken 15:00 - 22:00.
-
-Anvendere kan i tidsrummet opleve nedetid på moderniserede geo-tjenester og Filudtræk (FTP), samt på Datafordeler Administration.
-
-Anvendere kan opleve længere svartider på webservices, GraphQL og Fildownload (HTTPS), samt på Selvbetjening og Administrationsportal.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 63424&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -103,40 +57,20 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63740</id>
     <title
       type="text">Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)</title>
-    <updated>2025-09-17T09:49:26Z</updated>
+    <updated>2025-09-18T10:08:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63740" />
     <content
       type="text">Besked: Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)
 
+18.09.2025: GeoDanmark Vektor Delta download er opdateret.
+
 17.09.2025: Fildownload (HTTPS) for Delta GeoDanmark Vektor er ikke blevet opdateret som planlagt natten til onsdag den 17. september 2025. Disse fildownload bliver i stedet opdateret natten til torsdag den 18. september 2025.&#xD;
 Register: GeoDanmark Vektor&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 63740&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>63317</id>
-    <title
-      type="text">GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-09-17T10:10:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63317" />
-    <content
-      type="text">Besked: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet
-
-17.09.2025 klokken 12:00: GeoDanmark Vektor dataopdatering kører igen.
-
-01.09.2025 klokken 08:30: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 28.08.2025 klokken 13:00:40.
-
- &#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Dataopdatering&#xD;
 Status: Løst&#xD;
-Sagsreference: 63317&#xD;
+Sagsreference: 63740&#xD;
 </content>
   </entry>
   <entry>
@@ -157,6 +91,24 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 63336&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63783</id>
+    <title
+      type="text">Forsinket opdatering af CVR Total Fildownload (HTTPS)</title>
+    <updated>2025-09-18T10:16:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63783" />
+    <content
+      type="text">Besked: Forsinket opdatering af CVR Total Fildownload (HTTPS)
+
+18.09.2025: Fildownload (HTTPS) for CVR Total er ikke blevet opdateret som planlagt natten til torsdag den 18. september 2025. Dette fildownload bliver i stedet opdateret natten til fredag den 19. september 2025.&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 63783&#xD;
 </content>
   </entry>
 </feed>
