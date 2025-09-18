@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-18T10:20:20Z</updated>
+  <updated>2025-09-18T10:47:58Z</updated>
   <entry>
     <id>63617</id>
     <title
@@ -79,6 +79,24 @@ Status: I gang&#xD;
 Sagsreference: 63452&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63788</id>
+    <title
+      type="text">DAR webservice kan have langsomme svartider</title>
+    <updated>2025-09-18T10:47:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63788" />
+    <content
+      type="text">Besked: DAR webservice kan have langsomme svartider
+
+18.09.2025 klokken 12:45: Anvendere kan i øjeblikket opleve langsomme svartider på DAR webservice. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 63788&#xD;
 </content>
   </entry>
   <entry>
