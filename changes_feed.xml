@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-09-08T07:44:29Z</updated>
+  <updated>2025-09-19T10:29:48Z</updated>
   <entry>
     <id>63118</id>
     <title
@@ -34,7 +34,7 @@ Tidsangivelse: 27. november 2025&#xD;
     <id>58864</id>
     <title
       type="text">Udfasning af usikre cipher suites på Datafordelerens miljøer i september 2025</title>
-    <updated>2025-08-18T10:47:15Z</updated>
+    <updated>2025-09-19T10:26:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/58864" />
@@ -49,7 +49,17 @@ Vi anbefaler at du holder dit system opdateret og kompatibelt, uanset om det dre
 
 Efter den 22. september 2025 vil Datafordelerens Produktionstjenester ikke længere kunne tilgås med usikre cipher suites.
 
-Læs mere om SSL og TLS bedste praksis på GitHub&#xD;
+Læs mere om SSL og TLS bedste praksis på GitHub
+
+TLS1.3 blev den 18. september tilgængeligt for endepunkterne:
+
+	Certupdate
+	Certservices
+	s5-certservices
+
+
+
+TLS bliver opgraderet på de resterende endepunkter i forbindelse med udfasningen af usikre cipher suites. Dette har ikke indvirkning på anvenderes brug af Datafordeleren.&#xD;
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 58864&#xD;
@@ -60,7 +70,7 @@ Tidsangivelse: 22. september 2025&#xD;
     <id>57230</id>
     <title
       type="text">Opgradering af TLS til understøttelse af TLS 1.3, samt ændring i IP-adresser for certupdate og certservices på Datafordelerens miljøer</title>
-    <updated>2025-09-08T07:44:29Z</updated>
+    <updated>2025-09-19T10:29:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/57230" />
@@ -72,6 +82,16 @@ Endepunkter på Datafordelerens miljøer får nye IP-adresser i forbindelse opgr
 Hvis I anvender endepunkter med "cert" i navnet, skal I åbne i jeres systemer for nedenstående nye IP-adresser på miljøer og services, som I benytter. Selve endepunktet, I bruger, skal ikke ændres. Dermed har I fortsat adgang til tjenester med beskyttede data, når TLS på de nuværende IP-adresser bliver opdateret den 18. september 2025 fra klokken 17. Oplever du forbindelsesproblemer efter ændringen er pålagt, så kan du med fordel rydde din DNS-cache. 
 
 TLS 1.2 understøttes fortsat efter opgraderingen.
+
+TLS1.3 blev den 18. september tilgængeligt for endepunkterne:
+
+	Certupdate
+	Certservices
+	s5-certservices
+
+
+
+TLS bliver opgraderet på de resterende endepunkter i forbindelse med udfasningen af usikre cipher suites. Dette har ikke indvirkning på anvenderes brug af Datafordeleren
 
 Efter ændringen er det følgende IP-adresser for Datafordeleren for certupdate og certservices:
 
@@ -107,7 +127,7 @@ Test06 – 12. september 2025 - klokken 9
 
 &#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 57230&#xD;
 Tidsangivelse: 18. september 2025&#xD;
 </content>
