@@ -6,43 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-18T12:52:51Z</updated>
-  <entry>
-    <id>63617</id>
-    <title
-      type="text">Ejerfortegnelsen (EJF) udfører datarettelser frem til ultimo december 2025</title>
-    <updated>2025-09-18T10:18:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63617" />
-    <content
-      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser frem til ultimo december 2025
-
-12.09.2025: Geodatastyrelsen udfører datarettelser på tinglyste ejerandele i Ejerfortegnelsen (EJF). Datarettelserne vil blive udført løbende frem til ultimo december 2025 og omfatter i alt cirka 250.000 rettelser. 
-
-For hver rettelse inden for et BFE nummer vil der ske hændelser med mindst et EjerskabUPDATE og et EjerskifteUPDATE, hvor at de tinglyste ejerandele vil blive indsat for ejerskaberne og en anmeldelsesdato bliver indsat på seneste ejerskifte.
-
-Alle rettelser kan identificeres ved datarækker markeret via registreringsaktør, virkningsaktør, forretningshændelsen og forretningsprocessen vil være sat til "Landsdækkende kørsel".
-
-Følg med i rettelserne på https://confluence.sdfi.dk/x/SGgPCQ&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 63617&#xD;
-</content>
-  </entry>
+  <updated>2025-09-22T10:11:13Z</updated>
   <entry>
     <id>63424</id>
     <title
       type="text">PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00</title>
-    <updated>2025-09-18T10:20:20Z</updated>
+    <updated>2025-09-22T10:10:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63424" />
     <content
       type="text">Besked: PROD servicevindue den 17. september fra klokken 15:00 til klokken 22:00
 
-18-09-2025 klokken 8: Servicevinduet er gennemført.
+18.09.2025 klokken 08:00: Servicevinduet er gennemført.
 
 Der er planlagt servicevindue på PROD onsdag den 17. september 2025 fra klokken 15:00 - 22:00.
 
@@ -63,7 +39,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63452</id>
     <title
       type="text">Test06 servicevindue mandag den 15. september til fredag den 19. september 2025</title>
-    <updated>2025-09-15T10:06:43Z</updated>
+    <updated>2025-09-22T10:11:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63452" />
@@ -75,64 +51,24 @@ I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevi
 Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test06.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 63452&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>63788</id>
-    <title
-      type="text">REST tjenester og webservices kan have langsomme svartider</title>
-    <updated>2025-09-18T12:52:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63788" />
-    <content
-      type="text">Besked: REST tjenester og webservices kan have langsomme svartider
-
-18.09.2025 klokken 14:45: Problemet er løst.
-
-18.09.2025 klokken 13:15: Anvendere kan i øjeblikket opleve langsomme svartider på REST tjenester og webservices. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 63788&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>63740</id>
-    <title
-      type="text">Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)</title>
-    <updated>2025-09-18T10:08:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63740" />
-    <content
-      type="text">Besked: Forsinket opdatering af GeoDanmark Vektor Delta Fildownload (HTTPS)
-
-18.09.2025: GeoDanmark Vektor Delta download er opdateret.
-
-17.09.2025: Fildownload (HTTPS) for Delta GeoDanmark Vektor er ikke blevet opdateret som planlagt natten til onsdag den 17. september 2025. Disse fildownload bliver i stedet opdateret natten til torsdag den 18. september 2025.&#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 63740&#xD;
-</content>
-  </entry>
-  <entry>
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-15T10:08:02Z</updated>
+    <updated>2025-09-22T10:09:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-15.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
+22.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
