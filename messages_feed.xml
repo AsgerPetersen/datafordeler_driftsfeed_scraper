@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-23T10:01:57Z</updated>
+  <updated>2025-09-23T10:29:08Z</updated>
   <entry>
     <id>63424</id>
     <title
@@ -101,6 +101,24 @@ Status: Planlagt&#xD;
 Sagsreference: 63919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>63924</id>
+    <title
+      type="text">Forsinket opdatering af EJF Fildownload (HTTPS)</title>
+    <updated>2025-09-23T10:29:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/63924" />
+    <content
+      type="text">Besked: Forsinket opdatering af EJF Fildownload (HTTPS)
+
+23.09.2025: Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til tirsdag den 23.09.2025. Fildownload bliver forventet opdateret natten til onsdag den 24.09.2025.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 63924&#xD;
 </content>
   </entry>
   <entry>
