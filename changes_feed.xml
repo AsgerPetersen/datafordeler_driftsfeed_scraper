@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-09-19T10:29:48Z</updated>
+  <updated>2025-09-23T06:07:20Z</updated>
   <entry>
     <id>63118</id>
     <title
@@ -34,7 +34,7 @@ Tidsangivelse: 27. november 2025&#xD;
     <id>58864</id>
     <title
       type="text">Udfasning af usikre cipher suites på Datafordelerens miljøer i september 2025</title>
-    <updated>2025-09-19T10:26:42Z</updated>
+    <updated>2025-09-23T06:07:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/58864" />
@@ -61,7 +61,7 @@ TLS1.3 blev den 18. september tilgængeligt for endepunkterne:
 
 TLS bliver opgraderet på de resterende endepunkter i forbindelse med udfasningen af usikre cipher suites. Dette har ikke indvirkning på anvenderes brug af Datafordeleren.&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 58864&#xD;
 Tidsangivelse: 22. september 2025&#xD;
 </content>
