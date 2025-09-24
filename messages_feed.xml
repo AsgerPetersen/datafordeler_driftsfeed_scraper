@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-24T11:23:41Z</updated>
+  <updated>2025-09-24T11:33:58Z</updated>
   <entry>
     <id>63905</id>
     <title
@@ -56,15 +56,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>63968</id>
     <title
-      type="text">Test06 servicevindue onsdag den 25. september fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-09-24T11:23:41Z</updated>
+      type="text">Test06 servicevindue torsdag den 25. september fra klokken 09:00 til klokken 13:00</title>
+    <updated>2025-09-24T11:33:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63968" />
     <content
-      type="text">Besked: Test06 servicevindue onsdag den 25. september fra klokken 09:00 til klokken 13:00
+      type="text">Besked: Test06 servicevindue torsag den 25. september fra klokken 09:00 til klokken 13:00
 
-Der er planlagt servicevindue på Test06 onsdag den 25. september fra klokken 09:00 til klokken 13:00.
+Der er planlagt servicevindue på Test06 torsdag den 25. september fra klokken 09:00 til klokken 13:00.
 
 Anvendere kan i tidsrummet opleve nedetid på WFS, GraphQL og Fildownload (HTTPS). 
 
