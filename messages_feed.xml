@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-25T09:32:46Z</updated>
+  <updated>2025-09-25T10:20:19Z</updated>
   <entry>
     <id>63905</id>
     <title
@@ -57,12 +57,12 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63968</id>
     <title
       type="text">Test06 servicevindue torsdag den 25. september fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-09-25T09:32:46Z</updated>
+    <updated>2025-09-25T10:20:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63968" />
     <content
-      type="text">Besked: Test06 servicevindue torsag den 25. september fra klokken 09:00 til klokken 15:00
+      type="text">Besked: Test06 servicevindue torsdag den 25. september fra klokken 09:00 til klokken 15:00
 
 25.09.2025: Servicevinduet forlænges til klokken 15:00
 
@@ -84,40 +84,22 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>63924</id>
-    <title
-      type="text">Forsinket opdatering af EJF Fildownload (HTTPS)</title>
-    <updated>2025-09-24T10:03:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63924" />
-    <content
-      type="text">Besked: Forsinket opdatering af EJF Fildownload (HTTPS)
-
-24.09.2025: Data er opdateret.
-
-23.09.2025: Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til tirsdag den 23.09.2025. Fildownload bliver forventet opdateret natten til onsdag den 24.09.2025.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 63924&#xD;
-</content>
-  </entry>
-  <entry>
     <id>63963</id>
     <title
       type="text">Forsinket opdatering af Matriklen2 Delta Fildownload (HTTPS)</title>
-    <updated>2025-09-24T10:59:16Z</updated>
+    <updated>2025-09-25T10:08:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63963" />
     <content
       type="text">Besked: Forsinket opdatering af Matriklen2 Delta Fildownload (HTTPS)
 
+25.09.2025: Data er opdateret.
+
 24.09.2025: Delta Fildownload (HTTPS) for Matriklen2 er ikke opdateret som planlagt natten til onsdag den 24.09.2025. Delta Fildownload bliver forventet opdateret natten til torsdag den 25.09.2025.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 63963&#xD;
 </content>
   </entry>
@@ -139,6 +121,24 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 63336&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64002</id>
+    <title
+      type="text">Forsinket opdatering af EJF Fildownload (HTTPS)</title>
+    <updated>2025-09-25T10:13:56Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64002" />
+    <content
+      type="text">Besked: Forsinket opdatering af EJF Delta Fildownload (HTTPS)
+
+25.09.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 25.09.2025. Delta Fildownload bliver forventet opdateret natten til fredag den 26.09.2025.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 64002&#xD;
 </content>
   </entry>
 </feed>
