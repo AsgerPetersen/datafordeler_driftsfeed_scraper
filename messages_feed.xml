@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-29T10:15:44Z</updated>
+  <updated>2025-09-29T16:54:40Z</updated>
   <entry>
     <id>63919</id>
     <title
       type="text">PROD servicevindue den 29. september 2025</title>
-    <updated>2025-09-23T10:01:57Z</updated>
+    <updated>2025-09-29T16:54:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63919" />
@@ -23,7 +23,7 @@ Der er planlagt servicevindue på PROD den 29. september 2025.
 I perioden klokken 17:30-19:30 vil der være utilgængelighed på FTP/SFTP, Fildownload (HTTPS), Filudtræk (FTP) og dataindlæsning.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 63919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
