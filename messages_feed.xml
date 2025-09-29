@@ -6,31 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-26T12:33:26Z</updated>
-  <entry>
-    <id>63905</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 24. september fra klokken 17:00 til klokken 02:00</title>
-    <updated>2025-09-23T07:27:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63905" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 24. september fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 onsdag den 24. september 2025 fra klokken 17:00 til torsdag klokken 02:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 63905&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
+  <updated>2025-09-29T10:15:44Z</updated>
   <entry>
     <id>63919</id>
     <title
@@ -54,73 +30,23 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>63968</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 25. september fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-09-26T06:17:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/63968" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 25. september fra klokken 09:00 til klokken 15:00
-
-25.09.2025: Servicevinduet forlænges til klokken 15:00
-
-24.09.2025: Der er planlagt servicevindue på Test06 torsdag den 25. september fra klokken 09:00 til klokken 13:00.
-
-Anvendere kan i tidsrummet opleve nedetid på WFS, GraphQL og Fildownload (HTTPS). 
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. 
-
- 
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 63968&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-22T10:09:38Z</updated>
+    <updated>2025-09-29T10:15:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-22.09.2025 klokken 12:00: Vi arbejder fortsat på at løse problemet.
+29.09.2025 klokken 12:00: Problemet er fundet, og en løsning vil blive implementeret med næste release forventet ultimo november 2025.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 63336&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>64002</id>
-    <title
-      type="text">Forsinket opdatering af EJF Fildownload (HTTPS)</title>
-    <updated>2025-09-26T12:33:26Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64002" />
-    <content
-      type="text">Besked: Forsinket opdatering af EJF Delta Fildownload (HTTPS)
-
-26.09.2025: Data er opdateret.
-
-25.09.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 25.09.2025. Delta Fildownload bliver forventet opdateret natten til fredag den 26.09.2025.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 64002&#xD;
 </content>
   </entry>
 </feed>
