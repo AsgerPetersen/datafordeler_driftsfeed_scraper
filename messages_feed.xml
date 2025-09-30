@@ -6,7 +6,29 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-30T10:14:49Z</updated>
+  <updated>2025-09-30T10:57:04Z</updated>
+  <entry>
+    <id>64205</id>
+    <title
+      type="text">PROD servicevindue den 9. oktober fra klokken 17:00 til klokken 18:00</title>
+    <updated>2025-09-30T10:57:04Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64205" />
+    <content
+      type="text">Besked: PROD servicevindue den 9. oktober 2025 fra klokken 17:00 til klokken 18:00
+
+Det er planlagt servicevindue på PROD torsdag den 9. oktober 2025 klokken 17.00 – 18.00.
+
+Anvendere vil kunne forvente sporadisk nedetid på geodata-tjenester i tidsrummet.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 64205&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
   <entry>
     <id>63919</id>
     <title
