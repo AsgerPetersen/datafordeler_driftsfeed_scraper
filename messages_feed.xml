@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-29T16:54:40Z</updated>
+  <updated>2025-09-30T10:14:49Z</updated>
   <entry>
     <id>63919</id>
     <title
       type="text">PROD servicevindue den 29. september 2025</title>
-    <updated>2025-09-29T16:54:40Z</updated>
+    <updated>2025-09-30T10:01:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63919" />
@@ -23,10 +23,28 @@ Der er planlagt servicevindue på PROD den 29. september 2025.
 I perioden klokken 17:30-19:30 vil der være utilgængelighed på FTP/SFTP, Fildownload (HTTPS), Filudtræk (FTP) og dataindlæsning.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 63919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64251</id>
+    <title
+      type="text">Forsinket opdatering af Ejerfortegnelsen og Matriklen Delta Fildownload (HTTPS)</title>
+    <updated>2025-09-30T10:14:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64251" />
+    <content
+      type="text">Besked: Forsinket opdatering af Ejerfortegnelsen og Matriklen Delta Fildownload (HTTPS)
+
+30.09.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen og Matriklen er ikke opdateret som planlagt natten til tirsdag. Delta Fildownload (HTTPS) bliver forventet opdateret natten til onsdag den 01.10.2025.&#xD;
+Register: Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 64251&#xD;
 </content>
   </entry>
   <entry>
