@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-30T10:57:04Z</updated>
+  <updated>2025-10-01T07:59:24Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -47,6 +47,28 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 63919&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64270</id>
+    <title
+      type="text">Test06 servicevindue torsdag den 2. oktober fra klokken 09:00 til klokken 13:00</title>
+    <updated>2025-10-01T07:59:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64270" />
+    <content
+      type="text">Besked: Test06 servicevindue torsdag den 2. oktober fra klokken 09:00 til klokken 13:00.
+
+Der er planlagt servicevindue på Test06 torsdag den 2. oktober fra klokken 09:00 til klokken 13:00.
+
+Anvendere kan i tidsrummet opleve nedetid på WFS og Fildownload (HTTPS). &#xD;
+Register: Alle&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 64270&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
