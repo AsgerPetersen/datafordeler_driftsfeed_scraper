@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-09-30T10:57:04Z</updated>
+  <updated>2025-10-06T10:25:53Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -33,19 +33,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-09-29T10:15:44Z</updated>
+    <updated>2025-10-06T10:25:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-29.09.2025 klokken 12:00: Problemet er fundet, og en løsning vil blive implementeret med næste release forventet ultimo november 2025.
+06.10.2025 klokken 12:00: Der er etableret en midlertidig løsning, der afhjælper problemet. En permanent løsning bliver implementeret med næste release forventet ultimo november 2025.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 63336&#xD;
 </content>
   </entry>
