@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-06T10:25:53Z</updated>
+  <updated>2025-10-06T11:54:40Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -27,6 +27,26 @@ Status: Planlagt&#xD;
 Sagsreference: 64205&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64396</id>
+    <title
+      type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
+    <updated>2025-10-06T11:54:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64396" />
+    <content
+      type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
+
+06.10.2025 klokken 14:00: Datafordelerens dokumentation i Confluence er ikke tilgængelig.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 64396&#xD;
 </content>
   </entry>
   <entry>
