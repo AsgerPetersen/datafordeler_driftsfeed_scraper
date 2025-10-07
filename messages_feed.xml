@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-07T06:12:33Z</updated>
+  <updated>2025-10-07T10:24:36Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -30,39 +30,17 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>64396</id>
-    <title
-      type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
-    <updated>2025-10-07T06:12:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64396" />
-    <content
-      type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
-
-07.10.2025 klokken 08:00: Problemet er løst, og dokumentation for Datafordeleren er tilgængelig igen.
-
-06.10.2025 klokken 14:00: Datafordelerens dokumentation i Confluence er ikke tilgængelig.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 64396&#xD;
-</content>
-  </entry>
-  <entry>
     <id>63336</id>
     <title
       type="text">Sporadiske connection fejl ved Fildownload (HTTPS)</title>
-    <updated>2025-10-06T10:25:53Z</updated>
+    <updated>2025-10-07T10:24:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/63336" />
     <content
       type="text">Besked: Sporadiske connection fejl ved Fildownload (HTTPS)
 
-06.10.2025 klokken 12:00: Der er etableret en midlertidig løsning, der afhjælper problemet. En permanent løsning bliver implementeret med næste release forventet ultimo november 2025.
+06.10.2025 klokken 12:00: Der er etableret en midlertidig løsning, der delvist afhjælper problemet. En permanent løsning bliver implementeret med næste release forventet ultimo november 2025.
 
 01.09.2025 klokken 10:30: Anvendere kan i øjeblikket opleve sporadiske fejl ved Fildownload (HTTPS), hvor der forekommer connection fejl.&#xD;
 Register: Alle&#xD;
