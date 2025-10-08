@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-08T07:10:53Z</updated>
+  <updated>2025-10-08T08:21:51Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -69,6 +69,24 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Løst&#xD;
 Sagsreference: 63336&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64647</id>
+    <title
+      type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
+    <updated>2025-10-08T08:21:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64647" />
+    <content
+      type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
+
+08.10.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til onsdag. Delta Fildownload (HTTPS) bliver forventet opdateret natten til torsdag den 09.10.2025.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 64647&#xD;
 </content>
   </entry>
 </feed>
