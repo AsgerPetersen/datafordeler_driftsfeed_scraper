@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-08T08:21:51Z</updated>
+  <updated>2025-10-09T08:59:15Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -33,7 +33,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>64640</id>
     <title
       type="text">Test06 servicevindue torsdag den 9. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-08T07:10:53Z</updated>
+    <updated>2025-10-09T08:59:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64640" />
@@ -45,7 +45,7 @@ Der er planlagt servicevindue på Test06 torsdag den 9. oktober fra klokken 09:0
 Anvendere kan i tidsrummet opleve nedetid på GraphQL og Fildownload (HTTPS). &#xD;
 Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 64640&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
