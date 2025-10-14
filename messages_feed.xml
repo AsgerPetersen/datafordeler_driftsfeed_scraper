@@ -6,51 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-14T11:54:01Z</updated>
-  <entry>
-    <id>64205</id>
-    <title
-      type="text">PROD servicevindue den 9. oktober fra klokken 17:00 til klokken 18:00</title>
-    <updated>2025-10-10T05:06:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64205" />
-    <content
-      type="text">Besked: PROD servicevindue den 9. oktober 2025 fra klokken 17:00 til klokken 18:00
-
-Det er planlagt servicevindue på PROD torsdag den 9. oktober 2025 klokken 17:00 – 18:00.
-
-Anvendere vil kunne forvente sporadisk nedetid på geodata-tjenester i tidsrummet.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 64205&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>64640</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 9. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-09T08:59:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64640" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 9. oktober fra klokken 09:00 til klokken 13:00.
-
-Der er planlagt servicevindue på Test06 torsdag den 9. oktober fra klokken 09:00 til klokken 13:00.
-
-Anvendere kan i tidsrummet opleve nedetid på GraphQL og Fildownload (HTTPS). &#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 64640&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
+  <updated>2025-10-14T12:18:32Z</updated>
   <entry>
     <id>64776</id>
     <title
@@ -81,14 +37,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>64768</id>
     <title
       type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-14T11:48:00Z</updated>
+    <updated>2025-10-14T12:18:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64768" />
     <content
       type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
 
-14.10.2025: Delta Fildownloads er igen opdateret 
+14.10.2025: Data er opdateret.
 
 13.10.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret i nat. Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 14.10.2025.&#xD;
 Register: Matriklen (MAT)&#xD;
