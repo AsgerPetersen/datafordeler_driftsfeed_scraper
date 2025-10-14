@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-13T09:41:59Z</updated>
+  <updated>2025-10-14T11:48:00Z</updated>
   <entry>
     <id>64205</id>
     <title
@@ -55,17 +55,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>64768</id>
     <title
       type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-13T09:41:59Z</updated>
+    <updated>2025-10-14T11:48:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64768" />
     <content
       type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
 
+14.10.2025: Delta Fildownloads er igen opdateret 
+
 13.10.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret i nat. Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 14.10.2025.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 64768&#xD;
 </content>
   </entry>
