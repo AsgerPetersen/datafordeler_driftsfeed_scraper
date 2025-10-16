@@ -97,24 +97,4 @@ Status: I gang&#xD;
 Sagsreference: 64893&#xD;
 </content>
   </entry>
-  <entry>
-    <id>64768</id>
-    <title
-      type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-14T12:18:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64768" />
-    <content
-      type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
-
-14.10.2025: Data er opdateret.
-
-13.10.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret i nat. Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 14.10.2025.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 64768&#xD;
-</content>
-  </entry>
 </feed>
