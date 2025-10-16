@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-15T08:52:34Z</updated>
+  <updated>2025-10-16T07:31:54Z</updated>
   <entry>
     <id>64854</id>
     <title
@@ -77,6 +77,24 @@ Status: Planlagt&#xD;
 Sagsreference: 64776&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>64893</id>
+    <title
+      type="text">Forsinket opdatering af SVR</title>
+    <updated>2025-10-16T07:31:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/64893" />
+    <content
+      type="text">Besked: Forsinket opdatering af SVR
+
+16.10.2025: Dataopdatering for SVR er ikke opdateret i nat. Dataopdatering forventes opdateret natten til fredag den 17.10.2025.&#xD;
+Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 64893&#xD;
 </content>
   </entry>
   <entry>
