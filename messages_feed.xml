@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-16T10:39:01Z</updated>
+  <updated>2025-10-17T07:25:53Z</updated>
   <entry>
     <id>64854</id>
     <title
@@ -35,7 +35,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>64860</id>
     <title
       type="text">Test04 servicevindue torsdag den 16. oktober fra klokken 08:00 til klokken 17:00</title>
-    <updated>2025-10-16T10:39:01Z</updated>
+    <updated>2025-10-17T07:25:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64860" />
@@ -47,7 +47,7 @@ Der er planlagt servicevindue på Test04 torsdag den 16. oktober fra klokken 08:
 I tidsrummet vil hele miljøet være utilgængeligt. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 64860&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
