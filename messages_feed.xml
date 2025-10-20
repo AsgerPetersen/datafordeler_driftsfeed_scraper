@@ -6,51 +6,31 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-17T09:03:04Z</updated>
+  <updated>2025-10-20T08:10:46Z</updated>
   <entry>
-    <id>64854</id>
+    <id>64960</id>
     <title
-      type="text">Test06 servicevindue torsdag den 16. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-16T10:38:48Z</updated>
+      type="text">Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober 2025</title>
+    <updated>2025-10-20T08:10:46Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64854" />
+      href="https://datafordeler.dk/drift/meddelelser/64960" />
     <content
-      type="text">Besked: Test06 servicevindue torsdag den 16. oktober fra klokken 09:00 til klokken 13:00.
+      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober 2025
 
-Der er planlagt servicevindue på Test06 torsdag den 16. oktober fra klokken 09:00 til klokken 13:00.
+20.10.2025: Ejerfortegnelsen (EJF) udfører 3 datarettelser onsdag den 29. oktober 2025:
 
-Anvendere kan i tidsrummet opleve nedetid på WFS, GraphQL, Fildownload (HTTPS) og Datafordeler Administration. 
+Datarettelse 14: Rettelse af forretningshændelse på kopierede ejerskifte fra Matriklen
 
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 64854&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>64860</id>
-    <title
-      type="text">Test04 servicevindue torsdag den 16. oktober fra klokken 08:00 til klokken 17:00</title>
-    <updated>2025-10-17T07:25:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64860" />
-    <content
-      type="text">Besked: Test04 servicevindue torsdag den 16. oktober fra klokken 08:00 til klokken 17:00.
+Datarettelse 15: Tilbagerulning af data, hvor relateret data er "status = tilbagerullet" og gør data historisk, hvor relateret data er "status = historisk".
 
-Der er planlagt servicevindue på Test04 torsdag den 16. oktober fra klokken 08:00 til klokken 17:00.
+Datarettelse 16: Rettelse af historiske fiktive P/V’ers virkningstid i tilfælde, hvor disse ikke følger vores retningslinjer for korrekt bitemporalitet.
 
-I tidsrummet vil hele miljøet være utilgængeligt. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 64860&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
+Læs mere og følg med i datarettelser fra Ejerfortegnelsen (EJF) på https://confluence.sdfi.dk/x/SGgPCQ&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 64960&#xD;
 </content>
   </entry>
   <entry>
@@ -77,24 +57,6 @@ Status: Planlagt&#xD;
 Sagsreference: 64776&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>64893</id>
-    <title
-      type="text">Forsinket opdatering af SVR</title>
-    <updated>2025-10-17T09:03:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64893" />
-    <content
-      type="text">Besked: Forsinket opdatering af SVR
-
-16.10.2025: Dataopdatering for SVR er ikke opdateret i nat. Dataopdatering forventes opdateret natten til fredag den 17.10.2025.&#xD;
-Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 64893&#xD;
 </content>
   </entry>
 </feed>
