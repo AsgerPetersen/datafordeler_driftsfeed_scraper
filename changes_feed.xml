@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-10-13T11:23:45Z</updated>
+  <updated>2025-10-21T10:37:09Z</updated>
   <entry>
     <id>64254</id>
     <title
       type="text">Årlig opdatering af GeoDanmark Ortofoto</title>
-    <updated>2025-10-13T11:23:45Z</updated>
+    <updated>2025-10-21T10:37:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/64254" />
@@ -29,7 +29,7 @@ GeoDanmark Ortofoto 12.5 cm 2025-data WMTS, Fotoindex og Fildownload er klar til
 Bemærk, at Filudtræk ikke bliver opdateret for denne tjeneste, da Fildownload overtager denne funktionalitet.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 64254&#xD;
 Tidsangivelse: Oktober 2025&#xD;
 </content>
