@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-20T08:10:46Z</updated>
+  <updated>2025-10-22T10:06:23Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -37,7 +37,7 @@ Sagsreference: 64960&#xD;
     <id>64776</id>
     <title
       type="text">PROD servicevindue den 21. oktober fra klokken 17:00 til klokken 20:00</title>
-    <updated>2025-10-14T11:54:01Z</updated>
+    <updated>2025-10-22T10:06:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64776" />
@@ -53,7 +53,7 @@ Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. 
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 64776&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
