@@ -6,25 +6,23 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-10-21T10:37:09Z</updated>
+  <updated>2025-10-24T12:46:24Z</updated>
   <entry>
     <id>64254</id>
     <title
       type="text">Årlig opdatering af GeoDanmark Ortofoto</title>
-    <updated>2025-10-21T10:37:09Z</updated>
+    <updated>2025-10-24T12:46:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/64254" />
     <content
       type="text">Besked: Årlig opdatering af GeoDanmark Ortofoto
 
-GeoDanmark Ortofoto bliver opdateret til 2025 data i oktober 2025.
+GeoDanmark Ortofoto 12.5 cm 2025-data WMTS, Fotoindex og Fildownload er nu tilgængelig i 2025 data.
 
-Ortofoto foraar 2025-data er tilgængelige tidligere end forventet og kan allerede nu tilgås i et dedikeret lag. Den generelle tjeneste "orto_foraar" vil frem til opdateringen fortsat pege på 2024-data. Eksisterende integrationer, der anvender "orto_foraar", påvirkes ikke før opdateringen.
+Bemærk, der kan være nogle farveforskelle på enkelte tiles, men de underliggende data er korrekte. 
 
-GeoDanmark Ortofoto 12.5 cm 2025-data WMTS, Fotoindex og Fildownload er klar til anvendere efter den 17. oktober 2025.
-
-10 cm Ortofoto bliver opdateret primo 2026. Vi opdaterer denne meddelelse når 10 cm 2025-data er klar.
+Farveforskellene bliver rettet i forbindelse med opdatering af Ortofoto 10 cm primo 2026. Vi opdaterer denne meddelelse når 10 cm 2025-data er klar.
 
 Bemærk, at Filudtræk ikke bliver opdateret for denne tjeneste, da Fildownload overtager denne funktionalitet.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
