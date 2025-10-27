@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-27T08:26:07Z</updated>
+  <updated>2025-10-27T09:18:13Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -149,15 +149,37 @@ Sagsreference: 65203&#xD;
 </content>
   </entry>
   <entry>
+    <id>65226</id>
+    <title
+      type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
+    <updated>2025-10-27T09:10:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65226" />
+    <content
+      type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
+
+27.10.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret som planlagt natten til mandag den 27.10.2025.
+
+Delta Fildownload bliver forventet opdateret natten til tirsdag den 28.10.2025.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 65226&#xD;
+</content>
+  </entry>
+  <entry>
     <id>65202</id>
     <title
       type="text">Forsinket opdatering af Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-27T08:25:31Z</updated>
+    <updated>2025-10-27T09:18:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65202" />
     <content
       type="text">Besked: Forsinket opdatering af Delta Fildownload (HTTPS)
+
+27.10.2025 klokken 10:00: Delta Fildownload (HTTPS) er blevet opdateret for alle registre undtaget Matriklen. Vi beklager, hvis meddelelsen har givet anledning til forvirring.
 
 27.10.2025 klokken 09:00: Delta Fildownload (HTTPS) er ikke opdateret som planlagt siden natten til fredag den 24. oktober for registrene BBR, DAR, Danske Stednavne, EBR, Ejerfortegnelsen (EJF), Fikspunkter, GeoDanmark Vektor, Matriklen, SVR, og VUR .
 
@@ -166,7 +188,7 @@ Delta Fildownload (HTTPS) er ikke opdateret som planlagt siden natten til sønda
 Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 28. oktober.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65202&#xD;
 </content>
   </entry>
@@ -174,12 +196,14 @@ Sagsreference: 65202&#xD;
     <id>65212</id>
     <title
       type="text">Forsinket opdatering af Total Fildownload (HTTPS)</title>
-    <updated>2025-10-27T08:26:07Z</updated>
+    <updated>2025-10-27T09:18:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65212" />
     <content
       type="text">Besked: Forsinket opdatering af Total Fildownload (HTTPS)
+
+27.10.2025 klokken 10:00: Total Fildownload (HTTPS) er blevet opdateret for alle registre. Vi beklager, hvis meddelelsen har givet anledning til forvirring.
 
 27.10.2025 klokken 09:00: Total Fildownload (HTTPS) er ikke opdateret som planlagt siden natten til søndag den 26. oktober for registrene Matriklen, GeoDanmark Vektor og VUR .
 
@@ -188,7 +212,7 @@ Total Fildownload (HTTPS) er ikke opdateret som planlagt siden natten til sønda
 Total Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 28. oktober.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65212&#xD;
 </content>
   </entry>
