@@ -34,28 +34,6 @@ Sagsreference: 64960&#xD;
 </content>
   </entry>
   <entry>
-    <id>65081</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 23. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-23T10:33:44Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65081" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 23. oktober fra klokken 09:00 til klokken 13:00.
-
-Der er planlagt servicevindue på Test06 torsdag den 23. oktober fra klokken 09:00 til klokken 13:00.
-
-Anvendere kan i tidsrummet opleve nedetid på GraphQL, Fildownload (HTTPS).&#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65081&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65147</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 29. oktober fra klokken 17:00 til klokken 02:00</title>
@@ -74,32 +52,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65147&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>64776</id>
-    <title
-      type="text">PROD servicevindue den 21. oktober fra klokken 17:00 til klokken 20:00</title>
-    <updated>2025-10-22T10:06:23Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64776" />
-    <content
-      type="text">Besked: PROD servicevindue den 21. oktober fra klokken 17:00 til klokken 20:00
-
-Det er planlagt servicevindue på PROD tirsdag den 21. oktober 2025 klokken 17:00 – 20:00.
-
-Anvendere vil kunne forvente længere svartider på webservices og geodata-tjenester i tidsrummet.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. 
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 64776&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -124,28 +76,6 @@ Status: Planlagt&#xD;
 Sagsreference: 65150&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65203</id>
-    <title
-      type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
-    <updated>2025-10-27T08:21:49Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65203" />
-    <content
-      type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
-
-27.10.2025 klokken 09:20: Problemet er løst, og dokumentation for Datafordeleren er tilgængelig igen.
-
-27.10.2025 klokken 08:00: Datafordelerens dokumentation i Confluence er ikke tilgængelig.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 65203&#xD;
 </content>
   </entry>
   <entry>
