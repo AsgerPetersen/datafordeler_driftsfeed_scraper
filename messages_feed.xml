@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-29T09:02:53Z</updated>
+  <updated>2025-10-29T11:12:32Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -101,42 +101,22 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>65226</id>
-    <title
-      type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-28T07:51:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65226" />
-    <content
-      type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
-
-28.10.2025: Problemet er løst. Matriklen Delta Fildownload er blevet opdateret natten til tirsdag den 28.10.2025.
-
-27.10.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret som planlagt natten til mandag den 27.10.2025.
-
-Delta Fildownload bliver forventet opdateret natten til tirsdag den 28.10.2025.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 65226&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65272</id>
     <title
       type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-28T08:44:27Z</updated>
+    <updated>2025-10-29T11:12:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65272" />
     <content
       type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
 
+29.10.2025: Data er opdateret.
+
 28.10.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til tirsdag den 28.10.2025. Delta Fildownload (HTTPS) bliver forventet opdateret natten til onsdag den 29.10.2025.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65272&#xD;
 </content>
   </entry>
