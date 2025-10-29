@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-10-24T12:46:24Z</updated>
+  <updated>2025-10-29T07:53:51Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -155,6 +155,34 @@ Register: Alle&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 57230&#xD;
 Tidsangivelse: 18. september 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65249</id>
+    <title
+      type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
+    <updated>2025-10-29T07:53:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/65249" />
+    <content
+      type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
+
+Anvendere med API-keys oprettet før 17. september 2025, opfordres til at skifte API-keys inden udgangen af 2025, for fortsat at have adgang til data fra Datafordeleren. API-keys oprettet efter 17. september 2025 vil fortsat virke. Du kan se oprettelsesdatoen i "Vis revisionslog" på de enkelte IT-systemer.
+
+Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
+
+	Opret en ny API-key under dit IT-system på Datafordeler Administration (læs mere om oprettelse af API-keys på https://confluence.sdfi.dk/x/3wAnCw#Autentificeringsmetoderp%C3%A5DatafordelerAdministration-API-Key
+	Skift API-key’en i din egen løsning til den nye API-key
+	Deaktiver den gamle API-key på Datafordeler Administration, efter du har verificeret, at den nye API-key virker
+
+
+
+Udfasningen af ældre API-keys sker i løbet af 1. kvartal 2026. Vi opdaterer denne meddelelse med endelig dato for, hvornår ældre API-keys bliver udfaset, når dato er fastsat.&#xD;
+Register: Alle&#xD;
+Status: Forventet&#xD;
+Sagsreference: 65249&#xD;
+Tidsangivelse: Q1 2026&#xD;
 </content>
   </entry>
   <entry>
