@@ -6,21 +6,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-29T11:12:32Z</updated>
+  <updated>2025-10-29T11:47:45Z</updated>
   <entry>
     <id>64960</id>
     <title
       type="text">Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober 2025</title>
-    <updated>2025-10-20T08:10:46Z</updated>
+    <updated>2025-10-29T11:47:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64960" />
     <content
-      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober 2025
+      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober og 19. november 2025
 
-20.10.2025: Ejerfortegnelsen (EJF) udfører 3 datarettelser onsdag den 29. oktober 2025:
+29.10.2025: Ejerfortegnelsen (EJF) udfører datarettelser:
+
+Onsdag den 29. oktober 2025:
 
 Datarettelse 14: Rettelse af forretningshændelse på kopierede ejerskifte fra Matriklen
+
+Onsdag den 19. november (Bemærk ændret dato):
 
 Datarettelse 15: Tilbagerulning af data, hvor relateret data er "status = tilbagerullet" og gør data historisk, hvor relateret data er "status = historisk".
 
