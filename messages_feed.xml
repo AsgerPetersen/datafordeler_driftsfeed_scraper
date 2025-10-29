@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-28T08:44:27Z</updated>
+  <updated>2025-10-29T09:02:53Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -31,6 +31,28 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 64960&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65306</id>
+    <title
+      type="text">Test06 servicevindue torsdag den 30. oktober fra klokken 09:00 til klokken 13:00</title>
+    <updated>2025-10-29T09:02:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65306" />
+    <content
+      type="text">Besked: Test06 servicevindue torsdag den 30. oktober fra klokken 09:00 til klokken 13:00.
+
+Der er planlagt servicevindue på Test06 torsdag den 30. oktober fra klokken 09:00 til klokken 13:00.
+
+Anvendere kan i tidsrummet opleve nedetid på GraphQL, dataopdatering og hændelser.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65306&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
