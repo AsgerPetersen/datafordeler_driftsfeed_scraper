@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-29T12:54:44Z</updated>
+  <updated>2025-10-29T14:42:53Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -132,6 +132,28 @@ Status: Planlagt&#xD;
 Sagsreference: 65150&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65340</id>
+    <title
+      type="text">WMS "orto_foraar" viser 10 cm 2024-data for Region Hovedstaden og Sønderborg Kommune</title>
+    <updated>2025-10-29T14:42:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65340" />
+    <content
+      type="text">Besked: WMS "orto_foraar" viser 10 cm 2024-data for Region Hovedstaden og Sønderborg Kommune
+
+29.10.2025 klokken 15:45: Med den årlige opdatering af GeoDanmark Ortofoto til 2025-data, udført den 17.10.2025, har WMS "orto_foraar" vist 10 cm data fra 2024-laget, for Region Hovedstaden og Sønderborg Kommune. Dette vil bliver rettet i dag den 29.10.2025 i tidsrummet klokken 17:00-18:00, hvorefter der kun vil blive vist 12,5 cm 2025-data for hele landet. 
+
+Lagene "orto_foraar_10" og "orto_foraar_cir" vil efter rettelsen ikke indeholde data. Der henvises i stedet til de dedikerede lag for 2024.
+
+Data i WMTS og fildownload har ikke været påvirket og viser 12,5 cm 2025-data for hele landet.&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 65340&#xD;
 </content>
   </entry>
   <entry>
