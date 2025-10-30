@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-29T16:10:38Z</updated>
+  <updated>2025-10-30T07:28:29Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -132,6 +132,24 @@ Status: Planlagt&#xD;
 Sagsreference: 65150&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65345</id>
+    <title
+      type="text">Grunddatamodel.datafordeler.dk er utilgængelig</title>
+    <updated>2025-10-30T07:28:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65345" />
+    <content
+      type="text">Besked: 30.10.2025 klokken 08:00: Grunddatamodellen på grunddatamodel.datafordeler.dk er ikke tilgængelig.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 65345&#xD;
 </content>
   </entry>
   <entry>
