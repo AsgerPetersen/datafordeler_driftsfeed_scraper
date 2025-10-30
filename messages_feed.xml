@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-30T14:03:20Z</updated>
+  <updated>2025-10-30T15:06:55Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -85,6 +85,28 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 65306&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65374</id>
+    <title
+      type="text">Test03 servicevindue mandag den 3. november til fredag den 7. november 2025</title>
+    <updated>2025-10-30T15:06:55Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65374" />
+    <content
+      type="text">Besked: Test03 servicevindue mandag den 3. november til fredag den 7. november 2025
+
+I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test03 mandag den 3. november 2025 fra klokken 10:00 til fredag den 7. november 2025 klokken 23:00.
+
+Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test03.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65374&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
