@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-30T08:56:12Z</updated>
+  <updated>2025-10-30T09:18:48Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -71,7 +71,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65306</id>
     <title
       type="text">Test06 servicevindue torsdag den 30. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-29T09:02:53Z</updated>
+    <updated>2025-10-30T09:17:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65306" />
@@ -83,7 +83,7 @@ Der er planlagt servicevindue på Test06 torsdag den 30. oktober fra klokken 09:
 Anvendere kan i tidsrummet opleve nedetid på GraphQL, dataopdatering og hændelser.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 65306&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -93,7 +93,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65147</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 29. oktober fra klokken 17:00 til klokken 02:00</title>
-    <updated>2025-10-24T10:51:02Z</updated>
+    <updated>2025-10-30T09:18:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65147" />
@@ -106,7 +106,7 @@ Test-miljøerne vil være utilgængelige i hele perioden både på webservices, 
 Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65147&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
