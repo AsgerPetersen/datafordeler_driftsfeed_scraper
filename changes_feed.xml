@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-10-29T07:53:51Z</updated>
+  <updated>2025-10-31T09:38:44Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -161,7 +161,7 @@ Tidsangivelse: 18. september 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2025-10-29T07:53:51Z</updated>
+    <updated>2025-10-31T09:38:44Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
@@ -172,7 +172,7 @@ Anvendere med API-keys oprettet før 17. september 2025, opfordres til at skifte
 
 Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
 
-	Opret en ny API-key under dit IT-system på Datafordeler Administration (læs mere om oprettelse af API-keys på https://confluence.sdfi.dk/x/3wAnCw#Autentificeringsmetoderp%C3%A5DatafordelerAdministration-API-Key
+	Opret en ny API-key under dit IT-system på Datafordeler Administration (læs mere om oprettelse af API-keys)
 	Skift API-key’en i din egen løsning til den nye API-key
 	Deaktiver den gamle API-key på Datafordeler Administration, efter du har verificeret, at den nye API-key virker
 
