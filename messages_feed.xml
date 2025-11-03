@@ -6,25 +6,25 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-10-30T15:06:55Z</updated>
+  <updated>2025-11-03T11:13:03Z</updated>
   <entry>
     <id>64960</id>
     <title
-      type="text">Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober 2025</title>
-    <updated>2025-10-29T11:47:45Z</updated>
+      type="text">Ejerfortegnelsen (EJF) udfører datarettelser 11. november 2025</title>
+    <updated>2025-11-03T11:13:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/64960" />
     <content
-      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 29. oktober og 19. november 2025
+      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 11. november og 19. november 2025
 
-29.10.2025: Ejerfortegnelsen (EJF) udfører datarettelser:
+03.11.2025: Ejerfortegnelsen (EJF) udfører datarettelser:
 
-Onsdag den 29. oktober 2025:
+Tirsdag den 11. november 2025 (Bemærk ændret dato):
 
 Datarettelse 14: Rettelse af forretningshændelse på kopierede ejerskifte fra Matriklen
 
-Onsdag den 19. november (Bemærk ændret dato):
+Onsdag den 19. november:
 
 Datarettelse 15: Tilbagerulning af data, hvor relateret data er "status = tilbagerullet" og gør data historisk, hvor relateret data er "status = historisk".
 
@@ -68,32 +68,10 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>65306</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 30. oktober fra klokken 09:00 til klokken 13:00</title>
-    <updated>2025-10-30T09:17:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65306" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 30. oktober fra klokken 09:00 til klokken 13:00.
-
-Der er planlagt servicevindue på Test06 torsdag den 30. oktober fra klokken 09:00 til klokken 13:00.
-
-Anvendere kan i tidsrummet opleve nedetid på GraphQL, dataopdatering og hændelser.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 65306&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65374</id>
     <title
       type="text">Test03 servicevindue mandag den 3. november til fredag den 7. november 2025</title>
-    <updated>2025-10-30T15:06:55Z</updated>
+    <updated>2025-11-03T11:03:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65374" />
@@ -105,31 +83,8 @@ I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevi
 Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test03.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 65374&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65147</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 29. oktober fra klokken 17:00 til klokken 02:00</title>
-    <updated>2025-10-30T09:18:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65147" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 29. oktober fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 29. oktober fra klokken 17:00 til klokken 02:00
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65147&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -154,70 +109,6 @@ Status: Planlagt&#xD;
 Sagsreference: 65150&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65345</id>
-    <title
-      type="text">Grunddatamodel.datafordeler.dk er utilgængelig</title>
-    <updated>2025-10-30T13:52:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65345" />
-    <content
-      type="text">Besked: Grunddatamodel.datafordeler.dk er utilgængelig
-
-30.10.2025 klokken 14:30: Problemet er løst, og grunddatamodel.datafordeler.dk er tilgængelig igen.
-
-30.10.2025 klokken 08:00: Grunddatamodellen på grunddatamodel.datafordeler.dk er ikke tilgængelig.
-
-Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 65345&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65340</id>
-    <title
-      type="text">WMS "orto_foraar" viser 10 cm 2024-data for Region Hovedstaden og Sønderborg Kommune</title>
-    <updated>2025-10-30T14:03:20Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65340" />
-    <content
-      type="text">Besked: WMS "orto_foraar" viser 10 cm 2024-data for Region Hovedstaden og Sønderborg Kommune
-
-29.10.2025 klokken 15:45: Med den årlige opdatering af GeoDanmark Ortofoto til 2025-data, udført den 17.10.2025, har WMS "orto_foraar" vist 10 cm data fra 2024-laget, for Region Hovedstaden og Sønderborg Kommune. Dette vil blive rettet i dag den 29.10.2025 i tidsrummet klokken 17:00-18:00, hvorefter der kun vil blive vist 12,5 cm 2025-data for hele landet. 
-
-Lagene orto_foraar /Ortofoto forår 10cm og orto_foraar_CIR /Ortofoto forår 10cm, CIR vil efter rettelsen ikke indeholde data. Der henvises i stedet til de dedikerede lag for 2024.
-
-Data i WMTS og fildownload har ikke været påvirket og viser 12,5 cm 2025-data for hele landet.&#xD;
-Register: GeoDanmark Ortofoto&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 65340&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65272</id>
-    <title
-      type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
-    <updated>2025-10-29T11:12:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65272" />
-    <content
-      type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
-
-29.10.2025: Data er opdateret.
-
-28.10.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til tirsdag den 28.10.2025. Delta Fildownload (HTTPS) bliver forventet opdateret natten til onsdag den 29.10.2025.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 65272&#xD;
 </content>
   </entry>
 </feed>
