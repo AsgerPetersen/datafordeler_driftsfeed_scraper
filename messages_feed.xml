@@ -6,7 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-03T11:13:03Z</updated>
+  <updated>2025-11-03T16:51:33Z</updated>
+  <entry>
+    <id>65542</id>
+    <title
+      type="text">Aflyst: PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30</title>
+    <updated>2025-11-03T16:51:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65542" />
+    <content
+      type="text">Besked: Aflyst: PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30
+
+03.11.2025 klokken 17:45: Klimadatastyrelsen har valgt at aflyse det planlagte servicevindue mandag den 3. november, fordi det er blevet vurderet, at servicevinduet kunne påvirke nødvendigt arbejde i forbindelse med forberedelsen til kommunal- og regionsrådsvalget 18. november 2025.&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 65542&#xD;
+</content>
+  </entry>
   <entry>
     <id>64960</id>
     <title
@@ -85,28 +102,6 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 65374&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65150</id>
-    <title
-      type="text">PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30</title>
-    <updated>2025-10-24T10:51:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65150" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD mandag den 3. november 2025 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 65150&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
