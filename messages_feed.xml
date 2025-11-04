@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-03T16:59:54Z</updated>
+  <updated>2025-11-04T07:40:58Z</updated>
   <entry>
     <id>65542</id>
     <title
@@ -57,13 +57,13 @@ Sagsreference: 64960&#xD;
   <entry>
     <id>65543</id>
     <title
-      type="text">Delta Fildownload (HTTPS) udgår for CPR natten til tirsdag den 4. november 2025</title>
-    <updated>2025-11-03T16:59:54Z</updated>
+      type="text">Dataopdatering udgår for CPR natten til tirsdag den 4. november 2025</title>
+    <updated>2025-11-04T07:40:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65543" />
     <content
-      type="text">Besked: Delta Fildownload (HTTPS) udgår for CPR natten til tirsdag den 4. november 2025
+      type="text">Besked: Dataopdatering udgår for CPR natten til tirsdag den 4. november 2025
 
 03.11.2025: CPR bliver ikke opdateret natten til tirsdag den 4. november 2025.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
