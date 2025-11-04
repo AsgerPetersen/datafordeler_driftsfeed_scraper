@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-04T11:42:49Z</updated>
+  <updated>2025-11-04T12:54:30Z</updated>
   <entry>
     <id>65542</id>
     <title
@@ -58,17 +58,19 @@ Sagsreference: 64960&#xD;
     <id>65543</id>
     <title
       type="text">Dataopdatering udgår for CPR natten til tirsdag den 4. november 2025</title>
-    <updated>2025-11-04T07:40:58Z</updated>
+    <updated>2025-11-04T12:54:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65543" />
     <content
       type="text">Besked: Dataopdatering udgår for CPR natten til tirsdag den 4. november 2025
 
+04.11.2025 klokken 14:00: CPR er opdateret.
+
 03.11.2025: CPR bliver ikke opdateret natten til tirsdag den 4. november 2025.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65543&#xD;
 </content>
   </entry>
