@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-04T11:42:49Z</updated>
+  <updated>2025-11-07T12:17:23Z</updated>
   <entry>
     <id>65542</id>
     <title
@@ -75,25 +75,27 @@ Sagsreference: 65568&#xD;
   <entry>
     <id>65107</id>
     <title
-      type="text">PROD servicevindue den 17. til den 21. november 2025</title>
-    <updated>2025-10-29T12:54:44Z</updated>
+      type="text">Opdateret: PROD servicevindue den 24. til den 28. november 2025</title>
+    <updated>2025-11-07T12:17:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65107" />
     <content
-      type="text">Besked: PROD servicevindue den 17. til den 21. november 2025
+      type="text">Besked: Opdateret: PROD servicevindue den 24. til den 28. november 2025
 
-Som led i forberedelse af idriftsættelsen af Udviklingsleverance 3 vil PROD miljøet være under servicevindue i perioden mandag den 17. november til fredag den 21. november 2025.
+Opdateret 07-11-2025 klokken 13:15 med nye datoer for servicevinduet. 
 
-Anvendere kan i perioden opleve forsinkelse på WMS, REST-services og GraphQL-services mandag den 17. november klokken 10:00 til 23:59.
+Som led i forberedelse af idriftsættelsen af Udviklingsleverance 3 vil PROD miljøet være under servicevindue i perioden mandag den 24. november til fredag den 28. november 2025.
 
-Anvendere kan opleve nedetid på GraphQL-services, GeoServer WFS-tjenester, hentning af Fildownload (HTTPS) og Datafordeler Administration onsdag den 19. november i tidsrummet klokken 10:00 til 14:00.
+Anvendere kan i perioden opleve forsinkelse på WMS, REST-services og GraphQL-services mandag den 24. november klokken 10:00 til 23:59.
 
-Dataopdatering og hændelser er stoppet på produktionsmiljøet den 17. november klokken 10:00 til 19:00 og igen den 19. november klokken 09:00 til 11:00.
+Anvendere kan opleve nedetid på GraphQL-services, GeoServer WFS-tjenester, hentning af Fildownload (HTTPS) og Datafordeler Administration onsdag den 26. november i tidsrummet klokken 10:00 til 14:00.
+
+Dataopdatering og hændelser er stoppet på produktionsmiljøet den 24. november klokken 10:00 til 19:00 og igen den 26. november klokken 09:00 til 11:00.
 
 Anvendere kan i perioden opleve forsinkelse i data i Filudtræk (FTP), dette skyldes stop i dataopdatering, som beskrevet ovenfor.
 
-Deltafiler på Fildownload (HTTPS) er sat på pause den 17. november 2025. Den sidste deltafil bliver genereret natten til den 17. november mellem klokken 00:00 og 06:00. Den 19. november klokken 06:00 er det forventet at deltadownload vil være genereret igen, og vil indeholde alle opdateringer, der har været i løbet af servicevinduet.&#xD;
+Deltafiler på Fildownload (HTTPS) er sat på pause den 24. november 2025. Den sidste deltafil bliver genereret natten til den 24. november mellem klokken 00:00 og 06:00. Den 26. november klokken 06:00 er det forventet at deltadownload vil være genereret igen, og vil indeholde alle opdateringer, der har været i løbet af servicevinduet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
@@ -103,10 +105,32 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>65687</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue mandag den 11. november fra klokken 18:00 til klokken 21:00</title>
+    <updated>2025-11-07T12:08:03Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65687" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue mandag den 10. november fra klokken 18:00 til klokken 21:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06, mandag den 10. november fra klokken 18:00 til klokken 21:00.
+
+Test-miljøerne vil være utilgængelige i hele perioden.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65687&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>65374</id>
     <title
       type="text">Test03 servicevindue mandag den 3. november til fredag den 7. november 2025</title>
-    <updated>2025-11-03T11:03:02Z</updated>
+    <updated>2025-11-07T12:09:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65374" />
@@ -118,7 +142,7 @@ I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevi
 Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test03.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65374&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
