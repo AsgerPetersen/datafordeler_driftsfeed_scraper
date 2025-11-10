@@ -8,23 +8,6 @@
   <id>serviceMessages</id>
   <updated>2025-11-07T12:17:23Z</updated>
   <entry>
-    <id>65542</id>
-    <title
-      type="text">Aflyst: PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30</title>
-    <updated>2025-11-03T16:52:13Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65542" />
-    <content
-      type="text">Besked: Aflyst: PROD servicevindue mandag den 3. november fra klokken 17:30 til klokken 19:30
-
-03.11.2025 klokken 17:45: Klimadatastyrelsen har valgt at aflyse det planlagte servicevindue mandag den 3. november, fordi det er blevet vurderet, at servicevinduet kunne påvirke nødvendigt arbejde i forbindelse med forberedelsen til kommunal- og regionsrådsvalget 18. november 2025.&#xD;
-Register: Alle&#xD;
-Status: I gang&#xD;
-Sagsreference: 65542&#xD;
-</content>
-  </entry>
-  <entry>
     <id>64960</id>
     <title
       type="text">Ejerfortegnelsen (EJF) udfører datarettelser 11. november 2025</title>
@@ -122,28 +105,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65687&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65374</id>
-    <title
-      type="text">Test03 servicevindue mandag den 3. november til fredag den 7. november 2025</title>
-    <updated>2025-11-07T12:09:55Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65374" />
-    <content
-      type="text">Besked: Test03 servicevindue mandag den 3. november til fredag den 7. november 2025
-
-I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test03 mandag den 3. november 2025 fra klokken 10:00 til fredag den 7. november 2025 klokken 23:00.
-
-Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test03.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65374&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
