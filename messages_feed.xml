@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-10T12:26:21Z</updated>
+  <updated>2025-11-11T08:08:50Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -91,7 +91,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65687</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue mandag den 11. november fra klokken 18:00 til klokken 21:00</title>
-    <updated>2025-11-07T12:08:03Z</updated>
+    <updated>2025-11-11T08:08:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65687" />
@@ -103,7 +103,7 @@ Der er planlagt servicevindue på Test03, Test04 og Test06, mandag den 10. novem
 Test-miljøerne vil være utilgængelige i hele perioden.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65687&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
