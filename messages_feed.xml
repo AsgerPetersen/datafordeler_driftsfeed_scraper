@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-11T08:08:50Z</updated>
+  <updated>2025-11-12T11:16:05Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -35,6 +35,40 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 64960&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65822</id>
+    <title
+      type="text">Datafordeleren opdaterer servercertifikat</title>
+    <updated>2025-11-12T11:16:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65822" />
+    <content
+      type="text">Besked: Datafordeleren opdaterer servercertifikat
+
+Datafordeleren har mandag den 10. november 2025 opdateret servercertifikatet for services på alle test-miljøer.
+
+Udskiftningen er planlagt til produktionsmiljøet i aften den 12. november 2025.
+
+Datafordeleren er imidlertid blevet bekendt med, at anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
+
+Detaljer om de nye certifikater:
+
+	Rodcertifikat (Root CA): Sectigo Public Server Authentication Root R46 på https://crt.sh/?d=4256644734
+	Mellemliggende certifikat (Intermediate CA): Sectigo Public Server Authentication CA DV R36 på https://crt.sh/?d=4267304690
+
+
+
+Hvad skal du gøre?
+
+Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet, vil jeres kald til Datafordelerens services fejle efter skiftet.
+
+Vi beklager de gener, det eventuelt kan medføre.&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 65822&#xD;
 </content>
   </entry>
   <entry>
@@ -83,28 +117,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65107&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65687</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue mandag den 11. november fra klokken 18:00 til klokken 21:00</title>
-    <updated>2025-11-11T08:08:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65687" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue mandag den 10. november fra klokken 18:00 til klokken 21:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, mandag den 10. november fra klokken 18:00 til klokken 21:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65687&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
