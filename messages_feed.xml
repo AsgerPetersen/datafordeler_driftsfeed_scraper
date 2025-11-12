@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-12T12:50:19Z</updated>
+  <updated>2025-11-12T14:44:54Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -41,18 +41,20 @@ Sagsreference: 64960&#xD;
     <id>65822</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat</title>
-    <updated>2025-11-12T12:50:19Z</updated>
+    <updated>2025-11-12T14:44:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65822" />
     <content
-      type="text">Besked: Datafordeleren opdaterer servercertifikat
+      type="text">Besked: Ændret tidspunkt: Datafordeleren opdaterer servercertifikat
 
 Datafordeleren har mandag den 10. november 2025 opdateret servercertifikatet for services på alle test-miljøer.
 
-Udskiftningen er planlagt til servicevinduet på produktionsmiljøet i aften den 12. november 2025.
+Bemærk ændret tidspunkt: I Produktion vil skift af certifikat ske fredag den 14. november 2025 klokken 08:00.
 
-Datafordeleren er imidlertid blevet bekendt med, at anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
+Datafordeleren er blevet bekendt med, at anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
+
+Det er allerede nu muligt at tilføje de nye certifikater:
 
 Detaljer om de nye certifikater:
 
@@ -63,7 +65,7 @@ Detaljer om de nye certifikater:
 
 Hvad skal du gøre?
 
-Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet, vil jeres kald til Datafordelerens services fejle efter skiftet.
+Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er tilføjet til trust store senest fredag morgen inden klokken 08:00, vil jeres kald til Datafordelerens services fejle.
 
 Vi beklager de gener, det eventuelt kan medføre.&#xD;
 Register: Alle&#xD;
