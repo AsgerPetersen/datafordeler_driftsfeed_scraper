@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-13T10:12:18Z</updated>
+  <updated>2025-11-14T07:51:59Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -41,7 +41,7 @@ Sagsreference: 64960&#xD;
     <id>65822</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat</title>
-    <updated>2025-11-12T14:44:54Z</updated>
+    <updated>2025-11-14T07:51:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65822" />
@@ -69,7 +69,7 @@ Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifi
 
 Vi beklager de gener, det eventuelt kan medføre.&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65822&#xD;
 </content>
   </entry>
