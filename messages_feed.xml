@@ -124,30 +124,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>65729</id>
-    <title
-      type="text">PROD servicevindue onsdag den 12. november fra klokken 18:00 til klokken 21:00</title>
-    <updated>2025-11-13T10:12:18Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65729" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 12. november fra klokken 18:00 til klokken 21:00
-
-Der er planlagt servicevindue på produktionsmiljøet onsdag den 12. november fra klokken 18:00 til klokken 21:00.
-
-Anvendere kan i tidsperioden opleve nedetid på GraphQL, geodata-tjenester, Fildownload, hændelser, indlæsning, og på Datafordeler Administration.
-
-Vi beklager den korte varsel.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65729&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65946</id>
     <title
       type="text">Ejendomsvurdering (VUR) dataopdatering er stoppet i produktionsmiljøet</title>
