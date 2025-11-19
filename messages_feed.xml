@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-17T09:25:17Z</updated>
+  <updated>2025-11-19T10:47:02Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -127,19 +127,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65946</id>
     <title
       type="text">Ejendomsvurdering (VUR) dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2025-11-17T09:25:17Z</updated>
+    <updated>2025-11-19T10:47:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65946" />
     <content
       type="text">Besked: Ejendomsvurdering (VUR) dataopdatering er stoppet i produktionsmiljøet
 
+19.11.2025 klokken 11:45: Problemet er løst. VUR dataopdatering er tilbage i normal drift.
+
 17.11.2025 klokken 10:00: VUR dataopdatering er stoppet i produktionsmiljøet, sidste opdatering var 15.11.2025 klokken 10:02:55.
 
 Der arbejdes på at løse problemet.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Webservice, Filudtræk (FTP), Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 65946&#xD;
 </content>
   </entry>
