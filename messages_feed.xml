@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-19T11:22:47Z</updated>
+  <updated>2025-11-20T11:36:23Z</updated>
   <entry>
     <id>64960</id>
     <title
@@ -31,6 +31,23 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 64960&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66119</id>
+    <title
+      type="text">Skærmkortet bliver opdateret i januar 2026</title>
+    <updated>2025-11-20T11:36:23Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66119" />
+    <content
+      type="text">Besked: Skærmkortet bliver opdateret i januar 2026
+
+20.11.2025: Næste opdatering af Skærmkortet bliver i januar 2026. Der kommer ikke flere opdateringer i 2025.&#xD;
+Register: Skærmkortet&#xD;
+Status: I gang&#xD;
+Sagsreference: 66119&#xD;
 </content>
   </entry>
   <entry>
