@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-11-20T08:06:27Z</updated>
+  <updated>2025-11-21T07:13:53Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -35,15 +35,15 @@ Tidsangivelse: Oktober 2025&#xD;
   <entry>
     <id>63118</id>
     <title
-      type="text">Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 4. december 2025</title>
-    <updated>2025-11-20T08:06:27Z</updated>
+      type="text">Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 26. november 2025</title>
+    <updated>2025-11-21T07:13:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/63118" />
     <content
-      type="text">Besked: Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 4. december 2025
+      type="text">Besked: Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 26. november 2025
 
-I forbindelse med at der indføres paging på metoden GetAvailableFiledownloads med udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt, kommer Fildownload (HTTPS) REST-API’et i en version 2. Udviklingsleverancen er planlagt til release på produktionsmiljøet den 4. december 2025.
+I forbindelse med at der indføres paging på metoden GetAvailableFiledownloads med udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt, kommer Fildownload (HTTPS) REST-API’et i en version 2. Udviklingsleverancen er planlagt til release på produktionsmiljøet den 26. november 2025.
 
 Du skal som anvender være opmærksom på, om du i forvejen kalder metoden med eller uden versionsnummer for Fildownload (HTTPS) REST-API’et. Kalder du uden versionsnummer, vil du automatisk kalde den nyeste version.
 
@@ -86,15 +86,15 @@ Tidsangivelse: Q1 2026&#xD;
   <entry>
     <id>65875</id>
     <title
-      type="text">Ændring i filtrering på GraphQL-tjenesten CVRCustom 4. december 2025</title>
-    <updated>2025-11-14T11:49:48Z</updated>
+      type="text">Ændring i filtrering på GraphQL-tjenesten CVRCustom 26. november 2025</title>
+    <updated>2025-11-21T07:09:25Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65875" />
     <content
-      type="text">Besked: Ændring i filter på GraphQL-tjenesten CVRCustom 4. december 2025
+      type="text">Besked: Ændring i filter på GraphQL-tjenesten CVRCustom 26. november 2025
 
-CVR's GraphQL-tjeneste CVRCustom bliver opdateret, når Udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt bliver sat i drift på produktionsmiljøet den 4. december 2025.
+CVR's GraphQL-tjeneste CVRCustom bliver opdateret, når Udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt bliver sat i drift på produktionsmiljøet den 26. november 2025.
 
 Hvis du som anvender kalder entiteten CVRPersonBegraenset, skal du efter ændringen være opmærksom, at det fremadrettet er et krav at have et where-filter på mindst et af følgende felter:
 
