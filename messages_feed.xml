@@ -8,32 +8,6 @@
   <id>serviceMessages</id>
   <updated>2025-11-20T11:36:23Z</updated>
   <entry>
-    <id>64960</id>
-    <title
-      type="text">Ejerfortegnelsen (EJF) udfører datarettelser 11. november 2025</title>
-    <updated>2025-11-19T11:22:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/64960" />
-    <content
-      type="text">Besked: Ejerfortegnelsen (EJF) udfører datarettelser 19. november 2025
-
-19.11.2025:
-
-Datarettelse 15: Tilbagerulning af data, hvor relateret data er "status = tilbagerullet" og gør data historisk, hvor relateret data er "status = historisk".
-
-Datarettelse 16: Rettelse af historiske fiktive P/V’ers virkningstid i tilfælde, hvor disse ikke følger vores retningslinjer for korrekt bitemporalitet.
-
-Datarettelse 17: Overtagelsesdato på ejerskifter og ejerskaber for at sikre at disse retningslinjerne omkring overtagelsesdato og virkningfra.
-
-Læs mere og følg med i datarettelser fra Ejerfortegnelsen (EJF) på https://confluence.sdfi.dk/x/SGgPCQ&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 64960&#xD;
-</content>
-  </entry>
-  <entry>
     <id>66119</id>
     <title
       type="text">Skærmkortet bliver opdateret i januar 2026</title>
@@ -48,42 +22,6 @@ Sagsreference: 64960&#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 66119&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65822</id>
-    <title
-      type="text">Datafordeleren opdaterer servercertifikat</title>
-    <updated>2025-11-14T07:51:59Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65822" />
-    <content
-      type="text">Besked: Ændret tidspunkt: Datafordeleren opdaterer servercertifikat
-
-Datafordeleren har mandag den 10. november 2025 opdateret servercertifikatet for services på alle test-miljøer.
-
-Bemærk ændret tidspunkt: I Produktion vil skift af certifikat ske fredag den 14. november 2025 klokken 08:00.
-
-Datafordeleren er blevet bekendt med, at anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
-
-Det er allerede nu muligt at tilføje de nye certifikater:
-
-Detaljer om de nye certifikater:
-
-	Rodcertifikat (Root CA): Sectigo Public Server Authentication Root R46 på https://crt.sh/?d=4256644734
-	Mellemliggende certifikat (Intermediate CA): Sectigo Public Server Authentication CA DV R36 på https://crt.sh/?d=4267304690
-
-
-
-Hvad skal du gøre?
-
-Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er tilføjet til trust store senest fredag morgen inden klokken 08:00, vil jeres kald til Datafordelerens services fejle.
-
-Vi beklager de gener, det eventuelt kan medføre.&#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 65822&#xD;
 </content>
   </entry>
   <entry>
