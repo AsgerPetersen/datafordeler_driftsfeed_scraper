@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-20T11:36:23Z</updated>
+  <updated>2025-11-24T11:08:58Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -46,7 +46,7 @@ Sagsreference: 65568&#xD;
     <id>65107</id>
     <title
       type="text">Opdateret: PROD servicevindue den 24. til den 28. november 2025</title>
-    <updated>2025-11-07T12:17:23Z</updated>
+    <updated>2025-11-24T11:08:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65107" />
@@ -68,7 +68,7 @@ Anvendere kan i perioden opleve forsinkelse i data i Filudtræk (FTP), dette sky
 Deltafiler på Fildownload (HTTPS) er sat på pause den 24. november 2025. Den sidste deltafil bliver genereret natten til den 24. november mellem klokken 00:00 og 06:00. Den 26. november klokken 06:00 er det forventet at deltadownload vil være genereret igen, og vil indeholde alle opdateringer, der har været i løbet af servicevinduet.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 65107&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
