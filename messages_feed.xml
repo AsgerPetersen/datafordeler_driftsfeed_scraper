@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-25T08:03:19Z</updated>
+  <updated>2025-11-25T11:25:36Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -40,6 +40,28 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 65568&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66268</id>
+    <title
+      type="text">Datarettelser i Matriklen uge 49 og 50</title>
+    <updated>2025-11-25T11:25:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66268" />
+    <content
+      type="text">Besked: Datarettelser i Matriklen uge 49 og 50
+
+Geodatastyrelsen vil i ugerne 49 og 50 (1.-14. december) supplere entiteten Matrikulaersag med cirka 930.000 rækker. 
+
+Det drejer sig hovedsageligt om sagsid + journalnummer for sager for perioden fra 1800-2008. 
+
+Læs mere om datarettelser i Matriklen på https://confluence.sdfi.dk/x/34PrCw&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 66268&#xD;
 </content>
   </entry>
   <entry>
