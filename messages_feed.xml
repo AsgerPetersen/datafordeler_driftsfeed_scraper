@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-24T11:08:58Z</updated>
+  <updated>2025-11-25T08:03:19Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -40,6 +40,28 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
 Sagsreference: 65568&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66240</id>
+    <title
+      type="text">Test03 servicevindue tirsdag den 25. november fra klokken 8:00 til klokken 17:00</title>
+    <updated>2025-11-25T08:03:19Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66240" />
+    <content
+      type="text">Besked: Test03 servicevindue tirsdag den 25. november fra klokken 8:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test03 tirsdag den 9. november 2025 klokken 8:00 til klokken 17:30.
+
+I tidsrummet er testmiljøet utilgængeligt.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 66240&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
