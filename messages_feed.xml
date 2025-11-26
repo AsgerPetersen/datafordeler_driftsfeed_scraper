@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-25T11:25:36Z</updated>
+  <updated>2025-11-26T08:38:09Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -116,6 +116,26 @@ Status: I gang&#xD;
 Sagsreference: 65107&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66298</id>
+    <title
+      type="text">Forsinket opdatering af Delta Fildownload for entiteter med geometri</title>
+    <updated>2025-11-26T08:38:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66298" />
+    <content
+      type="text">Besked: Forsinket opdatering af Delta Fildownload for entiteter med geometri
+
+26.11.2025: Delta Fildownload (HTTPS) for entiteter med geometri er ikke opdateret som planlagt natten til onsdag den 26.11.2025. Det betyder, at det er den seneste opdaterede version af Delta Fildownload for entiteter med geometri i BBR, DAR,  DAGI, Danmarks Fikspunktsregister, Danske Stednavne, GeoDanmark og Matriklen, der er tilgængelig.
+
+Delta Fildownload for entiteter med geometri bliver forventet opdateret natten til torsdag den 27.11.2025.&#xD;
+Register: Alle&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 66298&#xD;
 </content>
   </entry>
 </feed>
