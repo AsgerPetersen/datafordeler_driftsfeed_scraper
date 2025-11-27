@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-27T11:15:57Z</updated>
+  <updated>2025-11-27T12:19:09Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -65,6 +65,50 @@ Sagsreference: 66268&#xD;
 </content>
   </entry>
   <entry>
+    <id>65977</id>
+    <title
+      type="text">PROD servicevindue onsdag den 10. december fra klokken 17:30 til klokken 19:30</title>
+    <updated>2025-11-27T12:18:16Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65977" />
+    <content
+      type="text">Besked: PROD servicevindue onsdag den 10. december fra klokken 17:30 til klokken 19:30
+
+Der er planlagt servicevindue på PROD onsdag den 10. december 2025 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65977&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65978</id>
+    <title
+      type="text">Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30</title>
+    <updated>2025-11-27T12:18:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65978" />
+    <content
+      type="text">Besked: Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30
+
+Der er planlagt servicevindue på Test03 og Test06 tirsdag den 9. december 2025 klokken 10:00 til klokken 17:30.
+
+I tidsrummet er testmiljøerne utilgængelige.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65978&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>65107</id>
     <title
       type="text">Opdateret: PROD servicevindue den 24. til den 28. november 2025</title>
@@ -92,6 +136,28 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 65107&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65979</id>
+    <title
+      type="text">Test04 servicevindue mandag den 15. december fra klokken 10:00 til klokken 13:00</title>
+    <updated>2025-11-27T12:19:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/65979" />
+    <content
+      type="text">Besked: Test04 servicevindue mandag den 15. december fra klokken 10:00 til klokken 13:00
+
+Der er planlagt servicevindue på Test04 mandag den 15. december 2025 klokken 10:00 til klokken 13:00.
+
+I tidsrummet er testmiljøet utilgængeligt.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 65979&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
