@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-26T21:32:17Z</updated>
+  <updated>2025-11-27T09:41:20Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -122,19 +122,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66298</id>
     <title
       type="text">Forsinket opdatering af Delta Fildownload for entiteter med geometri</title>
-    <updated>2025-11-26T09:02:36Z</updated>
+    <updated>2025-11-27T09:41:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66298" />
     <content
       type="text">Besked: Forsinket opdatering af Delta Fildownload for entiteter med geometri
 
+27.11.2025: Data er opdateret.
+
 26.11.2025: Delta Fildownload (HTTPS) for entiteter med geometri er ikke opdateret som planlagt natten til onsdag den 26.11.2025. Det betyder, at det er den seneste opdaterede version af Delta Fildownload for entiteter med geometri i BBR, DAR,  DAGI, Danmarks Fikspunktsregister, Danske Stednavne, GeoDanmark og Matriklen, der er tilgængelig.
 
 Delta Fildownload for entiteter med geometri bliver forventet opdateret natten til torsdag den 27.11.2025.&#xD;
 Register: Alle&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66298&#xD;
 </content>
   </entry>
@@ -155,6 +157,24 @@ Vi beklager de gener, det medfører. &#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 66410&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66425</id>
+    <title
+      type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
+    <updated>2025-11-27T09:38:49Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66425" />
+    <content
+      type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
+
+27.11.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 27.11.2025. Delta Fildownload (HTTPS) bliver forventet opdateret senere i dag.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 66425&#xD;
 </content>
   </entry>
 </feed>
