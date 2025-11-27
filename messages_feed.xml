@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-27T12:19:09Z</updated>
+  <updated>2025-11-27T20:02:55Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -166,7 +166,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66410</id>
     <title
       type="text">Problemer med adgang til Moderniserede tjenester for nogle anvendere </title>
-    <updated>2025-11-27T11:15:57Z</updated>
+    <updated>2025-11-27T20:02:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66410" />
@@ -177,7 +177,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 Vi beklager de gener, det medfører. &#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66410&#xD;
 </content>
   </entry>
