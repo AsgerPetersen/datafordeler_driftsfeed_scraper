@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-27T09:41:20Z</updated>
+  <updated>2025-11-27T11:15:57Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -144,14 +144,14 @@ Sagsreference: 66298&#xD;
     <id>66410</id>
     <title
       type="text">Problemer med adgang til Moderniserede tjenester for nogle anvendere </title>
-    <updated>2025-11-26T21:32:17Z</updated>
+    <updated>2025-11-27T11:15:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66410" />
     <content
       type="text">Besked: Problemer med adgang til Moderniserede tjenester for nogle anvendere 
 
-Vi oplever i øjeblikket en driftsforstyrrelse, der påvirker adgangen til GraphQL-services, GeoServer WFS-tjenester og hentning af Fildownload (HTTPS). Dette kan medføre, at der opleves fejl eller manglende adgang for nogle anvendere, og tilhørende it-systemer vil ikke være synlige i Datafordeler Administration. Vi arbejder på at gendanne driften for alle berørte anvendere hurtigst muligt. 
+27.11.2025: Anvenderne kan i øjeblikket opleve driftsforstyrrelser, der påvirker adgangen til GraphQL-services, GeoServer WFS-tjenester og hentning af Fildownload (HTTPS). Nogle anvendere kan opleve fejl eller manglende adgang, og deres oprettede it-systemer vil ikke være synlige i Datafordeler Administration. Vi arbejder på at gendanne normal drift hurtigst muligt. 
 
 Vi beklager de gener, det medfører. &#xD;
 Register: Alle&#xD;
@@ -163,17 +163,19 @@ Sagsreference: 66410&#xD;
     <id>66425</id>
     <title
       type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
-    <updated>2025-11-27T09:38:49Z</updated>
+    <updated>2025-11-27T11:08:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66425" />
     <content
       type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
 
-27.11.2025: Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 27.11.2025. Delta Fildownload (HTTPS) bliver forventet opdateret senere i dag.&#xD;
+27.11.2025: Data er opdateret.
+
+Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 27.11.2025. Delta Fildownload (HTTPS) bliver forventet opdateret senere i dag.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66425&#xD;
 </content>
   </entry>
