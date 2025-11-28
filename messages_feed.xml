@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-28T09:11:23Z</updated>
+  <updated>2025-11-28T11:14:18Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -160,6 +160,24 @@ Status: Planlagt&#xD;
 Sagsreference: 65979&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66470</id>
+    <title
+      type="text">Fildownload (HTTPS) ikke tilgængelige via datafordeler.dk</title>
+    <updated>2025-11-28T11:14:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66470" />
+    <content
+      type="text">Besked: Fildownload (HTTPS) ikke tilgængelige via datafordeler.dk
+
+28.11.2025 klokken 12:00: Det er i øjeblikket ikke muligt at hente Fildownload (HTTPS) via datafordeler.dk. Vi arbejder på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 66470&#xD;
 </content>
   </entry>
   <entry>
