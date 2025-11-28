@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-11-21T07:13:53Z</updated>
+  <updated>2025-11-28T10:39:19Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -87,7 +87,7 @@ Tidsangivelse: Q1 2026&#xD;
     <id>65875</id>
     <title
       type="text">Ændring i filtrering på GraphQL-tjenesten CVRCustom 26. november 2025</title>
-    <updated>2025-11-21T07:09:25Z</updated>
+    <updated>2025-11-28T10:39:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65875" />
@@ -112,16 +112,16 @@ Læs mere om entiteten CVRPersonBegraenset
 Læs mere om GraphQL på Datafordeleren&#xD;
 Register: Det Centrale Virksomhedsregister (CVR)&#xD;
 Service: Webservice&#xD;
-Status: Forventet&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65875&#xD;
-Tidsangivelse: 4. december 2025&#xD;
+Tidsangivelse: 26. november 2025&#xD;
 </content>
   </entry>
   <entry>
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2025</title>
-    <updated>2025-05-28T11:46:26Z</updated>
+    <updated>2025-11-28T10:38:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
@@ -130,22 +130,20 @@ Tidsangivelse: 4. december 2025&#xD;
 
 Der er planlagt ændringer på CPR’s tjenester i 2025. Ændringerne bliver introduceret som et nyt register på Datafordeleren.
 
-CPR´s ændrede resttjenester er forventet at blive tilgængelig for anvendere i Datafordelerens testmiljø i maj 2025, men vil ikke blive tilgængelig for anvendere i Datafordelerens produktionsmiljø. De ændrede resttjenester er baseret på en opdateret datamodel for CPR.
+CPR’s GraphQL-tjenester bliver releaset med Udviklingsleverance 3 i Datafordelerens moderniseringsprojekt, som er planlagt den 4. december 2025. CPR’s GraphQL-tjenester vil være baseret på den opdaterede datamodel.
 
-CPR’s GraphQL-tjenester forventes at blive releaset med Udviklingsleverance 3 i Datafordelerens moderniseringsprojekt, som er planlagt i slutningen af november 2025. CPR’s GraphQL-tjenester vil være baseret på den opdaterede datamodel.
+Læs mere om Datafordelerens moderniseringsprojekt
 
-Læs mere om de planlagte ændringer i CPR tjenesterne. 
-
-Læs mere om Datafordelerens moderniseringsprojekt.
+Læs mere om test af CPR
 
 Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
 
 KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk, at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice, Hændelser&#xD;
-Status: Forventet&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 26622&#xD;
-Tidsangivelse: 2025&#xD;
+Tidsangivelse: 4. december 2025&#xD;
 </content>
   </entry>
   <entry>
