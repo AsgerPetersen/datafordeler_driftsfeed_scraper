@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-11-28T07:20:56Z</updated>
+  <updated>2025-11-28T09:11:23Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -166,19 +166,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66453</id>
     <title
       type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
-    <updated>2025-11-28T07:20:56Z</updated>
+    <updated>2025-11-28T09:11:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66453" />
     <content
       type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
 
+28.11.2025 klokken 10:00: Problemet er løst, og dokumentation for Datafordeleren er tilgængelig igen.
+
 28.11.2025 klokken 8:00: Datafordelerens dokumentation i Confluence er ikke tilgængelig.
 
 Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Dokumentation&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66453&#xD;
 </content>
   </entry>
