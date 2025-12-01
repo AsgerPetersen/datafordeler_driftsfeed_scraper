@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-01T06:47:32Z</updated>
+  <updated>2025-12-01T08:04:36Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -104,6 +104,28 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65978&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66481</id>
+    <title
+      type="text">Test04 servicevindue mandag den 8. december til fredag den 12. december 2025</title>
+    <updated>2025-12-01T08:04:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66481" />
+    <content
+      type="text">Besked: Test04 servicevindue mandag den 8. december til fredag den 12. december 2025
+
+I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test04 mandag den 8. december fra klokken 10:00 til fredag den 12. december 2025 klokken 23:00.
+
+Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test04.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 66481&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
