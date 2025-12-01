@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-01T08:04:36Z</updated>
+  <updated>2025-12-01T08:41:20Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -182,6 +182,30 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65979&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66483</id>
+    <title
+      type="text">PROD servicevindue tirsdag den 2. december fra klokken 17:00 til klokken 19:00</title>
+    <updated>2025-12-01T08:41:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66483" />
+    <content
+      type="text">Besked: PROD servicevindue tirsdag den 2. december fra klokken 17:00 til klokken 19:00
+
+Der er planlagt servicevindue på produktionsmiljøet tirsdag den 2. december fra klokken 17:00 til klokken 19:00.
+
+Anvendere kan i tidsperioden opleve nedetid på GraphQL-tjenester.
+
+Vi beklager den korte varsel.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 66483&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
