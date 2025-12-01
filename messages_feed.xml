@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-01T08:41:20Z</updated>
+  <updated>2025-12-01T09:30:58Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -174,6 +174,24 @@ Status: Planlagt&#xD;
 Sagsreference: 66483&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66494</id>
+    <title
+      type="text">Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)</title>
+    <updated>2025-12-01T09:30:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/66494" />
+    <content
+      type="text">Besked: Forsinket opdatering af Matriklen Delta Fildownload (HTTPS)
+
+01.12.2025: Delta Fildownload (HTTPS) for Matriklen er ikke opdateret som planlagt natten til mandag den 01.12.2025. Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 02.12.2025.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 66494&#xD;
 </content>
   </entry>
 </feed>
