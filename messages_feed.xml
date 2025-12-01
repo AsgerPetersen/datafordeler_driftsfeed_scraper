@@ -131,40 +131,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>65107</id>
-    <title
-      type="text">Opdateret: PROD servicevindue den 24. til den 28. november 2025</title>
-    <updated>2025-12-01T06:47:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65107" />
-    <content
-      type="text">Besked: Opdateret: PROD servicevindue den 24. til den 28. november 2025
-
-01.12.2025: Servicevindue er gennemført.
-
-Opdateret 07-11-2025 klokken 13:15 med nye datoer for servicevinduet. 
-
-Som led i forberedelse af idriftsættelsen af Udviklingsleverance 3 vil PROD miljøet være under servicevindue i perioden mandag den 24. november til fredag den 28. november 2025.
-
-Anvendere kan i perioden opleve forsinkelse på WMS, REST-services og GraphQL-services mandag den 24. november klokken 10:00 til 23:59.
-
-Anvendere kan opleve nedetid på GraphQL-services, GeoServer WFS-tjenester, hentning af Fildownload (HTTPS) og Datafordeler Administration onsdag den 26. november i tidsrummet klokken 10:00 til 14:00.
-
-Dataopdatering og hændelser er stoppet på produktionsmiljøet den 24. november klokken 10:00 til 19:00 og igen den 26. november klokken 09:00 til 11:00.
-
-Anvendere kan i perioden opleve forsinkelse i data i Filudtræk (FTP), dette skyldes stop i dataopdatering, som beskrevet ovenfor.
-
-Deltafiler på Fildownload (HTTPS) er sat på pause den 24. november 2025. Den sidste deltafil bliver genereret natten til den 24. november mellem klokken 00:00 og 06:00. Den 26. november klokken 06:00 er det forventet at deltadownload vil være genereret igen, og vil indeholde alle opdateringer, der har været i løbet af servicevinduet.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65107&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65979</id>
     <title
       type="text">Test04 servicevindue mandag den 15. december fra klokken 10:00 til klokken 13:00</title>
@@ -208,67 +174,6 @@ Status: Planlagt&#xD;
 Sagsreference: 66483&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66470</id>
-    <title
-      type="text">Fildownload (HTTPS) ikke tilgængelige via datafordeler.dk</title>
-    <updated>2025-11-28T13:20:08Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66470" />
-    <content
-      type="text">Besked: Fildownload (HTTPS) ikke tilgængelige via datafordeler.dk
-
-28.11.2025 klokken 12:45: Problemet er løst, og det er igen muligt hente data i Fildownload (HTTPS) via datafordeler.dk.
-
-28.11.2025 klokken 12:00: Det er i øjeblikket ikke muligt at hente Fildownload (HTTPS) via datafordeler.dk. Vi arbejder på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 66470&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66410</id>
-    <title
-      type="text">Problemer med adgang til Moderniserede tjenester for nogle anvendere </title>
-    <updated>2025-11-28T06:53:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66410" />
-    <content
-      type="text">Besked: Problemer med adgang til Moderniserede tjenester for nogle anvendere 
-
-28.11.2025: Problemet er løst.
-
-27.11.2025: Anvenderne kan i øjeblikket opleve driftsforstyrrelser, der påvirker adgangen til GraphQL-services, GeoServer WFS-tjenester og hentning af Fildownload (HTTPS). Nogle anvendere kan opleve fejl eller manglende adgang, og deres oprettede it-systemer vil ikke være synlige i Datafordeler Administration. Vi arbejder på at gendanne normal drift hurtigst muligt. 
-
-Vi beklager de gener, det medfører. &#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 66410&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66425</id>
-    <title
-      type="text">Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)</title>
-    <updated>2025-11-27T11:08:13Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66425" />
-    <content
-      type="text">Besked: Forsinket opdatering af Ejerfortegnelsen Delta Fildownload (HTTPS)
-
-27.11.2025: Data er opdateret.
-
-Delta Fildownload (HTTPS) for Ejerfortegnelsen er ikke opdateret som planlagt natten til torsdag den 27.11.2025. Delta Fildownload (HTTPS) bliver forventet opdateret senere i dag.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 66425&#xD;
 </content>
   </entry>
 </feed>
