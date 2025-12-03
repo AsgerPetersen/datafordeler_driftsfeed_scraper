@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-01T15:04:28Z</updated>
+  <updated>2025-12-03T07:28:27Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -156,12 +156,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66483</id>
     <title
       type="text">PROD servicevindue tirsdag den 2. december fra klokken 17:00 til klokken 19:00</title>
-    <updated>2025-12-01T08:41:20Z</updated>
+    <updated>2025-12-03T07:28:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66483" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 2. december fra klokken 17:00 til klokken 19:00
+
+03.12.2025: Servicevindue er gennemført.
 
 Der er planlagt servicevindue på produktionsmiljøet tirsdag den 2. december fra klokken 17:00 til klokken 19:00.
 
@@ -170,7 +172,7 @@ Anvendere kan i tidsperioden opleve nedetid på GraphQL-tjenester.
 Vi beklager den korte varsel.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 66483&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -180,19 +182,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66531</id>
     <title
       type="text">Afbrydelse i den normale dataopdatering for Matriklen</title>
-    <updated>2025-12-01T15:04:28Z</updated>
+    <updated>2025-12-03T07:13:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66531" />
     <content
       type="text">Besked: Afbrydelse i den normale dataopdatering for Matriklen
 
+03.12.2025 klokken 08:15: Problemet er løst. Matriklen dataopdatering er tilbage i normal drift.
+
 01.12.2025 klokken 16:00: Der er i øjeblikket afbrydelse i den normale dataopdatering for Matriklen. Seneste dataopdatering var i dag den 1. december klokken 14:25:29. 
 
 Der arbejdes på at løse problemet.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66531&#xD;
 </content>
   </entry>
