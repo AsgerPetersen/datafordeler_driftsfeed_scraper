@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-12-05T13:14:14Z</updated>
+  <updated>2025-12-05T14:13:53Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -53,6 +53,25 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 63118&#xD;
 Tidsangivelse: 26. november 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66746</id>
+    <title
+      type="text">Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten</title>
+    <updated>2025-12-05T14:13:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/66746" />
+    <content
+      type="text">Besked: Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten
+
+CPR ændrer i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten til release den 17. december 2025. I data fra ForældremyndigOver-objektet vil indhold i feltet "foraeldremyndig" blive ændret til "barn", hvilket betyder, at anvendere af det nuværende graphQL schema skal ændre i deres kald fra "foraeldremyndig" til "barn".&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 66746&#xD;
+Tidsangivelse: 17. december 2025&#xD;
 </content>
   </entry>
   <entry>
