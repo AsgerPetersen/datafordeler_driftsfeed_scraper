@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-11-28T10:58:38Z</updated>
+  <updated>2025-12-05T13:14:14Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -121,7 +121,7 @@ Tidsangivelse: 26. november 2025&#xD;
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2025</title>
-    <updated>2025-11-28T10:38:03Z</updated>
+    <updated>2025-12-05T13:14:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
@@ -141,7 +141,7 @@ Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC
 KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk, at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice, Hændelser&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 26622&#xD;
 Tidsangivelse: 4. december 2025&#xD;
 </content>
