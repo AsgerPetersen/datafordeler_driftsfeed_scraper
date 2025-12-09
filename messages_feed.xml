@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-09T09:50:50Z</updated>
+  <updated>2025-12-09T09:01:28Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -135,34 +135,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>66859</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 9. december klokken 10-11</title>
-    <updated>2025-12-09T09:50:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66859" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 9. december klokken 10:00 til klokken 11:00
-
-09.12.25 klokken 10:50: Servicevinduet er gennemført
-
-Der er planlagt servicevindue på PROD tirsdag den 9. december 2025 klokken 10:00 til klokken 11:00.
-
-Anvendere kan i tidsrummet opleve udfald på Fildownload og geodata-tjenester.
-
-Vi beklager den korte varsel.
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 66859&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>65979</id>
     <title
       type="text">Test04 servicevindue mandag den 15. december fra klokken 10:00 til klokken 13:00</title>
@@ -206,24 +178,6 @@ Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 66697&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66813</id>
-    <title
-      type="text">Forsinket opdatering af Delta Fildownload (HTTPS)</title>
-    <updated>2025-12-08T08:43:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66813" />
-    <content
-      type="text">Besked: Forsinket opdatering af Delta Fildownload (HTTPS)
-
-08.12.2025: Delta Fildownload (HTTPS) for Ejendomsvurdering (VUR) og GeoDanmark Vektor er ikke opdateret som planlagt natten til mandag den 08.12.2025. Delta Fildownload (HTTPS) bliver forventet opdateret natten til tirsdag den 09.12.2025.&#xD;
-Register: Ejendomsvurdering (VUR), GeoDanmark Vektor&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 66813&#xD;
 </content>
   </entry>
 </feed>
