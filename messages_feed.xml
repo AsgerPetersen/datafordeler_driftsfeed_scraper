@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-09T08:20:00Z</updated>
+  <updated>2025-12-09T09:01:28Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -72,7 +72,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65978</id>
     <title
       type="text">Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30</title>
-    <updated>2025-11-27T12:18:51Z</updated>
+    <updated>2025-12-09T09:01:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65978" />
@@ -84,7 +84,7 @@ Der er planlagt servicevindue på Test03 og Test06 tirsdag den 9. december 2025 
 I tidsrummet er testmiljøerne utilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 65978&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -138,7 +138,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66859</id>
     <title
       type="text">PROD servicevindue tirsdag den 9. december klokken 10-11</title>
-    <updated>2025-12-09T08:20:00Z</updated>
+    <updated>2025-12-09T09:00:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66859" />
@@ -154,7 +154,7 @@ Vi beklager den korte varsel.
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 66859&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
