@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-10T10:59:32Z</updated>
+  <updated>2025-12-10T11:27:31Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -64,28 +64,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65977&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65978</id>
-    <title
-      type="text">Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30</title>
-    <updated>2025-12-10T05:40:05Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65978" />
-    <content
-      type="text">Besked: Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30
-
-Der er planlagt servicevindue på Test03 og Test06 tirsdag den 9. december 2025 klokken 10:00 til klokken 17:30.
-
-I tidsrummet er testmiljøerne utilgængelige.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65978&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -182,18 +160,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66697</id>
     <title
       type="text">Fejl ved hentning af store Fildownload Total</title>
-    <updated>2025-12-08T11:15:57Z</updated>
+    <updated>2025-12-10T11:27:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66697" />
     <content
       type="text">Besked: Fejl ved hentning af store Fildownload Total
 
-08.12.2025: Efter en nærmere analyse er det konstateret, at fejlen kan påvirke filer større end 1.2GB. Der bliver fortsat arbejdet med højeste prioritet på at løse problemet.
-
-05.12.2025: Der bliver arbejdet med høj prioritet på at løse problemet med timeout på kald til store Fildownload Total. Fejlen påvirker Fildownload Total af entiteter med mængde af data større end 3,2GB. Følgende registre og entiteter er pt. registreret som påvirket:
-
-BBR (Bygning, Enhed), CVR (Beskaeftigelse), DAR (Husnummer), EJF (Ejerskab, Ejerskabsskifte), VUR (Ejendomsvurdering, Grundvaerdispecifikation), DHM (Formkurve0_5, Referencekurve0_25) og MAT (Matrikelskel, MatrikulaerSag, SamletFastEjendom).
+10.12.2025: Størstedelen af Fildownload Total går igennem. Enkelte anvendere kan stadig opleve gener og må gentage kaldet.
 
 04.12.2025: Anvendere kan i øjeblikket opleve fejl ved hentning af store Fildownload.&#xD;
 Register: Alle&#xD;
