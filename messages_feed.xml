@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-09T09:01:28Z</updated>
+  <updated>2025-12-10T05:40:05Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -72,7 +72,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65978</id>
     <title
       type="text">Test03 og Test06 servicevindue tirsdag den 9. december fra klokken 10:00 til klokken 17:30</title>
-    <updated>2025-12-09T09:01:28Z</updated>
+    <updated>2025-12-10T05:40:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65978" />
@@ -84,7 +84,7 @@ Der er planlagt servicevindue på Test03 og Test06 tirsdag den 9. december 2025 
 I tidsrummet er testmiljøerne utilgængelige.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65978&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
