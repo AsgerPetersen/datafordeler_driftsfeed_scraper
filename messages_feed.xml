@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-10T11:27:31Z</updated>
+  <updated>2025-12-10T12:04:49Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -138,7 +138,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66919</id>
     <title
       type="text">Test06 servicevindue onsdag den 10. december fra klokken 13:00 til klokken 16:00</title>
-    <updated>2025-12-10T10:59:32Z</updated>
+    <updated>2025-12-10T12:04:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66919" />
@@ -150,7 +150,7 @@ Der er planlagt servicevindue på Test06 onsdag den 10. december 2025 klokken 13
 Anvendere kan i tidsrummet opleve nedetid på Fildownload, GraphQL-tjenester, Selvbetjeningen og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 66919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
