@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-10T16:50:48Z</updated>
+  <updated>2025-12-11T06:39:50Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -50,7 +50,7 @@ Sagsreference: 66268&#xD;
     <id>65977</id>
     <title
       type="text">PROD servicevindue onsdag den 10. december fra klokken 17:30 til klokken 19:30</title>
-    <updated>2025-11-27T12:18:16Z</updated>
+    <updated>2025-12-11T06:39:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65977" />
@@ -62,7 +62,7 @@ Der er planlagt servicevindue på PROD onsdag den 10. december 2025 klokken 17:3
 Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65977&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
