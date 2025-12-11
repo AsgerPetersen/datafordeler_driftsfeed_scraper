@@ -47,28 +47,6 @@ Sagsreference: 66268&#xD;
 </content>
   </entry>
   <entry>
-    <id>65977</id>
-    <title
-      type="text">PROD servicevindue onsdag den 10. december fra klokken 17:30 til klokken 19:30</title>
-    <updated>2025-12-11T06:39:50Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/65977" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 10. december fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD onsdag den 10. december 2025 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65977&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>66609</id>
     <title
       type="text">PROD servicevindue onsdag den 17. december fra klokken 17:00 til klokken 20:00</title>
@@ -130,28 +108,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65979&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66919</id>
-    <title
-      type="text">Test06 servicevindue onsdag den 10. december fra klokken 13:00 til klokken 16:00</title>
-    <updated>2025-12-10T16:50:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66919" />
-    <content
-      type="text">Besked: Test06 servicevindue onsdag den 10. december fra klokken 13:00 til klokken 16:00
-
-Der er planlagt servicevindue på Test06 onsdag den 10. december 2025 klokken 13:00 til klokken 16:00.
-
-Anvendere kan i tidsrummet opleve nedetid på Fildownload, GraphQL-tjenester, Selvbetjeningen og Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 66919&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
