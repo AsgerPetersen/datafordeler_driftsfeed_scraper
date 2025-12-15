@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-10T11:27:31Z</updated>
+  <updated>2025-12-15T07:06:21Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -72,7 +72,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66481</id>
     <title
       type="text">Test04 servicevindue mandag den 8. december til fredag den 12. december 2025</title>
-    <updated>2025-12-08T09:12:12Z</updated>
+    <updated>2025-12-15T07:06:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66481" />
@@ -84,7 +84,7 @@ I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevi
 Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test04.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 66481&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
