@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-15T07:06:21Z</updated>
+  <updated>2025-12-15T09:00:38Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -94,7 +94,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>65979</id>
     <title
       type="text">Test04 servicevindue mandag den 15. december fra klokken 10:00 til klokken 13:00</title>
-    <updated>2025-11-27T12:19:09Z</updated>
+    <updated>2025-12-15T09:00:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/65979" />
@@ -106,7 +106,7 @@ Der er planlagt servicevindue på Test04 mandag den 15. december 2025 klokken 10
 I tidsrummet er testmiljøet utilgængeligt.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 65979&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
