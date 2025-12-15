@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-15T10:00:46Z</updated>
+  <updated>2025-12-15T11:14:40Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -22,28 +22,6 @@
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 66119&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66268</id>
-    <title
-      type="text">Datarettelser i Matriklen uge 49 og 50</title>
-    <updated>2025-11-25T11:25:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66268" />
-    <content
-      type="text">Besked: Datarettelser i Matriklen uge 49 og 50
-
-Geodatastyrelsen vil i ugerne 49 og 50 (1.-14. december) supplere entiteten Matrikulaersag med cirka 930.000 rækker. 
-
-Det drejer sig hovedsageligt om sagsid + journalnummer for sager for perioden fra 1800-2008. 
-
-Læs mere om datarettelser i Matriklen på https://confluence.sdfi.dk/x/34PrCw&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 66268&#xD;
 </content>
   </entry>
   <entry>
@@ -91,28 +69,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>66481</id>
-    <title
-      type="text">Test04 servicevindue mandag den 8. december til fredag den 12. december 2025</title>
-    <updated>2025-12-15T07:06:21Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66481" />
-    <content
-      type="text">Besked: Test04 servicevindue mandag den 8. december til fredag den 12. december 2025
-
-I forbindelse med moderniseringen af Datafordeleren er der planlagt et servicevindue på Test04 mandag den 8. december fra klokken 10:00 til fredag den 12. december 2025 klokken 23:00.
-
-Anvendere kan opleve periodevis nedetid og forsinkelse på Fildownload (HTTPS), hændelser, dataopdatering, GraphQL, webservices og Datafordeler Administration for Test04.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 66481&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>67160</id>
     <title
       type="text">Test04 servicevindue torsdag den 18. december fra klokken 13:00 til klokken 16:00</title>
@@ -154,6 +110,24 @@ Status: I gang&#xD;
 Sagsreference: 65979&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>67168</id>
+    <title
+      type="text">Forsinket opdatering af Delta Fildownload for GeoDanmark Vektor</title>
+    <updated>2025-12-15T11:14:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/67168" />
+    <content
+      type="text">Besked: Forsinket opdatering af Delta Fildownload for GeoDanmark Vektor
+
+15.12.2025: Delta Fildownload for GeoDanmark Vektor er ikke opdateret som planlagt natten til mandag den 15.12.2025. Delta Fildownload bliver forventet opdateret natten til tirsdag den 16.12.2025.&#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 67168&#xD;
 </content>
   </entry>
   <entry>
