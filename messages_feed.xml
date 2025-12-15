@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-15T11:59:19Z</updated>
+  <updated>2025-12-15T14:13:30Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -154,17 +154,19 @@ Sagsreference: 66697&#xD;
     <id>67170</id>
     <title
       type="text">Fildownload med webbruger er utilgængelig på datafordeler.dk</title>
-    <updated>2025-12-15T11:19:36Z</updated>
+    <updated>2025-12-15T14:13:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67170" />
     <content
       type="text">Besked: Fildownload med webbruger er utilgængelig på datafordeler.dk
 
+15.12.2025 klokken 15:00: Det er igen muligt at hente Fildownload med webbruger via Dataoversigten på datafordeler.dk.
+
 15.12.2025: Fildownload med webbruger er utilgængelig i Dataoversigten på datafordeler.dk. Der bliver arbejdet på at løse fejlen.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 67170&#xD;
 </content>
   </entry>
