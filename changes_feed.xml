@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-12-05T14:13:53Z</updated>
+  <updated>2025-12-16T10:03:54Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -59,12 +59,16 @@ Tidsangivelse: 26. november 2025&#xD;
     <id>66746</id>
     <title
       type="text">Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten</title>
-    <updated>2025-12-05T14:13:53Z</updated>
+    <updated>2025-12-16T10:03:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/66746" />
     <content
       type="text">Besked: Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten
+
+Bemærk at anvendere skal hente det opdaterede graphQL schema. Tilføj egen API-key til følgende kald (eller ændre kald til OAuth): 
+
+"https://graphql.datafordeler.dk/CPR/custom/PublicSector/v1/schema?apikey=[indsæt API-key]"
 
 CPR ændrer i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten til release den 17. december 2025. I data fra ForældremyndigOver-objektet vil indhold i feltet "foraeldremyndig" blive ændret til "barn", hvilket betyder, at anvendere af det nuværende graphQL schema skal ændre i deres kald fra "foraeldremyndig" til "barn".&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
