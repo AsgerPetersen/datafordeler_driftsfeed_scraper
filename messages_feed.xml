@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-16T13:43:30Z</updated>
+  <updated>2025-12-17T07:43:50Z</updated>
   <entry>
     <id>67284</id>
     <title
       type="text">Datafordeler.dk bliver genstartet tirsdag aften</title>
-    <updated>2025-12-16T13:43:30Z</updated>
+    <updated>2025-12-17T07:43:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67284" />
@@ -20,7 +20,7 @@
 
 16.12.2025: Webserveren, som hoster datafordeler.dk, bliver genstartet af Statens IT efter klokken 22:00 tirsdag den 16. december 2025. Anvenderne kan opleve, at datafordeler.dk er utilgængelig i en kort periode, mens webserveren genstarter. Selve Datafordeleren og dokumentationen er ikke berørt af manøvren.&#xD;
 Register: Alle&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 67284&#xD;
 </content>
   </entry>
