@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-18T12:00:28Z</updated>
+  <updated>2025-12-18T15:19:39Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -96,7 +96,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>66697</id>
     <title
       type="text">Fejl ved hentning af store Fildownload Total</title>
-    <updated>2025-12-16T11:07:39Z</updated>
+    <updated>2025-12-18T15:19:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66697" />
@@ -108,7 +108,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 04.12.2025: Anvendere kan i øjeblikket opleve fejl ved hentning af store Fildownload.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 66697&#xD;
 </content>
   </entry>
