@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-18T11:45:23Z</updated>
+  <updated>2025-12-18T12:00:28Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -74,7 +74,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>67160</id>
     <title
       type="text">Test04 servicevindue torsdag den 18. december fra klokken 13:00 til klokken 16:00</title>
-    <updated>2025-12-15T10:00:46Z</updated>
+    <updated>2025-12-18T12:00:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67160" />
@@ -86,7 +86,7 @@ Der er planlagt servicevindue på Test04 torsdag den 18. december 2025 klokken 1
 Anvendere kan i tidsrummet opleve nedetid på Fildownload, GraphQL-tjenester, Selvbetjeningen og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 67160&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
