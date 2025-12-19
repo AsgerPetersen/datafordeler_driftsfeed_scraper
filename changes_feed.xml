@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-12-16T10:03:54Z</updated>
+  <updated>2025-12-19T10:37:48Z</updated>
   <entry>
     <id>64254</id>
     <title
       type="text">Årlig opdatering af GeoDanmark Ortofoto</title>
-    <updated>2025-10-24T12:46:24Z</updated>
+    <updated>2025-12-19T10:37:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/64254" />
@@ -36,7 +36,7 @@ Tidsangivelse: Oktober 2025&#xD;
     <id>63118</id>
     <title
       type="text">Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 26. november 2025</title>
-    <updated>2025-11-28T10:58:38Z</updated>
+    <updated>2025-12-19T10:37:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/63118" />
@@ -59,7 +59,7 @@ Tidsangivelse: 26. november 2025&#xD;
     <id>66746</id>
     <title
       type="text">Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten</title>
-    <updated>2025-12-16T10:03:54Z</updated>
+    <updated>2025-12-19T10:36:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/66746" />
@@ -73,7 +73,7 @@ Bemærk at anvendere skal hente det opdaterede graphQL schema. Tilføj egen API-
 CPR ændrer i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten til release den 17. december 2025. I data fra ForældremyndigOver-objektet vil indhold i feltet "foraeldremyndig" blive ændret til "barn", hvilket betyder, at anvendere af det nuværende graphQL schema skal ændre i deres kald fra "foraeldremyndig" til "barn".&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 66746&#xD;
 Tidsangivelse: 17. december 2025&#xD;
 </content>
@@ -144,7 +144,7 @@ Tidsangivelse: 26. november 2025&#xD;
     <id>26622</id>
     <title
       type="text">Ændringer til CPR’s tjenester i 2025</title>
-    <updated>2025-12-05T13:14:14Z</updated>
+    <updated>2025-12-19T10:37:48Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/26622" />
