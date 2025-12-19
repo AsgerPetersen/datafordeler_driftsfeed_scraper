@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2025-12-19T06:39:37Z</updated>
+  <updated>2025-12-19T06:45:18Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -42,6 +42,28 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 67397&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>67398</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00</title>
+    <updated>2025-12-19T06:45:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/67398" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06 tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00.
+
+I tidsrummet kan anvendere ikke benytte NemLog-in i Datafordeler Administration eller Selvbetjening for testmiljøerne.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 67398&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
