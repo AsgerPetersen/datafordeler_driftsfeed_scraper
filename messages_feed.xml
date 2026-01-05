@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-02T06:39:42Z</updated>
+  <updated>2026-01-05T09:14:31Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -47,6 +47,30 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>67539</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue onsdag den 21. januar fra klokken 17:00 til klokken 02:00</title>
+    <updated>2026-01-05T09:13:18Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/67539" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 21. januar fra klokken 17:00 til klokken 02:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 21. januar fra klokken 17:00 til klokken 02:00
+
+Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+
+Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 67539&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>67434</id>
     <title
       type="text">Test06 servicevindue tirsdag den 6. januar fra klokken 10:00 til klokken 16:00</title>
@@ -66,6 +90,28 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 67434&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>67541</id>
+    <title
+      type="text">PROD servicevindue mandag den 26. januar fra klokken 17:30 til klokken 19:30</title>
+    <updated>2026-01-05T09:14:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/67541" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 26. januar fra klokken 17:30 til klokken 19:30
+
+Der er planlagt servicevindue på PROD mandag den 26. januar 2026 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 67541&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
