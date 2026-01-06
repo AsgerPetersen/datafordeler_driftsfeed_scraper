@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2025-12-19T10:37:48Z</updated>
+  <updated>2026-01-06T07:32:14Z</updated>
   <entry>
     <id>64254</id>
     <title
       type="text">Årlig opdatering af GeoDanmark Ortofoto</title>
-    <updated>2025-12-19T10:37:20Z</updated>
+    <updated>2026-01-06T07:24:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/64254" />
@@ -20,9 +20,9 @@
 
 GeoDanmark Ortofoto 12.5 cm 2025-data WMTS, Fotoindex og Fildownload er nu tilgængelig i 2025 data.
 
-Bemærk, der kan være nogle farveforskelle på enkelte tiles, men de underliggende data er korrekte. 
+Farveforskelle på tiles er rettet den 5. januar 2026 på WMS 12,5 cm.
 
-Farveforskellene bliver rettet i forbindelse med opdatering af Ortofoto 10 cm primo 2026. Vi opdaterer denne meddelelse når 10 cm 2025-data er klar.
+Ortofoto 2025 10 cm bliver opdateret 12. januar 2026. Her vil farveforskelle på Ortofoto 2025 WMTS også blive opdateret.
 
 Bemærk, at Filudtræk ikke bliver opdateret for denne tjeneste, da Fildownload overtager denne funktionalitet.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
@@ -82,7 +82,7 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2025-10-31T09:38:44Z</updated>
+    <updated>2026-01-06T07:31:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
@@ -173,7 +173,7 @@ Tidsangivelse: 4. december 2025&#xD;
     <id>46475</id>
     <title
       type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
-    <updated>2024-10-21T07:00:59Z</updated>
+    <updated>2026-01-06T07:32:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/46475" />
