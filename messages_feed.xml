@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-05T09:14:31Z</updated>
+  <updated>2026-01-06T09:10:10Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -74,7 +74,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>67434</id>
     <title
       type="text">Test06 servicevindue tirsdag den 6. januar fra klokken 10:00 til klokken 16:00</title>
-    <updated>2026-01-02T06:39:42Z</updated>
+    <updated>2026-01-06T09:10:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67434" />
@@ -88,7 +88,7 @@ Test-miljøet vil være utilgængeligt i dele af perioden i op til 2 timer både
 Dataopdatering og hændelser på test-miljøet vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 67434&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
