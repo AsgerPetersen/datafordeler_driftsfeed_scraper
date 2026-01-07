@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-06T07:32:14Z</updated>
+  <updated>2026-01-07T12:15:30Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -82,7 +82,7 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-01-06T07:31:52Z</updated>
+    <updated>2026-01-07T12:15:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
