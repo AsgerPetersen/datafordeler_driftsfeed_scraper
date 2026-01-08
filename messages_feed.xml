@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-07T07:02:20Z</updated>
+  <updated>2026-01-08T11:26:15Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -71,25 +71,25 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>67434</id>
+    <id>67724</id>
     <title
-      type="text">Test06 servicevindue tirsdag den 6. januar fra klokken 10:00 til klokken 16:00</title>
-    <updated>2026-01-07T07:02:20Z</updated>
+      type="text">Test06 servicevindue mandag den 26. januar fra klokken 08:00 til klokken 17:00</title>
+    <updated>2026-01-08T11:26:15Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67434" />
+      href="https://datafordeler.dk/drift/meddelelser/67724" />
     <content
-      type="text">Besked: Test06 servicevindue tirsdag den 6. januar fra klokken 10:00 til klokken 16:00
+      type="text">Besked: Test06 servicevindue mandag den 26. januar fra klokken 08:00 til klokken 17:00
 
-Der er planlagt servicevindue på Test06 tirsdag den 6. januar fra klokken 10:00 til klokken 16:00.
+Der er planlagt servicevindue på Test06 mandag den 26. januar fra klokken 08:00 til klokken 17:00.
 
-Test-miljøet vil være utilgængeligt i dele af perioden i op til 2 timer både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+Test-miljøet vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøets Administrationsportal, Selvbetjening og Datafordeler Administration.
 
 Dataopdatering og hændelser på test-miljøet vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67434&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 67724&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
