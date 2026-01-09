@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-07T12:56:30Z</updated>
+  <updated>2026-01-09T13:13:18Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -82,12 +82,14 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-01-07T12:56:30Z</updated>
+    <updated>2026-01-09T13:13:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
     <content
       type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
+
+09.01.2026: Ændringen er implementeret på Test06.
 
 Anvendere med API-keys oprettet før 17. september 2025, opfordres til at skifte API-keys inden udgangen af 2025, for fortsat at have adgang til data fra Datafordeleren. API-keys oprettet efter 17. september 2025 vil fortsat virke. Du kan se oprettelsesdatoen i "Vis revisionslog" på de enkelte IT-systemer.
 
