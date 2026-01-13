@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-09T13:13:18Z</updated>
+  <updated>2026-01-13T13:31:04Z</updated>
   <entry>
     <id>64254</id>
     <title
       type="text">Årlig opdatering af GeoDanmark Ortofoto</title>
-    <updated>2026-01-06T07:24:32Z</updated>
+    <updated>2026-01-13T13:31:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/64254" />
@@ -22,7 +22,9 @@ GeoDanmark Ortofoto 12.5 cm 2025-data WMTS, Fotoindex og Fildownload er nu tilg�
 
 Farveforskelle på tiles er rettet den 5. januar 2026 på WMS 12,5 cm.
 
-Ortofoto 2025 10 cm bliver opdateret 12. januar 2026. Her vil farveforskelle på Ortofoto 2025 WMTS også blive opdateret.
+Ortofoto 2025 10 cm er opdateret 12. januar 2026. Farveforskelle på Ortofoto 2025 WMTS også blive opdateret.
+
+Fildownload for både 10 cm og 12,5 cm er ligeledes blevet opdateret den 12. januar 2026.
 
 Bemærk, at Filudtræk ikke bliver opdateret for denne tjeneste, da Fildownload overtager denne funktionalitet.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
