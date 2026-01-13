@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-08T11:26:15Z</updated>
+  <updated>2026-01-13T09:16:09Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -27,15 +27,15 @@ Sagsreference: 66119&#xD;
   <entry>
     <id>67397</id>
     <title
-      type="text">PROD servicevindue tirsdag den 27. januar 2026 klokken 06:00 til klokken 07:00</title>
-    <updated>2025-12-19T06:39:37Z</updated>
+      type="text">PROD servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00</title>
+    <updated>2026-01-13T09:16:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67397" />
     <content
-      type="text">Besked: PROD servicevindue tirsdag den 27. januar 2026 klokken 06:00 til klokken 07:00
+      type="text">Besked: PROD servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00
 
-Der er planlagt servicevindue på PROD tirsdag den 27. januar 2026 klokken 06:00 til klokken 07:00.
+Der er planlagt servicevindue på PROD tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00.
 
 I tidsrummet kan anvendere ikke benytte NemLog-in i Datafordeler Administration eller Selvbetjening.&#xD;
 Register: Alle&#xD;
@@ -119,15 +119,15 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>67398</id>
     <title
-      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00</title>
-    <updated>2025-12-19T06:45:18Z</updated>
+      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00</title>
+    <updated>2026-01-13T09:12:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67398" />
     <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00
+      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00
 
-Der er planlagt servicevindue på Test03, Test04 og Test06 tirsdag den 27. januar 2026 klokken 07:00 til klokken 10:00.
+Der er planlagt servicevindue på Test03, Test04 og Test06 tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00.
 
 I tidsrummet kan anvendere ikke benytte NemLog-in i Datafordeler Administration eller Selvbetjening for testmiljøerne.&#xD;
 Register: Alle&#xD;
