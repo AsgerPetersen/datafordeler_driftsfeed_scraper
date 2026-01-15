@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-13T09:42:28Z</updated>
+  <updated>2026-01-15T11:52:25Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -136,6 +136,24 @@ Status: Planlagt&#xD;
 Sagsreference: 67398&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68045</id>
+    <title
+      type="text">Forbindelse til FTP ved Filudtræk (FTP) kan være langsom</title>
+    <updated>2026-01-15T11:52:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/68045" />
+    <content
+      type="text">Besked: Forbindelse til FTP ved Filudtræk (FTP) kan være langsom
+
+15.01.2026: Anvendere som benytter Filudtræk (FTP) kan opleve, at forbindelsen er langsom eller bliver afbrudt på grund af time out i FTP-klienten.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: I gang&#xD;
+Sagsreference: 68045&#xD;
 </content>
   </entry>
 </feed>
