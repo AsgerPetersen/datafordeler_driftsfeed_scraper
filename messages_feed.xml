@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-16T12:21:25Z</updated>
+  <updated>2026-01-16T12:43:58Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -142,14 +142,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>68045</id>
     <title
       type="text">Forbindelse til FTP ved Filudtræk (FTP) kan være langsom</title>
-    <updated>2026-01-16T12:21:25Z</updated>
+    <updated>2026-01-16T12:43:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/68045" />
     <content
       type="text">Besked: Forbindelse til FTP ved Filudtræk (FTP) kan være langsom
 
-16.01.2026: Det anbefales, at øge timeout værdien i FTP-klienten til 60 sekunder mens fejlen undersøges nærmere. 
+16.01.2026: Anvendere kan midlertidigt øge timeout værdien i FTP-klienten til 60 sekunder.
 
 15.01.2026: Anvendere som benytter Filudtræk (FTP) kan opleve, at forbindelsen er langsom eller bliver afbrudt på grund af time out i FTP-klienten.&#xD;
 Register: Alle&#xD;
