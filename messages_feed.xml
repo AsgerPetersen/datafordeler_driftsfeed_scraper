@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-21T07:16:45Z</updated>
+  <updated>2026-01-21T09:21:37Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -76,7 +76,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>68224</id>
     <title
       type="text">Test06 servicevindue onsdag den 21. januar fra klokken 10:00 til klokken 11:00</title>
-    <updated>2026-01-20T14:51:30Z</updated>
+    <updated>2026-01-21T09:21:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/68224" />
@@ -85,14 +85,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 
 Der er planlagt servicevindue på Test06 onsdag den 21. januar fra klokken 10:00 til klokken 11:00.
 
-Der vil i tidsrummet være nedetid på Fildownload (HTTPS), GraphQL.
+Der vil i tidsrummet være nedetid på Fildownload (HTTPS) og GraphQL.
 
  
 
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 68224&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
