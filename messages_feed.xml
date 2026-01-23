@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-21T10:14:58Z</updated>
+  <updated>2026-01-21T07:16:45Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -44,56 +44,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 67397&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>67539</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 20. januar fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-01-21T10:14:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67539" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 20. januar fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, tirsdag den 20. januar fra klokken 17:00 til klokken 02:00
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67539&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>68224</id>
-    <title
-      type="text">Test06 servicevindue onsdag den 21. januar fra klokken 10:00 til klokken 11:00</title>
-    <updated>2026-01-21T10:14:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/68224" />
-    <content
-      type="text">Besked: Test06 servicevindue onsdag den 21. januar fra klokken 10:00 til klokken 11:00
-
-Der er planlagt servicevindue på Test06 onsdag den 21. januar fra klokken 10:00 til klokken 11:00.
-
-Der vil i tidsrummet være nedetid på Fildownload (HTTPS) og GraphQL.
-
- 
-
- &#xD;
-Register: Alle&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 68224&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
