@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-13T13:31:04Z</updated>
+  <updated>2026-01-23T10:08:27Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -171,6 +171,33 @@ Service: Webservice, Hændelser&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 26622&#xD;
 Tidsangivelse: 4. december 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68402</id>
+    <title
+      type="text">Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren</title>
+    <updated>2026-01-23T10:08:27Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68402" />
+    <content
+      type="text">Besked: Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren
+
+Ultimo april 2026 bliver tidligere versioner for GraphQL-tjenester og Fildownload lukket på Datafordeleren. Anvendere skal være overgået til nyeste versioner senest 15. april 2026.
+
+Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester og filer. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
+
+For GraphQL-tjenester skal det være version 2, anvendere skal benytte, undtagen for CPR, EJF, EBR og CVRcustom hvor nyeste er version 1.
+
+For Fildownload vil der være forskellige versionsnumre for registre. Det er altid højeste versionsnummer, anvendere skal benytte. Undtagelsesvis skal anvendere stadig benytte DAGI Fildownload version 1. Der kommer en version 3 med ny DAGI datamodel, som forventes i drift i marts 2026. DAGI Fildownload version 1 lukker efter en periode med paralleldrift, som bliver varslet.
+
+Bemærk at version 1 af REST-API’et for metoden GetAvailableFileDownloads også lukker. Anvendere skal benytte eller omstille til version 2.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 68402&#xD;
+Tidsangivelse: Ultimo april 2026&#xD;
 </content>
   </entry>
   <entry>
