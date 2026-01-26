@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-26T07:02:25Z</updated>
+  <updated>2026-01-21T07:16:45Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -44,30 +44,6 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 67397&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>67724</id>
-    <title
-      type="text">Test06 servicevindue mandag den 26. januar fra klokken 08:00 til klokken 17:00</title>
-    <updated>2026-01-26T07:02:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67724" />
-    <content
-      type="text">Besked: Test06 servicevindue mandag den 26. januar fra klokken 08:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test06 mandag den 26. januar fra klokken 08:00 til klokken 17:00.
-
-Test-miljøet vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøets Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøet vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 67724&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
