@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-21T07:16:45Z</updated>
+  <updated>2026-01-26T09:47:54Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -90,6 +90,24 @@ Status: Planlagt&#xD;
 Sagsreference: 67398&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68484</id>
+    <title
+      type="text">Forsinket opdatering af Delta Fildownload for Vurderingsstyrelsen</title>
+    <updated>2026-01-26T09:47:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/68484" />
+    <content
+      type="text">Besked: Forsinket opdatering af Delta Fildownload (HTTPS)
+
+26.01.2026: Delta Fildownload for Vurderingsstyrelsen er ikke opdateret som planlagt natten til mandag den 26.01.2026. Delta Fildownload bliver forventet opdateret natten til tirsdag den 27.01.2026. &#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 68484&#xD;
 </content>
   </entry>
 </feed>
