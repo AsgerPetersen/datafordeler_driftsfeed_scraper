@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-26T12:43:17Z</updated>
+  <updated>2026-01-27T07:57:02Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -32,29 +32,6 @@ Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 64254&#xD;
 Tidsangivelse: Oktober 2025&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>63118</id>
-    <title
-      type="text">Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 26. november 2025</title>
-    <updated>2025-12-19T10:37:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/63118" />
-    <content
-      type="text">Besked: Ny version af GetAvailableFiledownloads for Fildownload (HTTPS) 26. november 2025
-
-I forbindelse med at der indføres paging på metoden GetAvailableFiledownloads med udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt, kommer Fildownload (HTTPS) REST-API’et i en version 2. Udviklingsleverancen er planlagt til release på produktionsmiljøet den 26. november 2025.
-
-Du skal som anvender være opmærksom på, om du i forvejen kalder metoden med eller uden versionsnummer for Fildownload (HTTPS) REST-API’et. Kalder du uden versionsnummer, vil du automatisk kalde den nyeste version.
-
-Læs mere om versioner i dokumentation for Fildownload (HTTPS) REST-API.&#xD;
-Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 63118&#xD;
-Tidsangivelse: 26. november 2025&#xD;
 </content>
   </entry>
   <entry>
@@ -84,12 +61,14 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-01-09T13:13:18Z</updated>
+    <updated>2026-01-27T07:57:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
     <content
       type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
+
+27.01.026: Udfasning af ældre API-key er planlagt til den 25. februar 2026. Er din API-key oprettet før 17. september 2025, skal du sørge for at skifte den senest den 25. februar 2026.
 
 09.01.2026: Ændringen er implementeret på Test06.
 
@@ -101,76 +80,11 @@ Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
 	Skift API-key’en i din egen løsning til den nye API-key
 	Deaktiver den gamle API-key på Datafordeler Administration, efter du har verificeret, at den nye API-key virker
 
-
-
-Udfasningen af ældre API-keys sker i løbet af 1. kvartal 2026. Vi opdaterer denne meddelelse med endelig dato for, hvornår ældre API-keys bliver udfaset, når dato er fastsat.&#xD;
+&#xD;
 Register: Alle&#xD;
-Status: Forventet&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 65249&#xD;
-Tidsangivelse: Q1 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65875</id>
-    <title
-      type="text">Ændring i filtrering på GraphQL-tjenesten CVRCustom 26. november 2025</title>
-    <updated>2025-11-28T10:39:19Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/65875" />
-    <content
-      type="text">Besked: Ændring i filter på GraphQL-tjenesten CVRCustom 26. november 2025
-
-CVR's GraphQL-tjeneste CVRCustom bliver opdateret, når Udviklingsleverance 3 fra Datafordelerens moderniseringsprojekt bliver sat i drift på produktionsmiljøet den 26. november 2025.
-
-Hvis du som anvender kalder entiteten CVRPersonBegraenset, skal du efter ændringen være opmærksom, at det fremadrettet er et krav at have et where-filter på mindst et af følgende felter:
-
-	datafordelerRowId-feltet (nyt felt)
-	id-feltet
-
-
-
-Hvis din forespørgsel ikke overholder dette krav, vil den blive afvist med en beskrivende fejlbesked.
-
- 
-
-Læs mere om entiteten CVRPersonBegraenset 
-
-Læs mere om GraphQL på Datafordeleren&#xD;
-Register: Det Centrale Virksomhedsregister (CVR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65875&#xD;
-Tidsangivelse: 26. november 2025&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>26622</id>
-    <title
-      type="text">Ændringer til CPR’s tjenester i 2025</title>
-    <updated>2025-12-19T10:37:48Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/26622" />
-    <content
-      type="text">Besked: Ændringer til CPR’s tjenester i 2025
-
-Der er planlagt ændringer på CPR’s tjenester i 2025. Ændringerne bliver introduceret som et nyt register på Datafordeleren.
-
-CPR’s GraphQL-tjenester bliver releaset med Udviklingsleverance 3 i Datafordelerens moderniseringsprojekt, som er planlagt den 4. december 2025. CPR’s GraphQL-tjenester vil være baseret på den opdaterede datamodel.
-
-Læs mere om Datafordelerens moderniseringsprojekt
-
-Læs mere om test af CPR
-
-Har du spørgsmål til ændringen, skal du tage kontakt til Datafordelerens SPOC via Datafordelerens hjemmeside. Du finder supportformularen under punktet support.
-
-KDS opdaterer denne meddelelse løbende, når der er nyt om test og release af de ændrede CPR tjenester. Bemærk, at du kan abonnere på meddelelserne både via mail og på RSS.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice, Hændelser&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 26622&#xD;
-Tidsangivelse: 4. december 2025&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
 </content>
   </entry>
   <entry>
@@ -198,28 +112,6 @@ Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Forventet&#xD;
 Sagsreference: 68402&#xD;
 Tidsangivelse: Ultimo april 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>46475</id>
-    <title
-      type="text">Kommende ændringer til Ejerfortegnelsens tjenester</title>
-    <updated>2026-01-06T07:32:14Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/46475" />
-    <content
-      type="text">Besked: Kommende ændringer til Ejerfortegnelsens tjenester
-
-Der gennemføres en række ændringer og mindre justeringer til Ejerfortegnelsens tjenester på Datafordeleren. Ændringerne er foranlediget af de kommende ændringer til CPR’s tjenester, og Geodatastyrelsens løbende forbedring og tilpasning af de udstillede services.
-
-Ændringerne er planlagt til release på Datafordeleren sammen med de kommende ændringer til CPR's tjenester i 2025.
-
-Læs mere om de planlagte ændringer til Ejerfortegnelsen&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Status: Forventet&#xD;
-Sagsreference: 46475&#xD;
-Tidsangivelse: 2025&#xD;
 </content>
   </entry>
 </feed>
