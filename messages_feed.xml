@@ -6,110 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-28T10:03:59Z</updated>
+  <updated>2026-01-29T11:40:43Z</updated>
   <entry>
     <id>66119</id>
     <title
       type="text">Skærmkortet bliver opdateret i januar 2026</title>
-    <updated>2026-01-21T07:16:45Z</updated>
+    <updated>2026-01-29T11:40:43Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/66119" />
     <content
       type="text">Besked: Skærmkortet bliver opdateret i uge 6, 2026
 
-21.01.2026: Skærmkortet bliver opdateret i uge 6 og er tilgængelig den 3. februar 2026.
+21.01.2026: Skærmkortet bliver opdateret i uge 6 og er tilgængeligt den 3. februar 2026.
 
  &#xD;
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 66119&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>67397</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00</title>
-    <updated>2026-01-27T07:05:21Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67397" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00
-
-Der er planlagt servicevindue på PROD tirsdag den 27. januar 2026 klokken 00:01 til klokken 04:00.
-
-I tidsrummet kan anvendere ikke benytte NemLog-in i Datafordeler Administration eller Selvbetjening.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67397&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>67541</id>
-    <title
-      type="text">PROD servicevindue mandag den 26. januar fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-01-27T07:05:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67541" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 26. januar fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD mandag den 26. januar 2026 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67541&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>67398</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00</title>
-    <updated>2026-01-27T07:05:16Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67398" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06 tirsdag den 27. januar 2026 klokken 00:01 til klokken 07:00.
-
-I tidsrummet kan anvendere ikke benytte NemLog-in i Datafordeler Administration eller Selvbetjening for testmiljøerne.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67398&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>68484</id>
-    <title
-      type="text">Forsinket opdatering af Delta Fildownload for Vurderingsstyrelsen</title>
-    <updated>2026-01-28T10:03:59Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/68484" />
-    <content
-      type="text">Besked: Forsinket opdatering af Delta Fildownload (HTTPS)
-
-28.01.2026: Delta Fildownload bliver forventet opdateret natten til torsdag den 29.01.2026. 
-
-26.01.2026: Delta Fildownload for Vurderingsstyrelsen er ikke opdateret som planlagt natten til mandag den 26.01.2026. Delta Fildownload bliver forventet opdateret natten til tirsdag den 27.01.2026. &#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 68484&#xD;
 </content>
   </entry>
 </feed>

@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-29T08:10:00Z</updated>
+  <updated>2026-01-29T11:53:52Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -82,14 +82,14 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-01-27T07:57:09Z</updated>
+    <updated>2026-01-29T11:53:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
     <content
       type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
 
-27.01.026: Udfasning af ældre API-key er planlagt til den 25. februar 2026. Er din API-key oprettet før 17. september 2025, skal du sørge for at skifte den senest den 25. februar 2026.
+27.01.2026: Udfasning af ældre API-key er planlagt til den 25. februar 2026. Er din API-key oprettet før 17. september 2025, skal du sørge for at skifte den senest den 25. februar 2026.
 
 09.01.2026: Ændringen er implementeret på Test06.
 
@@ -112,7 +112,7 @@ Tidsangivelse: 25. februar 2026&#xD;
     <id>68638</id>
     <title
       type="text">Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026</title>
-    <updated>2026-01-29T08:10:00Z</updated>
+    <updated>2026-01-29T11:42:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/68638" />
@@ -123,7 +123,7 @@ WMS-, WMTS- og WCS-tjenester kommer på Datafordelerens nye brugerstyring/adgang
 
 Samtidigt kommer der nye subdomæner for url’erne til brug for kald til WMS, WMTS og WCS - på samme måde som med moderniseringen af WFS-tjenesterne.
 
-Det vil sige, at udover den med den nye brugerstyring/adgang skal du som anvender fremadrettet skifte ”services” ud med ”wms”, ”wmts” eller ”wcs” i url’erne, alt efter hvilken tjeneste du vil benytte.
+Det vil sige, at udover den nye brugerstyring/adgang skal du som anvender fremadrettet skifte ”services” ud med ”wms”, ”wmts” eller ”wcs” i url’erne, alt efter hvilken tjeneste du vil benytte.
 
 Der er paralleldrift på WMS-, WMTS- og WCS-tjenester frem til 30. juni 2026, hvor brugerstyring med brugernavn og adgangskode udfases.
 
