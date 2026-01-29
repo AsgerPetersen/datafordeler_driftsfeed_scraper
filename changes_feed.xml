@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-01-27T07:57:09Z</updated>
+  <updated>2026-01-29T08:10:00Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -32,6 +32,27 @@ Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 64254&#xD;
 Tidsangivelse: Oktober 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68634</id>
+    <title
+      type="text">Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026</title>
+    <updated>2026-01-29T07:55:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68634" />
+    <content
+      type="text">Besked: Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026
+
+Den 25. februar får Fildownload i GeoPackage-format tilføjet spatiale indexes.
+
+Du skal som anvender ikke foretage dig noget i forbindelse med ændringen.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 68634&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
 </content>
   </entry>
   <entry>
@@ -84,6 +105,35 @@ Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 65249&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68638</id>
+    <title
+      type="text">Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026</title>
+    <updated>2026-01-29T08:10:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68638" />
+    <content
+      type="text">Besked: Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026
+
+WMS-, WMTS- og WCS-tjenester kommer på Datafordelerens nye brugerstyring/adgang. Fra den 26. februar 2026 kan du benytte WMS-, WMTS- og WCS-tjenesterne med autentifikationsmetoderne API-key og OAuth, som du opretter via Datafordelerens Administration på https://portal.datafordeler.dk/hjem.
+
+Samtidigt kommer der nye subdomæner for url’erne til brug for kald til WMS, WMTS og WCS - på samme måde som med moderniseringen af WFS-tjenesterne.
+
+Det vil sige, at udover den med den nye brugerstyring/adgang skal du som anvender fremadrettet skifte ”services” ud med ”wms”, ”wmts” eller ”wcs” i url’erne, alt efter hvilken tjeneste du vil benytte.
+
+Der er paralleldrift på WMS-, WMTS- og WCS-tjenester frem til 30. juni 2026, hvor brugerstyring med brugernavn og adgangskode udfases.
+
+Læs mere om det nye på WMS-, WMTS- og WCS-tjenester
+
+Læs mere om den nye brugerstyring i Datafordeler Administration&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 68638&#xD;
 Tidsangivelse: 25. februar 2026&#xD;
 </content>
   </entry>
