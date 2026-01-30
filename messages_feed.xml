@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-29T11:40:43Z</updated>
+  <updated>2026-01-30T12:01:50Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -24,6 +24,32 @@
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 66119&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68703</id>
+    <title
+      type="text">PROD servicevindue onsdag den 25. februar fra klokken 17:00 til klokken 23:00</title>
+    <updated>2026-01-30T12:01:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/68703" />
+    <content
+      type="text">Besked: PROD servicevindue onsdag den 25. februar fra klokken 17:00 til klokken 23:00
+
+Der er planlagt servicevindue på PROD onsdag den 25. februar 2026 klokken 17:00 til klokken 23:00.
+
+Anvendere kan opleve længere svartider på ikke moderniserede webservices (REST, WFS-tjenester på Snowflake, WMS, WMTS og WCS).
+
+Anvendere kan i tidsrummet opleve nedetid på moderniserede WFS-tjenester på Geoserver, GraphQL-tjenester og Fildownload (HTTPS), samt på Datafordeler Administration.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 68703&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
 </feed>
