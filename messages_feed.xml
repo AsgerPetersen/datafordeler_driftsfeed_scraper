@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-01-30T12:01:50Z</updated>
+  <updated>2026-02-03T13:49:43Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -24,6 +24,28 @@
 Register: Skærmkortet&#xD;
 Status: I gang&#xD;
 Sagsreference: 66119&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>69097</id>
+    <title
+      type="text">Servicevindue på Datafordelerens Dokumentation tirsdag den 3. februar klokken 20:00 – 21:00</title>
+    <updated>2026-02-03T13:49:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/69097" />
+    <content
+      type="text">Besked: Servicevindue på Datafordelerens Dokumentation tirsdag den 3. februar klokken 20:00 – 21:00
+
+Der er servicevindue tirsdag den 3. februar 2026 klokken 20:00 – 21:00 på Datafordelerens Dokumentation.
+
+Anvendere kan i perioden opleve, at der kortvarigt ikke er adgang til Dokumentation for Datafordeleren.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 69097&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
