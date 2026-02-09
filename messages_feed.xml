@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-09T09:08:06Z</updated>
+  <updated>2026-02-09T10:25:17Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -54,14 +54,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>69371</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 18. februar fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-02-09T09:08:06Z</updated>
+    <updated>2026-02-09T10:25:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/69371" />
     <content
       type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 18. februar fra klokken 17:00 til klokken 02:00
 
-Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 18. februar fra klokken 17:00 til klokken 02:00
+Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 18. februar fra klokken 17:00 til klokken 02:00.
 
 Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
 
