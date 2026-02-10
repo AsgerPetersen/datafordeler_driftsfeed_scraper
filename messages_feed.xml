@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-09T10:25:17Z</updated>
+  <updated>2026-02-10T08:42:15Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -98,6 +98,24 @@ Status: Planlagt&#xD;
 Sagsreference: 68703&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>69406</id>
+    <title
+      type="text">Forsinket opdatering af Delta Fildownload for Ejerfortegnelsen</title>
+    <updated>2026-02-10T08:42:15Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/69406" />
+    <content
+      type="text">Besked: Forsinket opdatering af Delta Fildownload (HTTPS) for Ejerfortegnelsen
+
+10.02.2026: Delta Fildownload for Ejerfortegnelsen er ikke opdateret som planlagt natten til tirsdag den 10.02.2026. Delta Fildownload bliver forventet opdateret natten til onsdag den 11.02.2026. &#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 69406&#xD;
 </content>
   </entry>
 </feed>
