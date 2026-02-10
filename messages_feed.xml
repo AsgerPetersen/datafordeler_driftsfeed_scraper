@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-10T08:42:15Z</updated>
+  <updated>2026-02-10T10:08:50Z</updated>
   <entry>
     <id>66119</id>
     <title
@@ -96,6 +96,28 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 68703&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>69373</id>
+    <title
+      type="text">PROD servicevindue mandag den 23. februar fra klokken 17:30 til klokken 19:30</title>
+    <updated>2026-02-10T10:08:50Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/69373" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 23. februar fra klokken 17:30 til klokken 19:30
+
+Der er er planlagt servicevindue på PROD mandag den 23. februar 2026 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 69373&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
