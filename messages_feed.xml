@@ -6,31 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-11T07:51:07Z</updated>
-  <entry>
-    <id>66119</id>
-    <title
-      type="text">Skærmkortet bliver opdateret i januar 2026</title>
-    <updated>2026-01-29T11:40:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/66119" />
-    <content
-      type="text">Besked: Skærmkortet bliver opdateret i uge 6, 2026
-
-21.01.2026: Skærmkortet bliver opdateret i uge 6 og er tilgængeligt den 3. februar 2026.
-
- &#xD;
-Register: Skærmkortet&#xD;
-Status: I gang&#xD;
-Sagsreference: 66119&#xD;
-</content>
-  </entry>
+  <updated>2026-02-12T07:29:14Z</updated>
   <entry>
     <id>67724</id>
     <title
       type="text">Test06 servicevindue torsdag den 12. februar fra klokken 08:00 til klokken 17:00</title>
-    <updated>2026-02-05T09:19:50Z</updated>
+    <updated>2026-02-12T07:29:14Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/67724" />
@@ -44,7 +25,7 @@ Test-miljøet vil være utilgængelige i hele perioden både på webservices, Fi
 Dataopdatering og hændelser på test-miljøet vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 67724&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
