@@ -8,30 +8,6 @@
   <id>serviceMessages</id>
   <updated>2026-02-13T09:20:20Z</updated>
   <entry>
-    <id>67724</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 12. februar fra klokken 08:00 til klokken 17:00</title>
-    <updated>2026-02-13T09:10:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/67724" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 12. februar fra klokken 08:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test06 torsdag den 12. februar fra klokken 08:00 til klokken 17:00.
-
-Test-miljøet vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøets Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøet vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 67724&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>69371</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 18. februar fra klokken 17:00 til klokken 02:00</title>
