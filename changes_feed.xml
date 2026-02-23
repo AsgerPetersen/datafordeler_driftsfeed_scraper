@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-02-16T11:45:17Z</updated>
+  <updated>2026-02-23T14:20:50Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -180,14 +180,16 @@ Tidsangivelse: 25. februar 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-02-06T08:24:53Z</updated>
+    <updated>2026-02-23T14:20:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
     <content
       type="text">Besked: Nye sammenstillede fildownload for Ejerfortegnelsen
 
-Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren fra den 26. februar 2026. Ejerfortegnelsens sammenstillede fildownload er sammenstillet med CPR-data. For at få adgang til sammenstillede fildownload fra Ejerfortegnelsen, skal du anmode om adgang til de nye custom entiteter via Datafordeler Administration.
+23.02.2026: Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren i Q2 2026. Dato bliver meldt ud senere. Release er ændret i forhold til tidligere udmeldt.
+
+Ejerfortegnelsens sammenstillede fildownload er sammenstillet med CPR-data. For at få adgang til sammenstillede fildownload fra Ejerfortegnelsen, skal du anmode om adgang til de nye custom entiteter via Datafordeler Administration.
 
 Der kommer følgende sammenstillede fildownload for Ejerfortegnelsen:
 
@@ -219,9 +221,9 @@ Læs mere om hvordan du får adgang til og henter de nye sammenstillede fildownl
 Se også Transitionsguide Sammenstillede fildownload (EJF)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Forventet&#xD;
 Sagsreference: 69338&#xD;
-Tidsangivelse: 25. februar 2026&#xD;
+Tidsangivelse: Q2 2026&#xD;
 </content>
   </entry>
   <entry>
