@@ -6,7 +6,55 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-24T06:57:42Z</updated>
+  <updated>2026-02-24T11:39:09Z</updated>
+  <entry>
+    <id>69917</id>
+    <title
+      type="text">Test04 servicevindue tirsdag den 3. marts fra klokken 9:00 til klokken 17:00</title>
+    <updated>2026-02-24T11:26:36Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/69917" />
+    <content
+      type="text">Besked: Test04 servicevindue tirsdag den 3. marts fra klokken 9:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test04 tirsdag den 3. marts 2026 klokken 9:00 til klokken 17:00.
+
+Testmiljøet vil være utilgængeligt i dele af perioden  på webservices, GraphQL-tjenester og Fildownload (HTTPS) , samt testmiljøets Datafordeler Administration.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause i testmiljøet. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 69917&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>69932</id>
+    <title
+      type="text">Test03 servicevindue torsdag den 5. marts fra klokken 9:00 til klokken 17:00</title>
+    <updated>2026-02-24T11:39:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/69932" />
+    <content
+      type="text">Besked: Test03 servicevindue torsdag den 5. marts fra klokken 9:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test03 torsdag den 5. marts 2026 klokken 9:00 til klokken 17:00.
+
+Testmiljøet vil være utilgængeligt i dele af perioden  på webservices, GraphQL-tjenester og Fildownload (HTTPS) , samt testmiljøets Datafordeler Administration.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause i testmiljøet. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 69932&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
   <entry>
     <id>68703</id>
     <title
