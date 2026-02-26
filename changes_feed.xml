@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-02-24T08:22:38Z</updated>
+  <updated>2026-02-26T09:57:37Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -82,7 +82,7 @@ Tidsangivelse: 17. december 2025&#xD;
     <id>65249</id>
     <title
       type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-01-29T11:53:52Z</updated>
+    <updated>2026-02-26T09:57:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/65249" />
@@ -103,7 +103,7 @@ Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
 
 &#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 65249&#xD;
 Tidsangivelse: 25. februar 2026&#xD;
 </content>
