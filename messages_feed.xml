@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-24T11:39:09Z</updated>
+  <updated>2026-02-26T08:56:50Z</updated>
   <entry>
     <id>69917</id>
     <title
@@ -59,7 +59,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>68703</id>
     <title
       type="text">PROD servicevindue onsdag den 25. februar fra klokken 17:00 til klokken 23:00</title>
-    <updated>2026-01-30T12:01:50Z</updated>
+    <updated>2026-02-26T08:56:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/68703" />
@@ -75,7 +75,7 @@ Anvendere kan i tidsrummet opleve nedetid på moderniserede WFS-tjenester på Ge
 Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 68703&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
