@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-02-26T09:57:37Z</updated>
+  <updated>2026-02-27T07:41:12Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -38,7 +38,7 @@ Tidsangivelse: Oktober 2025&#xD;
     <id>68634</id>
     <title
       type="text">Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026</title>
-    <updated>2026-01-29T07:55:10Z</updated>
+    <updated>2026-02-27T07:40:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/68634" />
@@ -50,7 +50,7 @@ Den 25. februar får Fildownload i GeoPackage-format tilføjet spatiale indexes.
 Du skal som anvender ikke foretage dig noget i forbindelse med ændringen.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 68634&#xD;
 Tidsangivelse: 25. februar 2026&#xD;
 </content>
@@ -141,7 +141,7 @@ Tidsangivelse: 25. februar 2026&#xD;
     <id>68701</id>
     <title
       type="text">Kommende ændringer på CPR GraphQL 25. februar 2026</title>
-    <updated>2026-01-30T06:55:14Z</updated>
+    <updated>2026-02-27T07:38:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/68701" />
@@ -171,7 +171,7 @@ Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet for ve
 Der forventes yderligere ændringer på CPR GraphQL-tjenester ultimo april 2026. Ændringerne er under planlægning og vil blive meldt ud på et senere tidspunkt.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 68701&#xD;
 Tidsangivelse: 25. februar 2026&#xD;
 </content>
@@ -180,7 +180,7 @@ Tidsangivelse: 25. februar 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-02-24T08:22:38Z</updated>
+    <updated>2026-02-27T07:41:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />

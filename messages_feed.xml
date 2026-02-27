@@ -6,7 +6,22 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-26T08:56:50Z</updated>
+  <updated>2026-02-27T08:01:57Z</updated>
+  <entry>
+    <id>70035</id>
+    <title
+      type="text">Opdatering: Paralleldrift på Datafordeleren</title>
+    <updated>2026-02-27T08:01:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/70035" />
+    <content
+      type="text">Besked: Den moderniserede Datafordeler er sat i drift 4. december, og der er nu en periode med paralleldrift. På baggrund af dialog med anvendere har Klimadatastyrelsen besluttet, at det er nødvendigt at forlænge paralleldriften og den løbende udfasning af ikke moderniserede tjenester og funktioner på Datafordeleren. Læs mere på kds.dk.&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 70035&#xD;
+</content>
+  </entry>
   <entry>
     <id>69917</id>
     <title
