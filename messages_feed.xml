@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-02-27T08:04:11Z</updated>
+  <updated>2026-02-28T07:26:33Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -96,6 +96,23 @@ Status: Gennemført&#xD;
 Sagsreference: 68703&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70085</id>
+    <title
+      type="text">Forsinket opdatering af Skatteforvaltningens Virksomhedsregister (SVR) DeltaDownload</title>
+    <updated>2026-02-28T07:26:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/70085" />
+    <content
+      type="text">Besked: Forsinket opdatering af Skatteforvaltningens Virksomhedsregister (SVR) DeltaDownload
+
+28.02.2026: Delta Fildownload (HTTPS) for SVR er ikke opdateret som planlagt natten til lørdag. Delta Fildownload (HTTPS) bliver forventet opdateret ved næste planlagte kørsel. Filerne er fortsat tilgængelige via GetAvailableFiledownloads, men indeholder kun data fra seneste vellykkede generering og omfatter derfor ikke de nyeste opdateringer.&#xD;
+Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
+Status: I gang&#xD;
+Sagsreference: 70085&#xD;
 </content>
   </entry>
 </feed>
