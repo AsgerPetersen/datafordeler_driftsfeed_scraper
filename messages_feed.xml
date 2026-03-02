@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-02T08:20:13Z</updated>
+  <updated>2026-03-02T14:49:05Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -22,6 +22,26 @@ Den moderniserede Datafordeler er sat i drift 4. december, og der er nu en perio
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 70035&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70157</id>
+    <title
+      type="text">Ingen opdatering af generaliserede skalaer i DAGI inden folketingsvalget 24.3 2026</title>
+    <updated>2026-03-02T14:49:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/70157" />
+    <content
+      type="text">Besked: Ingen opdatering af generaliserede skalaer i DAGI inden folketingsvalget 24.3 2026
+
+Generaliserede skalaer opdateres ikke i forbindelse med valget den 24.3 2026. 
+
+Sidste opdatering blev udført 30.10 2025.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 70157&#xD;
 </content>
   </entry>
   <entry>
@@ -76,7 +96,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>70085</id>
     <title
       type="text">Forsinket opdatering af Skatteforvaltningens Virksomhedsregister (SVR) Fildownload</title>
-    <updated>2026-03-02T08:20:13Z</updated>
+    <updated>2026-03-02T14:46:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70085" />
