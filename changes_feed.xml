@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-02-27T10:30:33Z</updated>
+  <updated>2026-03-02T09:33:39Z</updated>
   <entry>
     <id>64254</id>
     <title
@@ -180,12 +180,14 @@ Tidsangivelse: 25. februar 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-02-27T07:41:12Z</updated>
+    <updated>2026-03-02T09:33:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
     <content
       type="text">Besked: Nye sammenstillede fildownload for Ejerfortegnelsen
+
+02.03.2026: De nye entiteter fremgår i Datafordeler Administration fra den 25. februar 2026. Anmodning om dataadgang til de nye entiteter bliver først godkendt, når de sammenstillede fildownload er i drift.
 
 23.02.2026: Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren i Q2 2026. Dato bliver meldt ud senere. Release er ændret i forhold til tidligere udmeldt.
 
