@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-03T11:34:06Z</updated>
+  <updated>2026-03-03T13:27:50Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -48,7 +48,7 @@ Sagsreference: 70157&#xD;
     <id>69917</id>
     <title
       type="text">Test04 servicevindue tirsdag den 3. marts fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-03-03T11:34:06Z</updated>
+    <updated>2026-03-03T13:27:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/69917" />
@@ -62,7 +62,7 @@ Testmiljøet vil være utilgængeligt i dele af perioden  på webservices, Grap
 Dataopdatering og hændelser vil i hele tidsrummet være sat på pause i testmiljøet. &#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 69917&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
