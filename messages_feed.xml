@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-04T07:37:53Z</updated>
+  <updated>2026-03-04T09:31:07Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -116,12 +116,14 @@ Sagsreference: 70085&#xD;
     <id>70171</id>
     <title
       type="text">Forsinket opdatering af CPR Fildownload</title>
-    <updated>2026-03-03T09:04:06Z</updated>
+    <updated>2026-03-04T09:31:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70171" />
     <content
       type="text">Besked: Forsinket opdatering af CPR Fildownload
+
+04.03.2026: Data er opdateret
 
 03.03.2026: Fildownload (HTTPS) for CPR er ikke opdateret som planlagt natten til tirsdag den 3. marts. Fildownload (HTTPS) bliver forventet opdateret ved næste planlagte kørsel. &#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
