@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-04T09:31:07Z</updated>
+  <updated>2026-03-03T13:27:50Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -90,46 +90,6 @@ Status: Planlagt&#xD;
 Sagsreference: 69932&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>70085</id>
-    <title
-      type="text">Forsinket opdatering af Skatteforvaltningens Virksomhedsregister (SVR) Fildownload</title>
-    <updated>2026-03-04T07:37:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/70085" />
-    <content
-      type="text">Besked: Forsinket opdatering af Skatteforvaltningens Virksomhedsregister (SVR) Fildownload
-
-04.03.2026: Data er opdateret
-
-02.03.2026: Fildownload (HTTPS) for SVR er ikke opdateret som planlagt natten til lørdag den 28. februar. Fildownload (HTTPS) bliver forventet opdateret ved næste planlagte kørsel. &#xD;
-Register: Skatteforvaltningens Virksomhedsregister (SVR)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 70085&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>70171</id>
-    <title
-      type="text">Forsinket opdatering af CPR Fildownload</title>
-    <updated>2026-03-04T09:31:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/70171" />
-    <content
-      type="text">Besked: Forsinket opdatering af CPR Fildownload
-
-04.03.2026: Data er opdateret
-
-03.03.2026: Fildownload (HTTPS) for CPR er ikke opdateret som planlagt natten til tirsdag den 3. marts. Fildownload (HTTPS) bliver forventet opdateret ved næste planlagte kørsel. &#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 70171&#xD;
 </content>
   </entry>
 </feed>
