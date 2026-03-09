@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-05T14:24:20Z</updated>
+  <updated>2026-03-02T14:49:05Z</updated>
   <entry>
     <id>70035</id>
     <title
@@ -42,30 +42,6 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 70157&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>69932</id>
-    <title
-      type="text">Test03 servicevindue torsdag den 5. marts fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-03-05T14:24:20Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/69932" />
-    <content
-      type="text">Besked: Test03 servicevindue torsdag den 5. marts fra klokken 9:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test03 torsdag den 5. marts 2026 klokken 9:00 til klokken 17:00.
-
-Testmiljøet vil være utilgængeligt i dele af perioden  på webservices, GraphQL-tjenester og Fildownload (HTTPS) , samt testmiljøets Datafordeler Administration.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause i testmiljøet. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 69932&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
 </feed>
