@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-03-20T07:40:39Z</updated>
+  <updated>2026-03-23T14:30:42Z</updated>
   <entry>
     <id>68634</id>
     <title
@@ -226,6 +226,33 @@ Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Forventet&#xD;
 Sagsreference: 68402&#xD;
 Tidsangivelse: Ultimo april 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70908</id>
+    <title
+      type="text">Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026</title>
+    <updated>2026-03-23T14:30:42Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/70908" />
+    <content
+      type="text">Besked: Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026
+
+Med udgangen af april 2026 udstiller Datafordeleren udelukkende rasterbaserede Fildownload (HTTPS) fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk. Som Klimadatastyrelsen tidligere har meldt ud, vil det betyde, at det ikke længere er muligt at hente Filudtræk (FTP) med rasterdata og punktsky fra de ovennævnte registre efter den 29. april 2026.
+
+Se specifikt hvilke Filudtræk (FTP) med rasterdata og punktsky som ikke længere bliver udstillet på Datafordeleren efter 29. april 2026 https://confluence.sdfi.dk/x/OIJQDQ 
+
+Læs mere om rasterbaserede Fildownload (http) https://confluence.sdfi.dk/pages/viewpage.action?pageId=151999753#Fildownloadp%C3%A5Datafordeleren-Rasterbaseredefildownload
+
+Se transitionsguide fra Filudtræk til rasterbaserede Fildownload https://confluence.sdfi.dk/pages/viewpage.action?pageId=150300911#Transitionsguide(fildownload)-Rasterbaseredefildownload
+
+Se tilgængelige datasæt med rasterdata https://confluence.sdfi.dk/pages/viewpage.action?pageId=150300911#Transitionsguide(fildownload)-Bilag3:Datas%C3%A6tmedrasterdata&#xD;
+Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 70908&#xD;
+Tidsangivelse: 29. april 2026&#xD;
 </content>
   </entry>
 </feed>
