@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-26T12:56:27Z</updated>
+  <updated>2026-03-27T06:02:57Z</updated>
   <entry>
     <id>70959</id>
     <title
@@ -101,7 +101,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>70837</id>
     <title
       type="text">Test06 servicevindue torsdag den 26. marts fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-03-26T08:00:17Z</updated>
+    <updated>2026-03-27T06:02:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70837" />
@@ -113,7 +113,7 @@ Der er planlagt servicevindue på Test06 torsdag den 26. marts fra klokken 9:00 
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 70837&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
