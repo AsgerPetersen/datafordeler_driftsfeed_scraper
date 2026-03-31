@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-03-30T11:19:18Z</updated>
+  <updated>2026-03-31T07:02:36Z</updated>
   <entry>
     <id>70959</id>
     <title
@@ -57,7 +57,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>70872</id>
     <title
       type="text">Test03 og Test04 servicevindue mandag den 30. marts fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-03-30T08:16:21Z</updated>
+    <updated>2026-03-31T07:02:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70872" />
@@ -69,7 +69,7 @@ Der er planlagt servicevindue på Test03 og Test04 mandag den 30. marts 2026 klo
 Der vil i tidsrummet være nedetid i testmiljøerne på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøernes Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 70872&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
