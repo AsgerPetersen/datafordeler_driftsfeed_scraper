@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-07T07:03:11Z</updated>
+  <updated>2026-04-07T08:37:00Z</updated>
   <entry>
     <id>70959</id>
     <title
@@ -51,6 +51,25 @@ Status: Planlagt&#xD;
 Sagsreference: 70583&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71325</id>
+    <title
+      type="text">Datafordeler.dk bliver genstartet torsdag den 9. april mellem klokken 8:00 og 8:30</title>
+    <updated>2026-04-07T08:37:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71325" />
+    <content
+      type="text">Besked: Datafordeler.dk bliver genstartet torsdag den 9. april mellem klokken 8:00 og 8:30
+
+Det tager få minutter for webserveren med datafordeler.dk at genstarte, og der kan være en meget kort utilgængelighed i processen.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71325&#xD;
+Periode start: 4/9/2026 6:00:00 AM&#xD;
+Periode slut: 4/9/2026 6:30:00 AM&#xD;
 </content>
   </entry>
   <entry>
