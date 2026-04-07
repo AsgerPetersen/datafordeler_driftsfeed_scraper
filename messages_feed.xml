@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-01T15:00:56Z</updated>
+  <updated>2026-04-07T07:03:11Z</updated>
   <entry>
     <id>70959</id>
     <title
@@ -54,32 +54,10 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>70873</id>
-    <title
-      type="text">Test06 servicevindue onsdag den 1. april fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-04-01T15:00:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/70873" />
-    <content
-      type="text">Besked: Test06 servicevindue onsdag den 1. april fra klokken 10:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test06 onsdag den 1. april 2026 klokken 10:00 til klokken 17:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 70873&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>71266</id>
     <title
       type="text">Test06 servicevindue tirsdag den 7. april fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-03-30T11:19:18Z</updated>
+    <updated>2026-04-07T07:03:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71266" />
@@ -91,7 +69,7 @@ Der er planlagt servicevindue på Test06 tirsdag den 7. april 2026 fra klokken 9
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 71266&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
