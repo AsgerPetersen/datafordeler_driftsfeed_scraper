@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Changes</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceChanges</id>
+  <updated>2026-04-10T12:08:31Z</updated>
+  <entry>
+    <id>68634</id>
+    <title
+      type="text">Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026</title>
+    <updated>2026-02-27T07:40:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68634" />
+    <content
+      type="text">Besked: Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026
+
+Den 25. februar får Fildownload i GeoPackage-format tilføjet spatiale indexes.
+
+Du skal som anvender ikke foretage dig noget i forbindelse med ændringen.&#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 68634&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>66746</id>
+    <title
+      type="text">Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten</title>
+    <updated>2025-12-19T10:36:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/66746" />
+    <content
+      type="text">Besked: Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten
+
+Bemærk at anvendere skal hente det opdaterede graphQL schema. Tilføj egen API-key til følgende kald (eller ændre kald til OAuth): 
+
+"https://graphql.datafordeler.dk/CPR/custom/PublicSector/v1/schema?apikey=[indsæt API-key]"
+
+CPR ændrer i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten til release den 17. december 2025. I data fra ForældremyndigOver-objektet vil indhold i feltet "foraeldremyndig" blive ændret til "barn", hvilket betyder, at anvendere af det nuværende graphQL schema skal ændre i deres kald fra "foraeldremyndig" til "barn".&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 66746&#xD;
+Tidsangivelse: 17. december 2025&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>65249</id>
+    <title
+      type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
+    <updated>2026-02-26T09:57:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/65249" />
+    <content
+      type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
+
+27.01.2026: Udfasning af ældre API-key er planlagt til den 25. februar 2026. Er din API-key oprettet før 17. september 2025, skal du sørge for at skifte den senest den 25. februar 2026.
+
+09.01.2026: Ændringen er implementeret på Test06.
+
+Anvendere med API-keys oprettet før 17. september 2025, opfordres til at skifte API-keys inden udgangen af 2025, for fortsat at have adgang til data fra Datafordeleren. API-keys oprettet efter 17. september 2025 vil fortsat virke. Du kan se oprettelsesdatoen i "Vis revisionslog" på de enkelte IT-systemer.
+
+Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
+
+	Opret en ny API-key under dit IT-system på Datafordeler Administration (læs mere om oprettelse af API-keys)
+	Skift API-key’en i din egen løsning til den nye API-key
+	Deaktiver den gamle API-key på Datafordeler Administration, efter du har verificeret, at den nye API-key virker
+
+&#xD;
+Register: Alle&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 65249&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68638</id>
+    <title
+      type="text">Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026</title>
+    <updated>2026-03-02T09:59:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68638" />
+    <content
+      type="text">Besked: Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026
+
+WMS-, WMTS- og WCS-tjenester kommer på Datafordelerens nye brugerstyring/adgang. Fra den 26. februar 2026 kan du benytte WMS-, WMTS- og WCS-tjenesterne med autentifikationsmetoderne API-key og OAuth, som du opretter via Datafordelerens Administration på https://portal.datafordeler.dk/hjem.
+
+Samtidigt kommer der nye subdomæner for url’erne til brug for kald til WMS, WMTS og WCS - på samme måde som med moderniseringen af WFS-tjenesterne.
+
+Det vil sige, at udover den nye brugerstyring/adgang skal du som anvender fremadrettet skifte ”services” ud med ”wms”, ”wmts” eller ”wcs” i url’erne, alt efter hvilken tjeneste du vil benytte.
+
+Der er paralleldrift på WMS-, WMTS- og WCS-tjenester frem til 30. juni 2026, hvor brugerstyring med brugernavn og adgangskode udfases.
+
+Læs mere om det nye på WMS-, WMTS- og WCS-tjenester
+
+Læs mere om den nye brugerstyring i Datafordeler Administration&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 68638&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68701</id>
+    <title
+      type="text">Kommende ændringer på CPR GraphQL 25. februar 2026</title>
+    <updated>2026-02-27T07:38:51Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68701" />
+    <content
+      type="text">Besked: Kommende ændringer på CPR GraphQL 25. februar 2026
+
+Den 25. februar 2026 er der planlagt følgende ændringer for CPR’s GraphQL-tjenester til offentlige og private anvendere:
+
+	json objekter skal være obligatoriske i output for CPRCustom_PrivateSectorPerson (Se eksempel med obligatoriske parametre i Datafordelens dokumentation for CPR på https://confluence.sdfi.dk/x/nYONBQ)
+BEMÆRK: Anvendere, der har udarbejdet queries til version 1, skal ændre til version 2 grundet de obligatoriske felter.
+
+
+
+Derudover bliver der foretaget mindre fejlrettelser, som ikke har betydning for anvendernes integration:
+
+	Vaergemaal udvides med attributterne virkningfra og virkningfrausikkerhedsmarkering i CPRCustom_PublicSectorPerson og CPRCustom_PrivateSectorPerson
+	Adresse for forsvundne/udrejste døde rettes til at indeholde den registreredes udlandsadresse
+	Validering af datoer af type "localdata" for hændelseskoder ændres fra UTC-tid til lokal dansk tid
+	Fremsøgning af personer ud fra navneoplysninger i CPRCustom_PrivateSectorPerson ændres til også at inkludere rettede eller fortrudte navneoplysninger 
+	Rettelse af fejl hvor hændelseskoden ignoreres, når der er indtastet en valid forretningshændelse
+
+
+
+
+Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet for version 2 af GraphQL-tjenesterne.
+
+Der forventes yderligere ændringer på CPR GraphQL-tjenester ultimo april 2026. Ændringerne er under planlægning og vil blive meldt ud på et senere tidspunkt.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 68701&#xD;
+Tidsangivelse: 25. februar 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>69338</id>
+    <title
+      type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
+    <updated>2026-03-02T09:33:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/69338" />
+    <content
+      type="text">Besked: Nye sammenstillede fildownload for Ejerfortegnelsen
+
+02.03.2026: De nye entiteter fremgår i Datafordeler Administration fra den 25. februar 2026. Anmodning om dataadgang til de nye entiteter bliver først godkendt, når de sammenstillede fildownload er i drift.
+
+23.02.2026: Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren i Q2 2026. Dato bliver meldt ud senere. Release er ændret i forhold til tidligere udmeldt.
+
+Ejerfortegnelsens sammenstillede fildownload er sammenstillet med CPR-data. For at få adgang til sammenstillede fildownload fra Ejerfortegnelsen, skal du anmode om adgang til de nye custom entiteter via Datafordeler Administration.
+
+Der kommer følgende sammenstillede fildownload for Ejerfortegnelsen:
+
+	For private:
+	
+		EjerskabMedStamoplysninger
+		EjendomsadministratorMedStamoplysninger
+		PersonEllerVirksomhedsAdministratorMedStamoplysninger
+	
+	
+
+
+
+
+	For offentlige myndigheder:
+	
+		EjerskabMedStamoplysningerFortrolig
+		EjendomsadministratorMedStamoplysningerFortrolig
+		PersonEllerVirksomhedsAdministratorMedStamoplysningerFortrolig
+	
+	
+
+
+
+De sammenstillede fildownload findes som totaldownload og i SincePrevious, som adskiller sig fra deltafildownload. De sammenstillede fildownload genereres dagligt for begge typer, samt findes i kommuneopdelte fildownload. For at hente sammenstillede fildownload kommer der også en ny metode GetAvailableCustomFiledownloads, hvor du som anvender kan se hvilke sammenstillede fildownload du kan hente. Tjenester kræver godkendt dataadgang.
+
+Læs mere om hvordan du får adgang til og henter de nye sammenstillede fildownload fra Ejerfortegnelsen 
+
+Se også Transitionsguide Sammenstillede fildownload (EJF)&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 69338&#xD;
+Tidsangivelse: Q2 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71493</id>
+    <title
+      type="text">DAR's datamodel er opdateret til version 2.0.3</title>
+    <updated>2026-04-10T12:08:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/71493" />
+    <content
+      type="text">Besked: DAR's datamodel er opdateret til version 2.0.3
+
+Den 17. marts 2026 blev DAR's datamodel opdateret. Der er hverken tilført eller fjernet modelelementer, som påvirker dataudstillingen på Datafordeleren.
+
+Formålet med opdateringen var at bringe DARs logiske datamodel i overensstemmelse med udstillingen i Datafordelerens moderniserede tjenester.
+
+Der er tilført følgende relationer:
+
+	AdresseHarDørpunkt
+	AdresseHarEnhed
+	HusnummerHarAdgangspunkt
+	husnummerHarAdresser
+	HusnummerHarVejpunkt
+	navngivenVejBestårAfNavngivenVejPostnummer
+	navngivenVejBestårAfNavngivenVejSupplerendeBynavn
+	NavngivenVejKommunedelBerørerKommuneinddeling
+	navngivenVejKommunedelHarNavngivenVej
+	NavngivenVejPostnummerBerørerGeografiskPostnummer
+	NavngivenVejSupplerendeBynavnBerørerSupplerendeBynavn
+	PostnummerharPostnummerinddeling
+	SupplerendeBynavnHarSupplerendeBynavn
+
+
+
+Med patch-opdateringen af DAR til 2.0.3 er der nu overensstemmelse mellem den logiske datamodel og relationerne implementeret på Datafordeleren. Se datamodellen på https://datafordeler.dk/vejledning/grunddata/datamodel/
+
+Ud over tilføjelse af relationer er klasserne NavngivenVejPostnummer og NavngivenVejSupplendeBynavn implementeret som krydsreferencetabel mellem henholdsvis NavngivenVej og Postnummer og NavngivenVej og SupplendeBynavn.
+
+Endelig er DARs kodelister blevet flyttet ind i Klimadatastyrelsens Kodelisteregister. Henvisninger er ændret til https://sdfidk.github.io/kodelisteregister/dar/ i stedet for danmarksadresser.dk.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Status: Gennemført&#xD;
+Sagsreference: 71493&#xD;
+Tidsangivelse: 17. marts 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>68402</id>
+    <title
+      type="text">Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren</title>
+    <updated>2026-03-20T07:40:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/68402" />
+    <content
+      type="text">Besked: Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren
+
+Ultimo april 2026 bliver tidligere versioner for GraphQL-tjenester med entiteter og Fildownload lukket på Datafordeleren. Anvendere skal være overgået til nyeste versioner senest 15. april 2026.
+
+Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester og filer. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
+
+For GraphQL-tjenester med entiteter skal det være version 2, anvendere skal benytte, undtagen for EJF, EBR og CVRcustom hvor nyeste er version 1. GraphQL Fleksibel opslagslogik vil fortsat være version 1.
+
+For Fildownload vil der være forskellige versionsnumre for registre. Det er altid højeste versionsnummer, anvendere skal benytte. Undtagelsesvis skal anvendere stadig benytte DAGI Fildownload version 1. Der kommer en version 3 med ny DAGI datamodel, som forventes i drift i marts 2026. DAGI Fildownload version 1 lukker efter en periode med paralleldrift, som bliver varslet.
+
+Bemærk at version 1 af REST-API’et for metoden GetAvailableFileDownloads også lukker. Anvendere skal benytte eller omstille til version 2.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Forventet&#xD;
+Sagsreference: 68402&#xD;
+Tidsangivelse: Ultimo april 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70908</id>
+    <title
+      type="text">Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026</title>
+    <updated>2026-03-24T07:21:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/70908" />
+    <content
+      type="text">Besked: Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026
+
+Med udgangen af april 2026 udstiller Datafordeleren udelukkende rasterbaserede Fildownload (HTTPS) fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk. Som Klimadatastyrelsen tidligere har meldt ud, vil det betyde, at det ikke længere er muligt at hente Filudtræk (FTP) med rasterdata og punktsky fra de ovennævnte registre efter den 29. april 2026.
+
+Se specifikt hvilke Filudtræk (FTP) med rasterdata og punktsky som ikke længere bliver udstillet på Datafordeleren efter 29. april 2026  
+
+Læs mere om rasterbaserede Fildownload (http) 
+
+Se transitionsguide fra Filudtræk til rasterbaserede Fildownload 
+
+Se tilgængelige datasæt med rasterdata &#xD;
+Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 70908&#xD;
+Tidsangivelse: 29. april 2026&#xD;
+</content>
+  </entry>
+</feed>

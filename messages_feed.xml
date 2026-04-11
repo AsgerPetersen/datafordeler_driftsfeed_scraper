@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom">
+  <title
+    type="text">Service Messages</title>
+  <subtitle
+    type="text"></subtitle>
+  <id>serviceMessages</id>
+  <updated>2026-04-10T11:46:08Z</updated>
+  <entry>
+    <id>71490</id>
+    <title
+      type="text">Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support</title>
+    <updated>2026-04-10T11:46:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71490" />
+    <content
+      type="text">Besked: Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support
+
+Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support på datafordeler.dk. Vi arbejder på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 71490&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70959</id>
+    <title
+      type="text">Skærmkortet bliver opdateret i april 2026</title>
+    <updated>2026-04-10T11:01:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/70959" />
+    <content
+      type="text">Besked: Skærmkortet bliver opdateret i april 2026
+
+Næste opdatering til Skærmkortet er tilgængelig den 21. april 2026.
+
+Skærmkortsopdateringen bliver tilgængelig på WMS, WMTS og Fildownload.
+
+ 
+
+Bemærk, at filudtræk bliver udfaset den 29. april 2026. Derfor indeholder denne skærmkortsopdatering ikke filudtræk.&#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 70959&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>70583</id>
+    <title
+      type="text">PROD servicevindue tirsdag den 14. april fra klokken 17:30 til klokken 20:30</title>
+    <updated>2026-03-13T06:29:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/70583" />
+    <content
+      type="text">Besked: PROD servicevindue tirsdag den 14. april fra klokken 17:30 til klokken 20:30
+
+Der er planlagt servicevindue på PROD tirsdag den 14. april 2026 klokken 17:30 til klokken 20:30.
+
+Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 70583&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71466</id>
+    <title
+      type="text">PROD servicevindue tirsdag den 5. maj fra klokken 17:00 til klokken 23:00</title>
+    <updated>2026-04-10T11:24:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71466" />
+    <content
+      type="text">Besked: PROD servicevindue tirsdag den 5. maj fra klokken 17:00 til klokken 23:00
+
+Der er planlagt servicevindue på PROD tirsdag den 5. maj 2026 klokken 17:00 til klokken 23:00.
+
+Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71466&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71468</id>
+    <title
+      type="text">Test04 servicevindue onsdag den 15. april fra klokken 9:00 til klokken 11:00</title>
+    <updated>2026-04-10T11:25:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71468" />
+    <content
+      type="text">Besked: Test04 servicevindue onsdag den 15. april fra klokken 9:00 til klokken 11:00
+
+Der er planlagt servicevindue på Test04 onsdag den 15. april 2026 klokken 9:00 til klokken 11:00.
+
+Der vil i tidsrummet være påvirkning på Fildownload (HTTPS) og Filudtræk (FTP).
+
+Efter servicevinduet er Filudtræk (FTP) med rasterdata og punktsky fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk udfaset og ikke længere tilgængelig på testmiljøet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71468&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71463</id>
+    <title
+      type="text">Test03 og Test06 servicevindue mandag den 20. april fra klokken 10:00 til klokken 17:00</title>
+    <updated>2026-04-10T11:23:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71463" />
+    <content
+      type="text">Besked: Test03 og Test06 servicevindue mandag den 20. april fra klokken 10:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test03 og Test06 mandag den 20. april 2026 klokken 10:00 til klokken 17:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71463&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71464</id>
+    <title
+      type="text">Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00</title>
+    <updated>2026-04-10T11:24:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71464" />
+    <content
+      type="text">Besked: Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test04 onsdag den 29. april 2026 klokken 10:00 til klokken 17:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71464&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+</feed>
