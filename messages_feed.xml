@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-15T06:53:07Z</updated>
+  <updated>2026-04-15T07:01:52Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -119,7 +119,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>71468</id>
     <title
       type="text">Test04 servicevindue onsdag den 15. april fra klokken 9:00 til klokken 11:00</title>
-    <updated>2026-04-10T11:25:09Z</updated>
+    <updated>2026-04-15T07:01:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71468" />
@@ -133,7 +133,7 @@ Der vil i tidsrummet være påvirkning på Fildownload (HTTPS) og Filudtræk (FT
 Efter servicevinduet er Filudtræk (FTP) med rasterdata og punktsky fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk udfaset og ikke længere tilgængelig på testmiljøet.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 71468&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
