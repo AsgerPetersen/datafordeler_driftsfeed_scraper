@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-14T10:08:07Z</updated>
+  <updated>2026-04-15T06:53:07Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -75,7 +75,7 @@ Sagsreference: 71583&#xD;
     <id>70583</id>
     <title
       type="text">PROD servicevindue tirsdag den 14. april fra klokken 17:30 til klokken 20:30</title>
-    <updated>2026-03-13T06:29:29Z</updated>
+    <updated>2026-04-15T06:53:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70583" />
@@ -87,7 +87,7 @@ Der er planlagt servicevindue på PROD tirsdag den 14. april 2026 klokken 17:30 
 Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 70583&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
