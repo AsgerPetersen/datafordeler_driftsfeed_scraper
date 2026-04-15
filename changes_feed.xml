@@ -6,79 +6,29 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-04-10T12:08:31Z</updated>
+  <updated>2026-04-15T11:38:37Z</updated>
   <entry>
-    <id>68634</id>
+    <id>71761</id>
     <title
-      type="text">Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026</title>
-    <updated>2026-02-27T07:40:31Z</updated>
+      type="text">Datafordeleren lukker testmiljøet Test03 ultimo juni 2026</title>
+    <updated>2026-04-15T11:38:37Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/68634" />
+      href="https://datafordeler.dk/drift/aendringer/71761" />
     <content
-      type="text">Besked: Fildownload i GeoPackage-format får tilføjet spatiale indexes den 25. februar 2026
+      type="text">Besked: Datafordeleren lukker testmiljøet Test03 ultimo juni 2026
 
-Den 25. februar får Fildownload i GeoPackage-format tilføjet spatiale indexes.
+Testmiljøet Test03 lukker ultimo juni 2026, så der fremadrettet kun er to testmiljøer på Datafordeleren; Test04 og Test06. Endelig dato for lukningen af Test03 bliver meldt ud, når den er fastlagt.
 
-Du skal som anvender ikke foretage dig noget i forbindelse med ændringen.&#xD;
+Testmiljøet lukker, fordi der er et ændret behov for testmiljøer efter moderniseringen af Datafordeleren.
+
+Vi anbefaler, at anvendere, der benytter Test03 til test af integration til egne systemer, flytter testaktiviteter over til Test06 hurtigst muligt, og senest den 15. juni 2026.
+
+Læs mere om Datafordelerens testmiljøer&#xD;
 Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 68634&#xD;
-Tidsangivelse: 25. februar 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>66746</id>
-    <title
-      type="text">Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten</title>
-    <updated>2025-12-19T10:36:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/66746" />
-    <content
-      type="text">Besked: Ændring i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten
-
-Bemærk at anvendere skal hente det opdaterede graphQL schema. Tilføj egen API-key til følgende kald (eller ændre kald til OAuth): 
-
-"https://graphql.datafordeler.dk/CPR/custom/PublicSector/v1/schema?apikey=[indsæt API-key]"
-
-CPR ændrer i graphQL schema for CPRCustom_PublicSector GraphQL-tjenesten til release den 17. december 2025. I data fra ForældremyndigOver-objektet vil indhold i feltet "foraeldremyndig" blive ændret til "barn", hvilket betyder, at anvendere af det nuværende graphQL schema skal ændre i deres kald fra "foraeldremyndig" til "barn".&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 66746&#xD;
-Tidsangivelse: 17. december 2025&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>65249</id>
-    <title
-      type="text">Opret ny API-key hvis du har en der er oprettet før 17. september 2025</title>
-    <updated>2026-02-26T09:57:37Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/65249" />
-    <content
-      type="text">Besked: Opret ny API-key hvis du har en der er oprettet før 17. september 2025
-
-27.01.2026: Udfasning af ældre API-key er planlagt til den 25. februar 2026. Er din API-key oprettet før 17. september 2025, skal du sørge for at skifte den senest den 25. februar 2026.
-
-09.01.2026: Ændringen er implementeret på Test06.
-
-Anvendere med API-keys oprettet før 17. september 2025, opfordres til at skifte API-keys inden udgangen af 2025, for fortsat at have adgang til data fra Datafordeleren. API-keys oprettet efter 17. september 2025 vil fortsat virke. Du kan se oprettelsesdatoen i "Vis revisionslog" på de enkelte IT-systemer.
-
-Anvendere kan allerede nu skifte til nye API-keys med følgende trin:
-
-	Opret en ny API-key under dit IT-system på Datafordeler Administration (læs mere om oprettelse af API-keys)
-	Skift API-key’en i din egen løsning til den nye API-key
-	Deaktiver den gamle API-key på Datafordeler Administration, efter du har verificeret, at den nye API-key virker
-
-&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 65249&#xD;
-Tidsangivelse: 25. februar 2026&#xD;
+Status: Forventet&#xD;
+Sagsreference: 71761&#xD;
+Tidsangivelse: Ultimo juni 2026&#xD;
 </content>
   </entry>
   <entry>
