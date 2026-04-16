@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-15T09:00:18Z</updated>
+  <updated>2026-04-16T05:20:41Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -113,6 +113,32 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 71468&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71764</id>
+    <title
+      type="text">PROD servicevindue onsdag den 29. april fra klokken 17:00 til klokken 19:00</title>
+    <updated>2026-04-16T05:20:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71764" />
+    <content
+      type="text">Besked: PROD servicevindue onsdag den 29. april fra klokken 17:00 til klokken 19:00
+
+Der er planlagt servicevindue på PROD onsdag den 29. april 2026 klokken 17:00 til klokken 19:00.
+
+Der kan i tidsrummet være nedetid på Fildownload (HTTPS), og påvirkning på Filudtræk (FTP).
+Efter servicevinduet er Filudtræk (FTP) med rasterdata og punktsky fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk udfaset og ikke længere tilgængelig på Datafordeleren. VI henviser i stedet til Fildownload.
+
+I løbet af den 29. april 2026 bliver de nævnte filudtræk deaktiveret. Har du et abonnement på et filudtræk med rasterdata eller punktsky vil du modtage en mail om at dit abonnement er midlertidigt deaktiveret, selvom det permanent er deaktiveret. Herefter kan du ikke længere se abonnementet på din brugerside på Datafordeler.dk eller Selvbetjeningsportalen. 
+
+Se mere om Fildownload på Datafordeleren&#xD;
+Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 71764&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
