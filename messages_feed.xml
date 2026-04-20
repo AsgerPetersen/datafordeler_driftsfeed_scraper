@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-20T10:54:31Z</updated>
+  <updated>2026-04-20T14:07:07Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -139,6 +139,24 @@ Status: Planlagt&#xD;
 Sagsreference: 71464&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>71926</id>
+    <title
+      type="text">Forsinkede dataopdateringer for EBR, EJF og MAT</title>
+    <updated>2026-04-20T14:07:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/71926" />
+    <content
+      type="text">Besked: Forsinkede dataopdateringer for EBR, EJF og MAT
+
+20.04.2026: Der er forsinkelse i dataopdateringer fra EJF, EBR og MAT. De seneste dataopdateringer er fra 07:40 i morges den 20.04.2026.&#xD;
+Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 71926&#xD;
 </content>
   </entry>
 </feed>
