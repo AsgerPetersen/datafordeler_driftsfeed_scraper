@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-20T14:07:07Z</updated>
+  <updated>2026-04-21T06:45:04Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -101,7 +101,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>71463</id>
     <title
       type="text">Test03 og Test06 servicevindue mandag den 20. april fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-04-20T08:00:48Z</updated>
+    <updated>2026-04-21T06:45:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71463" />
@@ -113,7 +113,7 @@ Der er planlagt servicevindue på Test03 og Test06 mandag den 20. april 2026 klo
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 71463&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
