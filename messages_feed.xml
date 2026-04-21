@@ -6,22 +6,24 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-21T06:45:04Z</updated>
+  <updated>2026-04-21T07:32:58Z</updated>
   <entry>
     <id>71490</id>
     <title
       type="text">Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support</title>
-    <updated>2026-04-20T10:54:31Z</updated>
+    <updated>2026-04-21T07:16:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71490" />
     <content
       type="text">Besked: Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support
 
+21.04.2026: Kendte fejl, spørgsmål og anbefalinger bliver igen vist under Support på datafordeler.dk.
+
 20.04.2026: Kendte fejl, spørgsmål og anbefalinger bliver ikke vist under Support på datafordeler.dk. Vi arbejder på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Dokumentation&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 71490&#xD;
 </content>
   </entry>
@@ -145,17 +147,19 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>71926</id>
     <title
       type="text">Forsinkede dataopdateringer for EBR, EJF og MAT</title>
-    <updated>2026-04-20T14:07:07Z</updated>
+    <updated>2026-04-21T07:32:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71926" />
     <content
       type="text">Besked: Forsinkede dataopdateringer for EBR, EJF og MAT
 
+21.04.2026: Problemet er løst og data er opdateret.
+
 20.04.2026: Der er forsinkelse i dataopdateringer fra EJF, EBR og MAT. De seneste dataopdateringer er fra 07:40 i morges den 20.04.2026.&#xD;
 Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 71926&#xD;
 </content>
   </entry>
