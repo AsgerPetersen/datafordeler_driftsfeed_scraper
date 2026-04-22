@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-21T07:32:58Z</updated>
+  <updated>2026-04-22T06:48:41Z</updated>
   <entry>
     <id>71490</id>
     <title
@@ -31,12 +31,16 @@ Sagsreference: 71490&#xD;
     <id>70959</id>
     <title
       type="text">Skærmkortet bliver opdateret i april 2026</title>
-    <updated>2026-04-10T11:01:53Z</updated>
+    <updated>2026-04-22T06:48:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/70959" />
     <content
       type="text">Besked: Skærmkortet bliver opdateret i april 2026
+
+22.04.2026: Skærmkortopdatering er nu tilgængelig på WMS, WMTS og Fildownload.
+
+ 
 
 Næste opdatering til Skærmkortet er tilgængelig den 21. april 2026.
 
@@ -47,7 +51,7 @@ Skærmkortsopdateringen bliver tilgængelig på WMS, WMTS og Fildownload.
 Bemærk, at filudtræk bliver udfaset den 29. april 2026. Derfor indeholder denne skærmkortsopdatering ikke filudtræk.&#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 70959&#xD;
 </content>
   </entry>
