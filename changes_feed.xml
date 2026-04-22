@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-04-15T11:38:37Z</updated>
+  <updated>2026-04-22T10:14:33Z</updated>
   <entry>
     <id>71761</id>
     <title
@@ -199,27 +199,29 @@ Tidsangivelse: 17. marts 2026&#xD;
     <id>68402</id>
     <title
       type="text">Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren</title>
-    <updated>2026-03-20T07:40:39Z</updated>
+    <updated>2026-04-22T10:14:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/68402" />
     <content
       type="text">Besked: Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren
 
-Ultimo april 2026 bliver tidligere versioner for GraphQL-tjenester med entiteter og Fildownload lukket på Datafordeleren. Anvendere skal være overgået til nyeste versioner senest 15. april 2026.
+21. maj 2026 bliver tidligere versioner for GraphQL-tjenester og Fildownload lukket på Datafordeleren. 
 
 Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester og filer. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
 
 For GraphQL-tjenester med entiteter skal det være version 2, anvendere skal benytte, undtagen for EJF, EBR og CVRcustom hvor nyeste er version 1. GraphQL Fleksibel opslagslogik vil fortsat være version 1.
 
-For Fildownload vil der være forskellige versionsnumre for registre. Det er altid højeste versionsnummer, anvendere skal benytte. Undtagelsesvis skal anvendere stadig benytte DAGI Fildownload version 1. Der kommer en version 3 med ny DAGI datamodel, som forventes i drift i marts 2026. DAGI Fildownload version 1 lukker efter en periode med paralleldrift, som bliver varslet.
+For Fildownload vil der være forskellige versionsnumre for registre. Det er altid højeste versionsnummer, anvendere skal benytte. 
 
-Bemærk at version 1 af REST-API’et for metoden GetAvailableFileDownloads også lukker. Anvendere skal benytte eller omstille til version 2.&#xD;
+Bemærk at version 1 af REST-API’et for metoden GetAvailableFileDownloads også lukker. Anvendere skal benytte eller omstille til version 2.
+
+Se vejledning til, hvordan du opgraderer versioner af GraphQL og Fildownload, og hvilke versioner der er i drift.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Forventet&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 68402&#xD;
-Tidsangivelse: Ultimo april 2026&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
 </content>
   </entry>
   <entry>
