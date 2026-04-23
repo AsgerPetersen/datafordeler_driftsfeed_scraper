@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-22T10:36:32Z</updated>
+  <updated>2026-04-23T07:30:36Z</updated>
   <entry>
     <id>70959</id>
     <title
@@ -62,15 +62,15 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>72010</id>
     <title
-      type="text">Version 1 af GraphQL lukker den 21. maj 2026</title>
-    <updated>2026-04-22T10:20:14Z</updated>
+      type="text">Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026</title>
+    <updated>2026-04-23T07:30:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72010" />
     <content
-      type="text">Besked: Version 1 af GraphQL lukker den 21. maj 2026
+      type="text">Besked: Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026
 
-Torsdag den 21. maj 2026 bliver tidligere versioner af GraphQL lukket.
+Torsdag den 21. maj 2026 bliver tidligere versioner af de entitetsbaserede GraphQL-tjenester lukket, med enkelte undtagelser, eksempelvis bliver fleksibel opslagslogik forsat udstillet i version 1.
 
 Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
 
