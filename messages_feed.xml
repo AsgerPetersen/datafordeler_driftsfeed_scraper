@@ -8,34 +8,6 @@
   <id>serviceMessages</id>
   <updated>2026-04-23T07:30:36Z</updated>
   <entry>
-    <id>70959</id>
-    <title
-      type="text">Skærmkortet bliver opdateret i april 2026</title>
-    <updated>2026-04-22T06:48:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/70959" />
-    <content
-      type="text">Besked: Skærmkortet bliver opdateret i april 2026
-
-22.04.2026: Skærmkortopdatering er nu tilgængelig på WMS, WMTS og Fildownload.
-
- 
-
-Næste opdatering til Skærmkortet er tilgængelig den 21. april 2026.
-
-Skærmkortsopdateringen bliver tilgængelig på WMS, WMTS og Fildownload.
-
- 
-
-Bemærk, at filudtræk bliver udfaset den 29. april 2026. Derfor indeholder denne skærmkortsopdatering ikke filudtræk.&#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 70959&#xD;
-</content>
-  </entry>
-  <entry>
     <id>72009</id>
     <title
       type="text">Version 1 og 2 af Fildownload lukker den 21. maj 2026</title>
@@ -216,26 +188,6 @@ Status: Planlagt&#xD;
 Sagsreference: 72013&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>71926</id>
-    <title
-      type="text">Forsinkede dataopdateringer for EBR, EJF og MAT</title>
-    <updated>2026-04-21T07:32:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/71926" />
-    <content
-      type="text">Besked: Forsinkede dataopdateringer for EBR, EJF og MAT
-
-21.04.2026: Problemet er løst og data er opdateret.
-
-20.04.2026: Der er forsinkelse i dataopdateringer fra EJF, EBR og MAT. De seneste dataopdateringer er fra 07:40 i morges den 20.04.2026.&#xD;
-Register: Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 71926&#xD;
 </content>
   </entry>
 </feed>
