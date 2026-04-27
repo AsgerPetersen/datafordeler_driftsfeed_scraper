@@ -6,7 +6,70 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-04-22T10:14:33Z</updated>
+  <updated>2026-04-27T12:41:26Z</updated>
+  <entry>
+    <id>72193</id>
+    <title
+      type="text">Ny version af fleksibel opslagslogik 21. maj 2026</title>
+    <updated>2026-04-27T12:36:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/72193" />
+    <content
+      type="text">Besked: Ny version af fleksibel opslagslogik 21. maj 2026
+
+Den 21. maj 2026 kommer fleksibel opslagslogik-tjenesterne flexible og flexibleCurrent i version 2 som følge af ændringer i BBR GraphQL.
+
+Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72193&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>72195</id>
+    <title
+      type="text">Ny version af BBR GraphQL 21. maj 2026</title>
+    <updated>2026-04-27T12:40:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/72195" />
+    <content
+      type="text">Besked: Ny version af BBR GraphQL 21. maj 2026
+
+Den 21. maj 2026 bliver der tilføjet flere filtreringsparametre til entiteterne "Ejendomsrelation" og ”TekniskAnlæg". De bliver tilgængelige som input i BBR GraphQL version 3 og Fleksibel Oplagslogik version 2.
+
+Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
+Register: Bygnings- og Boligregisteret (BBR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72195&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>72196</id>
+    <title
+      type="text">DAR fildownload i ny version uden z-koordinat 21. maj 2026</title>
+    <updated>2026-04-27T12:41:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/72196" />
+    <content
+      type="text">Besked: DAR fildownload i ny version uden z-koordinat 21. maj 2026
+
+Den 21. maj 2026 kommer DAR fildownload i version 4. DAR fildownload version 4 er uden z-koordinat.
+
+Tidligere versioner af DAR fildownload har ved fejl indeholdt z-koordinater, selvom registeret ikke anvender det.&#xD;
+Register: Danmarks Adresseregister (DAR)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72196&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
+</content>
+  </entry>
   <entry>
     <id>71761</id>
     <title
@@ -221,6 +284,29 @@ Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 68402&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>72194</id>
+    <title
+      type="text">Notifikationer for udløb af autentifikationsmetoder, IT-systemer og brugerkonti og visning af begrundelse for afvisning af dataadgang i Datafordeler Administration</title>
+    <updated>2026-04-27T12:37:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/72194" />
+    <content
+      type="text">Besked: Notifikationer for udløb af autentifikationsmetoder, IT-systemer og brugerkonti og visning af begrundelse for afvisning af dataadgang i Datafordeler Administration
+
+Efter 21. maj 2026 bliver det muligt som ejer, administrator eller læser af et IT-system at modtage mailnotifikationer fra Datafordeler Administration inden udløb af autentifikationsmetoder, dataadgang, IT-system eller din brugerkonto. Notifikationerne bliver sendt 30 dage og 7 dage inden udløb. Derudover vil anvendere modtage en notifikation når autentifikationsmetoder, dataadgang, IT-system eller din brugerkonto er udløbet eller deaktiveret.
+
+Anvendere vil også modtage en notifikation hvis et register ændrer i en anmodning om dataadgang, samt det bliver muligt for se begrundelse for afvisning af en anmodning om dataadgang i Datafordeler Administration.
+
+Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72194&#xD;
 Tidsangivelse: 21. maj 2026&#xD;
 </content>
   </entry>
