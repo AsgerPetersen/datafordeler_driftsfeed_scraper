@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-04-27T12:41:26Z</updated>
+  <updated>2026-04-27T13:07:26Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -92,74 +92,6 @@ Register: Alle&#xD;
 Status: Forventet&#xD;
 Sagsreference: 71761&#xD;
 Tidsangivelse: Ultimo juni 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>68638</id>
-    <title
-      type="text">Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026</title>
-    <updated>2026-03-02T09:59:09Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/68638" />
-    <content
-      type="text">Besked: Ændringer til brugerstyring/adgang for WMS-, WMTS- og WCS-tjenester 25. februar 2026
-
-WMS-, WMTS- og WCS-tjenester kommer på Datafordelerens nye brugerstyring/adgang. Fra den 26. februar 2026 kan du benytte WMS-, WMTS- og WCS-tjenesterne med autentifikationsmetoderne API-key og OAuth, som du opretter via Datafordelerens Administration på https://portal.datafordeler.dk/hjem.
-
-Samtidigt kommer der nye subdomæner for url’erne til brug for kald til WMS, WMTS og WCS - på samme måde som med moderniseringen af WFS-tjenesterne.
-
-Det vil sige, at udover den nye brugerstyring/adgang skal du som anvender fremadrettet skifte ”services” ud med ”wms”, ”wmts” eller ”wcs” i url’erne, alt efter hvilken tjeneste du vil benytte.
-
-Der er paralleldrift på WMS-, WMTS- og WCS-tjenester frem til 30. juni 2026, hvor brugerstyring med brugernavn og adgangskode udfases.
-
-Læs mere om det nye på WMS-, WMTS- og WCS-tjenester
-
-Læs mere om den nye brugerstyring i Datafordeler Administration&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 68638&#xD;
-Tidsangivelse: 25. februar 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>68701</id>
-    <title
-      type="text">Kommende ændringer på CPR GraphQL 25. februar 2026</title>
-    <updated>2026-02-27T07:38:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/68701" />
-    <content
-      type="text">Besked: Kommende ændringer på CPR GraphQL 25. februar 2026
-
-Den 25. februar 2026 er der planlagt følgende ændringer for CPR’s GraphQL-tjenester til offentlige og private anvendere:
-
-	json objekter skal være obligatoriske i output for CPRCustom_PrivateSectorPerson (Se eksempel med obligatoriske parametre i Datafordelens dokumentation for CPR på https://confluence.sdfi.dk/x/nYONBQ)
-BEMÆRK: Anvendere, der har udarbejdet queries til version 1, skal ændre til version 2 grundet de obligatoriske felter.
-
-
-
-Derudover bliver der foretaget mindre fejlrettelser, som ikke har betydning for anvendernes integration:
-
-	Vaergemaal udvides med attributterne virkningfra og virkningfrausikkerhedsmarkering i CPRCustom_PublicSectorPerson og CPRCustom_PrivateSectorPerson
-	Adresse for forsvundne/udrejste døde rettes til at indeholde den registreredes udlandsadresse
-	Validering af datoer af type "localdata" for hændelseskoder ændres fra UTC-tid til lokal dansk tid
-	Fremsøgning af personer ud fra navneoplysninger i CPRCustom_PrivateSectorPerson ændres til også at inkludere rettede eller fortrudte navneoplysninger 
-	Rettelse af fejl hvor hændelseskoden ignoreres, når der er indtastet en valid forretningshændelse
-
-
-
-
-Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet for version 2 af GraphQL-tjenesterne.
-
-Der forventes yderligere ændringer på CPR GraphQL-tjenester ultimo april 2026. Ændringerne er under planlægning og vil blive meldt ud på et senere tidspunkt.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 68701&#xD;
-Tidsangivelse: 25. februar 2026&#xD;
 </content>
   </entry>
   <entry>
@@ -256,6 +188,56 @@ Register: Danmarks Adresseregister (DAR)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 71493&#xD;
 Tidsangivelse: 17. marts 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>72199</id>
+    <title
+      type="text">Kommende ændringer på CPR GraphQL 21. maj 2026</title>
+    <updated>2026-04-27T13:07:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/72199" />
+    <content
+      type="text">Besked: Kommende ændringer på CPR GraphQL 21. maj 2026
+
+21. maj 2026 er der planlagt følgende ændringer for CPR’s GraphQL-tjenester.
+
+Ændringer til offentlige anvendere i GraphQL-tjenesten CustomPublicSectorPerson. Bemærk at ændringerne er på objekt- og attributniveau:
+
+	For objektet PublicSectorCprHaendelseKodeInput bliver det muligt at søge på ”registreringfra” og en liste af "haendelseskode".
+	For objektet PublicSectorCprHaendelseInput bliver det muligt at søge på  ”rettetden” og en liste af "forretningshaendelse".
+	Det bliver muligt at angive fødselsdato til og fra i input.
+	Information om separationer bliver begrænset til gældende civilstandsobjekt.
+	Felterne Vaergemaal.status, Kontaktadresse.status og Adresseoplysninger.supplerendeAdresse.status bliver fjernet.
+
+
+
+Ændringer til private anvendere i GraphQL-tjenesten CustomPrivateSectorPerson:
+
+	Det  bliver muligt at søge med en liste af hændelser og hændelseskoder.
+	Vaergemaal og kontaktadresse bliver obligatorisk output.
+	Felterne Vaergemaal.status og Kontaktadresse.status bliver fjernet.
+	Det bliver muligt at lave listesøgning på attributten PNR med op til 100 personnumre. Attributten PNRIN bliver udfaset i ændringen.
+	Det bliver muligt at søge på adresse i status ”teknisk_aendring” og ”fortrudt”.
+
+
+
+Derudover bliver der foretaget ændringer som berører begge GraphQL-tjenester:
+
+	Det bliver muligt at benytte attributten ”totalCount”.
+	Søgning bliver gjort case-insensitive.
+
+
+
+Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet for version 3 af GraphQL-tjenesterne.
+
+Ændringer er lagt på Test06 den 26. marts 2026.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72199&#xD;
+Tidsangivelse: 21. maj 2026&#xD;
 </content>
   </entry>
   <entry>
