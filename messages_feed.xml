@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-23T07:30:36Z</updated>
+  <updated>2026-04-27T10:44:26Z</updated>
   <entry>
     <id>72009</id>
     <title
@@ -80,13 +80,13 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
   <entry>
     <id>72007</id>
     <title
-      type="text">Datafordeler.dk flytter og kan være utilgængelig i perioder</title>
-    <updated>2026-04-22T09:35:48Z</updated>
+      type="text">Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april</title>
+    <updated>2026-04-27T10:44:26Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72007" />
     <content
-      type="text">Besked: Datafordeler.dk flytter og kan være utilgængelig i perioder
+      type="text">Besked: Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april
 
 Torsdag den 30. april 2026 fra klokken 08:00 til 24:00 er der servicevindue på datafordeler.dk. Anvenderne kan opleve, at datafordeler.dk i perioder ikke er tilgængelig inden for tidsrummet. Det er kun datafordeler.dk, der flytter til en anden server. Selve Datafordeleren er ikke berørt af servicevinduet og vil være tilgængelig som normalt.&#xD;
 Register: Alle&#xD;
@@ -162,30 +162,6 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 71464&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72013</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 22. april fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-04-22T10:35:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72013" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 22. april fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 22. april fra klokken 17:00 til klokken 02:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 72013&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
