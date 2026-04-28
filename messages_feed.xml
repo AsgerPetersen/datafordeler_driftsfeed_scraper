@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-27T11:32:09Z</updated>
+  <updated>2026-04-28T05:11:09Z</updated>
   <entry>
     <id>72009</id>
     <title
@@ -126,7 +126,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>72012</id>
     <title
       type="text">PROD servicevindue mandag den 27. april fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-04-22T10:36:32Z</updated>
+    <updated>2026-04-28T05:11:09Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72012" />
@@ -138,7 +138,7 @@ Der er planlagt servicevindue på PROD mandag den 27. april 2026 klokken 17:30 t
 Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 72012&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
