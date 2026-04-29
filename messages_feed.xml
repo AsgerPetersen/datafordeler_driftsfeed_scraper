@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-28T09:03:26Z</updated>
+  <updated>2026-04-29T08:00:39Z</updated>
   <entry>
     <id>72225</id>
     <title
       type="text">Test06: Nedlukning af filudtræk dags dato</title>
-    <updated>2026-04-28T09:03:26Z</updated>
+    <updated>2026-04-29T07:31:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72225" />
@@ -27,7 +27,7 @@ Som anvender skal du derfor benytte Fildownload i stedet.
  &#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 72225&#xD;
 </content>
   </entry>
@@ -147,28 +147,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>72012</id>
-    <title
-      type="text">PROD servicevindue mandag den 27. april fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-04-28T05:11:09Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72012" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 27. april fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD mandag den 27. april 2026 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72012&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>72135</id>
     <title
       type="text">PROD servicevindue torsdag den 21. maj fra klokken 17:00 til klokken 21:00</title>
@@ -198,7 +176,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>71464</id>
     <title
       type="text">Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-04-10T11:24:13Z</updated>
+    <updated>2026-04-29T08:00:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71464" />
@@ -210,7 +188,7 @@ Der er planlagt servicevindue på Test04 onsdag den 29. april 2026 klokken 10:00
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 71464&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
