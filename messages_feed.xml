@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-29T08:00:39Z</updated>
+  <updated>2026-04-30T05:13:04Z</updated>
   <entry>
     <id>72225</id>
     <title
@@ -124,7 +124,7 @@ Periode slut: 4/29/2026 10:00:00 AM&#xD;
     <id>71764</id>
     <title
       type="text">PROD servicevindue onsdag den 29. april fra klokken 17:00 til klokken 19:00</title>
-    <updated>2026-04-16T05:20:41Z</updated>
+    <updated>2026-04-30T05:12:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71764" />
@@ -140,7 +140,7 @@ I løbet af den 29. april 2026 bliver de nævnte filudtræk deaktiveret. Har du 
 
 Se mere om Fildownload på Datafordeleren&#xD;
 Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 71764&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -176,7 +176,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>71464</id>
     <title
       type="text">Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-04-29T08:00:39Z</updated>
+    <updated>2026-04-30T05:13:04Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71464" />
@@ -188,7 +188,7 @@ Der er planlagt servicevindue på Test04 onsdag den 29. april 2026 klokken 10:00
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 71464&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
