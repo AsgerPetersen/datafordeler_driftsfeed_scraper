@@ -6,7 +6,35 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-30T09:38:12Z</updated>
+  <updated>2026-04-30T11:56:47Z</updated>
+  <entry>
+    <id>72350</id>
+    <title
+      type="text">CPR påbegynder nær realtidsopdatering på Datafordeleren den 19. maj 2026.</title>
+    <updated>2026-04-30T11:56:47Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/72350" />
+    <content
+      type="text">Besked: CPR påbegynder nær realtidsopdatering på Datafordeleren den 19. maj 2026.
+
+Nær realtidsopdateringer bliver anvendt på CPR GraphQL-tjenester og Fildownload. REST tjenester vil ikke modtage ikke opdateringer i nær realtid.
+
+Anvendere skal ikke foretage ændringer i den tekniske integration til Datafordeleren som følge af nær realtidsopdatering.
+
+Bemærk at nær realtidsopdatering er anvendt på Test06 fra den 23. april 2026.
+
+Læs mere om CPR nær realtidsopdatering i CPR’s egen dokumentation: https://cprservicedesk.atlassian.net/wiki/spaces/CPR/pages/3936256001/N+r+realtidsopdatering 
+
+Se også CPR GraphQL: https://confluence.sdfi.dk/x/WgCPDQ
+
+CPR Fildownload til offentlige myndigheder på Datafordeleren: https://confluence.sdfi.dk/x/D4BGDg&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 72350&#xD;
+</content>
+  </entry>
   <entry>
     <id>72225</id>
     <title
