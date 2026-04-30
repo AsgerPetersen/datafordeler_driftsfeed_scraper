@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-30T05:13:04Z</updated>
+  <updated>2026-04-30T09:38:12Z</updated>
   <entry>
     <id>72225</id>
     <title
@@ -59,14 +59,14 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>72010</id>
     <title
       type="text">Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026</title>
-    <updated>2026-04-23T07:30:36Z</updated>
+    <updated>2026-04-30T07:08:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72010" />
     <content
       type="text">Besked: Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026
 
-Torsdag den 21. maj 2026 bliver tidligere versioner af de entitetsbaserede GraphQL-tjenester lukket, med enkelte undtagelser, eksempelvis bliver fleksibel opslagslogik forsat udstillet i version 1.
+Torsdag den 21. maj 2026 bliver tidligere versioner af de entitetsbaserede GraphQL-tjenester lukket, med enkelte undtagelser, eksempelvis bliver fleksibel opslagslogik fortsat udstillet i version 1.
 
 Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
 
@@ -105,16 +105,18 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>72007</id>
     <title
       type="text">Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april</title>
-    <updated>2026-04-27T10:44:26Z</updated>
+    <updated>2026-04-30T09:38:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72007" />
     <content
       type="text">Besked: Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april
 
+30.04.2026 klokken 11:30: Datafordeler.dk er flyttet til ny webserver, og servicevinduet er afsluttet.
+
 Torsdag den 30. april 2026 fra klokken 08:00 til 24:00 er der servicevindue på datafordeler.dk. Anvenderne kan opleve, at datafordeler.dk i perioder ikke er tilgængelig inden for tidsrummet. Det er kun datafordeler.dk, der flytter til en anden server. Selve Datafordeleren er ikke berørt af servicevinduet og vil være tilgængelig som normalt.&#xD;
 Register: Alle&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 72007&#xD;
 Periode start: 4/29/2026 6:00:00 AM&#xD;
 Periode slut: 4/29/2026 10:00:00 AM&#xD;
