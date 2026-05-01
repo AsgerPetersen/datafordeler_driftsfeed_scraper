@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-04-30T11:56:47Z</updated>
+  <updated>2026-05-01T07:08:20Z</updated>
   <entry>
     <id>72350</id>
     <title
       type="text">CPR påbegynder nær realtidsopdatering på Datafordeleren den 19. maj 2026.</title>
-    <updated>2026-04-30T11:56:47Z</updated>
+    <updated>2026-05-01T07:08:20Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72350" />
@@ -24,39 +24,15 @@ Anvendere skal ikke foretage ændringer i den tekniske integration til Dataforde
 
 Bemærk at nær realtidsopdatering er anvendt på Test06 fra den 23. april 2026.
 
-Læs mere om CPR nær realtidsopdatering i CPR’s egen dokumentation: https://cprservicedesk.atlassian.net/wiki/spaces/CPR/pages/3936256001/N+r+realtidsopdatering 
+Læs mere om CPR nær realtidsopdatering i CPR’s egen dokumentation 
 
-Se også CPR GraphQL: https://confluence.sdfi.dk/x/WgCPDQ
+Se også CPR GraphQL
 
-CPR Fildownload til offentlige myndigheder på Datafordeleren: https://confluence.sdfi.dk/x/D4BGDg&#xD;
+CPR Fildownload til offentlige myndigheder på Datafordeleren&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
 Sagsreference: 72350&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72225</id>
-    <title
-      type="text">Test06: Nedlukning af filudtræk dags dato</title>
-    <updated>2026-04-29T07:31:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72225" />
-    <content
-      type="text">Besked: Test06: Nedlukning af filudtræk (FTP) dags dato, den 28. april 2026.
-
-Alle filudtræk (FTP) lukker på Test06 i dag, den 28. april 2026, og du vil ikke længere kunne modtage og hente filudtræk (FTP) på Test06.
-
-Som anvender skal du derfor benytte Fildownload i stedet.
-
- 
-
- &#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Løst&#xD;
-Sagsreference: 72225&#xD;
 </content>
   </entry>
   <entry>
@@ -172,6 +148,28 @@ Se mere om Fildownload på Datafordeleren&#xD;
 Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 71764&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>72364</id>
+    <title
+      type="text">Test04: Nedlukning af filudtræk (FTP), mandag den 4. maj 2026.</title>
+    <updated>2026-05-01T06:59:38Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/72364" />
+    <content
+      type="text">Besked: Test04: Nedlukning af filudtræk (FTP), mandag den 4. maj 2026.
+
+Alle filudtræk (FTP) lukker på Test04, den 4. maj 2026, og du vil ikke længere kunne modtage og hente filudtræk (FTP) på Test04.
+
+Som anvender skal du derfor benytte Fildownload i stedet.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 72364&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
