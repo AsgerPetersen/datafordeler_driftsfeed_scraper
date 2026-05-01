@@ -6,19 +6,19 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-01T07:08:20Z</updated>
+  <updated>2026-05-01T09:12:59Z</updated>
   <entry>
     <id>72350</id>
     <title
       type="text">CPR påbegynder nær realtidsopdatering på Datafordeleren den 19. maj 2026.</title>
-    <updated>2026-05-01T07:08:20Z</updated>
+    <updated>2026-05-01T09:12:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72350" />
     <content
       type="text">Besked: CPR påbegynder nær realtidsopdatering på Datafordeleren den 19. maj 2026.
 
-Nær realtidsopdateringer bliver anvendt på CPR GraphQL-tjenester og Fildownload. REST tjenester vil ikke modtage ikke opdateringer i nær realtid.
+Nær realtidsopdateringer bliver anvendt på CPR GraphQL-tjenester og Fildownload. REST tjenester vil ikke modtage opdateringer i nær realtid.
 
 Anvendere skal ikke foretage ændringer i den tekniske integration til Datafordeleren som følge af nær realtidsopdatering.
 
