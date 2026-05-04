@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-01T09:12:59Z</updated>
+  <updated>2026-05-04T10:33:42Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -106,57 +106,10 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>72007</id>
-    <title
-      type="text">Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april</title>
-    <updated>2026-04-30T09:38:12Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72007" />
-    <content
-      type="text">Besked: Datafordeler.dk flytter og kan være utilgængelig i perioder torsdag den 30. april
-
-30.04.2026 klokken 11:30: Datafordeler.dk er flyttet til ny webserver, og servicevinduet er afsluttet.
-
-Torsdag den 30. april 2026 fra klokken 08:00 til 24:00 er der servicevindue på datafordeler.dk. Anvenderne kan opleve, at datafordeler.dk i perioder ikke er tilgængelig inden for tidsrummet. Det er kun datafordeler.dk, der flytter til en anden server. Selve Datafordeleren er ikke berørt af servicevinduet og vil være tilgængelig som normalt.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72007&#xD;
-Periode start: 4/29/2026 6:00:00 AM&#xD;
-Periode slut: 4/29/2026 10:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>71764</id>
-    <title
-      type="text">PROD servicevindue onsdag den 29. april fra klokken 17:00 til klokken 19:00</title>
-    <updated>2026-04-30T05:12:57Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/71764" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 29. april fra klokken 17:00 til klokken 19:00
-
-Der er planlagt servicevindue på PROD onsdag den 29. april 2026 klokken 17:00 til klokken 19:00.
-
-Der kan i tidsrummet være nedetid på Fildownload (HTTPS), og påvirkning på Filudtræk (FTP).
-Efter servicevinduet er Filudtræk (FTP) med rasterdata og punktsky fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk udfaset og ikke længere tilgængelig på Datafordeleren. VI henviser i stedet til Fildownload.
-
-I løbet af den 29. april 2026 bliver de nævnte filudtræk deaktiveret. Har du et abonnement på et filudtræk med rasterdata eller punktsky vil du modtage en mail om at dit abonnement er midlertidigt deaktiveret, selvom det permanent er deaktiveret. Herefter kan du ikke længere se abonnementet på din brugerside på Datafordeler.dk eller Selvbetjeningsportalen. 
-
-Se mere om Fildownload på Datafordeleren&#xD;
-Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 71764&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>72364</id>
     <title
       type="text">Test04: Nedlukning af filudtræk (FTP), mandag den 4. maj 2026.</title>
-    <updated>2026-05-01T06:59:38Z</updated>
+    <updated>2026-05-04T10:33:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72364" />
@@ -168,7 +121,7 @@ Alle filudtræk (FTP) lukker på Test04, den 4. maj 2026, og du vil ikke længer
 Som anvender skal du derfor benytte Fildownload i stedet.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 72364&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -196,28 +149,6 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 72135&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>71464</id>
-    <title
-      type="text">Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00</title>
-    <updated>2026-04-30T05:13:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/71464" />
-    <content
-      type="text">Besked: Test04 servicevindue onsdag den 29. april fra klokken 10:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test04 onsdag den 29. april 2026 klokken 10:00 til klokken 17:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på testmiljøets Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 71464&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
