@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-04T10:33:42Z</updated>
+  <updated>2026-05-05T23:15:59Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -87,7 +87,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>71466</id>
     <title
       type="text">PROD servicevindue tirsdag den 5. maj fra klokken 17:00 til klokken 23:00</title>
-    <updated>2026-04-10T11:24:38Z</updated>
+    <updated>2026-05-05T23:15:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/71466" />
@@ -99,7 +99,7 @@ Der er planlagt servicevindue på PROD tirsdag den 5. maj 2026 klokken 17:00 til
 Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), Filudtræk (FTP), hændelser, dataopdatering og på Selvbetjeningsportal, Administrationsportal og Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 71466&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
