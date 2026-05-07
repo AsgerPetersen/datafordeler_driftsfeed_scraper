@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-07T05:16:15Z</updated>
+  <updated>2026-05-01T09:12:59Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -81,28 +81,6 @@ Status: Planlagt&#xD;
 Sagsreference: 72010&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72364</id>
-    <title
-      type="text">Test04: Nedlukning af filudtræk (FTP), mandag den 4. maj 2026.</title>
-    <updated>2026-05-07T05:16:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72364" />
-    <content
-      type="text">Besked: Test04: Nedlukning af filudtræk (FTP), mandag den 4. maj 2026.
-
-Alle filudtræk (FTP) lukker på Test04, den 4. maj 2026, og du vil ikke længere kunne modtage og hente filudtræk (FTP) på Test04.
-
-Som anvender skal du derfor benytte Fildownload i stedet.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72364&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
