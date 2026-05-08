@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-04-27T13:07:26Z</updated>
+  <updated>2026-05-08T13:08:40Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -296,7 +296,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>70908</id>
     <title
       type="text">Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026</title>
-    <updated>2026-03-24T07:21:30Z</updated>
+    <updated>2026-05-08T13:08:40Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/70908" />
@@ -314,7 +314,7 @@ Se transitionsguide fra Filudtræk til rasterbaserede Fildownload 
 Se tilgængelige datasæt med rasterdata &#xD;
 Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
 Service: Filudtræk (FTP)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 70908&#xD;
 Tidsangivelse: 29. april 2026&#xD;
 </content>
