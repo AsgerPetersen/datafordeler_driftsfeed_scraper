@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-05-08T13:08:40Z</updated>
+  <updated>2026-05-11T08:34:05Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -74,24 +74,26 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>71761</id>
     <title
       type="text">Datafordeleren lukker testmiljøet Test03 ultimo juni 2026</title>
-    <updated>2026-04-15T11:38:37Z</updated>
+    <updated>2026-05-11T08:34:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/71761" />
     <content
-      type="text">Besked: Datafordeleren lukker testmiljøet Test03 ultimo juni 2026
+      type="text">Besked: Datafordeleren lukker testmiljøet Test03 1. september 2026
 
-Testmiljøet Test03 lukker ultimo juni 2026, så der fremadrettet kun er to testmiljøer på Datafordeleren; Test04 og Test06. Endelig dato for lukningen af Test03 bliver meldt ud, når den er fastlagt.
+11.05.2026: Opdateret med fastsat dato.
+
+Testmiljøet Test03 lukker 1. september 2026, så der fremadrettet kun er to testmiljøer på Datafordeleren; Test04 og Test06. 
 
 Testmiljøet lukker, fordi der er et ændret behov for testmiljøer efter moderniseringen af Datafordeleren.
 
-Vi anbefaler, at anvendere, der benytter Test03 til test af integration til egne systemer, flytter testaktiviteter over til Test06 hurtigst muligt, og senest den 15. juni 2026.
+Vi anbefaler, at anvendere, der benytter Test03 til test af integration til egne systemer, flytter testaktiviteter over til Test06 hurtigst muligt, og senest den 15. august 2026.
 
 Læs mere om Datafordelerens testmiljøer&#xD;
 Register: Alle&#xD;
-Status: Forventet&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 71761&#xD;
-Tidsangivelse: Ultimo juni 2026&#xD;
+Tidsangivelse: 1. september 2026&#xD;
 </content>
   </entry>
   <entry>
