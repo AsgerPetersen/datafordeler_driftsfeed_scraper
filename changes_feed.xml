@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-05-11T08:34:05Z</updated>
+  <updated>2026-05-18T07:23:28Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -73,8 +73,8 @@ Tidsangivelse: 21. maj 2026&#xD;
   <entry>
     <id>71761</id>
     <title
-      type="text">Datafordeleren lukker testmiljøet Test03 ultimo juni 2026</title>
-    <updated>2026-05-11T08:34:05Z</updated>
+      type="text">Datafordeleren lukker testmiljøet Test03 1. september 2026</title>
+    <updated>2026-05-18T07:23:28Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/71761" />
@@ -146,50 +146,6 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Forventet&#xD;
 Sagsreference: 69338&#xD;
 Tidsangivelse: Q2 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>71493</id>
-    <title
-      type="text">DAR's datamodel er opdateret til version 2.0.3</title>
-    <updated>2026-04-10T12:08:31Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/71493" />
-    <content
-      type="text">Besked: DAR's datamodel er opdateret til version 2.0.3
-
-Den 17. marts 2026 blev DAR's datamodel opdateret. Der er hverken tilført eller fjernet modelelementer, som påvirker dataudstillingen på Datafordeleren.
-
-Formålet med opdateringen var at bringe DARs logiske datamodel i overensstemmelse med udstillingen i Datafordelerens moderniserede tjenester.
-
-Der er tilført følgende relationer:
-
-	AdresseHarDørpunkt
-	AdresseHarEnhed
-	HusnummerHarAdgangspunkt
-	husnummerHarAdresser
-	HusnummerHarVejpunkt
-	navngivenVejBestårAfNavngivenVejPostnummer
-	navngivenVejBestårAfNavngivenVejSupplerendeBynavn
-	NavngivenVejKommunedelBerørerKommuneinddeling
-	navngivenVejKommunedelHarNavngivenVej
-	NavngivenVejPostnummerBerørerGeografiskPostnummer
-	NavngivenVejSupplerendeBynavnBerørerSupplerendeBynavn
-	PostnummerharPostnummerinddeling
-	SupplerendeBynavnHarSupplerendeBynavn
-
-
-
-Med patch-opdateringen af DAR til 2.0.3 er der nu overensstemmelse mellem den logiske datamodel og relationerne implementeret på Datafordeleren. Se datamodellen på https://datafordeler.dk/vejledning/grunddata/datamodel/
-
-Ud over tilføjelse af relationer er klasserne NavngivenVejPostnummer og NavngivenVejSupplendeBynavn implementeret som krydsreferencetabel mellem henholdsvis NavngivenVej og Postnummer og NavngivenVej og SupplendeBynavn.
-
-Endelig er DARs kodelister blevet flyttet ind i Klimadatastyrelsens Kodelisteregister. Henvisninger er ændret til https://sdfidk.github.io/kodelisteregister/dar/ i stedet for danmarksadresser.dk.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 71493&#xD;
-Tidsangivelse: 17. marts 2026&#xD;
 </content>
   </entry>
   <entry>
