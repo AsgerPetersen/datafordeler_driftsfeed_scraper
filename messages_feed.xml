@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-19T09:09:03Z</updated>
+  <updated>2026-05-22T05:30:05Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -135,7 +135,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>72135</id>
     <title
       type="text">PROD servicevindue torsdag den 21. maj fra klokken 17:00 til klokken 21:00</title>
-    <updated>2026-04-27T11:32:09Z</updated>
+    <updated>2026-05-22T05:30:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72135" />
@@ -151,7 +151,7 @@ Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. 
  &#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 72135&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
