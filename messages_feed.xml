@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-22T06:45:12Z</updated>
+  <updated>2026-05-22T12:24:50Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -41,7 +41,7 @@ Sagsreference: 72350&#xD;
     <id>72009</id>
     <title
       type="text">Version 1 og 2 af Fildownload lukker den 21. maj 2026</title>
-    <updated>2026-04-22T10:17:35Z</updated>
+    <updated>2026-05-22T12:24:50Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72009" />
@@ -55,7 +55,7 @@ Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versi
 Se vejledning til, hvordan du opgraderer versioner af Fildownload, og hvilke versioner der er i drift.&#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 72009&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
@@ -65,7 +65,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>72010</id>
     <title
       type="text">Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026</title>
-    <updated>2026-04-30T07:08:50Z</updated>
+    <updated>2026-05-22T12:24:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/72010" />
@@ -79,7 +79,7 @@ Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versi
 Se vejledning til, hvordan du opgraderer versioner af GraphQL, og hvilke versioner der er i drift.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 72010&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
