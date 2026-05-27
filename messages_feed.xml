@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-22T12:24:50Z</updated>
+  <updated>2026-05-27T09:52:41Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -155,6 +155,24 @@ Status: Gennemført&#xD;
 Sagsreference: 72135&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>73853</id>
+    <title
+      type="text">Fejl med vurmark = 37 i Ejendomsvurdering (VUR) </title>
+    <updated>2026-05-27T09:52:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/73853" />
+    <content
+      type="text">Besked: Fejl med Vurmark = 37 i Ejendomsvurdering (VUR) 
+
+Ved en fejl har cirka 3.700 opkrævningsejendomme i VUR pr. 30. april 2026 fået en værdi med Vurmark = 37. Dette er en hidtil ukendt værdi og kan ikke findes i kodelisterne. Der bliver arbejdet på at rette fejlen.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 73853&#xD;
 </content>
   </entry>
 </feed>
