@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-29T09:29:41Z</updated>
+  <updated>2026-05-29T12:19:58Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -108,30 +108,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>73169</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 27. maj fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-05-28T06:40:45Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/73169" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 27. maj fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 22. maj 2026 fra klokken 17:00 til klokken 02:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 73169&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>73170</id>
     <title
       type="text">PROD servicevindue mandag den 1. juni fra klokken 17:30 til klokken 19:30</title>
@@ -149,6 +125,50 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 73170&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74002</id>
+    <title
+      type="text">Test04 servicevindue onsdag den 3. juni fra klokken 9:00 til klokken 17:00</title>
+    <updated>2026-05-29T12:19:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74002" />
+    <content
+      type="text">Besked: Test04 servicevindue onsdag den 3. juni fra klokken 9:00 til klokken 17:00
+
+Der er planlagt servicevindue på Test04 onsdag den 3. juni 2026 fra klokken 9:00 til klokken 17:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74002&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74001</id>
+    <title
+      type="text">Test06 servicevindue tirsdag den 2. juni fra klokken 10:00 til klokken 16:00</title>
+    <updated>2026-05-29T12:19:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74001" />
+    <content
+      type="text">Besked: Test06 servicevindue tirsdag den 2. juni fra klokken 10:00 til klokken 16:00
+
+Der er planlagt servicevindue på Test06 tirsdag den 2. juni fra klokken 10:00 til klokken 16:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74001&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
