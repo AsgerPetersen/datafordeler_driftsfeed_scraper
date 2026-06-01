@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-05-29T12:19:58Z</updated>
+  <updated>2026-06-01T11:15:32Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -38,51 +38,23 @@ Sagsreference: 72350&#xD;
 </content>
   </entry>
   <entry>
-    <id>72009</id>
+    <id>74122</id>
     <title
-      type="text">Version 1 og 2 af Fildownload lukker den 21. maj 2026</title>
-    <updated>2026-05-22T12:24:50Z</updated>
+      type="text">Servicevindue onsdag den 3. juni på Datafordelerens dokumentation</title>
+    <updated>2026-06-01T11:15:32Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72009" />
+      href="https://datafordeler.dk/drift/meddelelser/74122" />
     <content
-      type="text">Besked: Version 1 og 2 af Fildownload lukker den 21. maj 2026
+      type="text">Besked: Servicevindue onsdag den 3. juni på Datafordelerens dokumentation
 
-Torsdag den 21. maj 2026 bliver tidligere versioner af Fildownload lukket.
-
-Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester og filer. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
-
-Se vejledning til, hvordan du opgraderer versioner af Fildownload, og hvilke versioner der er i drift.&#xD;
+Onsdag den 3. juni i tidsrummet 13:00 til 15:00 kan man opleve, at Datafordelerens dokumentation ikke er tilgængelig i korte perioder.&#xD;
 Register: Alle&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72009&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72010</id>
-    <title
-      type="text">Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026</title>
-    <updated>2026-05-22T12:24:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/72010" />
-    <content
-      type="text">Besked: Version 1 af de entitetsbaserede GraphQL-tjenester lukker den 21. maj 2026
-
-Torsdag den 21. maj 2026 bliver tidligere versioner af de entitetsbaserede GraphQL-tjenester lukket, med enkelte undtagelser, eksempelvis bliver fleksibel opslagslogik fortsat udstillet i version 1.
-
-Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
-
-Se vejledning til, hvordan du opgraderer versioner af GraphQL, og hvilke versioner der er i drift.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72010&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74122&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -103,6 +75,30 @@ Register: Alle&#xD;
 Service: Selvbetjening&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 73971&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74113</id>
+    <title
+      type="text">PROD servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 22:00</title>
+    <updated>2026-06-01T09:45:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74113" />
+    <content
+      type="text">Besked: PROD servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 22:00
+
+Der er planlagt servicevindue på PROD onsdag den 24. juni 2026 klokken 17:00 til klokken 22:00.
+
+Anvendere kan i tidsrummet opleve nedetid på webservices, GraphQL-tjenester, Fildownload (HTTPS) og Filudtræk (FTP), samt på Datafordeler Administration.
+
+Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74113&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
