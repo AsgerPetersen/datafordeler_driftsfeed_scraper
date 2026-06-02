@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-05-22T12:26:22Z</updated>
+  <updated>2026-06-02T10:13:10Z</updated>
   <entry>
     <id>72193</id>
     <title
       type="text">Ny version af fleksibel opslagslogik 21. maj 2026</title>
-    <updated>2026-05-22T12:22:05Z</updated>
+    <updated>2026-06-02T06:58:45Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/72193" />
@@ -32,7 +32,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>72195</id>
     <title
       type="text">Ny version af BBR GraphQL 21. maj 2026</title>
-    <updated>2026-05-22T12:26:18Z</updated>
+    <updated>2026-06-02T06:58:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/72195" />
@@ -53,7 +53,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>72196</id>
     <title
       type="text">DAR fildownload i ny version uden z-koordinat 21. maj 2026</title>
-    <updated>2026-05-22T12:26:14Z</updated>
+    <updated>2026-06-02T06:59:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/72196" />
@@ -149,10 +149,85 @@ Tidsangivelse: Q2 2026&#xD;
 </content>
   </entry>
   <entry>
+    <id>74135</id>
+    <title
+      type="text">Revisionslog for deaktiverede IT-systemer i Datafordeler Administration</title>
+    <updated>2026-06-02T07:00:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/74135" />
+    <content
+      type="text">Besked: Revisionslog for deaktiverede IT-systemer i Datafordeler Administration
+
+Efter 24. juni 2026 bliver det muligt at se revisionslog for deaktiverede IT-systemer i Datafordeler Administration. 
+
+Du kan blandt andet se, hvornår et IT-system er blevet deaktiveret, hvilken bruger der har deaktiveret IT-systemet og hvornår IT-systemet er planlagt til endelig sletning i Datafordeler Administration. Bemærk det ikke er muligt at genaktivere it-systemer.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74135&#xD;
+Tidsangivelse: 24. juni 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74140</id>
+    <title
+      type="text">Ejerskifte får den 24. juni 2026 igen tilføjet feltet "Feltliste" </title>
+    <updated>2026-06-02T07:34:28Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/74140" />
+    <content
+      type="text">Besked: Ejerskifte får den 24. juni 2026 igen tilføjet feltet "Feltliste" 
+
+Efter 24. juni 2026 har Ejerfortegnelsens entitet Ejerskifte igen tilføjet feltet “Feltliste”. Feltet vil være tilgængeligt i GraphQL, Fildownload og Fleksibel opslagslogik.
+
+Der kommer ikke en ny version af Ejerfortegnelsens tjenester som følge af ændringen. Du skal derfor som anvender være opmærksom på, at feltet bliver vist i svar fra Ejerfortegnelsen, hvis du har adgang til deres entitet Ejerskifte. Hvis du bruger CSV fra Fildownload og indlæser data ved at mappe felter efter kolonneposition (index) i stedet for kolonnenavn, vil indlæsningen blive påvirket, fordi kolonnerne får en ny rækkefølge.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74140&#xD;
+Tidsangivelse: 24. juni 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74137</id>
+    <title
+      type="text">Ændringer på CPR GraphQL 24. juni 2026</title>
+    <updated>2026-06-02T10:13:10Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/74137" />
+    <content
+      type="text">Besked: Ændringer på CPR GraphQL 24. juni 2026
+
+Onsdag den 24. juni 2026 er der planlagt følgende ændringer for CPR’s GraphQL-tjenester:
+
+Ændringer til offentlige anvendere i GraphQL-tjenesten CustomPublicSectorPerson:
+
+	Ændring af datoen, der vises i attributten ”virkningfra” i entiteten ”foraeldremyndighedOver” og i attributterne ”virkningfra” og ”virkningfrausikkerhedsmarkering” i entiteten ”foraeldremyndighedsoplysninger”.
+
+
+
+Ændring til private anvendere i GraphQL-tjenesten CustomPrivateSectorPerson:
+
+	Ændring til visning af datoen for adressen for personer som er død under udrejse, så det er udrejsedato og ikke er den historiske adresse dato, der bliver vist.
+
+
+
+Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet i version 4 af GraphQL-tjenesterne.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74137&#xD;
+Tidsangivelse: 24. juni 2026&#xD;
+</content>
+  </entry>
+  <entry>
     <id>72199</id>
     <title
       type="text">Kommende ændringer på CPR GraphQL 21. maj 2026</title>
-    <updated>2026-05-22T12:26:10Z</updated>
+    <updated>2026-06-02T06:59:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/72199" />
@@ -202,7 +277,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>68402</id>
     <title
       type="text">Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren</title>
-    <updated>2026-05-22T12:24:34Z</updated>
+    <updated>2026-06-02T06:59:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/68402" />
@@ -231,7 +306,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>72194</id>
     <title
       type="text">Notifikationer for udløb af autentifikationsmetoder, IT-systemer og brugerkonti og visning af begrundelse for afvisning af dataadgang i Datafordeler Administration</title>
-    <updated>2026-05-22T12:26:22Z</updated>
+    <updated>2026-06-02T06:59:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/72194" />
@@ -254,7 +329,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>70908</id>
     <title
       type="text">Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026</title>
-    <updated>2026-05-08T13:08:40Z</updated>
+    <updated>2026-06-02T06:59:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/70908" />
