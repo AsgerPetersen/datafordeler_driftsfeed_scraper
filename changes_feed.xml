@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-02T10:13:10Z</updated>
+  <updated>2026-06-02T12:09:33Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -323,6 +323,27 @@ Service: Selvbetjening&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 72194&#xD;
 Tidsangivelse: 21. maj 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74189</id>
+    <title
+      type="text">Ændring i geometritype for fildownload i GeoPackage-format</title>
+    <updated>2026-06-02T12:09:33Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/74189" />
+    <content
+      type="text">Besked: Ændring i geometritype for fildownload i GeoPackage-format
+
+Efter 24. juni 2026 bliver den korrekte geometritype, for eksempel Multipolygon, Polygon eller Point, skrevet til ”gpkg_geometry_columns”-tabellen i stedet for den generiske værdi ”GEOMETRY”.
+
+Dette betyder at Fikspunkter, DHM Højdekurver, DHM Oprindelse, Danske Stednavne, GeoDanmark Vektor og Matriklen får fildownload i version 4.&#xD;
+Register: Danmarks Fikspunktsregister, Danmarks Højdemodel, Danske Stednavne, GeoDanmark Vektor, Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74189&#xD;
+Tidsangivelse: 24. juni 2026&#xD;
 </content>
   </entry>
   <entry>
