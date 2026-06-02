@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-02T12:22:46Z</updated>
+  <updated>2026-06-02T17:18:41Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -85,7 +85,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>73971</id>
     <title
       type="text">PROD servicevindue tirsdag den 2. juni fra klokken 17:00 til klokken 19:00</title>
-    <updated>2026-05-29T09:29:41Z</updated>
+    <updated>2026-06-02T17:18:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/73971" />
@@ -97,7 +97,7 @@ Der er planlagt servicevindue på PROD tirsdag den 2. juni 2026 klokken 17:00 ti
 Anvendere kan i tidsrummet opleve nedetid på Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 73971&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
