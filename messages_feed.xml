@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-04T04:56:32Z</updated>
+  <updated>2026-06-04T05:35:22Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -62,48 +62,6 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>74122</id>
-    <title
-      type="text">Servicevindue onsdag den 3. juni på Datafordelerens dokumentation</title>
-    <updated>2026-06-01T11:15:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74122" />
-    <content
-      type="text">Besked: Servicevindue onsdag den 3. juni på Datafordelerens dokumentation
-
-Onsdag den 3. juni i tidsrummet 13:00 til 15:00 kan man opleve, at Datafordelerens dokumentation ikke er tilgængelig i korte perioder.&#xD;
-Register: Alle&#xD;
-Service: Dokumentation&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 74122&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>73971</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 2. juni fra klokken 17:00 til klokken 19:00</title>
-    <updated>2026-06-02T17:18:41Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/73971" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 2. juni fra klokken 17:00 til klokken 19:00
-
-Der er planlagt servicevindue på PROD tirsdag den 2. juni 2026 klokken 17:00 til klokken 19:00.
-
-Anvendere kan i tidsrummet opleve nedetid på Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 73971&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>74113</id>
     <title
       type="text">PROD servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 22:00</title>
@@ -153,7 +111,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>74002</id>
     <title
       type="text">Test04 servicevindue onsdag den 3. juni fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-06-03T07:00:34Z</updated>
+    <updated>2026-06-04T05:35:22Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74002" />
@@ -165,30 +123,8 @@ Der er planlagt servicevindue på Test04 onsdag den 3. juni 2026 fra klokken 9:0
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
-Sagsreference: 74002&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74001</id>
-    <title
-      type="text">Test06 servicevindue tirsdag den 2. juni fra klokken 10:00 til klokken 16:00</title>
-    <updated>2026-06-03T05:27:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74001" />
-    <content
-      type="text">Besked: Test06 servicevindue tirsdag den 2. juni fra klokken 10:00 til klokken 16:00
-
-Der er planlagt servicevindue på Test06 tirsdag den 2. juni fra klokken 10:00 til klokken 16:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening&#xD;
 Status: Gennemført&#xD;
-Sagsreference: 74001&#xD;
+Sagsreference: 74002&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
