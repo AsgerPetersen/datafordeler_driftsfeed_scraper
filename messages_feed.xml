@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-03T11:37:38Z</updated>
+  <updated>2026-06-04T04:56:32Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -215,17 +215,19 @@ Sagsreference: 73853&#xD;
     <id>74194</id>
     <title
       type="text">Langsomme svartider for at hente OAuth token</title>
-    <updated>2026-06-02T12:22:46Z</updated>
+    <updated>2026-06-04T04:56:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74194" />
     <content
       type="text">Besked: Langsomme svartider for at hente OAuth token
 
-Anvendere kan opleve langsomme svartider, når de henter et OAuth shared secret eller certificate via Datafordeler Administration. Der bliver arbejdet på at løse problemet.&#xD;
+04.06.2026: Svartider på at hente OAuth token er normaliseret.
+
+02.06.2026: Anvendere kan opleve langsomme svartider, når de henter et OAuth shared secret eller certificate via Datafordeler Administration. Der bliver arbejdet på at løse problemet.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 74194&#xD;
 </content>
   </entry>
