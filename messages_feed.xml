@@ -108,28 +108,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>74002</id>
-    <title
-      type="text">Test04 servicevindue onsdag den 3. juni fra klokken 9:00 til klokken 17:00</title>
-    <updated>2026-06-04T05:35:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74002" />
-    <content
-      type="text">Besked: Test04 servicevindue onsdag den 3. juni fra klokken 9:00 til klokken 17:00
-
-Der er planlagt servicevindue på Test04 onsdag den 3. juni 2026 fra klokken 9:00 til klokken 17:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 74002&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>73853</id>
     <title
       type="text">Fejl med vurmark = 37 i Ejendomsvurdering (VUR) </title>
@@ -165,26 +143,6 @@ Register: Alle&#xD;
 Service: Webservice&#xD;
 Status: Løst&#xD;
 Sagsreference: 74473&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74194</id>
-    <title
-      type="text">Langsomme svartider for at hente OAuth token</title>
-    <updated>2026-06-04T04:56:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74194" />
-    <content
-      type="text">Besked: Langsomme svartider for at hente OAuth token
-
-04.06.2026: Svartider på at hente OAuth token er normaliseret.
-
-02.06.2026: Anvendere kan opleve langsomme svartider, når de henter et OAuth shared secret eller certificate via Datafordeler Administration. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 74194&#xD;
 </content>
   </entry>
 </feed>
