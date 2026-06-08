@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-05T16:11:40Z</updated>
+  <updated>2026-06-08T12:51:00Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -111,14 +111,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>73853</id>
     <title
       type="text">Fejl med vurmark = 37 i Ejendomsvurdering (VUR) </title>
-    <updated>2026-05-27T09:52:41Z</updated>
+    <updated>2026-06-08T12:51:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/73853" />
     <content
       type="text">Besked: Fejl med Vurmark = 37 i Ejendomsvurdering (VUR) 
 
-Ved en fejl har cirka 3.700 opkrævningsejendomme i VUR pr. 30. april 2026 fået en værdi med Vurmark = 37. Dette er en hidtil ukendt værdi og kan ikke findes i kodelisterne. Der bliver arbejdet på at rette fejlen.&#xD;
+08.06.2026: Med udgangen af august 2026 vil ejendomme med Benyttelseskode 98 blive fjernet fra VUR-registeret.
+
+27.05.2026: Ved en fejl har cirka 3.700 opkrævningsejendomme i VUR pr. 30. april 2026 fået en værdi med Vurmark = 37. Dette er en hidtil ukendt værdi og kan ikke findes i kodelisterne. Der bliver arbejdet på at rette fejlen.&#xD;
 Register: Ejendomsvurdering (VUR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
