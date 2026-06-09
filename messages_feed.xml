@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-08T12:51:00Z</updated>
+  <updated>2026-06-09T11:00:59Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -89,7 +89,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>74232</id>
     <title
       type="text">Test06 servicevindue tirsdag den 9. juni fra klokken 10:00 til klokken 13:00</title>
-    <updated>2026-06-03T11:37:38Z</updated>
+    <updated>2026-06-09T11:00:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74232" />
@@ -101,7 +101,7 @@ Der er planlagt servicevindue på tirsdag den 9. juni 2026 klokken 10:00 til klo
 Anvendere kan i tidsrummet opleve nedetid på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74232&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
