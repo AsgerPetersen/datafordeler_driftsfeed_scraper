@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-09T11:00:59Z</updated>
+  <updated>2026-06-02T10:55:17Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -83,68 +83,6 @@ Status: Planlagt&#xD;
 Sagsreference: 74113&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74232</id>
-    <title
-      type="text">Test06 servicevindue tirsdag den 9. juni fra klokken 10:00 til klokken 13:00</title>
-    <updated>2026-06-09T11:00:59Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74232" />
-    <content
-      type="text">Besked: Test06 servicevindue tirsdag den 9. juni fra klokken 10:00 til klokken 13:00
-
-Der er planlagt servicevindue på tirsdag den 9. juni 2026 klokken 10:00 til klokken 13:00.
-
-Anvendere kan i tidsrummet opleve nedetid på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 74232&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>73853</id>
-    <title
-      type="text">Fejl med vurmark = 37 i Ejendomsvurdering (VUR) </title>
-    <updated>2026-06-08T12:51:00Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/73853" />
-    <content
-      type="text">Besked: Fejl med Vurmark = 37 i Ejendomsvurdering (VUR) 
-
-08.06.2026: Med udgangen af august 2026 vil ejendomme med Benyttelseskode 98 blive fjernet fra VUR-registeret.
-
-27.05.2026: Ved en fejl har cirka 3.700 opkrævningsejendomme i VUR pr. 30. april 2026 fået en værdi med Vurmark = 37. Dette er en hidtil ukendt værdi og kan ikke findes i kodelisterne. Der bliver arbejdet på at rette fejlen.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: I gang&#xD;
-Sagsreference: 73853&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74473</id>
-    <title
-      type="text">Incident: Datafordeleren er utilgængelig på de ikke-moderniserede tjenester </title>
-    <updated>2026-06-05T16:11:40Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74473" />
-    <content
-      type="text">Besked: Incident: Datafordeleren er utilgængelig på de ikke-moderniserede tjenester 
-
-05.06.2026: Alle ikke-moderniserede tjenester er igen tilgængelige for anvenderne af Datafordeleren. 
-
-Kald til s5-certservice.datafordeler.dk og certservice.datafordeler.dk er i øjeblikket utilgængelige. Der bliver arbejdet på at løse problemet hurtigst muligt.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 74473&#xD;
 </content>
   </entry>
 </feed>
