@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-02T10:55:17Z</updated>
+  <updated>2026-06-12T14:32:44Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -83,6 +83,23 @@ Status: Planlagt&#xD;
 Sagsreference: 74113&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74749</id>
+    <title
+      type="text">Datafordelerens dokumentation er utilgængelig</title>
+    <updated>2026-06-12T14:32:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74749" />
+    <content
+      type="text">Besked: Datafordelerens dokumentation er utilgængelig
+
+12.06.2026 klokken 16:30: Tilgængeligheden til dokumentationen forventes at være genetableret mandag den 15. juni. Ny status på løsning af problemet mandag formiddag den 15. juni.&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 74749&#xD;
 </content>
   </entry>
 </feed>
