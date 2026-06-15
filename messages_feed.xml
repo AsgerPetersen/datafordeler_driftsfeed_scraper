@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-13T08:37:38Z</updated>
+  <updated>2026-06-15T11:15:46Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -86,22 +86,21 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>74749</id>
+    <id>74822</id>
     <title
-      type="text">Datafordelerens dokumentation er utilgængelig</title>
-    <updated>2026-06-13T08:37:38Z</updated>
+      type="text">DHM Højdekurver Fildownload er utilgængeligt</title>
+    <updated>2026-06-15T11:15:46Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74749" />
+      href="https://datafordeler.dk/drift/meddelelser/74822" />
     <content
-      type="text">Besked: Datafordelerens dokumentation er utilgængelig
+      type="text">Besked: DHM Højdekurver Fildownload er utilgængeligt
 
-13.06.2026 klokken 10:45: Datafordelerens dokumentation er igen tilgængelig. 
-
-12.06.2026 klokken 16:30: Tilgængeligheden til dokumentationen forventes at være genetableret mandag den 15. juni. Ny status på løsning af problemet mandag formiddag den 15. juni.&#xD;
-Service: Dokumentation&#xD;
-Status: Løst&#xD;
-Sagsreference: 74749&#xD;
+DHM Højdekurver Fildownload er utilgængeligt. Det er muligt at hente højdekurver via DHM Højdekurver GraphQL eller DHM Højdekurver WFS. Der bliver arbejdet på at gøre DHM Højdekurver tilgængeligt via Fildownload.&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 74822&#xD;
 </content>
   </entry>
 </feed>
