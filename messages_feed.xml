@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-15T11:15:46Z</updated>
+  <updated>2026-06-16T11:05:32Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -81,6 +81,52 @@ Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 74113&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74844</id>
+    <title
+      type="text">Test03, Test04 og Test06 servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 02:00</title>
+    <updated>2026-06-16T11:05:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74844" />
+    <content
+      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 02:00
+
+Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 24. juni 2026 fra klokken 17:00 til klokken 02:00.
+
+Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+
+Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74844&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>74846</id>
+    <title
+      type="text">PROD servicevindue mandag den 29. juni fra klokken 17:30 til klokken 19:30</title>
+    <updated>2026-06-16T11:05:32Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/74846" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 29. juni fra klokken 17:30 til klokken 19:30
+
+Der er planlagt servicevindue på PROD mandag den 29. juni 2026 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 74846&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
