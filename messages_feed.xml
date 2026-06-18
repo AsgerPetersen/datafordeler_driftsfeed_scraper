@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-16T11:05:32Z</updated>
+  <updated>2026-06-18T09:29:08Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -35,6 +35,57 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: Løst&#xD;
 Sagsreference: 72350&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>75014</id>
+    <title
+      type="text">Paralleldrift på Datafordeleren ophører den 15. januar 2027</title>
+    <updated>2026-06-18T07:33:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/75014" />
+    <content
+      type="text">Besked: Paralleldrift på Datafordeleren ophører den 15. januar 2027
+
+Den moderniserede Datafordeler har siden 4. december 2025 været i fuld drift. Klimadatastyrelsen har fastsat dato for ophør af drift på alle resterende ikke-moderniserede tjenester og funktioner til 15. januar 2027. Tidligere er der 29. april 2026 blevet lukket for Filudtræk med RASTER-data, og den 1. juli 2026 lukker de sammenstillede WFS-tjenester på den forældede Snowflake server.
+
+Adgang til data
+
+Efter 15. januar 2027 kan anvenderne udelukkende hente data med autentifikation som API-key eller OAuth på Datafordeleren. Data er tilgængeligt i entiteter via GraphQL og Fildownload. Anvendere med ønske om at hente beskyttede data skal søge om adgang via Datafordeler Administration, hvor nye anvendere også skal oprette sig for at hente data.
+
+Tjenester lukker
+
+Følgende ikke-moderniserede tjenester og funktioner lukker på Datafordeleren 15. januar 2027: Adgang med Webbruger/Tjenestebruger, Sammenstillede WFS-tjenester på Geoserver, REST-tjenester, WMS/WMTS/WCS på ikke-moderniseret adgang, Hændelser, og Filudtræk.
+
+Netværk for anvendere
+
+Klimadatastyrelsen har taget initiativ til at etablere et operationelt transitionsnetværk for anvendere, der skal overgå til at hente data på den moderniserede Datafordeler. Netværket er etableret for i praksis at lette anvendernes overgang til den moderniserede Datafordeler. Netværket skal sikre et aktivt og nært samarbejde mellem Styrelsen og anvenderne imellem, samt understøtte med dokumentation og anvendernes indbyrdes vidensdeling.
+
+Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket på datafordeler.dk/Transition&#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 75014&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>75028</id>
+    <title
+      type="text">Mandag den 22. juni klokken 15:30 til 15:45 er der en pause i opdatering af data for EBR, EJF, DAGI og MAT</title>
+    <updated>2026-06-18T09:29:08Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/75028" />
+    <content
+      type="text">Besked: Mandag den 22. juni klokken 15:30 til 15:45 er der en pause i opdatering af data for EBR, EJF, DAGI og MAT
+
+Mandag den 22. juni 2026 i tidsrummet klokken 15:30 til 15:45 vil den normale opdatering af registerdata for EBR, EJF, DAGI og MAT være på pause.&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 75028&#xD;
+Forventet fra: 1/1/0001 12:00:00 AM&#xD;
+Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
