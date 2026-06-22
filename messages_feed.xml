@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-19T14:10:58Z</updated>
+  <updated>2026-06-18T09:29:08Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -180,26 +180,6 @@ Status: Planlagt&#xD;
 Sagsreference: 74846&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>75070</id>
-    <title
-      type="text">Ikke muligt at logge på datafordeler.dk med webbruger</title>
-    <updated>2026-06-19T14:10:58Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/75070" />
-    <content
-      type="text">Besked: Ikke muligt at logge på datafordeler.dk med webbruger
-
-19.06.2026 klokken 16:00: Det er igen muligt at logge på datafordeler.dk med webbruger.
-
-19.06.2026 klokken 13:00: Anvendere kan ikke logge på datafordeler.dk med en webruger og får i stedet en fejl 503. Det er stadig muligt at logge direkte på den ikke-moderniserede Selvbetjening for at håndtere opgaver med webbruger og tjenestebrugere. Vi arbejder på at løse problemet.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Løst&#xD;
-Sagsreference: 75070&#xD;
 </content>
   </entry>
   <entry>
