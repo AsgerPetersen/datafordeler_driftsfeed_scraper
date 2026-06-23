@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-10T12:12:34Z</updated>
+  <updated>2026-06-23T12:44:56Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -194,7 +194,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>74137</id>
     <title
       type="text">Ændringer på CPR GraphQL 24. juni 2026</title>
-    <updated>2026-06-02T10:13:10Z</updated>
+    <updated>2026-06-23T12:44:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74137" />
@@ -215,7 +215,11 @@ Onsdag den 24. juni 2026 er der planlagt følgende ændringer for CPR’s GraphQ
 
 
 
-Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet i version 4 af GraphQL-tjenesterne.&#xD;
+Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet i version 4 af GraphQL-tjenesterne.
+
+Ændringen bliver lagt på Test04 den 2. juli 2026.
+
+Ændringen er lagt på Test06 den 2. juni 2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: Planlagt&#xD;
