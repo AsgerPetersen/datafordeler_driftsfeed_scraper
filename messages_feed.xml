@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-22T14:42:04Z</updated>
+  <updated>2026-06-18T07:33:57Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -66,26 +66,6 @@ Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 75014&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>75028</id>
-    <title
-      type="text">Mandag den 22. juni klokken 15:30 til 15:45 er der en pause i opdatering af data for EBR, EJF, DAGI og MAT</title>
-    <updated>2026-06-22T14:42:04Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/75028" />
-    <content
-      type="text">Besked: Mandag den 22. juni klokken 15:30 til 15:45 er der en pause i opdatering af data for EBR, EJF, DAGI og MAT
-
-Mandag den 22. juni 2026 i tidsrummet klokken 15:30 til 15:45 vil den normale opdatering af registerdata for EBR, EJF, DAGI og MAT være på pause.&#xD;
-Register: Danmarks Administrative Geografiske Inddeling (DAGI), Ejendomsbeliggenhedsregisteret (EBR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 75028&#xD;
-Forventet fra: 1/1/0001 12:00:00 AM&#xD;
-Forventet til: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
