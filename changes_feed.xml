@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-23T12:44:56Z</updated>
+  <updated>2026-06-25T08:23:02Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -173,7 +173,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>74140</id>
     <title
       type="text">Ejerskifte får den 24. juni 2026 igen tilføjet feltet "Feltliste" </title>
-    <updated>2026-06-02T07:34:28Z</updated>
+    <updated>2026-06-25T08:23:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74140" />
@@ -185,7 +185,7 @@ Efter 24. juni 2026 har Ejerfortegnelsens entitet Ejerskifte igen tilføjet felt
 Der kommer ikke en ny version af Ejerfortegnelsens tjenester som følge af ændringen. Du skal derfor som anvender være opmærksom på, at feltet bliver vist i svar fra Ejerfortegnelsen, hvis du har adgang til deres entitet Ejerskifte. Hvis du bruger CSV fra Fildownload og indlæser data ved at mappe felter efter kolonneposition (index) i stedet for kolonnenavn, vil indlæsningen blive påvirket, fordi kolonnerne får en ny rækkefølge.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74140&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
 </content>
@@ -194,7 +194,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>74137</id>
     <title
       type="text">Ændringer på CPR GraphQL 24. juni 2026</title>
-    <updated>2026-06-23T12:44:56Z</updated>
+    <updated>2026-06-25T08:20:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74137" />
@@ -222,7 +222,7 @@ Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet i vers
 Ændringen er lagt på Test06 den 2. juni 2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74137&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
 </content>
@@ -333,7 +333,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>74189</id>
     <title
       type="text">Ændring i geometritype for fildownload i GeoPackage-format</title>
-    <updated>2026-06-10T12:12:34Z</updated>
+    <updated>2026-06-25T08:21:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74189" />
@@ -347,7 +347,7 @@ Efter 24. juni 2026 bliver den korrekte geometritype, for eksempel Multipolygon,
 Dette betyder at Fikspunkter, Danske Stednavne, GeoDanmark Vektor og Matriklen får fildownload i version 4.&#xD;
 Register: Danmarks Fikspunktsregister, Danmarks Højdemodel, Danske Stednavne, GeoDanmark Vektor, Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74189&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
 </content>
