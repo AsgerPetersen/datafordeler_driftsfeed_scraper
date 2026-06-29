@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-29T10:21:13Z</updated>
+  <updated>2026-06-29T12:57:26Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -352,6 +352,43 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 74189&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76055</id>
+    <title
+      type="text">Ny DAGI datamodel</title>
+    <updated>2026-06-29T12:57:26Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76055" />
+    <content
+      type="text">Besked: Ny DAGI datamodel
+
+Anvendere af data fra DAGI på Datafordeleren kan fremover hente data i DAGI datamodel 3 via GraphQL, entitetsbaserede Fildownload og entitetsbaseret WFS. Vi opdaterer denne meddelelse, når data er klar i tjenesterne.
+
+Bemærk at DAGI data i REST, WFS og WMS på Webbruger/tjenestebruger fremover ikke bliver opdateret, når der er ændringer i DAGI. Disse tjenester bliver udfaset og lukker den 15. januar 2027.
+
+Bemærk også at DAGIs nye datamodel har 4 entiteter per type. Men der kommer ikke data i generaliserede og skalerede entiteter. Det vil sige, at der er data i for eksempel Kommuneinddeling. Der er ikke data i DAGI_Kommuneinddeling_250000, og DAGI_Kommuneinddeling_500000 og DAGI_Kommuneinddeling_2000000. Der vil altså forekomme tomme entiteter i data.
+
+Bemærk desuden for de enkelte tjenester:
+
+Fildownload 
+Anvend version 4. Tidligere versioner bliver udfaset. Benyt ikke version 3. Bemærk at Fildownload for version 4 blev aktiveret søndag den 24. juni. Det betyder, at første totaldownload version 4 for DAGI fra 28. juni er tomt, og den første  deltafil indeholder, hvad der svarer til en bitemporal-download fil. Vi anbefaler, at en kopi af DAGI tager udgangspunkt i et totaldownload, som er tilgængeligt 5. juli 2026.
+
+WFS
+DAGI har nu entitetsbaseret WFS, der virker i QGIS. DAGI WFS entiteter er pt. tilgængeligt med aktuelle data (_current). Senere forventer vi, at DAGI WFS entiteter også bliver tilgængeligt med komplet historisk sporbarhed (_hist). 
+
+Læs mere om DAGI på Datafordeleren
+
+Læs om DAGI Objektspecifikation 
+
+Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket på datafordeler.dk/Transition&#xD;
+Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76055&#xD;
+Tidsangivelse: &#xD;
 </content>
   </entry>
 </feed>
