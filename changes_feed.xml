@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-29T06:30:17Z</updated>
+  <updated>2026-06-29T10:21:13Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -100,16 +100,18 @@ Tidsangivelse: 1. september 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-06-29T06:30:17Z</updated>
+    <updated>2026-06-29T07:32:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
     <content
       type="text">Besked: Nye sammenstillede fildownload for Ejerfortegnelsen
 
-02.03.2026: De nye entiteter fremgår i Datafordeler Administration fra den 25. februar 2026. Anmodning om dataadgang til de nye entiteter bliver først godkendt, når de sammenstillede fildownload er i drift.
+29.06.2026: Opdateret med dato for release den 27. august 2026. Anmodninger om dataadgang til de nye entiteter bliver behandlet af Ejerfortegnelsen, men du skal som anvender være opmærksom på, at de sammenstillede fildownload ikke indeholder data før efter den 27. august 2026.
 
-23.02.2026: Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren i Q2 2026. Dato bliver meldt ud senere. Release er ændret i forhold til tidligere udmeldt.
+02.03.2026: De nye entiteter fremgår i Datafordeler Administration fra den 25. februar 2026. 
+
+23.02.2026: Ejerfortegnelsen får nye sammenstillede fildownload på Datafordeleren 27. august 2026.
 
 Ejerfortegnelsens sammenstillede fildownload er sammenstillet med CPR-data. For at få adgang til sammenstillede fildownload fra Ejerfortegnelsen, skal du anmode om adgang til de nye custom entiteter via Datafordeler Administration.
 
@@ -145,14 +147,14 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 69338&#xD;
-Tidsangivelse: Q2 2026&#xD;
+Tidsangivelse: 27. august 2026&#xD;
 </content>
   </entry>
   <entry>
     <id>74135</id>
     <title
       type="text">Revisionslog for deaktiverede IT-systemer i Datafordeler Administration</title>
-    <updated>2026-06-02T07:00:24Z</updated>
+    <updated>2026-06-29T10:21:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74135" />
@@ -164,7 +166,7 @@ Efter 24. juni 2026 bliver det muligt at se revisionslog for deaktiverede IT-sys
 Du kan blandt andet se, hvornår et IT-system er blevet deaktiveret, hvilken bruger der har deaktiveret IT-systemet og hvornår IT-systemet er planlagt til endelig sletning i Datafordeler Administration. Bemærk det ikke er muligt at genaktivere it-systemer.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74135&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
 </content>
@@ -173,7 +175,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>74140</id>
     <title
       type="text">Ejerskifte får den 24. juni 2026 igen tilføjet feltet "Feltliste" </title>
-    <updated>2026-06-25T08:23:02Z</updated>
+    <updated>2026-06-29T10:20:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74140" />
@@ -194,7 +196,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>74137</id>
     <title
       type="text">Ændringer på CPR GraphQL 24. juni 2026</title>
-    <updated>2026-06-25T08:20:15Z</updated>
+    <updated>2026-06-29T10:21:06Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74137" />
@@ -333,7 +335,7 @@ Tidsangivelse: 21. maj 2026&#xD;
     <id>74189</id>
     <title
       type="text">Ændring i geometritype for fildownload i GeoPackage-format</title>
-    <updated>2026-06-25T08:21:53Z</updated>
+    <updated>2026-06-29T10:20:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/74189" />
@@ -350,33 +352,6 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 74189&#xD;
 Tidsangivelse: 24. juni 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>70908</id>
-    <title
-      type="text">Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026</title>
-    <updated>2026-06-02T06:59:03Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/70908" />
-    <content
-      type="text">Besked: Filudtræk (FTP) med rasterdata og punktsky lukker 29. april 2026
-
-Med udgangen af april 2026 udstiller Datafordeleren udelukkende rasterbaserede Fildownload (HTTPS) fra GeoDanmark Ortofoto, Danmarks Højdemodel, Skærmkortet og Danmarks Topografiske Kortværk. Som Klimadatastyrelsen tidligere har meldt ud, vil det betyde, at det ikke længere er muligt at hente Filudtræk (FTP) med rasterdata og punktsky fra de ovennævnte registre efter den 29. april 2026.
-
-Se specifikt hvilke Filudtræk (FTP) med rasterdata og punktsky som ikke længere bliver udstillet på Datafordeleren efter 29. april 2026  
-
-Læs mere om rasterbaserede Fildownload (http) 
-
-Se transitionsguide fra Filudtræk til rasterbaserede Fildownload 
-
-Se tilgængelige datasæt med rasterdata &#xD;
-Register: Danmarks Højdemodel, Danmarks Topografiske Kortværk (DTK), GeoDanmark Ortofoto, Skærmkortet&#xD;
-Service: Filudtræk (FTP)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 70908&#xD;
-Tidsangivelse: 29. april 2026&#xD;
 </content>
   </entry>
 </feed>

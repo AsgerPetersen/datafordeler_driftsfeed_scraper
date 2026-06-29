@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-24T19:19:56Z</updated>
+  <updated>2026-06-18T07:33:57Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -90,54 +90,6 @@ Status: Planlagt&#xD;
 Sagsreference: 74173&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74113</id>
-    <title
-      type="text">PROD servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 22:00</title>
-    <updated>2026-06-24T19:17:52Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74113" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 22:00
-
-Der er planlagt servicevindue på PROD onsdag den 24. juni 2026 klokken 17:00 til klokken 22:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices, GraphQL-tjenester, Fildownload (HTTPS) og Filudtræk (FTP), samt på Datafordeler Administration.
-
-Dataopdatering og hændelser vil i hele tidsrummet være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 74113&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74844</id>
-    <title
-      type="text">Test03, Test04 og Test06 servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-06-24T19:19:56Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74844" />
-    <content
-      type="text">Besked: Test03, Test04 og Test06 servicevindue onsdag den 24. juni fra klokken 17:00 til klokken 02:00
-
-Der er planlagt servicevindue på Test03, Test04 og Test06, onsdag den 24. juni 2026 fra klokken 17:00 til klokken 02:00.
-
-Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
-
-Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 74844&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
