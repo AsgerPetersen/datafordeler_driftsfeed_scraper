@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-25T08:23:02Z</updated>
+  <updated>2026-06-29T06:30:17Z</updated>
   <entry>
     <id>72193</id>
     <title
@@ -100,7 +100,7 @@ Tidsangivelse: 1. september 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-03-02T09:33:39Z</updated>
+    <updated>2026-06-29T06:30:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
@@ -143,7 +143,7 @@ Læs mere om hvordan du får adgang til og henter de nye sammenstillede fildownl
 Se også Transitionsguide Sammenstillede fildownload (EJF)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Forventet&#xD;
+Status: Planlagt&#xD;
 Sagsreference: 69338&#xD;
 Tidsangivelse: Q2 2026&#xD;
 </content>
