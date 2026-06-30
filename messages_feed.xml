@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-30T05:01:34Z</updated>
+  <updated>2026-06-30T19:56:57Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -130,6 +130,25 @@ Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 74822&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76112</id>
+    <title
+      type="text">Dokumentation i Confluence er igen tilgængelig</title>
+    <updated>2026-06-30T19:56:57Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76112" />
+    <content
+      type="text">Besked: Dokumentation i Confluence er igen tilgængelig
+
+30.06.2026 klokken 21:30: Datafordelerens dokumentation i Confluence er igen tilgængelig.
+
+30.06.2026 klokken 14:00: Link til Datafordelerens dokumentation i Confluence er ikke aktive, fordi Confluence ikke er tilgængeligt. Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Status: Løst&#xD;
+Sagsreference: 76112&#xD;
 </content>
   </entry>
 </feed>
