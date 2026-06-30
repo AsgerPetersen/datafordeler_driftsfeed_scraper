@@ -6,70 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-29T12:57:26Z</updated>
-  <entry>
-    <id>72193</id>
-    <title
-      type="text">Ny version af fleksibel opslagslogik 21. maj 2026</title>
-    <updated>2026-06-02T06:58:45Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/72193" />
-    <content
-      type="text">Besked: Ny version af fleksibel opslagslogik 21. maj 2026
-
-Den 21. maj 2026 kommer fleksibel opslagslogik-tjenesterne flexible og flexibleCurrent i version 2 som følge af ændringer i BBR GraphQL.
-
-Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
-Register: Alle&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72193&#xD;
-Tidsangivelse: 21. maj 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72195</id>
-    <title
-      type="text">Ny version af BBR GraphQL 21. maj 2026</title>
-    <updated>2026-06-02T06:58:33Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/72195" />
-    <content
-      type="text">Besked: Ny version af BBR GraphQL 21. maj 2026
-
-Den 21. maj 2026 bliver der tilføjet flere filtreringsparametre til entiteterne "Ejendomsrelation" og ”TekniskAnlæg". De bliver tilgængelige som input i BBR GraphQL version 3 og Fleksibel Oplagslogik version 2.
-
-Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
-Register: Bygnings- og Boligregisteret (BBR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72195&#xD;
-Tidsangivelse: 21. maj 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72196</id>
-    <title
-      type="text">DAR fildownload i ny version uden z-koordinat 21. maj 2026</title>
-    <updated>2026-06-02T06:59:30Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/72196" />
-    <content
-      type="text">Besked: DAR fildownload i ny version uden z-koordinat 21. maj 2026
-
-Efter den 21. maj 2026 kommer DAR fildownload i version 4. DAR fildownload version 4 er uden z-koordinat.
-
-Tidligere versioner af DAR fildownload har ved fejl indeholdt z-koordinater, selvom registeret ikke anvender det.&#xD;
-Register: Danmarks Adresseregister (DAR)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72196&#xD;
-Tidsangivelse: 21. maj 2026&#xD;
-</content>
-  </entry>
+  <updated>2026-06-30T05:14:36Z</updated>
   <entry>
     <id>71761</id>
     <title
@@ -230,56 +167,6 @@ Tidsangivelse: 24. juni 2026&#xD;
 </content>
   </entry>
   <entry>
-    <id>72199</id>
-    <title
-      type="text">Kommende ændringer på CPR GraphQL 21. maj 2026</title>
-    <updated>2026-06-02T06:59:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/72199" />
-    <content
-      type="text">Besked: Kommende ændringer på CPR GraphQL 21. maj 2026
-
-21. maj 2026 er der planlagt følgende ændringer for CPR’s GraphQL-tjenester.
-
-Ændringer til offentlige anvendere i GraphQL-tjenesten CustomPublicSectorPerson. Bemærk at ændringerne er på objekt- og attributniveau:
-
-	For objektet PublicSectorCprHaendelseKodeInput bliver det muligt at søge på ”registreringfra” og en liste af "haendelseskode".
-	For objektet PublicSectorCprHaendelseInput bliver det muligt at søge på  ”rettetden” og en liste af "forretningshaendelse".
-	Det bliver muligt at angive fødselsdato til og fra i input.
-	Information om separationer bliver begrænset til gældende civilstandsobjekt.
-	Felterne Vaergemaal.status, Kontaktadresse.status og Adresseoplysninger.supplerendeAdresse.status bliver fjernet.
-
-
-
-Ændringer til private anvendere i GraphQL-tjenesten CustomPrivateSectorPerson:
-
-	Det  bliver muligt at søge med en liste af hændelser og hændelseskoder.
-	Vaergemaal og kontaktadresse bliver obligatorisk output.
-	Felterne Vaergemaal.status og Kontaktadresse.status bliver fjernet.
-	Det bliver muligt at lave listesøgning på attributten PNR med op til 100 personnumre. Attributten PNRIN bliver udfaset i ændringen.
-	Det bliver muligt at søge på adresse i status ”teknisk_aendring” og ”fortrudt”.
-
-
-
-Derudover bliver der foretaget ændringer som berører begge GraphQL-tjenester:
-
-	Det bliver muligt at benytte attributten ”totalCount”.
-	Søgning bliver gjort case-insensitive.
-
-
-
-Anvendere skal være opmærksom på, at ændringerne kun bliver udstillet for version 3 af GraphQL-tjenesterne.
-
-Ændringer er lagt på Test06 den 26. marts 2026.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72199&#xD;
-Tidsangivelse: 21. maj 2026&#xD;
-</content>
-  </entry>
-  <entry>
     <id>68402</id>
     <title
       type="text">Nedlukning af tidligere versioner for GraphQL og Fildownload på Datafordeleren</title>
@@ -305,29 +192,6 @@ Register: Alle&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 68402&#xD;
-Tidsangivelse: 21. maj 2026&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>72194</id>
-    <title
-      type="text">Notifikationer for udløb af autentifikationsmetoder, IT-systemer og brugerkonti og visning af begrundelse for afvisning af dataadgang i Datafordeler Administration</title>
-    <updated>2026-06-02T06:59:39Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/aendringer/72194" />
-    <content
-      type="text">Besked: Notifikationer for udløb af autentifikationsmetoder, IT-systemer og brugerkonti og visning af begrundelse for afvisning af dataadgang i Datafordeler Administration
-
-Efter 21. maj 2026 bliver det muligt som ejer, administrator eller læser af et IT-system at modtage mailnotifikationer fra Datafordeler Administration inden udløb af autentifikationsmetoder, dataadgang, IT-system eller din brugerkonto. Notifikationerne bliver sendt 30 dage og 7 dage inden udløb. Derudover vil anvendere modtage en notifikation når autentifikationsmetoder, dataadgang, IT-system eller din brugerkonto er udløbet eller deaktiveret.
-
-Anvendere vil også modtage en notifikation hvis et register ændrer i en anmodning om dataadgang, samt det bliver muligt for se begrundelse for afvisning af en anmodning om dataadgang i Datafordeler Administration.
-
-Ændringen er lagt på Test06 den 26. marts 2026.&#xD;
-Register: Alle&#xD;
-Service: Selvbetjening&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 72194&#xD;
 Tidsangivelse: 21. maj 2026&#xD;
 </content>
   </entry>
@@ -358,7 +222,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>76055</id>
     <title
       type="text">Ny DAGI datamodel</title>
-    <updated>2026-06-29T12:57:26Z</updated>
+    <updated>2026-06-30T05:14:36Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76055" />
@@ -374,7 +238,7 @@ Bemærk også at DAGIs nye datamodel har 4 entiteter per type. Men der kommer ik
 Bemærk desuden for de enkelte tjenester:
 
 Fildownload 
-Anvend version 4. Tidligere versioner bliver udfaset. Benyt ikke version 3. Bemærk at Fildownload for version 4 blev aktiveret søndag den 24. juni. Det betyder, at første totaldownload version 4 for DAGI fra 28. juni er tomt, og den første  deltafil indeholder, hvad der svarer til en bitemporal-download fil. Vi anbefaler, at en kopi af DAGI tager udgangspunkt i et totaldownload, som er tilgængeligt 5. juli 2026.
+Anvend version 4. Tidligere versioner bliver udfaset. Benyt ikke version 3. Bemærk at Fildownload for version 4 blev aktiveret onsdag den 24. juni. Det betyder, at første totaldownload version 4 for DAGI fra 28. juni er tomt, og den første  deltafil indeholder, hvad der svarer til en bitemporal-download fil. Vi anbefaler, at en kopi af DAGI tager udgangspunkt i et totaldownload, som er tilgængeligt 5. juli 2026.
 
 WFS
 DAGI har nu entitetsbaseret WFS, der virker i QGIS. DAGI WFS entiteter er pt. tilgængeligt med aktuelle data (_current). Senere forventer vi, at DAGI WFS entiteter også bliver tilgængeligt med komplet historisk sporbarhed (_hist). 
@@ -388,7 +252,7 @@ Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 76055&#xD;
-Tidsangivelse: &#xD;
+Tidsangivelse: 5. juli 2026&#xD;
 </content>
   </entry>
 </feed>

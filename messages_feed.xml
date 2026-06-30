@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-18T07:33:57Z</updated>
+  <updated>2026-06-30T05:01:34Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -96,7 +96,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>74846</id>
     <title
       type="text">PROD servicevindue mandag den 29. juni fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-06-16T11:05:32Z</updated>
+    <updated>2026-06-30T05:01:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74846" />
@@ -108,7 +108,7 @@ Der er planlagt servicevindue på PROD mandag den 29. juni 2026 klokken 17:30 ti
 Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74846&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
