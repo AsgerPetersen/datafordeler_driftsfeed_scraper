@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-06-30T19:56:57Z</updated>
+  <updated>2026-07-01T09:45:11Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -72,7 +72,7 @@ Sagsreference: 75014&#xD;
     <id>74173</id>
     <title
       type="text">WFS tjenester med services.datafordeler.dk i url lukker 1. juli 2026</title>
-    <updated>2026-06-02T10:55:17Z</updated>
+    <updated>2026-07-01T09:45:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74173" />
@@ -86,10 +86,30 @@ Du kan fortsat benytte entitetsbaserede WFS tjenester på Datafordeleren. Læs m
 Læs mere om udfasningen af ikke-moderniserede tjenester&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 74173&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76118</id>
+    <title
+      type="text">Servicevindue onsdag den 1. juli på Datafordelerens dokumentation</title>
+    <updated>2026-07-01T09:09:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76118" />
+    <content
+      type="text">Besked: Servicevindue onsdag den 1. juli på Datafordelerens dokumentation
+
+I tidsrummet onsdag den 1. juli klokken 16:00 - torsdag den 2. juli klokken 09:00 kan anvenderne opleve, at der ikke er adgang til dokumentation for Datafordeleren. Platformen bliver flyttet til nyt domæne confluence.kds.dk. Anvendere skal opdatere deres bogmærker og link, når dokumentation åbner igen efter servicevinduet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76118&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
@@ -130,25 +150,6 @@ Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 74822&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>76112</id>
-    <title
-      type="text">Dokumentation i Confluence er igen tilgængelig</title>
-    <updated>2026-06-30T19:56:57Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76112" />
-    <content
-      type="text">Besked: Dokumentation i Confluence er igen tilgængelig
-
-30.06.2026 klokken 21:30: Datafordelerens dokumentation i Confluence er igen tilgængelig.
-
-30.06.2026 klokken 14:00: Link til Datafordelerens dokumentation i Confluence er ikke aktive, fordi Confluence ikke er tilgængeligt. Der bliver arbejdet på at løse problemet.&#xD;
-Register: Alle&#xD;
-Status: Løst&#xD;
-Sagsreference: 76112&#xD;
 </content>
   </entry>
 </feed>
