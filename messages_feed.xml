@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-01T09:45:11Z</updated>
+  <updated>2026-07-01T16:17:30Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -96,14 +96,16 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>76118</id>
     <title
       type="text">Servicevindue onsdag den 1. juli på Datafordelerens dokumentation</title>
-    <updated>2026-07-01T09:09:40Z</updated>
+    <updated>2026-07-01T16:17:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76118" />
     <content
       type="text">Besked: Servicevindue onsdag den 1. juli på Datafordelerens dokumentation
 
-I tidsrummet onsdag den 1. juli klokken 16:00 - torsdag den 2. juli klokken 09:00 kan anvenderne opleve, at der ikke er adgang til dokumentation for Datafordeleren. Platformen bliver flyttet til nyt domæne confluence.kds.dk. Anvendere skal opdatere deres bogmærker og link, når dokumentation åbner igen efter servicevinduet.&#xD;
+I tidsrummet onsdag den 1. juli klokken 16:00 - torsdag den 2. juli klokken 09:00 kan anvenderne opleve, at der ikke er adgang til dokumentation for Datafordeleren. Platformen bliver flyttet til nyt domæne confluence.kds.dk. Anvendere skal opdatere deres bogmærker og link, når dokumentation åbner igen efter servicevinduet.
+
+I samme tidsrum vil der ikke blive vist indlæg på datafordeler.dk/Support.&#xD;
 Register: Alle&#xD;
 Service: Dokumentation&#xD;
 Status: Planlagt&#xD;
