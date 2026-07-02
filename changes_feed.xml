@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-06-30T05:14:36Z</updated>
+  <updated>2026-07-02T11:25:18Z</updated>
   <entry>
     <id>71761</id>
     <title
@@ -221,15 +221,17 @@ Tidsangivelse: 24. juni 2026&#xD;
   <entry>
     <id>76055</id>
     <title
-      type="text">Ny DAGI datamodel</title>
-    <updated>2026-06-30T05:14:36Z</updated>
+      type="text">Ny DAGI datamodel  er klar med data</title>
+    <updated>2026-07-02T11:25:18Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76055" />
     <content
-      type="text">Besked: Ny DAGI datamodel
+      type="text">Besked: Ny DAGI datamodel er klar med data
 
-Anvendere af data fra DAGI på Datafordeleren kan fremover hente data i DAGI datamodel 3 via GraphQL, entitetsbaserede Fildownload og entitetsbaseret WFS. Vi opdaterer denne meddelelse, når data er klar i tjenesterne.
+02.07.2026: Anvendere kan hente data fra den nye DAGI model 3 via GraphQL og entitetsbaseret WFS med aktuelle data (_current). Senere forventer vi, at DAGI WFS entiteter også bliver tilgængeligt med komplet historisk sporbarhed (_hist).
+
+Bemærk at data i entitetsbaserede Fildownload er klar mandag den 5. juli.
 
 Bemærk at DAGI data i REST, WFS og WMS på Webbruger/tjenestebruger fremover ikke bliver opdateret, når der er ændringer i DAGI. Disse tjenester bliver udfaset og lukker den 15. januar 2027.
 
@@ -250,7 +252,7 @@ Læs om DAGI Objektspecifikation 
 Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket på datafordeler.dk/Transition&#xD;
 Register: Danmarks Administrative Geografiske Inddeling (DAGI)&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76055&#xD;
 Tidsangivelse: 5. juli 2026&#xD;
 </content>
