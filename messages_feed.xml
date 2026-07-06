@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-01T09:45:11Z</updated>
+  <updated>2026-07-06T10:34:07Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -90,6 +90,28 @@ Status: Gennemført&#xD;
 Sagsreference: 74173&#xD;
 Forventet fra: 1/1/0001 12:00:00 AM&#xD;
 Forventet til: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76405</id>
+    <title
+      type="text">Test06 servicevindue mandag den 13. juli fra klokken 10:00 til klokken 16:00</title>
+    <updated>2026-07-06T10:34:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76405" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 13. juli fra klokken 10:00 til klokken 16:00
+
+Der er planlagt servicevindue på Test06 mandag den 13. juli 2026 fra klokken 10:00 til klokken 16:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76405&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
