@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-06T10:34:07Z</updated>
+  <updated>2026-07-07T07:42:06Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -66,6 +66,26 @@ Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 75014&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76515</id>
+    <title
+      type="text">Datafordelerens dokumentation er ikke tilgængelig</title>
+    <updated>2026-07-07T07:42:06Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76515" />
+    <content
+      type="text">Besked: Datafordelerens dokumentation er ikke tilgængelig
+
+07.07.2026 klokken 9:30: Datafordelerens dokumentation i Confluence er ikke tilgængelig.
+
+Der bliver arbejdet på at løse problemet.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: I gang&#xD;
+Sagsreference: 76515&#xD;
 </content>
   </entry>
   <entry>
