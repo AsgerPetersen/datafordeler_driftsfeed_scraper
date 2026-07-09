@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-06T10:34:07Z</updated>
+  <updated>2026-07-09T06:20:37Z</updated>
   <entry>
     <id>72350</id>
     <title
@@ -69,6 +69,26 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
+    <id>76432</id>
+    <title
+      type="text">Skærmkortet bliver opdateret i juli 2026</title>
+    <updated>2026-07-09T06:11:01Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76432" />
+    <content
+      type="text">Besked: Skærmkortet bliver opdateret i juli 2026
+
+Næste opdatering til Skærmkortet er tilgængelig den 15. juli 2026.
+
+Skærmkortsopdateringen bliver tilgængelig på WMS, WMTS og fildownload.&#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 76432&#xD;
+</content>
+  </entry>
+  <entry>
     <id>74173</id>
     <title
       type="text">WFS tjenester med services.datafordeler.dk i url lukker 1. juli 2026</title>
@@ -110,6 +130,28 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 76405&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76538</id>
+    <title
+      type="text">Test06 servicevindue mandag den 20. juli fra klokken 10:00 til klokken 13:00</title>
+    <updated>2026-07-09T06:20:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76538" />
+    <content
+      type="text">Besked: Test06 servicevindue mandag den 20. juli fra klokken 10:00 til klokken 13:00
+
+Der er planlagt servicevindue på Test06 mandag den 20. juli 2026 fra klokken 10:00 til klokken 16:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76538&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>

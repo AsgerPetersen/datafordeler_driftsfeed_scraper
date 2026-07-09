@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-07-02T11:25:18Z</updated>
+  <updated>2026-07-09T10:56:39Z</updated>
   <entry>
     <id>71761</id>
     <title
@@ -37,7 +37,7 @@ Tidsangivelse: 1. september 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-06-29T07:32:27Z</updated>
+    <updated>2026-07-09T10:56:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
@@ -45,6 +45,8 @@ Tidsangivelse: 1. september 2026&#xD;
       type="text">Besked: Nye sammenstillede fildownload for Ejerfortegnelsen
 
 29.06.2026: Opdateret med dato for release den 27. august 2026. Anmodninger om dataadgang til de nye entiteter bliver behandlet af Ejerfortegnelsen, men du skal som anvender være opmærksom på, at de sammenstillede fildownload ikke indeholder data før efter den 27. august 2026.
+
+De sammenstillede Fildownload bliver tilgængelige på Test06 den 13. juli 2026.
 
 02.03.2026: De nye entiteter fremgår i Datafordeler Administration fra den 25. februar 2026. 
 
@@ -196,6 +198,79 @@ Tidsangivelse: 21. maj 2026&#xD;
 </content>
   </entry>
   <entry>
+    <id>76439</id>
+    <title
+      type="text">Ny version af MAT GraphQL 27. august 2026</title>
+    <updated>2026-07-09T10:40:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76439" />
+    <content
+      type="text">Besked: Ny version af MAT GraphQL 27. august 2026
+
+Den 27. august 2026 bliver der tilføjet mulighed for filtrering på virkningFra i WHERE-filtreringen for entiteten "Lodflade".
+
+Filtreringen bliver tilgængelig i MAT GraphQL version 3 og Fleksibel Opslagslogik version 3.
+
+Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76439&#xD;
+Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76440</id>
+    <title
+      type="text">Ændringer på CPR entitetsbaserede GraphQL 27. august 2026</title>
+    <updated>2026-07-09T10:41:29Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76440" />
+    <content
+      type="text">Besked: Ændringer på CPR entitetsbaserede GraphQL 27. august 2026 
+
+Torsdag den 27. august 2026 er der planlagt følgende ændringer for CPR's entitetsbaserede GraphQL tjeneste.
+
+CPR's entitetsbaserede GraphQL skema version 1 og version 2, reduceres til kun at indeholde følgende entiteter:
+
+	CPR_Events
+	AdministrativEnhed
+	AdministrativEnhedType
+
+
+
+ 
+
+Derudover bliver der tilføjet inputparametre til AdministrativEnhed og AdministrativEnhedType til version 2:
+
+AdministrativEnhed får tilføjet følgende  inputparametre:
+
+	@MYNKOD, a list of AdministrativEnhed.Kode strings (LISTE af en eller flere koder)
+	@MYNNAVN AdministrativEnhed.Navn (ét navn)
+	@LAND_KOD_ALFA3 AdministrativEnhed.LandeKode (én landekode)
+
+
+
+AdministrativEnhedType får tilføjet følgende inputparametre:
+
+	@MYNTYP, a list of AdministrativEnhed.AdministrativType.TypeKode (LISTE af en eller flere typekoder)
+	@MYNTYPNAVN AdministrativEnhed.AdministrativType.TypeNavn (ét navn)
+
+
+
+ 
+
+Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76440&#xD;
+Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
     <id>74189</id>
     <title
       type="text">Ændring i geometritype for fildownload i GeoPackage-format</title>
@@ -222,7 +297,7 @@ Tidsangivelse: 24. juni 2026&#xD;
     <id>76055</id>
     <title
       type="text">Ny DAGI datamodel  er klar med data</title>
-    <updated>2026-07-02T11:25:18Z</updated>
+    <updated>2026-07-09T10:19:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76055" />
