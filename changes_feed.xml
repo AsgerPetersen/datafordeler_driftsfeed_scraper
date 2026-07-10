@@ -6,7 +6,76 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-07-09T12:49:49Z</updated>
+  <updated>2026-07-10T09:54:14Z</updated>
+  <entry>
+    <id>76551</id>
+    <title
+      type="text">Rettelse til CPR GraphQL-tjeneste CprCustomPublicSector version 4</title>
+    <updated>2026-07-10T09:53:00Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76551" />
+    <content
+      type="text">Besked: Rettelse til CPR GraphQL-tjeneste CprCustomPublicSector version 4
+
+Den 27. august bliver CPR GraphQL-tjeneste CprCustomPublicSector version 4 rettet, så det bliver muligt på version 4 at hente en kontaktadresse på et nested personobjekt.
+
+Læs mere om den kendte fejl.
+
+Der bliver ikke introduceret en ny version af GraphQL-tjenesten CprCustomPublicSector som følge af rettelsen, som foretages i version 4.
+
+Rettelsen bliver lagt på Test06 den 13. juli 2026.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76551&#xD;
+Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76438</id>
+    <title
+      type="text">Ny version af fleksibel opslagslogik 27. august 2026</title>
+    <updated>2026-07-10T08:41:19Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76438" />
+    <content
+      type="text">Besked: Ny version af fleksibel opslagslogik 27. august 2026
+
+Den 27. august 2026 kommer fleksibel opslagslogik-tjenesterne flexible og flexibleCurrent i version 3 som følge af ændringer i GraphQL for Matriklen (MAT) og Ejerfortegnelsen (EJF).
+
+Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76438&#xD;
+Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76442</id>
+    <title
+      type="text">Ny custom entitet CustomAlternativAdresseBegraenset for Ejerfortegnelsen</title>
+    <updated>2026-07-10T09:01:05Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76442" />
+    <content
+      type="text">Besked: Ny custom entitet CustomAlternativAdresseBegraenset for Ejerfortegnelsen
+
+Den 27. august 2026 får Ejerfortegnelsen tilføjet en ny entitet: CustomAlternativAdresseBegraenset. Entiteten bliver tilgængelig i Fleksibel Opslagslogik og som Fildownload.
+
+Den nye custom entitet svarer til entiteten AlternativAdresse men er uden CPR-numre, således at private aktører kan søge om adgang til entiteten for at få adgang til den i Fleksibel Opslagslogik og Fildownload. 
+
+Ændringen bliver lagt på Test06 den 13. juli 2026. Der bliver ikke introduceret en ny version af Ejerfortegnelsens GraphQL, som følge af ændringen.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76442&#xD;
+Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
   <entry>
     <id>71761</id>
     <title
@@ -31,6 +100,27 @@ Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 71761&#xD;
 Tidsangivelse: 1. september 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76441</id>
+    <title
+      type="text">Ejerfortegnelsens entitet Ejerskabsskifte får tilføjet inputparameter i GraphQL</title>
+    <updated>2026-07-10T09:54:14Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/76441" />
+    <content
+      type="text">Besked: Ejerfortegnelsens entitet Ejerskabsskifte får tilføjet inputparameter i GraphQL
+
+Den 27. august 2026 får Ejerfortegnelsens GraphQL-tjeneste for entiteten Ejerskabsskifte tilføjet inputparameteren "id_lokalID".
+
+Ændringen bliver lagt på Test06 den 13. juli 2026. Der bliver ikke introduceret en ny version af Ejerfortegnelsens GraphQL, som følge af ændringen. Anvendere skal hente det nye skema for Ejerskabsskifte version 1 for at benytte den tilføjede inputparameter.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 76441&#xD;
+Tidsangivelse: 27. august 2026&#xD;
 </content>
   </entry>
   <entry>
