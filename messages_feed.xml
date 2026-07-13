@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-10T09:55:36Z</updated>
+  <updated>2026-07-13T09:25:43Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -86,7 +86,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>76405</id>
     <title
       type="text">Test06 servicevindue mandag den 13. juli fra klokken 10:00 til klokken 16:00</title>
-    <updated>2026-07-06T10:34:07Z</updated>
+    <updated>2026-07-13T08:09:55Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76405" />
@@ -98,7 +98,7 @@ Der er planlagt servicevindue på Test06 mandag den 13. juli 2026 fra klokken 10
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 76405&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -170,6 +170,26 @@ Status: Planlagt&#xD;
 Sagsreference: 76538&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76465</id>
+    <title
+      type="text">GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet</title>
+    <updated>2026-07-13T09:25:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76465" />
+    <content
+      type="text">Besked: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet
+
+13.07.2026 klokken 11:30: Problemet er løst. Data opdateres normalt igen.
+
+13.07.2026 klokken 10:30: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 10.07.2026. Der arbejdes på at løse problemet.&#xD;
+Register: GeoDanmark Vektor&#xD;
+Service: Dataopdatering&#xD;
+Status: Løst&#xD;
+Sagsreference: 76465&#xD;
 </content>
   </entry>
   <entry>
