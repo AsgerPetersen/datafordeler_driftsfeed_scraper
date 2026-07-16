@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-16T12:36:31Z</updated>
+  <updated>2026-07-16T13:35:24Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -196,17 +196,19 @@ Sagsreference: 76465&#xD;
     <id>76488</id>
     <title
       type="text">Feltet "Kommunekode" mangler i CPR hændelser via GraphQL </title>
-    <updated>2026-07-15T10:46:20Z</updated>
+    <updated>2026-07-16T13:35:24Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76488" />
     <content
       type="text">Besked: Feltet "Kommunekode" mangler i CPR hændelser via GraphQL
 
+16.07.2026 klokken 15:30: Problemet er løst. Kommunekoder fra og med den 21. maj 2026 ca. klokken 18:40 er tilgængelige, og filter på Kommunekoder i GraphQL CPR_Event for entiteten Cprhaendelse, kan igen benyttes.
+
 15.07.2026 klokken 12:45: Siden den 21. maj 2026 ca. klokken 18:40, har der manglet Kommunekoder i udsendte CPR hændelser via GraphQL, og filter på Kommunekoder i GraphQL CPR_Event, kan ikke benyttes på nuværende tidspunkt. Vi arbejder på at løse disse problemer.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Hændelser&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 76488&#xD;
 </content>
   </entry>
