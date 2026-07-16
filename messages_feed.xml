@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-15T10:46:20Z</updated>
+  <updated>2026-07-16T12:36:31Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -42,7 +42,7 @@ Sagsreference: 75014&#xD;
     <id>76432</id>
     <title
       type="text">Skærmkortet bliver opdateret i juli 2026</title>
-    <updated>2026-07-09T06:11:01Z</updated>
+    <updated>2026-07-16T12:36:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76432" />
@@ -54,7 +54,7 @@ Næste opdatering til Skærmkortet er tilgængelig den 15. juli 2026.
 Skærmkortsopdateringen bliver tilgængelig på WMS, WMTS og fildownload.&#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 76432&#xD;
 </content>
   </entry>
