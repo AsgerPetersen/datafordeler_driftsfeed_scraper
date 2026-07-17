@@ -173,26 +173,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>76465</id>
-    <title
-      type="text">GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet</title>
-    <updated>2026-07-13T09:25:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76465" />
-    <content
-      type="text">Besked: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet
-
-13.07.2026 klokken 11:30: Problemet er løst. Data opdateres normalt igen.
-
-13.07.2026 klokken 10:30: GeoDanmark Vektor dataopdatering er stoppet i produktionsmiljøet. Seneste opdatering var 10.07.2026. Der arbejdes på at løse problemet.&#xD;
-Register: GeoDanmark Vektor&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 76465&#xD;
-</content>
-  </entry>
-  <entry>
     <id>76488</id>
     <title
       type="text">Feltet "Kommunekode" mangler i CPR hændelser via GraphQL </title>
