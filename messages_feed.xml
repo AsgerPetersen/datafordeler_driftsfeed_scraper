@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-20T07:30:01Z</updated>
+  <updated>2026-07-20T09:42:59Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -154,7 +154,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>76538</id>
     <title
       type="text">Test06 servicevindue mandag den 20. juli fra klokken 10:00 til klokken 13:00</title>
-    <updated>2026-07-20T07:30:01Z</updated>
+    <updated>2026-07-20T09:42:59Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76538" />
@@ -166,7 +166,7 @@ Der er planlagt servicevindue på Test06 mandag den 20. juli 2026 fra klokken 10
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76538&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
