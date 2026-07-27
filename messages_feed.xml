@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-20T09:42:59Z</updated>
+  <updated>2026-07-10T09:55:36Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -106,48 +106,6 @@ Status: Planlagt&#xD;
 Sagsreference: 76550&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>76538</id>
-    <title
-      type="text">Test06 servicevindue mandag den 20. juli fra klokken 10:00 til klokken 13:00</title>
-    <updated>2026-07-20T09:42:59Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76538" />
-    <content
-      type="text">Besked: Test06 servicevindue mandag den 20. juli fra klokken 10:00 til klokken 13:00
-
-Der er planlagt servicevindue på Test06 mandag den 20. juli 2026 fra klokken 10:00 til klokken 16:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 76538&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>76488</id>
-    <title
-      type="text">Feltet "Kommunekode" mangler i CPR hændelser via GraphQL </title>
-    <updated>2026-07-16T13:35:24Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76488" />
-    <content
-      type="text">Besked: Feltet "Kommunekode" mangler i CPR hændelser via GraphQL
-
-16.07.2026 klokken 15:30: Problemet er løst. Kommunekoder fra og med den 21. maj 2026 ca. klokken 18:40 er tilgængelige, og filter på Kommunekoder i GraphQL CPR_Event for entiteten Cprhaendelse, kan igen benyttes.
-
-15.07.2026 klokken 12:45: Siden den 21. maj 2026 ca. klokken 18:40, har der manglet Kommunekoder i udsendte CPR hændelser via GraphQL, og filter på Kommunekoder i GraphQL CPR_Event, kan ikke benyttes på nuværende tidspunkt. Vi arbejder på at løse disse problemer.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Hændelser&#xD;
-Status: Løst&#xD;
-Sagsreference: 76488&#xD;
 </content>
   </entry>
   <entry>
