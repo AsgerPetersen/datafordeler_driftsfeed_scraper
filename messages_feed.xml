@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-07-10T09:55:36Z</updated>
+  <updated>2026-07-29T12:43:55Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -106,6 +106,24 @@ Status: Planlagt&#xD;
 Sagsreference: 76550&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>76866</id>
+    <title
+      type="text">Manglende opdatering</title>
+    <updated>2026-07-29T12:43:55Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/76866" />
+    <content
+      type="text">Besked: Data opdateringen til VUR er stoppet og data sidst er opdateret d. 28. juli kl. 10.
+
+Vi arbejder på at løse problemet.&#xD;
+Register: Ejendomsvurdering (VUR)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 76866&#xD;
 </content>
   </entry>
   <entry>
