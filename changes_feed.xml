@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-07-10T09:54:14Z</updated>
+  <updated>2026-07-31T09:20:23Z</updated>
   <entry>
     <id>76551</id>
     <title
@@ -80,12 +80,14 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>71761</id>
     <title
       type="text">Datafordeleren lukker testmiljøet Test03 1. september 2026</title>
-    <updated>2026-05-18T07:23:28Z</updated>
+    <updated>2026-07-31T09:20:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/71761" />
     <content
       type="text">Besked: Datafordeleren lukker testmiljøet Test03 1. september 2026
+
+31.07.2026: Vi anbefaler, at anvendere, der benytter Test03 til test af integration til egne systemer, flytter testaktiviteter over til Test06 hurtigst muligt, og Test04 for test af CPR, og gerne senest den 15. august 2026, så der er tid til at teste  inden Test03 lukker permanent. 
 
 11.05.2026: Opdateret med fastsat dato.
 
