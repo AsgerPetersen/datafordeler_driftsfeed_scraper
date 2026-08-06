@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-04T05:19:33Z</updated>
+  <updated>2026-08-06T09:50:09Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -85,23 +85,25 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>76550</id>
+    <id>77132</id>
     <title
-      type="text">PROD servicevindue mandag den 3. august fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-08-04T05:19:33Z</updated>
+      type="text">PROD servicevindue torsdag den 27. august fra klokken 16:00 til klokken 23:00 </title>
+    <updated>2026-08-06T09:50:09Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76550" />
+      href="https://datafordeler.dk/drift/meddelelser/77132" />
     <content
-      type="text">Besked: PROD servicevindue mandag den 3. august fra klokken 17:30 til klokken 19:30
+      type="text">Besked: PROD servicevindue torsdag den 27. august fra klokken 16:00 til klokken 23:00 
 
-Der er planlagt servicevindue på PROD mandag den 3. august 2026 klokken 17:30 til klokken 19:30.
+Der er planlagt servicevindue på PROD torsdag den 27. august 2026 klokken 16:00 til klokken 23:00. 
 
-Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Anvendere kan i tidsrummet klokken 18:00 til klokken 23:00 opleve længere svartid eller nedetid på webservices, GraphQL-tjenester og Fildownload (HTTPS), samt på Datafordeler Administration. 
+
+Dataopdatering og hændelser vil i tidsrummet fra klokken 16:00 til klokken 18:00 være sat på pause. &#xD;
 Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 76550&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 77132&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
