@@ -109,28 +109,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>76866</id>
-    <title
-      type="text">Manglende opdatering</title>
-    <updated>2026-08-06T12:50:25Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/76866" />
-    <content
-      type="text">Besked: Ejendomsvurdering (VUR) dataopdatering er stoppet i produktionsmiljøet
-
-06.08.2026: Problemet er løst.
-
-29.07.2026: Data opdateringen til VUR er stoppet. Data er sidst opdateret den 28. juli klokken 10.
-
-Vi arbejder på at løse problemet.&#xD;
-Register: Ejendomsvurdering (VUR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 76866&#xD;
-</content>
-  </entry>
-  <entry>
     <id>74822</id>
     <title
       type="text">DHM Højdekurver Fildownload er utilgængeligt</title>
