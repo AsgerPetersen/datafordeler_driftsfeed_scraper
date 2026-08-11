@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-11T08:03:12Z</updated>
+  <updated>2026-08-11T11:42:39Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -66,7 +66,7 @@ Forventet til: 1/1/0001 12:00:00 AM&#xD;
     <id>76881</id>
     <title
       type="text">Test04 servicevindue tirsdag den 11. august fra klokken 10:00 til klokken 16:00</title>
-    <updated>2026-08-11T08:03:12Z</updated>
+    <updated>2026-08-11T11:42:39Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/76881" />
@@ -78,7 +78,7 @@ Der er planlagt servicevindue på Test04 tirsdag den 11. august 2026 fra klokken
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76881&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
