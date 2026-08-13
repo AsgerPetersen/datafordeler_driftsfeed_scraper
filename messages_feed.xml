@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-12T11:12:27Z</updated>
+  <updated>2026-08-13T10:49:42Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -130,6 +130,26 @@ Status: Planlagt&#xD;
 Sagsreference: 77093&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>77217</id>
+    <title
+      type="text">Datafordelerens dokumentation er igen tilgængelig</title>
+    <updated>2026-08-13T10:49:42Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/77217" />
+    <content
+      type="text">Besked: Datafordelerens dokumentation er igen tilgængelig
+
+13.08.2026 klokken 12:45: Datafordelerens dokumentation er igen tilgængelig. Det var et problem med skift af certifikat, der forhindrede adgang.
+
+13.08.2026 klokken 08:45: Datafordelerens dokumentation ikke tilgængelig. Vi arbejder på at gøre dokumentationen tilgængelig igen.&#xD;
+Register: Alle&#xD;
+Service: Dokumentation&#xD;
+Status: Løst&#xD;
+Sagsreference: 77217&#xD;
 </content>
   </entry>
   <entry>
