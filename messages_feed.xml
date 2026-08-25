@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-12T11:12:27Z</updated>
+  <updated>2026-08-25T09:24:40Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -106,6 +106,23 @@ Status: Planlagt&#xD;
 Sagsreference: 77093&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>78219</id>
+    <title
+      type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
+    <updated>2026-08-25T09:24:40Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/78219" />
+    <content
+      type="text">Besked: Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"
+
+25.08.2026 klokken 11:15: Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode", når anvenderen skal logge på Datafordeleren via  Datafordelerens Administration. Det gælder også for Testmiljøer på Datafordeler Administration. Selvbetjeningen til adgang med Webbruger er ikke berørt. Der bliver arbejdet på at løse problemet. &#xD;
+Register: Alle&#xD;
+Status: I gang&#xD;
+Sagsreference: 78219&#xD;
 </content>
   </entry>
   <entry>
