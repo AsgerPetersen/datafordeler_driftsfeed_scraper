@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-25T09:24:40Z</updated>
+  <updated>2026-08-27T04:41:57Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -42,7 +42,7 @@ Sagsreference: 75014&#xD;
     <id>77094</id>
     <title
       type="text">Test03, Test04 og Test06 servicevindue onsdag den 26. august fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-08-12T11:11:54Z</updated>
+    <updated>2026-08-27T04:41:57Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/77094" />
@@ -56,7 +56,7 @@ Test-miljøerne vil være utilgængelige i hele perioden både på webservices, 
 Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 77094&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
