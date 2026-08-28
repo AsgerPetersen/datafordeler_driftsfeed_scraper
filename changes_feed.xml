@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-08-05T09:11:23Z</updated>
+  <updated>2026-08-28T11:13:15Z</updated>
   <entry>
     <id>76551</id>
     <title
@@ -36,7 +36,7 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>76438</id>
     <title
       type="text">Ny version af fleksibel opslagslogik 27. august 2026</title>
-    <updated>2026-07-10T08:41:19Z</updated>
+    <updated>2026-08-28T05:22:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76438" />
@@ -48,7 +48,7 @@ Den 27. august 2026 kommer fleksibel opslagslogik-tjenesterne flexible og flexib
 Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
 Register: Alle&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76438&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
@@ -57,7 +57,7 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>76442</id>
     <title
       type="text">Ny custom entitet CustomAlternativAdresseBegraenset for Ejerfortegnelsen</title>
-    <updated>2026-07-10T09:01:05Z</updated>
+    <updated>2026-08-28T08:37:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76442" />
@@ -71,7 +71,7 @@ Den nye custom entitet svarer til entiteten AlternativAdresse men er uden CPR-nu
 Ændringen bliver lagt på Test06 den 13. juli 2026. Der bliver ikke introduceret en ny version af Ejerfortegnelsens GraphQL, som følge af ændringen.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76442&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
@@ -108,7 +108,7 @@ Tidsangivelse: 1. september 2026&#xD;
     <id>76441</id>
     <title
       type="text">Ejerfortegnelsens entitet Ejerskabsskifte får tilføjet inputparameter i GraphQL</title>
-    <updated>2026-07-10T09:54:14Z</updated>
+    <updated>2026-08-28T08:38:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76441" />
@@ -120,7 +120,7 @@ Den 27. august 2026 får Ejerfortegnelsens GraphQL-tjeneste for entiteten Ejersk
 Ændringen bliver lagt på Test06 den 13. juli 2026. Der bliver ikke introduceret en ny version af Ejerfortegnelsens GraphQL, som følge af ændringen. Anvendere skal hente det nye skema for Ejerskabsskifte version 1 for at benytte den tilføjede inputparameter.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76441&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
@@ -129,7 +129,7 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>69338</id>
     <title
       type="text">Nye sammenstillede fildownload for Ejerfortegnelsen</title>
-    <updated>2026-07-09T10:56:39Z</updated>
+    <updated>2026-08-28T08:38:29Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/69338" />
@@ -176,7 +176,7 @@ Læs mere om hvordan du får adgang til og henter de nye sammenstillede fildownl
 Se også Transitionsguide Sammenstillede fildownload (EJF)&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 69338&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
@@ -185,7 +185,7 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>76439</id>
     <title
       type="text">Ny version af MAT GraphQL 27. august 2026</title>
-    <updated>2026-07-09T12:49:49Z</updated>
+    <updated>2026-08-28T11:13:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76439" />
@@ -199,7 +199,7 @@ Filtreringen bliver tilgængelig i MAT GraphQL version 3 og Fleksibel Opslagslog
 Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76439&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
@@ -208,7 +208,7 @@ Tidsangivelse: 27. august 2026&#xD;
     <id>76440</id>
     <title
       type="text">Ændringer på CPR entitetsbaserede GraphQL 27. august 2026</title>
-    <updated>2026-07-09T12:49:42Z</updated>
+    <updated>2026-08-28T08:38:16Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76440" />
@@ -249,7 +249,7 @@ AdministrativEnhedType får tilføjet følgende inputparametre:
 Ændringen bliver lagt på Test06 den 13. juli 2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76440&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
