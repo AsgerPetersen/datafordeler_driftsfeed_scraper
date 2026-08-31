@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-28T05:19:51Z</updated>
+  <updated>2026-08-25T09:24:40Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -36,30 +36,6 @@ Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 75014&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>77132</id>
-    <title
-      type="text">PROD servicevindue torsdag den 27. august fra klokken 16:00 til klokken 23:00 </title>
-    <updated>2026-08-28T05:19:51Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/77132" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 27. august fra klokken 16:00 til klokken 23:00 
-
-Der er planlagt servicevindue på PROD torsdag den 27. august 2026 klokken 16:00 til klokken 23:00. 
-
-Anvendere kan i tidsrummet klokken 18:00 til klokken 23:00 opleve længere svartid eller nedetid på webservices, GraphQL-tjenester og Fildownload (HTTPS), samt på Datafordeler Administration. 
-
-Dataopdatering og hændelser vil i tidsrummet fra klokken 16:00 til klokken 18:00 være sat på pause. &#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 77132&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>

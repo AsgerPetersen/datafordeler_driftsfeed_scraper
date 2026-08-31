@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-08-28T11:13:15Z</updated>
+  <updated>2026-08-31T05:20:46Z</updated>
   <entry>
     <id>76551</id>
     <title
       type="text">Rettelse til CPR GraphQL-tjeneste CprCustomPublicSector version 4</title>
-    <updated>2026-07-10T09:53:00Z</updated>
+    <updated>2026-08-31T05:20:46Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76551" />
@@ -27,7 +27,7 @@ Der bliver ikke introduceret en ny version af GraphQL-tjenesten CprCustomPublicS
 Rettelsen bliver lagt på Test06 den 13. juli 2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 76551&#xD;
 Tidsangivelse: 27. august 2026&#xD;
 </content>
