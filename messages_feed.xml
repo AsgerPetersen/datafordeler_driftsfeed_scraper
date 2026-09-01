@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-31T07:21:41Z</updated>
+  <updated>2026-09-01T04:54:07Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -39,32 +39,10 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
-    <id>77093</id>
-    <title
-      type="text">PROD servicevindue mandag den 31. august fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-08-12T11:12:27Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/77093" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 31. august fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD mandag den 31. august 2026 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 77093&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>78280</id>
     <title
       type="text">Test06 servicevindue tirsdag den 1. september fra klokken 10:00 til klokken 14:30</title>
-    <updated>2026-08-31T07:21:41Z</updated>
+    <updated>2026-09-01T04:54:07Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78280" />

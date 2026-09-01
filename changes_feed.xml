@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-08-31T05:20:46Z</updated>
+  <updated>2026-09-01T04:59:33Z</updated>
   <entry>
     <id>76551</id>
     <title
       type="text">Rettelse til CPR GraphQL-tjeneste CprCustomPublicSector version 4</title>
-    <updated>2026-08-31T05:20:46Z</updated>
+    <updated>2026-09-01T04:59:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/76551" />
@@ -19,8 +19,6 @@
       type="text">Besked: Rettelse til CPR GraphQL-tjeneste CprCustomPublicSector version 4
 
 Den 27. august bliver CPR GraphQL-tjeneste CprCustomPublicSector version 4 rettet, så det bliver muligt på version 4 at hente en kontaktadresse på et nested personobjekt.
-
-Læs mere om den kendte fejl.
 
 Der bliver ikke introduceret en ny version af GraphQL-tjenesten CprCustomPublicSector som følge af rettelsen, som foretages i version 4.
 
