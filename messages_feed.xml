@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-01T04:54:07Z</updated>
+  <updated>2026-09-01T12:30:38Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -42,7 +42,7 @@ Sagsreference: 75014&#xD;
     <id>78280</id>
     <title
       type="text">Test06 servicevindue tirsdag den 1. september fra klokken 10:00 til klokken 14:30</title>
-    <updated>2026-09-01T04:54:07Z</updated>
+    <updated>2026-09-01T12:30:38Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78280" />
@@ -54,7 +54,7 @@ Der er planlagt servicevindue på Test06 tirsdag den 1. september 2026 fra klokk
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering og hændelser.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 78280&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
