@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-08-25T09:24:40Z</updated>
+  <updated>2026-09-04T10:57:54Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -36,6 +36,28 @@ Læs mere om ophør af paralleldrift på Datafordeleren og transitionsnetværket
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 75014&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>78504</id>
+    <title
+      type="text">Test06 servicevindue tirsdag den 8. september fra klokken 10:00 til klokken 14:30</title>
+    <updated>2026-09-04T10:57:54Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/78504" />
+    <content
+      type="text">Besked: Test06 servicevindue tirsdag den 8. september fra klokken 10:00 til klokken 14:30
+
+Der er planlagt servicevindue på Test06 tirsdag den 8. september 2026 fra klokken 10:00 til klokken 14:30.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og testmiljøet Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 78504&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
