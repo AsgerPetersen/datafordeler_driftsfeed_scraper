@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-04T10:57:54Z</updated>
+  <updated>2026-09-07T07:22:27Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -80,15 +80,17 @@ Sagsreference: 78219&#xD;
   <entry>
     <id>74822</id>
     <title
-      type="text">DHM Højdekurver Fildownload er utilgængeligt</title>
-    <updated>2026-06-15T11:15:46Z</updated>
+      type="text">DHM Højdekurver Fildownload er tilgængeligt i GPKG</title>
+    <updated>2026-09-07T07:22:27Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/74822" />
     <content
-      type="text">Besked: DHM Højdekurver Fildownload er utilgængeligt
+      type="text">Besked: DHM Højdekurver Fildownload er tilgængeligt i GPKG
 
-DHM Højdekurver Fildownload er utilgængeligt. Det er muligt at hente højdekurver via DHM Højdekurver GraphQL eller DHM Højdekurver WFS. Der bliver arbejdet på at gøre DHM Højdekurver tilgængeligt via Fildownload.&#xD;
+07.09.2026: DHM Højdekurver Fildownload er tilgængeligt i GPKG. Der bliver arbejdet på at få GML klar.
+
+15.06.2026: DHM Højdekurver Fildownload er utilgængeligt. Det er muligt at hente højdekurver via DHM Højdekurver GraphQL eller DHM Højdekurver WFS. Der bliver arbejdet på at gøre DHM Højdekurver tilgængeligt via Fildownload.&#xD;
 Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
