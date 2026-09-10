@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-10T05:02:29Z</updated>
+  <updated>2026-09-10T07:23:56Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -42,12 +42,18 @@ Sagsreference: 75014&#xD;
     <id>78575</id>
     <title
       type="text">PROD ekstraordinært servicevindue onsdag 9. september fra 18.40-22.40</title>
-    <updated>2026-09-10T05:02:29Z</updated>
+    <updated>2026-09-10T07:23:56Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78575" />
     <content
-      type="text">Besked: Der udføres et ekstraordinært servicevindue på PROD med start 18.40 (eller snarest derefter) og 4 timer frem. Servicevinduet skyldes uforholdsmæssigt stort load hvorfor at kapacitet på load balancer skal udvides. &#xD;
+      type="text">Besked: PROD ekstraordinært servicevindue onsdag 9. september klokken 18:40 til klokken 22:40
+
+Der er et ekstraordinært servicevindue på PROD med start klokken 18:40 (eller snarest derefter) og 4 timer frem. Servicevinduet sker på baggrund af et uforholdsmæssigt stort load, og derfor bliver kapacitet på load balancer udvidet. 
+
+Anvendere kan i tidsrummet opleve kort nedetid på tjenester.
+
+Der vil i hele tidsrummet være nedetid på dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Dokumentation, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
