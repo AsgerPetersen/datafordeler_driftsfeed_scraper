@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-10T07:23:56Z</updated>
+  <updated>2026-09-10T12:07:39Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -39,6 +39,50 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
+    <id>78587</id>
+    <title
+      type="text">PROD servicevindue mandag den 28. september fra klokken 17:30 til klokken 19:30</title>
+    <updated>2026-09-10T12:07:09Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/78587" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 28. september fra klokken 17:30 til klokken 19:30
+
+Der er planlagt servicevindue på PROD mandag den 28. september 2026 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 78587&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>78589</id>
+    <title
+      type="text">PROD servicevindue torsdag den 24. september fra klokken 18:00 til klokken 21:30</title>
+    <updated>2026-09-10T11:41:34Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/78589" />
+    <content
+      type="text">Besked: PROD servicevindue torsdag den 24. september fra klokken 18:00 til klokken 21:30
+
+Der er planlagt servicevindue på PROD torsdag den 24. september fra klokken 18:00 til klokken 21:30.
+
+Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), hændelser og dataopdatering, samt på Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 78589&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>78575</id>
     <title
       type="text">PROD ekstraordinært servicevindue onsdag 9. september fra 18.40-22.40</title>
@@ -60,6 +104,30 @@ Status: Gennemført&#xD;
 Sagsreference: 78575&#xD;
 Periode start: 9/9/2026 4:40:00 PM&#xD;
 Periode slut: 9/9/2026 8:40:00 PM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>78588</id>
+    <title
+      type="text">Test04 og Test06 servicevindue onsdag den 23. september fra klokken 17:00 til klokken 02:00</title>
+    <updated>2026-09-10T12:07:39Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/78588" />
+    <content
+      type="text">Besked: Test04 og Test06 servicevindue onsdag den 23. september fra klokken 17:00 til klokken 02:00
+
+Der er planlagt servicevindue på Test04 og Test06, onsdag den 23. september 2026 fra klokken 17:00 til klokken 02:00.
+
+Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+
+Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 78588&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
