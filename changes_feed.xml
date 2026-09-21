@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-09-02T07:26:07Z</updated>
+  <updated>2026-09-21T11:48:31Z</updated>
   <entry>
     <id>76551</id>
     <title
@@ -177,6 +177,29 @@ Service: Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 69338&#xD;
 Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79225</id>
+    <title
+      type="text">Ændring på CPR GraphQL CprCustomPublicSector 9. november 2026</title>
+    <updated>2026-09-21T11:48:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/79225" />
+    <content
+      type="text">Besked: Ændring på CPR GraphQL CprCustomPublicSector 9. november 2026
+
+Den 9. november 2026 bliver det muligt at filtrere på darAdresse med "equals"-operatoren og "in"-operatoren i CPRs GraphQL-tjeneste CprCustomPublicSector.
+
+Anvendere skal være opmærksom på, at ændringen kun bliver udstillet i version 5 af GraphQL-tjenesten.
+
+Version 5 af CprCustomPublicSector bliver lagt på Test06 den 22. september 2026.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79225&#xD;
+Tidsangivelse: 9. november 2026&#xD;
 </content>
   </entry>
   <entry>

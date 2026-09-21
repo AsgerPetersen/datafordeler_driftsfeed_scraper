@@ -129,29 +129,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>78805</id>
-    <title
-      type="text">Fejl i enkelte områder for Punktskydata fra 2024</title>
-    <updated>2026-09-18T06:53:46Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/78805" />
-    <content
-      type="text">Besked: Fejl i enkelte områder for Punktskydata fra 2024
-
-18.09.2026: Fejlen er løst.
-
-11.09.2026: Der er en fejl i Punktskydata fra Danmarks Højdemodel (DHM).
-
-Anvendere, som henter data fra de områder, der er blevet laserscannet i 2024 (størstedelen af Sjælland, Bornholm og enkelte dele af Sønderjylland), vil i øjeblikket opleve at modtage forældede data fra 2019 i stedet for 2024 målinger.
-
-Fejlen forventes at være løst den 23. september 2026.&#xD;
-Register: Danmarks Højdemodel&#xD;
-Status: Løst&#xD;
-Sagsreference: 78805&#xD;
-</content>
-  </entry>
-  <entry>
     <id>78219</id>
     <title
       type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
