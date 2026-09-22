@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-21T07:53:11Z</updated>
+  <updated>2026-09-22T12:11:53Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -64,7 +64,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>78961</id>
     <title
       type="text">Test06 servicevindue tirsdag den 22. september fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-09-21T07:53:11Z</updated>
+    <updated>2026-09-22T12:11:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78961" />
@@ -76,7 +76,7 @@ Der er planlagt servicevindue på Test06 tirsdag den 22. september 2026 fra klok
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering og hændelser, og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 78961&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
