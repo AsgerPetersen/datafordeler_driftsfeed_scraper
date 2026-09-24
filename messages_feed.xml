@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-22T12:11:53Z</updated>
+  <updated>2026-09-24T08:25:58Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -39,6 +39,29 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
+    <id>79308</id>
+    <title
+      type="text">Varsel om ophør af adgang til CPR’s tjenester og entiteter i Test06</title>
+    <updated>2026-09-24T07:40:43Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79308" />
+    <content
+      type="text">Besked: Varsel om ophør af adgang til CPR’s tjenester og entiteter i Test06
+
+CPR-administrationen har valgt at nedlægge ekstern anvendelse af CPR’s data i Test06, og derfor inddrages myndighedernes adgang til CPR’s tjenester og entiteter i Test06.
+
+Dato for ophør af adgang: 23. oktober 2026
+
+Anvendere kan få adgang til Datafordelerens Test04 efter ansøgning. CPR-administrationen vil bestræbe sig på hurtig behandling af en sådan ansøgning.
+
+Yderligere oplysninger kan eventuelt indhentes hos CPR-kontoret: https://cpr.dk/csd&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Status: I gang&#xD;
+Sagsreference: 79308&#xD;
+</content>
+  </entry>
+  <entry>
     <id>78587</id>
     <title
       type="text">PROD servicevindue mandag den 28. september fra klokken 17:30 til klokken 19:30</title>
@@ -56,28 +79,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 78587&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>78961</id>
-    <title
-      type="text">Test06 servicevindue tirsdag den 22. september fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-09-22T12:11:53Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/78961" />
-    <content
-      type="text">Besked: Test06 servicevindue tirsdag den 22. september fra klokken 10:00 til klokken 15:00
-
-Der er planlagt servicevindue på Test06 tirsdag den 22. september 2026 fra klokken 10:00 til klokken 15:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering og hændelser, og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 78961&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -108,7 +109,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>78588</id>
     <title
       type="text">Test04 og Test06 servicevindue onsdag den 23. september fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-09-10T12:07:39Z</updated>
+    <updated>2026-09-24T08:25:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78588" />
@@ -122,7 +123,7 @@ Test-miljøerne vil være utilgængelige i hele perioden både på webservices, 
 Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 78588&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
