@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-24T08:25:58Z</updated>
+  <updated>2026-09-24T11:19:53Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -79,6 +79,28 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 78587&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79284</id>
+    <title
+      type="text">Test06 servicevindue torsdag den 1. oktober fra klokken 10:00 til klokken 15:00</title>
+    <updated>2026-09-24T11:19:53Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79284" />
+    <content
+      type="text">Besked: Test06 servicevindue torsdag den 1. oktober fra klokken 10:00 til klokken 15:00
+
+Der er planlagt servicevindue på Test06 torsdag den 1. oktober 2026 fra klokken 10:00 til klokken 15:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79284&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
