@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-09-21T11:48:31Z</updated>
+  <updated>2026-09-28T07:28:37Z</updated>
   <entry>
     <id>76551</id>
     <title
@@ -28,6 +28,40 @@ Service: Webservice&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 76551&#xD;
 Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79418</id>
+    <title
+      type="text">Nedlukning af versioner for GraphQL-tjenester og Fildownload på Datafordeleren i april 2027</title>
+    <updated>2026-09-28T07:28:37Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/79418" />
+    <content
+      type="text">Besked: Nedlukning af versioner for GraphQL-tjenester og Fildownload på Datafordeleren i april 2027
+
+I april 2027 bliver nogle versioner for GraphQL-tjenester og Fildownload lukket på Datafordeleren. Endelig dato for lukning af versioner bliver udmeldt senere. Anvendere er anbefalet at være overgået til nyeste versioner senest 1. april 2027.
+
+Som anvender skal du derfor benytte eller eventuelt omstille til de nyeste versioner af tjenester og filer. Det er allerede nu muligt at benytte eller omstille til de nyeste versioner.
+
+ 
+
+Der er planlagt nedlukning af følgende versioner:
+
+For entitetsbaserede GraphQL-tjenester er det version 2 af BBR, DAR og MAT. Nyeste version er version 3.
+
+For custom GraphQL-tjenester er det version 1, 2 og 3 af tjenesterne CPRCustom_PublicSectorPerson og CPRCustom_PrivateSectorPerson. Nyeste version er version 4.
+
+For Fleksibel Opslagslogik er det version 1 og 2 for metoderne Flexible og FlexibleCurrent. Nyeste version er version 3.
+
+For entitetsbaserede fildownload er det DAGI version 1 og 3 som lukker, samt version 3 for Danske Stednavne, DHM Oprindelse, Fikspunkter, GeoDanmark Vektor og Matriklen. Nyeste version er version 4.
+
+Læs mere om versioner af tjenester&#xD;
+Register: Alle&#xD;
+Status: Forventet&#xD;
+Sagsreference: 79418&#xD;
+Tidsangivelse: April 2027&#xD;
 </content>
   </entry>
   <entry>
