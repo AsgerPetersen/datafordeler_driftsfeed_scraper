@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-25T08:58:56Z</updated>
+  <updated>2026-09-28T09:05:12Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -123,6 +123,28 @@ Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79393&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79445</id>
+    <title
+      type="text">Test04 servicevindue tirsdag den 29. september fra klokken 10:00 til klokken 13:30</title>
+    <updated>2026-09-28T09:05:12Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79445" />
+    <content
+      type="text">Besked: Test04 servicevindue tirsdag den 29. september fra klokken 10:00 til klokken 13:30
+
+Der er planlagt servicevindue på Test04 tirsdag den 29. september 2026 fra klokken 10:00 til klokken 13:30.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), dataopdatering, hændelser og testmiljøet Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79445&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
