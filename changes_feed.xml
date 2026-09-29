@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-09-28T07:28:37Z</updated>
+  <updated>2026-09-29T12:01:45Z</updated>
   <entry>
     <id>76551</id>
     <title
@@ -83,6 +83,29 @@ Service: Webservice&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 76438&#xD;
 Tidsangivelse: 27. august 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79493</id>
+    <title
+      type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 9. november 2026</title>
+    <updated>2026-09-29T12:01:45Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/79493" />
+    <content
+      type="text">Besked: Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 9. november 2026
+
+Den 9. november 2026 bliver de historiske DHM Højdekurver DHM2007, DHM2015 og DHM2023 tilgængelig som entitetsbaserede fildownload. 
+
+De historiske fildownload bliver udstillet i GeoPackage-format.
+
+Ændringen er lagt på Test06 den 22. september 2026&#xD;
+Register: Danmarks Højdemodel&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79493&#xD;
+Tidsangivelse: 9. november 2026&#xD;
 </content>
   </entry>
   <entry>
