@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-09-28T09:05:12Z</updated>
+  <updated>2026-09-29T05:14:00Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -65,7 +65,7 @@ Sagsreference: 79308&#xD;
     <id>78587</id>
     <title
       type="text">PROD servicevindue mandag den 28. september fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-09-10T12:07:09Z</updated>
+    <updated>2026-09-29T05:14:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78587" />
@@ -77,7 +77,7 @@ Der er planlagt servicevindue på PROD mandag den 28. september 2026 klokken 17:
 Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
 Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 78587&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -145,28 +145,6 @@ Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79445&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>78589</id>
-    <title
-      type="text">PROD servicevindue torsdag den 24. september fra klokken 18:00 til klokken 21:30</title>
-    <updated>2026-09-25T05:30:28Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/78589" />
-    <content
-      type="text">Besked: PROD servicevindue torsdag den 24. september fra klokken 18:00 til klokken 21:30
-
-Der er planlagt servicevindue på PROD torsdag den 24. september fra klokken 18:00 til klokken 21:30.
-
-Der vil i tidsrummet være nedetid på webservices, Fildownload (HTTPS), hændelser og dataopdatering, samt på Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 78589&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
