@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-01T08:34:55Z</updated>
+  <updated>2026-10-01T10:21:16Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -84,23 +84,23 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>79393</id>
+    <id>79705</id>
     <title
-      type="text">Test04 og Test06 servicevindue onsdag den 30. september fra klokken 17:00 til klokken 22:00</title>
-    <updated>2026-10-01T06:49:21Z</updated>
+      type="text">Test04 og Test06 servicevindue torsdag den 1. oktober fra klokken 19:00 til klokken 23:55</title>
+    <updated>2026-10-01T10:21:16Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79393" />
+      href="https://datafordeler.dk/drift/meddelelser/79705" />
     <content
-      type="text">Besked: Test04 og Test06 servicevindue onsdag den 30. september fra klokken 17:00 til klokken 22:00
+      type="text">Besked: Test04 og Test06 servicevindue torsdag den 1. oktober fra klokken 19:00 til klokken 23:55
 
-Der er planlagt servicevindue på Test04 og Test06 onsdag den 30. september 2026 fra klokken 17:00 til klokken 22:00.
+Der er planlagt servicevindue på Test04 og Test06 torsdag den 1. oktober 2026 fra klokken 19:00 til klokken 23:55.
 
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79393&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79705&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
