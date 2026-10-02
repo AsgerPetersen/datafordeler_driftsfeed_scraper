@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-01T10:21:16Z</updated>
+  <updated>2026-10-02T06:45:52Z</updated>
   <entry>
     <id>75014</id>
     <title
@@ -65,7 +65,7 @@ Sagsreference: 79308&#xD;
     <id>79284</id>
     <title
       type="text">Test06 servicevindue torsdag den 1. oktober fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-10-01T08:34:55Z</updated>
+    <updated>2026-10-02T06:45:52Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79284" />
@@ -77,7 +77,7 @@ Der er planlagt servicevindue på Test06 torsdag den 1. oktober 2026 fra klokken
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), hændelser, dataopdatering og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 79284&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -87,7 +87,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79705</id>
     <title
       type="text">Test04 og Test06 servicevindue torsdag den 1. oktober fra klokken 19:00 til klokken 23:55</title>
-    <updated>2026-10-01T10:21:16Z</updated>
+    <updated>2026-10-02T06:43:02Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79705" />
@@ -99,7 +99,7 @@ Der er planlagt servicevindue på Test04 og Test06 torsdag den 1. oktober 2026 f
 Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 79705&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -170,28 +170,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 78219&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>74822</id>
-    <title
-      type="text">DHM Højdekurver Fildownload er tilgængeligt i GPKG</title>
-    <updated>2026-09-30T07:17:46Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/74822" />
-    <content
-      type="text">Besked: DHM Højdekurver Fildownload er tilgængeligt i GPKG
-
-30.09.2026: DHM Højdekurver Fildownload er nu også tilgængeligt i GML.
-
-07.09.2026: DHM Højdekurver Fildownload er tilgængeligt i GPKG. Der bliver arbejdet på at få GML klar.
-
-15.06.2026: DHM Højdekurver Fildownload er utilgængeligt. Det er muligt at hente højdekurver via DHM Højdekurver GraphQL eller DHM Højdekurver WFS. Der bliver arbejdet på at gøre DHM Højdekurver tilgængeligt via Fildownload.&#xD;
-Register: Danmarks Højdemodel&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 74822&#xD;
 </content>
   </entry>
 </feed>
