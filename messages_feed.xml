@@ -6,7 +6,27 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-02T06:45:52Z</updated>
+  <updated>2026-10-05T12:44:22Z</updated>
+  <entry>
+    <id>79758</id>
+    <title
+      type="text">Skærmkortet er opdateret i oktober 2026</title>
+    <updated>2026-10-05T12:44:22Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79758" />
+    <content
+      type="text">Besked: Skærmkortet er opdateret i oktober 2026
+
+Nyeste opdatering til Skærmkortet er tilgængelig den 9. oktober 2026.
+
+Skærmkortsopdateringen er tilgængelig på WMS, WMTS og fildownload.&#xD;
+Register: Skærmkortet&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 79758&#xD;
+</content>
+  </entry>
   <entry>
     <id>75014</id>
     <title
@@ -59,50 +79,6 @@ Yderligere oplysninger kan eventuelt indhentes hos CPR-kontoret: https://cpr.dk/
 Register: Det Centrale Personregister (CPR)&#xD;
 Status: I gang&#xD;
 Sagsreference: 79308&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79284</id>
-    <title
-      type="text">Test06 servicevindue torsdag den 1. oktober fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-10-02T06:45:52Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79284" />
-    <content
-      type="text">Besked: Test06 servicevindue torsdag den 1. oktober fra klokken 10:00 til klokken 15:00
-
-Der er planlagt servicevindue på Test06 torsdag den 1. oktober 2026 fra klokken 10:00 til klokken 15:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS), hændelser, dataopdatering og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79284&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79705</id>
-    <title
-      type="text">Test04 og Test06 servicevindue torsdag den 1. oktober fra klokken 19:00 til klokken 23:55</title>
-    <updated>2026-10-02T06:43:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79705" />
-    <content
-      type="text">Besked: Test04 og Test06 servicevindue torsdag den 1. oktober fra klokken 19:00 til klokken 23:55
-
-Der er planlagt servicevindue på Test04 og Test06 torsdag den 1. oktober 2026 fra klokken 19:00 til klokken 23:55.
-
-Der vil i tidsrummet være nedetid i testmiljøet på webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79705&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
