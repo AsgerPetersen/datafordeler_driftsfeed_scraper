@@ -6,12 +6,12 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-07T11:22:31Z</updated>
+  <updated>2026-10-08T11:29:47Z</updated>
   <entry>
     <id>79758</id>
     <title
       type="text">Skærmkortet er opdateret i oktober 2026</title>
-    <updated>2026-10-05T12:44:22Z</updated>
+    <updated>2026-10-08T11:29:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79758" />
@@ -23,8 +23,28 @@ Nyeste opdatering til Skærmkortet er tilgængelig den 9. oktober 2026.
 Skærmkortsopdateringen er tilgængelig på WMS, WMTS og fildownload.&#xD;
 Register: Skærmkortet&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 79758&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79922</id>
+    <title
+      type="text">Filudtræk kun tilgængelige i Selvbetjeningen efter 29. oktober</title>
+    <updated>2026-10-08T08:26:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79922" />
+    <content
+      type="text">Besked: Filudtræk kun tilgængelige i Selvbetjeningen efter 29. oktober
+
+Efter 29. oktober 2026 er det ikke længere muligt at oprette abonnement på Filudtræk via Dataoversigten på datafordeler.dk. Det er stadig muligt at benytte selfservice.datafordeler.dk. 
+
+Filudtræk bliver udfaset pr. 15. januar 2027, og vi anbefaler at hente data via Fildownload og GraphQL med API-key eller OAuth.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: I gang&#xD;
+Sagsreference: 79922&#xD;
 </content>
   </entry>
   <entry>
@@ -59,23 +79,21 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
-    <id>79886</id>
+    <id>79926</id>
     <title
-      type="text">Forsinkelse på Delta Fildownload fra CPR og Ejerfortegnelsen</title>
-    <updated>2026-10-07T09:12:33Z</updated>
+      type="text">Forsinkelser på opdateringer i CPR Fildownload og GraphQL</title>
+    <updated>2026-10-08T11:22:52Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79886" />
+      href="https://datafordeler.dk/drift/meddelelser/79926" />
     <content
-      type="text">Besked: Forsinkelse på Delta Fildownload fra CPR og Ejerfortegnelsen
+      type="text">Besked: Forsinkelser på opdateringer i CPR Fildownload og GraphQL
 
-07.10.2026: Der er i øjeblikket mange, som opretter kreditadvarsel i CPR. Det medfører mange opdateringer i Datafordeleren. Derfor er Delta Fildownload på CPR og de entiteter på Ejerfortegnelsen, der indeholder personoplysninger, forsinket. Der bliver arbejdet på at gennemføre kørslerne.
-
-Det er stadig muligt at hente opdaterede data på CPR og Ejerfortegnelsen via GraphQL for allerede godkendte anvendere. &#xD;
-Register: Det Centrale Personregister (CPR), Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
+Anvenderne kan fortsat opleve forsinkelser på opdateringer i CPR Fildownload og GraphQL. Der bliver arbejdet på at indlæse data. Vi opdaterer status på meddelelsen cirka klokken 16.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Dataopdatering&#xD;
 Status: I gang&#xD;
-Sagsreference: 79886&#xD;
+Sagsreference: 79926&#xD;
 </content>
   </entry>
   <entry>
@@ -102,10 +120,56 @@ Sagsreference: 79308&#xD;
 </content>
   </entry>
   <entry>
+    <id>79909</id>
+    <title
+      type="text">PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30</title>
+    <updated>2026-10-08T08:56:07Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79909" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30
+
+Der er planlagt servicevindue på PROD mandag den 26. oktober 2026 klokken 17:30 til klokken 19:30.
+
+Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79909&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79907</id>
+    <title
+      type="text">Test04 og Test06 servicevindue onsdag den 21. oktober fra klokken 17:00 til klokken 02:00</title>
+    <updated>2026-10-08T09:01:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79907" />
+    <content
+      type="text">Besked: Test04 og Test06 servicevindue onsdag den 21. oktober fra klokken 17:00 til klokken 02:00
+
+Der er planlagt servicevindue på Test04 og Test06, onsdag den 21. oktober 2026 fra klokken 17:00 til klokken 02:00.
+
+Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
+
+Dataopdatering og hændelser på test-miljøerne vil i hele tidsrummet være sat på pause.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 79907&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>79582</id>
     <title
       type="text">PROD servicevindue onsdag den 7. oktober fra klokken 17:00 til klokken 22:00</title>
-    <updated>2026-09-30T12:58:12Z</updated>
+    <updated>2026-10-08T04:48:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79582" />
@@ -117,7 +181,7 @@ Der er planlagt servicevindue på PROD onsdag den 7. oktober 2026 klokken 17:00 
 Anvendere kan i tidsrummet opleve nedetid på webservices, GraphQL-tjenester og Fildownload (HTTPS), samt på Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 79582&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
@@ -127,12 +191,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-01T06:53:19Z</updated>
+    <updated>2026-10-08T07:47:33Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00
+
+08.10.2026: Sammenstillede EJF fildownload og hændelser er tilføjet til påvirkningen mellem den 13. og 14. oktober.
 
 Der er planlagt servicevindue på PROD tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00.
 
@@ -140,7 +206,7 @@ Anvendere kan i tidsrummet tirsdag den 13. oktober 2026 klokken 17:00 til torsda
 
 Der vil i tidsrummet tirsdag den 13. oktober klokken 20:00 til klokken 22:00 være nedetid på webservices, GraphQL-tjenester og Datafordeler Administration.
 
-Der vil i tidsrummet tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00 være nedetid på Filudtræk (FTP) og Fildownload (HTTPS), samt på dataopdatering. Det vil sige at der ikke vil blive genereret deltadownload natten til den 14. oktober 2026. Deltadownload der bliver genereret natten til torsdag den 15. oktober 2026 vil indeholde opdateringerne fra perioden.
+Der vil i tidsrummet tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00 være nedetid på Filudtræk (FTP) og Fildownload (HTTPS), samt på dataopdatering og hændelser. Det vil sige at der ikke vil blive genereret deltadownload eller sammenstillede EJF fildownload natten til den 14. oktober 2026. Deltadownload og sammenstillede EJF fildownload der bliver genereret natten til torsdag den 15. oktober 2026 vil indeholde opdateringerne fra perioden.
 
 Det er muligt at hente Filudtræk (FTP) og Fildownload (HTTPS), som er genereret før servicevinduet, men anvendere kan opleve længere svartid.&#xD;
 Register: Alle&#xD;
@@ -198,6 +264,24 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 78219&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>79911</id>
+    <title
+      type="text">Forsinket opdatering af delta Fildownload for alle registre</title>
+    <updated>2026-10-08T08:26:58Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79911" />
+    <content
+      type="text">Besked: Forsinket opdatering af delta Fildownload for alle registre
+
+08.10.2026: Der er ikke genereret delta Fildownloads på tværs af alle registre natten til torsdag 08.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads bliver forventet opdateret natten til fredag den 09.10.2026. &#xD;
+Register: Alle&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 79911&#xD;
 </content>
   </entry>
 </feed>
