@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-08T11:29:47Z</updated>
+  <updated>2026-10-08T15:25:23Z</updated>
   <entry>
     <id>79758</id>
     <title
@@ -82,14 +82,18 @@ Sagsreference: 75014&#xD;
     <id>79926</id>
     <title
       type="text">Forsinkelser på opdateringer i CPR Fildownload og GraphQL</title>
-    <updated>2026-10-08T11:22:52Z</updated>
+    <updated>2026-10-08T15:25:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79926" />
     <content
       type="text">Besked: Forsinkelser på opdateringer i CPR Fildownload og GraphQL
 
-Anvenderne kan fortsat opleve forsinkelser på opdateringer i CPR Fildownload og GraphQL. Der bliver arbejdet på at indlæse data. Vi opdaterer status på meddelelsen cirka klokken 16.&#xD;
+08.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer vil der ikke blive genereret CPR Fildownload i nat. Vi opdaterer meddelelsen med en ny status fredag. Denne opdatering forventes også at indeholde en status for, hvornår CPR-data på Datafordeleren er fuldt opdaterede.
+
+08.10.2026 klokken 15:30: Anvendere kan fortsat opleve forsinkelser på opdateringer i CPR Fildownload og GraphQL. Fildownload er senest opdateret 06.10.2026 klokken 18:02. GraphQL er senest opdateret 08.10.2026 klokken 01:19.
+
+Bemærk, at der en stor mængde opdateringer, og det kan være nødvendigt at hente data i flere omgange for at undgå, at et kald får timeout. For eksempel ved at filtrere på kortere perioder for hændelser.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
