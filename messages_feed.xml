@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-09T09:45:13Z</updated>
+  <updated>2026-10-09T15:04:00Z</updated>
   <entry>
     <id>79758</id>
     <title
@@ -82,12 +82,16 @@ Sagsreference: 75014&#xD;
     <id>79926</id>
     <title
       type="text">Forsinkelser på opdateringer i CPR Fildownload og GraphQL</title>
-    <updated>2026-10-08T15:25:23Z</updated>
+    <updated>2026-10-09T15:03:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79926" />
     <content
       type="text">Besked: Forsinkelser på opdateringer i CPR Fildownload og GraphQL
+
+09.10.2026 klokken 17:00: Der vil fortsat være påvirkning på CPR Fildownload den kommende uge.
+
+CPR Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.
 
 08.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer vil der ikke blive genereret CPR Fildownload i nat. Vi opdaterer meddelelsen med en ny status fredag. Denne opdatering forventes også at indeholde en status for, hvornår CPR-data på Datafordeleren er fuldt opdaterede.
 
@@ -289,23 +293,21 @@ Sagsreference: 79936&#xD;
 </content>
   </entry>
   <entry>
-    <id>79911</id>
+    <id>79987</id>
     <title
-      type="text">Forsinket opdatering af delta Fildownload for alle registre</title>
-    <updated>2026-10-09T07:05:00Z</updated>
+      type="text">Forsinkelser i EJF Custom Fildownload</title>
+    <updated>2026-10-09T15:04:00Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79911" />
+      href="https://datafordeler.dk/drift/meddelelser/79987" />
     <content
-      type="text">Besked: Forsinket opdatering af delta Fildownload for alle registre
+      type="text">Besked: 09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.
 
-09.10.2026 klokken 09:00: Alle delta Fildownloads er succesfuldt genereret i nat, med undtagelse af CPR. Grundet manglende CPR er der heller ikke genereret EJFCustom Fildownloads. Der henvises til driftsmeddelelsen om CPR for status på denne.
-
-08.10.2026: Der er ikke genereret delta Fildownloads på tværs af alle registre natten til torsdag 08.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads bliver forventet opdateret natten til fredag den 09.10.2026. &#xD;
-Register: Alle&#xD;
+EJF Custom Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 79911&#xD;
+Status: I gang&#xD;
+Sagsreference: 79987&#xD;
 </content>
   </entry>
 </feed>
