@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-08T15:25:23Z</updated>
+  <updated>2026-10-09T09:45:13Z</updated>
   <entry>
     <id>79758</id>
     <title
@@ -271,20 +271,40 @@ Sagsreference: 78219&#xD;
 </content>
   </entry>
   <entry>
+    <id>79936</id>
+    <title
+      type="text">Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT</title>
+    <updated>2026-10-09T09:45:13Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/79936" />
+    <content
+      type="text">Besked: Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT
+
+09.10.2026: Der er ikke genereret delta Fildownloads for registrene BBR, DAR, GeoDKV og MAT natten til fredag den 09.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads for disse registre forventes opdateret natten til lørdag den 10.10.2026. &#xD;
+Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), GeoDanmark Vektor, Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: I gang&#xD;
+Sagsreference: 79936&#xD;
+</content>
+  </entry>
+  <entry>
     <id>79911</id>
     <title
       type="text">Forsinket opdatering af delta Fildownload for alle registre</title>
-    <updated>2026-10-08T08:26:58Z</updated>
+    <updated>2026-10-09T07:05:00Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79911" />
     <content
       type="text">Besked: Forsinket opdatering af delta Fildownload for alle registre
 
+09.10.2026 klokken 09:00: Alle delta Fildownloads er succesfuldt genereret i nat, med undtagelse af CPR. Grundet manglende CPR er der heller ikke genereret EJFCustom Fildownloads. Der henvises til driftsmeddelelsen om CPR for status på denne.
+
 08.10.2026: Der er ikke genereret delta Fildownloads på tværs af alle registre natten til torsdag 08.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads bliver forventet opdateret natten til fredag den 09.10.2026. &#xD;
 Register: Alle&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 79911&#xD;
 </content>
   </entry>
