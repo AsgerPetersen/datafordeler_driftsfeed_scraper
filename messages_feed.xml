@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-09T15:04:00Z</updated>
+  <updated>2026-10-12T15:02:20Z</updated>
   <entry>
     <id>79758</id>
     <title
@@ -45,6 +45,28 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 79922&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>80104</id>
+    <title
+      type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
+    <updated>2026-10-12T15:02:20Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80104" />
+    <content
+      type="text">Besked: Status på CPR dataopdateringer via GraphQL
+
+12.10.2026 klokken 17:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Ny status i morgen senest klokken 13:00.
+
+12.10.2026 klokken 14:45: Anvendere kan fortsat opleve forsinkelser på opdaterede CPR data via GraphQL. Aktuelt er forsinkelsen på ca. et døgn.
+
+Næste ny status i dag senest kl. 18.&#xD;
+Register: Det Centrale Personregister (CPR)&#xD;
+Service: Webservice&#xD;
+Status: I gang&#xD;
+Sagsreference: 80104&#xD;
 </content>
   </entry>
   <entry>
@@ -278,17 +300,19 @@ Sagsreference: 78219&#xD;
     <id>79936</id>
     <title
       type="text">Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT</title>
-    <updated>2026-10-09T09:45:13Z</updated>
+    <updated>2026-10-12T08:58:06Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79936" />
     <content
       type="text">Besked: Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT
 
+12.10.2026: Problemet er løst.
+
 09.10.2026: Der er ikke genereret delta Fildownloads for registrene BBR, DAR, GeoDKV og MAT natten til fredag den 09.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads for disse registre forventes opdateret natten til lørdag den 10.10.2026. &#xD;
 Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), GeoDanmark Vektor, Matriklen (MAT)&#xD;
 Service: Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 79936&#xD;
 </content>
   </entry>
@@ -296,12 +320,14 @@ Sagsreference: 79936&#xD;
     <id>79987</id>
     <title
       type="text">Forsinkelser i EJF Custom Fildownload</title>
-    <updated>2026-10-09T15:04:00Z</updated>
+    <updated>2026-10-12T08:48:12Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79987" />
     <content
-      type="text">Besked: 09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.
+      type="text">Besked: Forsinkelser i EJF Custom Fildownload
+
+09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.
 
 EJF Custom Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
