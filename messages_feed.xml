@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-13T10:58:21Z</updated>
+  <updated>2026-10-13T12:58:42Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -31,7 +31,7 @@ Sagsreference: 79922&#xD;
     <id>80104</id>
     <title
       type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
-    <updated>2026-10-13T10:58:21Z</updated>
+    <updated>2026-10-13T12:58:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80104" />
@@ -42,9 +42,7 @@ Sagsreference: 79922&#xD;
 
 12.10.2026 klokken 17:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Ny status i morgen senest klokken 13:00.
 
-12.10.2026 klokken 14:45: Anvendere kan fortsat opleve forsinkelser på opdaterede CPR data via GraphQL. Aktuelt er forsinkelsen på ca. et døgn.
-
-Næste ny status i dag senest kl. 18.&#xD;
+12.10.2026 klokken 14:45: Anvendere kan fortsat opleve forsinkelser på opdaterede CPR data via GraphQL. Aktuelt er forsinkelsen på cirka et døgn.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: I gang&#xD;
@@ -181,7 +179,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-13T10:50:13Z</updated>
+    <updated>2026-10-13T12:04:51Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
@@ -194,7 +192,7 @@ Nedetid: som tidligere meldt ud vil der tirsdag den 13. oktober klokken 16:00 ti
 
 	Dataopdatering og Hændelser,
 	Filudtræk (FTP) og Fildownload (HTTPS),
-	Webservices, GraphQL-tjenester og Datafordeler Administration den 13. oktober klokken 20:00 til klokken 22:00.
+	13. oktober klokken 20:00 til klokken 22:00 nedetid på Webservices, GraphQL-tjenester og Datafordeler Administration 
 
 
 
