@@ -6,27 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-12T15:02:20Z</updated>
-  <entry>
-    <id>79758</id>
-    <title
-      type="text">Skærmkortet er opdateret i oktober 2026</title>
-    <updated>2026-10-08T11:29:47Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79758" />
-    <content
-      type="text">Besked: Skærmkortet er opdateret i oktober 2026
-
-Nyeste opdatering til Skærmkortet er tilgængelig den 9. oktober 2026.
-
-Skærmkortsopdateringen er tilgængelig på WMS, WMTS og fildownload.&#xD;
-Register: Skærmkortet&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 79758&#xD;
-</content>
-  </entry>
+  <updated>2026-10-13T10:58:21Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -51,12 +31,14 @@ Sagsreference: 79922&#xD;
     <id>80104</id>
     <title
       type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
-    <updated>2026-10-12T15:02:20Z</updated>
+    <updated>2026-10-13T10:58:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80104" />
     <content
       type="text">Besked: Status på CPR dataopdateringer via GraphQL
+
+13.10.2026 klokken 13:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Indlæsningen sættes på pause i det planlagte servicevindue tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00.
 
 12.10.2026 klokken 17:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Ny status i morgen senest klokken 13:00.
 
@@ -196,49 +178,29 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>79582</id>
-    <title
-      type="text">PROD servicevindue onsdag den 7. oktober fra klokken 17:00 til klokken 22:00</title>
-    <updated>2026-10-08T04:48:34Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79582" />
-    <content
-      type="text">Besked: PROD servicevindue onsdag den 7. oktober fra klokken 17:00 til klokken 22:00
-
-Der er planlagt servicevindue på PROD onsdag den 7. oktober 2026 klokken 17:00 til klokken 22:00.
-
-Anvendere kan i tidsrummet opleve nedetid på webservices, GraphQL-tjenester og Fildownload (HTTPS), samt på Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79582&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-08T07:47:33Z</updated>
+    <updated>2026-10-13T10:50:13Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00
 
-08.10.2026: Sammenstillede EJF fildownload og hændelser er tilføjet til påvirkningen mellem den 13. og 14. oktober.
+13.10.2026 klokken 13:00:
 
-Der er planlagt servicevindue på PROD tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00.
+Nedetid: som tidligere meldt ud vil der tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00 være nedetid på:
 
-Anvendere kan i tidsrummet tirsdag den 13. oktober 2026 klokken 17:00 til torsdag den 15. oktober klokken 07:00 opleve længere svartider på webservices, GraphQL-tjenester, Filudtræk (FTP) og Fildownload (HTTPS).
+	Dataopdatering og Hændelser,
+	Filudtræk (FTP) og Fildownload (HTTPS),
+	Webservices, GraphQL-tjenester og Datafordeler Administration den 13. oktober klokken 20:00 til klokken 22:00.
 
-Der vil i tidsrummet tirsdag den 13. oktober klokken 20:00 til klokken 22:00 være nedetid på webservices, GraphQL-tjenester og Datafordeler Administration.
 
-Der vil i tidsrummet tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00 være nedetid på Filudtræk (FTP) og Fildownload (HTTPS), samt på dataopdatering og hændelser. Det vil sige at der ikke vil blive genereret deltadownload eller sammenstillede EJF fildownload natten til den 14. oktober 2026. Deltadownload og sammenstillede EJF fildownload der bliver genereret natten til torsdag den 15. oktober 2026 vil indeholde opdateringerne fra perioden.
 
-Det er muligt at hente Filudtræk (FTP) og Fildownload (HTTPS), som er genereret før servicevinduet, men anvendere kan opleve længere svartid.&#xD;
+Under servicevinduet vil der kunne opleves længere svartider på webservices, GraphQL-tjenester, Filudtræk (FTP) og Fildownload (HTTPS).
+
+Det er muligt at hente Filudtræk (FTP) og Fildownload (HTTPS), som er genereret før servicevinduet. Deltadownload genereres torsdag den 15. oktober 2026 og vil indeholde servicevindue-periodens opdateringer.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
@@ -294,26 +256,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 78219&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79936</id>
-    <title
-      type="text">Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT</title>
-    <updated>2026-10-12T08:58:06Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79936" />
-    <content
-      type="text">Besked: Forsinket opdatering af delta Fildownloads for BBR, DAR, GeoDKV og MAT
-
-12.10.2026: Problemet er løst.
-
-09.10.2026: Der er ikke genereret delta Fildownloads for registrene BBR, DAR, GeoDKV og MAT natten til fredag den 09.10.2026 på grund af en fejl i netværket. Alle delta Fildownloads for disse registre forventes opdateret natten til lørdag den 10.10.2026. &#xD;
-Register: Bygnings- og Boligregisteret (BBR), Danmarks Adresseregister (DAR), GeoDanmark Vektor, Matriklen (MAT)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 79936&#xD;
 </content>
   </entry>
   <entry>
