@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-14T11:28:22Z</updated>
+  <updated>2026-10-14T13:56:47Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -31,12 +31,14 @@ Sagsreference: 79922&#xD;
     <id>80104</id>
     <title
       type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
-    <updated>2026-10-13T12:58:42Z</updated>
+    <updated>2026-10-14T13:56:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80104" />
     <content
       type="text">Besked: Status på CPR dataopdateringer via GraphQL
+
+14.10.2026 klokken 16:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. CPR data via GraphQL forventes at være opdateret torsdag eftermiddag den 15.10.2026.
 
 13.10.2026 klokken 13:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Indlæsningen sættes på pause i det planlagte servicevindue tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00.
 
@@ -179,12 +181,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-14T11:28:22Z</updated>
+    <updated>2026-10-14T13:22:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00
+
+14.10.2026 klokken 15:30: 
+
+På grund af længere svartider under det igangværende servicevindue, lukkes for kald til DAR REST Husnummer v3.0.0, med anvendelsen af Nord, Syd, Øst og Vest parametrene, til servicevinduet er afsluttet den 15. oktober klokken 09:00.
 
 14.10.2026 klokken 13:00:
 
