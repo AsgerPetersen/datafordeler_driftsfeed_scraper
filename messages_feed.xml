@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-13T12:58:42Z</updated>
+  <updated>2026-10-14T03:47:35Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -179,7 +179,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-13T12:04:51Z</updated>
+    <updated>2026-10-14T03:47:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
@@ -201,7 +201,7 @@ Under servicevinduet vil der kunne opleves længere svartider på webservices, G
 Det er muligt at hente Filudtræk (FTP) og Fildownload (HTTPS), som er genereret før servicevinduet. Deltadownload genereres torsdag den 15. oktober 2026 og vil indeholde servicevindue-periodens opdateringer.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 79592&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
