@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-15T12:02:25Z</updated>
+  <updated>2026-10-15T12:40:19Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -85,13 +85,13 @@ Sagsreference: 75014&#xD;
   <entry>
     <id>79926</id>
     <title
-      type="text">Forsinkelser på opdateringer i CPR Fildownload og GraphQL</title>
-    <updated>2026-10-09T15:03:53Z</updated>
+      type="text">Forsinkelser på CPR opdateringer via Fildownload</title>
+    <updated>2026-10-15T12:40:19Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79926" />
     <content
-      type="text">Besked: Forsinkelser på opdateringer i CPR Fildownload og GraphQL
+      type="text">Besked: Forsinkelser på CPR opdateringer via Fildownload
 
 09.10.2026 klokken 17:00: Der vil fortsat være påvirkning på CPR Fildownload den kommende uge.
 
