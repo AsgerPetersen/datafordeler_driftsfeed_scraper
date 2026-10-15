@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-15T05:38:24Z</updated>
+  <updated>2026-10-15T12:02:25Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -181,12 +181,16 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>79592</id>
     <title
       type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-15T05:38:24Z</updated>
+    <updated>2026-10-15T07:41:10Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79592" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00
+
+15.10.2026 klokken 09:00:
+
+Servicevinduet er gennemført.
 
 14.10.2026 klokken 15:30: 
 
@@ -250,6 +254,79 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
+    <id>80148</id>
+    <title
+      type="text">Datafordeleren opdaterer servercertifikat på Test04 og Test06 20. oktober 2026</title>
+    <updated>2026-10-15T10:57:41Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80148" />
+    <content
+      type="text">Besked: Datafordeleren opdaterer servercertifikat på Test04 og Test06 20. oktober 2026
+
+Der er planlagt servicevindue på Datafordelerens testmiljøer tirsdag den 20. oktober fra klokken 9:00 til klokken 15:00.
+
+Anvendere kan i tidsrummet opleve længere svartider på testmiljøernes tjenester.
+
+I servicevinduet udskifter Datafordeleren servercertifikat. Det nye certifikat har ny certifikatudbyder, DigiCert i stedet for Sectigo. Certifikater kan findes på DigiCerts Knowledge Base.
+
+Anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
+
+Information om det nye certifikat:
+
+	GeoTrust Global G2 TLS EUR RSA4096 SHA384 2023 CA1
+
+
+
+ 
+
+Hvad skal du gøre?
+
+Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet, vil jeres kald til Datafordelerens services på testmiljøer fejle efter skiftet.&#xD;
+Register: Alle&#xD;
+Service: Selvbetjening&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 80148&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>80149</id>
+    <title
+      type="text">Datafordeleren opdaterer servercertifikat på PROD 2. november klokken 17:00 til klokken 22:00</title>
+    <updated>2026-10-15T12:02:25Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80149" />
+    <content
+      type="text">Besked: Datafordeleren opdaterer servercertifikat på PROD 2. november 2026 klokken 17:00 til klokken 22:00
+
+Der er planlagt servicevindue på PROD mandag den 2. november 2026 fra klokken 17:00 til klokken 22:00.
+
+I servicevinduet udskifter Datafordeleren servercertifikat. Det nye certifikat har ny certifikatudbyder, DigiCert i stedet for Sectigo. Certifikater kan findes på DigiCerts Knowledge Base.
+
+Anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
+
+Information om det nye certifikat:
+
+	GeoTrust Global G2 TLS EUR RSA4096 SHA384 2023 CA1
+
+
+
+ 
+
+Hvad skal du gøre?
+
+Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet senest mandag den 2. november 2026 klokken 17:00, vil jeres kald til Datafordelerens services på testmiljøer fejle efter skiftet.&#xD;
+Register: Alle&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 80149&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>78219</id>
     <title
       type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
@@ -284,6 +361,25 @@ Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 79987&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>80145</id>
+    <title
+      type="text">Manglende dataopdatering til Matriklen (MAT)</title>
+    <updated>2026-10-15T10:19:42Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80145" />
+    <content
+      type="text">Besked: Manglende dataopdatering til Matriklen (MAT)
+
+15.10.2026 klokken 12:00: Dataopdatering til Matriklen er stoppet. Data er sidst opdateret den 14.10.2026 klokken 13:10.
+Der arbejdes på at løse problemet som forventes løst i dag.&#xD;
+Register: Matriklen (MAT)&#xD;
+Service: Dataopdatering&#xD;
+Status: I gang&#xD;
+Sagsreference: 80145&#xD;
 </content>
   </entry>
 </feed>
