@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-15T12:40:19Z</updated>
+  <updated>2026-10-16T10:04:05Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -31,12 +31,16 @@ Sagsreference: 79922&#xD;
     <id>80104</id>
     <title
       type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
-    <updated>2026-10-14T13:56:47Z</updated>
+    <updated>2026-10-16T10:04:05Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80104" />
     <content
       type="text">Besked: Status på CPR dataopdateringer via GraphQL
+
+16.10.2026 klokken 11:00:
+CPR data via GraphQL er nu fuldt opdateret.
+Hen over weekenden – fra i aften den 16.10.2026 til mandag den 19.10.2026 -  kan der dog forekomme mindre forsinkelser mellem klokken 18:00 og 06:00 i den løbende opdatering af CPR via GraphQL. Forsinkelsen skyldes planlagt systemarbejde med CPR data.
 
 14.10.2026 klokken 16:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. CPR data via GraphQL forventes at være opdateret torsdag eftermiddag den 15.10.2026.
 
@@ -367,18 +371,20 @@ Sagsreference: 79987&#xD;
     <id>80145</id>
     <title
       type="text">Manglende dataopdatering til Matriklen (MAT)</title>
-    <updated>2026-10-15T10:19:42Z</updated>
+    <updated>2026-10-16T06:59:35Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80145" />
     <content
       type="text">Besked: Manglende dataopdatering til Matriklen (MAT)
 
+16.10.2026 klokken 09:00: Problemet med manglende dataopdatering blev løst 15.10.2026 og MAT data er igen fuldt opdateret.
+
 15.10.2026 klokken 12:00: Dataopdatering til Matriklen er stoppet. Data er sidst opdateret den 14.10.2026 klokken 13:10.
 Der arbejdes på at løse problemet som forventes løst i dag.&#xD;
 Register: Matriklen (MAT)&#xD;
 Service: Dataopdatering&#xD;
-Status: I gang&#xD;
+Status: Løst&#xD;
 Sagsreference: 80145&#xD;
 </content>
   </entry>
