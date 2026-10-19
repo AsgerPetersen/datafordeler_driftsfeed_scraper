@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-16T10:04:05Z</updated>
+  <updated>2026-10-19T13:47:54Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -90,22 +90,17 @@ Sagsreference: 75014&#xD;
     <id>79926</id>
     <title
       type="text">Forsinkelser på CPR opdateringer via Fildownload</title>
-    <updated>2026-10-15T12:40:19Z</updated>
+    <updated>2026-10-19T12:09:37Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79926" />
     <content
       type="text">Besked: Forsinkelser på CPR opdateringer via Fildownload
 
+19.10.2026 klokken 14:00: Der vil fortsat være påvirkning på CPR Fildownload i indeværende uge.
+
 09.10.2026 klokken 17:00: Der vil fortsat være påvirkning på CPR Fildownload den kommende uge.
-
-CPR Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.
-
-08.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer vil der ikke blive genereret CPR Fildownload i nat. Vi opdaterer meddelelsen med en ny status fredag. Denne opdatering forventes også at indeholde en status for, hvornår CPR-data på Datafordeleren er fuldt opdaterede.
-
-08.10.2026 klokken 15:30: Anvendere kan fortsat opleve forsinkelser på opdateringer i CPR Fildownload og GraphQL. Fildownload er senest opdateret 06.10.2026 klokken 18:02. GraphQL er senest opdateret 08.10.2026 klokken 01:19.
-
-Bemærk, at der en stor mængde opdateringer, og det kan være nødvendigt at hente data i flere omgange for at undgå, at et kald får timeout. For eksempel ved at filtrere på kortere perioder for hændelser.&#xD;
+CPR Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Dataopdatering&#xD;
 Status: I gang&#xD;
@@ -182,50 +177,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>79592</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00</title>
-    <updated>2026-10-15T07:41:10Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79592" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 13. oktober fra klokken 16:00 til torsdag den 15. oktober klokken 09:00
-
-15.10.2026 klokken 09:00:
-
-Servicevinduet er gennemført.
-
-14.10.2026 klokken 15:30: 
-
-På grund af længere svartider under det igangværende servicevindue, lukkes for kald til DAR REST Husnummer v3.0.0, med anvendelsen af Nord, Syd, Øst og Vest parametrene, til servicevinduet er afsluttet den 15. oktober klokken 09:00.
-
-14.10.2026 klokken 13:00:
-
-Dataopdatering kører, og Hændelser bliver genereret. Deltadownload genereres torsdag den 15. oktober 2026 og vil indeholde servicevindue-periodens opdateringer.
-
-13.10.2026 klokken 13:00:
-
-Nedetid: som tidligere meldt ud vil der tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00 være nedetid på:
-
-	Dataopdatering og Hændelser,
-	Filudtræk (FTP) og Fildownload (HTTPS),
-	13. oktober klokken 20:00 til klokken 22:00 nedetid på Webservices, GraphQL-tjenester og Datafordeler Administration 
-
-
-
-Under servicevinduet vil der kunne opleves længere svartider på webservices, GraphQL-tjenester, Filudtræk (FTP) og Fildownload (HTTPS).
-
-Det er muligt at hente Filudtræk (FTP) og Fildownload (HTTPS), som er genereret før servicevinduet. Deltadownload genereres torsdag den 15. oktober 2026 og vil indeholde servicevindue-periodens opdateringer.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79592&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>79887</id>
     <title
       type="text">Servicevindue PROD søndag den 25. oktober klokken 02:00 til klokken 04:00</title>
@@ -261,12 +212,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80148</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat på Test04 og Test06 20. oktober 2026</title>
-    <updated>2026-10-15T10:57:41Z</updated>
+    <updated>2026-10-19T10:28:01Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80148" />
     <content
       type="text">Besked: Datafordeleren opdaterer servercertifikat på Test04 og Test06 20. oktober 2026
+
+19.10.2026 klokken 12:15: Anvendere får en fejl 404 Ved forsøg på download af intermediate certifikatet på DigiCert Knowledge Base. Midlertidigt kan certifkatet hentes: Certifikatudbyder (fra 2. november 2026) - Bemærk
 
 Der er planlagt servicevindue på Datafordelerens testmiljøer tirsdag den 20. oktober fra klokken 9:00 til klokken 15:00.
 
@@ -299,12 +252,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80149</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat på PROD 2. november klokken 17:00 til klokken 22:00</title>
-    <updated>2026-10-15T12:02:25Z</updated>
+    <updated>2026-10-19T13:47:54Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80149" />
     <content
       type="text">Besked: Datafordeleren opdaterer servercertifikat på PROD 2. november 2026 klokken 17:00 til klokken 22:00
+
+19.10.2026 klokken 15:45: Anvendere får en fejl 404 Ved forsøg på download af intermediate certifikatet på DigiCert Knowledge Base. Midlertidigt kan certifkatet hentes: Certifikatudbyder (fra 2. november 2026) - Bemærk
 
 Der er planlagt servicevindue på PROD mandag den 2. november 2026 fra klokken 17:00 til klokken 22:00.
 
@@ -334,12 +289,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>78219</id>
     <title
       type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
-    <updated>2026-08-25T09:24:40Z</updated>
+    <updated>2026-10-19T12:38:08Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78219" />
     <content
       type="text">Besked: Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"
+
+19.10.2026 klokken 14:00: Problemet forventes løst i det planlagte servicevindue den 9. november 2026.
 
 25.08.2026 klokken 11:15: Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode", når anvenderen skal logge på Datafordeleren via  Datafordelerens Administration. Det gælder også for Testmiljøer på Datafordeler Administration. Selvbetjeningen til adgang med Webbruger er ikke berørt. Der bliver arbejdet på at løse problemet. &#xD;
 Register: Alle&#xD;
@@ -351,41 +308,20 @@ Sagsreference: 78219&#xD;
     <id>79987</id>
     <title
       type="text">Forsinkelser i EJF Custom Fildownload</title>
-    <updated>2026-10-12T08:48:12Z</updated>
+    <updated>2026-10-19T12:18:15Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79987" />
     <content
       type="text">Besked: Forsinkelser i EJF Custom Fildownload
 
-09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.
+19.10.2026 klokken 14:00: EJF Custom Fildownload vil fortsat være påvirket i indeværende uge grundet igangværende CPR dataopdateringer.
 
-EJF Custom Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.&#xD;
+09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: I gang&#xD;
 Sagsreference: 79987&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>80145</id>
-    <title
-      type="text">Manglende dataopdatering til Matriklen (MAT)</title>
-    <updated>2026-10-16T06:59:35Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80145" />
-    <content
-      type="text">Besked: Manglende dataopdatering til Matriklen (MAT)
-
-16.10.2026 klokken 09:00: Problemet med manglende dataopdatering blev løst 15.10.2026 og MAT data er igen fuldt opdateret.
-
-15.10.2026 klokken 12:00: Dataopdatering til Matriklen er stoppet. Data er sidst opdateret den 14.10.2026 klokken 13:10.
-Der arbejdes på at løse problemet som forventes løst i dag.&#xD;
-Register: Matriklen (MAT)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 80145&#xD;
 </content>
   </entry>
 </feed>
