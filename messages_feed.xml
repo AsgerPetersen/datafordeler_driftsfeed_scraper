@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-19T13:47:54Z</updated>
+  <updated>2026-10-20T07:03:23Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -134,7 +134,7 @@ Sagsreference: 79308&#xD;
     <id>79909</id>
     <title
       type="text">PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-10-08T08:56:07Z</updated>
+    <updated>2026-10-20T07:02:49Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/79909" />
@@ -212,7 +212,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80148</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat på Test04 og Test06 20. oktober 2026</title>
-    <updated>2026-10-19T10:28:01Z</updated>
+    <updated>2026-10-20T07:03:23Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80148" />
@@ -242,7 +242,7 @@ Hvad skal du gøre?
 Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet, vil jeres kald til Datafordelerens services på testmiljøer fejle efter skiftet.&#xD;
 Register: Alle&#xD;
 Service: Selvbetjening&#xD;
-Status: Planlagt&#xD;
+Status: I gang&#xD;
 Sagsreference: 80148&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
