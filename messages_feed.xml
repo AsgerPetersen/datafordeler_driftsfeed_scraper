@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-21T06:49:24Z</updated>
+  <updated>2026-10-21T10:13:34Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -131,6 +131,28 @@ Sagsreference: 79308&#xD;
 </content>
   </entry>
   <entry>
+    <id>80261</id>
+    <title
+      type="text">PROD servicevindue mandag den 9. november fra klokken 17:00 til klokken 22:00</title>
+    <updated>2026-10-21T10:13:34Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80261" />
+    <content
+      type="text">Besked: PROD servicevindue mandag den 9. november fra klokken 17:00 til klokken 22:00
+
+Der er planlagt servicevindue på PROD mandag den 9. november 2026 fra klokken 17:00 til klokken 22:00.
+
+Anvendere kan i tidsrummet opleve nedetid på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 80261&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
     <id>79909</id>
     <title
       type="text">PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30</title>
@@ -252,7 +274,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80149</id>
     <title
       type="text">Datafordeleren opdaterer servercertifikat på PROD 2. november klokken 17:00 til klokken 22:00</title>
-    <updated>2026-10-19T13:47:54Z</updated>
+    <updated>2026-10-21T08:51:41Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80149" />
@@ -273,11 +295,9 @@ Information om det nye certifikat:
 
 
 
- 
-
 Hvad skal du gøre?
 
-Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet senest mandag den 2. november 2026 klokken 17:00, vil jeres kald til Datafordelerens services på testmiljøer fejle efter skiftet.&#xD;
+Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet senest mandag den 2. november 2026 klokken 17:00, vil jeres kald til Datafordelerens services i produktion fejle efter skiftet.&#xD;
 Register: Alle&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 80149&#xD;
