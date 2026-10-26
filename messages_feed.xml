@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-23T13:51:07Z</updated>
+  <updated>2026-10-26T11:54:07Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -25,36 +25,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: I gang&#xD;
 Sagsreference: 79922&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>80104</id>
-    <title
-      type="text">Forsinkelser på CPR dataopdateringer via GraphQL</title>
-    <updated>2026-10-22T12:54:15Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80104" />
-    <content
-      type="text">Besked: Status på CPR dataopdateringer via GraphQL
-
-22.10.2026 klokken 09:00: GraphQL Data er opdateret med det nyeste data fra CPR. 
-
-16.10.2026 klokken 11:00:
-CPR data via GraphQL er nu fuldt opdateret.
-Hen over weekenden – fra i aften den 16.10.2026 til mandag den 19.10.2026 -  kan der dog forekomme mindre forsinkelser mellem klokken 18:00 og 06:00 i den løbende opdatering af CPR via GraphQL. Forsinkelsen skyldes planlagt systemarbejde med CPR data.
-
-14.10.2026 klokken 16:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. CPR data via GraphQL forventes at være opdateret torsdag eftermiddag den 15.10.2026.
-
-13.10.2026 klokken 13:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Indlæsningen sættes på pause i det planlagte servicevindue tirsdag den 13. oktober klokken 16:00 til onsdag den 14. oktober klokken 12:00.
-
-12.10.2026 klokken 17:00: Anvendere kan fortsat opleve en forsinkelse i opdateringen af en mindre del af CPR data via GraphQL. Ny status i morgen senest klokken 13:00.
-
-12.10.2026 klokken 14:45: Anvendere kan fortsat opleve forsinkelser på opdaterede CPR data via GraphQL. Aktuelt er forsinkelsen på cirka et døgn.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Webservice&#xD;
-Status: Løst&#xD;
-Sagsreference: 80104&#xD;
 </content>
   </entry>
   <entry>
@@ -89,49 +59,38 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
-    <id>79926</id>
+    <id>80502</id>
     <title
-      type="text">Forsinkelser på CPR opdateringer via Fildownload</title>
-    <updated>2026-10-22T12:54:41Z</updated>
+      type="text">Paralleldrift på Test04 ophører den 15. december 2026</title>
+    <updated>2026-10-26T11:54:07Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79926" />
+      href="https://datafordeler.dk/drift/meddelelser/80502" />
     <content
-      type="text">Besked: Forsinkelser på CPR opdateringer via Fildownload
+      type="text">Besked: Paralleldrift på Test04 ophører den 15. december 2026
 
-22.10.2026 klokken 09:00: CPR Delta Fildownload og CPR Total Fildownload er nu fuldt opdaterede med seneste CPR data. Disse Fildownloads har tidsstempel fra den 21. oktober 2026.
+Datafordeleren har fastsat dato for ophør af drift på alle ikke-moderniserede tjenester og funktioner på Test04 til den 15. december 2026 klokken 8:00.
 
-19.10.2026 klokken 14:00: Der vil fortsat være påvirkning på CPR Fildownload i indeværende uge.
+Følgende ikke-moderniserede tjenester og funktioner lukker på Datafordelerens testmiljø Test04 den 15. december 2026:
 
-09.10.2026 klokken 17:00: Der vil fortsat være påvirkning på CPR Fildownload den kommende uge.
-CPR Fildownload forventes at være genereret og med fuldt opdaterede data mandag den 19.10.2026.&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
-Service: Dataopdatering&#xD;
-Status: Løst&#xD;
-Sagsreference: 79926&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79308</id>
-    <title
-      type="text">Varsel om ophør af adgang til CPR’s tjenester og entiteter i Test06</title>
-    <updated>2026-09-24T07:40:43Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79308" />
-    <content
-      type="text">Besked: Varsel om ophør af adgang til CPR’s tjenester og entiteter i Test06
+	Adgang med Webbruger/Tjenestebruger 
 
-CPR-administrationen har valgt at nedlægge ekstern anvendelse af CPR’s data i Test06, og derfor inddrages myndighedernes adgang til CPR’s tjenester og entiteter i Test06.
 
-Dato for ophør af adgang: 23. oktober 2026
 
-Anvendere kan få adgang til Datafordelerens Test04 efter ansøgning. CPR-administrationen vil bestræbe sig på hurtig behandling af en sådan ansøgning.
+Tjenesteudfasning 
 
-Yderligere oplysninger kan eventuelt indhentes hos CPR-kontoret: https://cpr.dk/csd&#xD;
-Register: Det Centrale Personregister (CPR)&#xD;
+	Sammenstillede WFS-tjenester på Geoserver
+	REST-tjenester
+	WMS/WMTS/WCS på ikke-moderniseret adgang
+	Hændelser
+	Filudtræk
+
+
+
+Læs mere om udfasningen&#xD;
+Register: Alle&#xD;
 Status: I gang&#xD;
-Sagsreference: 79308&#xD;
+Sagsreference: 80502&#xD;
 </content>
   </entry>
   <entry>
@@ -174,38 +133,6 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79909&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79887</id>
-    <title
-      type="text">Servicevindue PROD søndag den 25. oktober klokken 02:00 til klokken 04:00</title>
-    <updated>2026-10-23T13:51:07Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79887" />
-    <content
-      type="text">Besked: Servicevindue PROD søndag den 25. oktober klokken 02:00 til klokken 04:00
-
-I forbindelse med overgang til normaltid er der planlagt servicevindue på PROD søndag den 25. oktober 2026 klokken 02:00 til klokken 04:00.
-
-I tidsrummet er dataopdatering og hændelser sat på pause.
-
-Generering af totaldownload og deltadownload er ligeledes sat på pause i tidsrummet. Dette betyder følgende data bliver 24 timer forsinket:
-
-	Total- og deltadownload for DAGI, CPR, GeoDanmark Vektor og VUR
-	Sammenstillede totaldownload for EJF
-	Deltadownload for EJF, Danske Stednavne, Fikspunkter og SVR
-
-
-
-Data vil være klar tirsdag morgen den 27. oktober 2026. &#xD;
-Register: Alle&#xD;
-Service: Hændelser, Dataopdatering, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
-Sagsreference: 79887&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
@@ -262,28 +189,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 78219&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>79987</id>
-    <title
-      type="text">Forsinkelser i EJF Custom Fildownload</title>
-    <updated>2026-10-22T12:53:52Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79987" />
-    <content
-      type="text">Besked: Forsinkelser i EJF Custom Fildownload
-
-22.10.2026 klokken 09:00: EJF Custom Fildownloads er nu fuldt opdaterede, både SincePrevious og Total. Anvendere anbefales at hente et nyt EJF Custom Total Fildownload.
-
-19.10.2026 klokken 14:00: EJF Custom Fildownload vil fortsat være påvirket i indeværende uge grundet igangværende CPR dataopdateringer.
-
-09.10.2026 klokken 17:00: Grundet den store mængde CPR dataopdateringer og forsinkelser i CPR Fildownload er der påvirkning på EJF Custom Fildownload, som ikke er genereret og fortsat vil være påvirket den kommende uge.&#xD;
-Register: Ejerfortegnelsen (EJF)&#xD;
-Service: Fildownload (HTTPS)&#xD;
-Status: Løst&#xD;
-Sagsreference: 79987&#xD;
 </content>
   </entry>
 </feed>
