@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-10-27T06:12:22Z</updated>
+  <updated>2026-10-27T13:51:48Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -133,6 +133,54 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Gennemført&#xD;
 Sagsreference: 79909&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>80394</id>
+    <title
+      type="text">Test04 servicevindue onsdag den 4. november fra klokken 10:00 til klokken 15:00</title>
+    <updated>2026-10-27T09:02:47Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80394" />
+    <content
+      type="text">Besked: Test04 servicevindue onsdag den 4. november fra klokken 10:00 til klokken 15:00
+
+Der er planlagt servicevindue på Test04 onsdag den 4. november 2026 fra klokken 10:00 til klokken 15:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 80394&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>80633</id>
+    <title
+      type="text">PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00</title>
+    <updated>2026-10-27T13:51:48Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/80633" />
+    <content
+      type="text">Besked: PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00
+
+Det er planlagt servicevindue på PROD tirsdag den 3. november 2026 klokken 13.00 – 14.00.
+
+I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2026 dataopdatering. 
+
+Anvendere, der henter GeoDanmark Ortofoto fildownload via metoden GetRasterMultipleFiles i tidsrummet for servicevinduet, kan opleve at få fildownload for både 2025 og 2026.
+
+Efter servicevinduet vil GeoDanmark Ortofoto WMS, WMTS og fildownload kun indeholde 2026 data.&#xD;
+Register: GeoDanmark Ortofoto&#xD;
+Service: Webservice, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 80633&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
