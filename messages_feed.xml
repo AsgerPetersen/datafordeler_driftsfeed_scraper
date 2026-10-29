@@ -116,28 +116,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>79909</id>
-    <title
-      type="text">PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30</title>
-    <updated>2026-10-27T06:12:22Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/79909" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 26. oktober fra klokken 17:30 til klokken 19:30
-
-Der er planlagt servicevindue på PROD mandag den 26. oktober 2026 klokken 17:30 til klokken 19:30.
-
-Der vil i tidsrummet være nedetid på Datafordeler Administration, Fildownload (HTTPS), Filudtræk (FTP), hændelser og dataopdatering.&#xD;
-Register: Alle&#xD;
-Service: Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 79909&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>80394</id>
     <title
       type="text">Test04 servicevindue onsdag den 4. november fra klokken 10:00 til klokken 15:00</title>
