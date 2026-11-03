@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-03T07:49:36Z</updated>
+  <updated>2026-11-03T13:46:55Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -59,23 +59,32 @@ Sagsreference: 75014&#xD;
 </content>
   </entry>
   <entry>
-    <id>80567</id>
+    <id>80815</id>
     <title
-      type="text">Uregelmæssig adgang til datafordeler.dk og dokumentation</title>
-    <updated>2026-11-02T09:24:54Z</updated>
+      type="text">Dataforsyningen flytter til ny driftsplatform</title>
+    <updated>2026-11-03T13:46:55Z</updated>
     <link
       rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80567" />
+      href="https://datafordeler.dk/drift/meddelelser/80815" />
     <content
-      type="text">Besked: Uregelmæssig adgang til datafordeler.dk og dokumentation
+      type="text">Besked: Dataforsyningen flytter til ny driftsplatform
 
-02.11.2026 klokken 10:30: Man kan fortsat opleve uregelmæssig adgang til datafordeler.dk.
+Der er stort overlap mellem anvenderne af Dataforsyningen og Datafordeleren. Vi opfordrer derfor til, at du videreformidler nedenstående information til relevante kolleger og samarbejdspartnere.
 
-30.10.2026 klokken 10:30: Adgang til datafordeler.dk og dokumentation for Datafordeleren kan være uregelmæssig på grund af problemer i netværk. Statens IT arbejder på at stabilisere netværket. &#xD;
+Dataforsyningen flytter til en ny driftsplatform den 30. november 2026. Er du anvender af Dataforsyningen, eller bruger du Gsearch, skal du være opmærksom på:
+
+	Servicevinduet sker torsdag den 26. november klokken 16:00 til mandag den 30. november klokken 08:00. Dataforsyningen er ikke tilgængelig i det tidsrum.
+	Fra mandag den 30. november er de mest kritiske tjenester tilgængelige på den nye platform, mens de resterende følger i løbet af første kvartal 2027.
+	Alle tjenester kræver fremover login. Adgangen er fortsat gratis, og har du allerede en konto, flytter den med. Fra 30. november kan brugerkonti også tilknyttes en organisation.
+	API-nøgler får begrænset levetid: op til 2 år, når de oprettes under en organisation, og op til 14 dage, når de oprettes på en brugerkonto. Eksisterende nøgler flytter med og gælder i op til 2 år.
+	Gsearch lukker den 26. november og afløses af Bifrost, en ny og forbedret søgetjeneste. Bifrost har andre endpoints og en anden inputstruktur, så du skal tilpasse dine løsninger, hvis du vil bruge den.
+
+
+
+Læs mere på klimadatastyrelsen.dk&#xD;
 Register: Alle&#xD;
-Service: Dokumentation&#xD;
 Status: I gang&#xD;
-Sagsreference: 80567&#xD;
+Sagsreference: 80815&#xD;
 </content>
   </entry>
   <entry>
@@ -161,12 +170,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80633</id>
     <title
       type="text">PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00</title>
-    <updated>2026-10-27T13:51:48Z</updated>
+    <updated>2026-11-03T13:00:32Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80633" />
     <content
       type="text">Besked: PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00
+
+03.11.2026 klokken 14:00: Servicevindue er gennemført. Anvendere der benytter WMTS skal være opmærksom på at det kan være nødvendigt at cleare cachen for at trække det nyeste data.
 
 Det er planlagt servicevindue på PROD tirsdag den 3. november 2026 klokken 13.00 – 14.00.
 
@@ -177,7 +188,7 @@ Anvendere, der henter GeoDanmark Ortofoto fildownload via metoden GetRasterMulti
 Efter servicevinduet vil GeoDanmark Ortofoto WMS, WMTS og fildownload kun indeholde 2026 data.&#xD;
 Register: GeoDanmark Ortofoto&#xD;
 Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 80633&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
