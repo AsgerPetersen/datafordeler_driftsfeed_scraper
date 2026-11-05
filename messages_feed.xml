@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-04T07:58:20Z</updated>
+  <updated>2026-11-05T12:30:31Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -25,6 +25,26 @@ Register: Alle&#xD;
 Service: Filudtræk (FTP)&#xD;
 Status: Løst&#xD;
 Sagsreference: 79922&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>81008</id>
+    <title
+      type="text">Filudtræk kun tilgængelige i eksisterende abonnementer</title>
+    <updated>2026-11-05T12:30:31Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/81008" />
+    <content
+      type="text">Besked: Filudtræk kun tilgængelige i eksisterende abonnementer
+
+I forbindelse med udfasningen af Filudtræk den 15. januar 2027 er det ikke længere muligt at oprette nye abonnementer på Filudtræk. Det er heller ikke længere muligt at redigere i brugerdefinerede abonnementer på Filudtræk.
+
+Filudtræk bliver udfaset den 15. januar 2027, og vi anbefaler at hente data via Fildownload og GraphQL med API-key eller OAuth.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: I gang&#xD;
+Sagsreference: 81008&#xD;
 </content>
   </entry>
   <entry>
