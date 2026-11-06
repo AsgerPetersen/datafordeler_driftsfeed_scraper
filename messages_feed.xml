@@ -189,69 +189,6 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
-    <id>80633</id>
-    <title
-      type="text">PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00</title>
-    <updated>2026-11-03T13:00:32Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80633" />
-    <content
-      type="text">Besked: PROD servicevindue tirsdag den 3. november 2026 klokken 13.00 –  14.00
-
-03.11.2026 klokken 14:00: Servicevindue er gennemført. Anvendere der benytter WMTS skal være opmærksom på at det kan være nødvendigt at cleare cachen for at trække det nyeste data.
-
-Det er planlagt servicevindue på PROD tirsdag den 3. november 2026 klokken 13.00 – 14.00.
-
-I servicevinduet vil GeoDanmark Ortofoto få udrullet en årlig 2026 dataopdatering. 
-
-Anvendere, der henter GeoDanmark Ortofoto fildownload via metoden GetRasterMultipleFiles i tidsrummet for servicevinduet, kan opleve at få fildownload for både 2025 og 2026.
-
-Efter servicevinduet vil GeoDanmark Ortofoto WMS, WMTS og fildownload kun indeholde 2026 data.&#xD;
-Register: GeoDanmark Ortofoto&#xD;
-Service: Webservice, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 80633&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>80149</id>
-    <title
-      type="text">Datafordeleren opdaterer servercertifikat på PROD 2. november klokken 17:00 til klokken 22:00</title>
-    <updated>2026-11-03T07:49:36Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80149" />
-    <content
-      type="text">Besked: Datafordeleren opdaterer servercertifikat på PROD 2. november 2026 klokken 17:00 til klokken 22:00
-
-19.10.2026 klokken 15:45: Anvendere får en fejl 404 Ved forsøg på download af intermediate certifikatet på DigiCert Knowledge Base. Midlertidigt kan certifkatet hentes: Certifikatudbyder (fra 2. november 2026) - Bemærk
-
-Der er planlagt servicevindue på PROD mandag den 2. november 2026 fra klokken 17:00 til klokken 22:00.
-
-I servicevinduet udskifter Datafordeleren servercertifikat. Det nye certifikat har ny certifikatudbyder, DigiCert i stedet for Sectigo. Certifikater kan findes på DigiCerts Knowledge Base.
-
-Anvendere med restriktiv infrastruktur skal sikre, at deres trust store er konfigureret til at anerkende den nye certifikatkæde. Det vil sikre uforstyrret drift og undgå forbindelsesfejl.
-
-Information om det nye certifikat:
-
-	GeoTrust Global G2 TLS EUR RSA4096 SHA384 2023 CA1
-
-
-
-Hvad skal du gøre?
-
-Verificér, at jeres trust store er opdateret og inkluderer ovenstående certifikater. Hvis de ikke er trustet senest mandag den 2. november 2026 klokken 17:00, vil jeres kald til Datafordelerens services i produktion fejle efter skiftet.&#xD;
-Register: Alle&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 80149&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>78219</id>
     <title
       type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
