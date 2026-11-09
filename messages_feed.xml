@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-05T12:30:31Z</updated>
+  <updated>2026-11-09T14:37:58Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -145,17 +145,19 @@ Sagsreference: 80502&#xD;
   <entry>
     <id>80261</id>
     <title
-      type="text">PROD servicevindue mandag den 9. november fra klokken 17:00 til klokken 22:00</title>
-    <updated>2026-10-21T10:13:34Z</updated>
+      type="text">PROD servicevindue mandag den 16. november fra klokken 18:00 til klokken 23:00 - flyttet fra den 9. november</title>
+    <updated>2026-11-09T11:09:30Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80261" />
     <content
-      type="text">Besked: PROD servicevindue mandag den 9. november fra klokken 17:00 til klokken 22:00
+      type="text">Besked: PROD servicevindue mandag den 16. november fra klokken 18:00 til klokken 23:00
 
-Der er planlagt servicevindue på PROD mandag den 9. november 2026 fra klokken 17:00 til klokken 22:00.
+09.11.2016: Servicevinduet den 9. november er flyttet til mandag den 16. november klokken 18.00 til 23.00
 
-Anvendere kan i tidsrummet opleve nedetid på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på Datafordeler Administration.&#xD;
+Der er planlagt servicevindue på PROD mandag den 16. november 2026 fra klokken 18:00 til klokken 23:00.
+
+Anvendere kan i tidsrummet opleve sporadisk nedetid på op til en time på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
@@ -192,12 +194,14 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>78219</id>
     <title
       type="text">Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"</title>
-    <updated>2026-10-19T12:38:08Z</updated>
+    <updated>2026-11-09T14:37:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/78219" />
     <content
       type="text">Besked: Det er ikke muligt at bruge "Forgot Password/Glemt adgangskode"
+
+09.11.2026 klokken 15:00: Løsning af problemet er blevet udskudt, og forventes løst i midten af december 2026.
 
 19.10.2026 klokken 14:00: Problemet forventes løst i det planlagte servicevindue den 9. november 2026.
 

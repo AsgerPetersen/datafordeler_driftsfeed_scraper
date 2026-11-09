@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-09-29T12:01:45Z</updated>
+  <updated>2026-11-09T14:27:47Z</updated>
   <entry>
     <id>79418</id>
     <title
@@ -44,15 +44,17 @@ Tidsangivelse: April 2027&#xD;
   <entry>
     <id>79493</id>
     <title
-      type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 9. november 2026</title>
-    <updated>2026-09-29T12:01:45Z</updated>
+      type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 16. november 2026</title>
+    <updated>2026-11-09T14:26:53Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/79493" />
     <content
-      type="text">Besked: Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 9. november 2026
+      type="text">Besked: Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 16. november 2026
 
-Den 9. november 2026 bliver de historiske DHM Højdekurver DHM2007, DHM2015 og DHM2023 tilgængelig som entitetsbaserede fildownload. 
+09.11.2026: Dato er opdateret til 16. november.
+
+Den 16. november 2026 bliver de historiske DHM Højdekurver DHM2007, DHM2015 og DHM2023 tilgængelig som entitetsbaserede fildownload. 
 
 De historiske fildownload bliver udstillet i GeoPackage-format.
 
@@ -61,21 +63,23 @@ Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79493&#xD;
-Tidsangivelse: 9. november 2026&#xD;
+Tidsangivelse: 16. november 2026&#xD;
 </content>
   </entry>
   <entry>
     <id>79225</id>
     <title
-      type="text">Ændring på CPR GraphQL CprCustomPublicSector 9. november 2026</title>
-    <updated>2026-09-21T11:48:31Z</updated>
+      type="text">Ændring på CPR GraphQL CprCustomPublicSector 16. november 2026</title>
+    <updated>2026-11-09T14:27:47Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/79225" />
     <content
-      type="text">Besked: Ændring på CPR GraphQL CprCustomPublicSector 9. november 2026
+      type="text">Besked: Ændring på CPR GraphQL CprCustomPublicSector 16. november 2026
 
-Den 9. november 2026 bliver det muligt at filtrere på darAdresse med "equals"-operatoren og "in"-operatoren i CPRs GraphQL-tjeneste CprCustomPublicSector.
+09.11.2026: Dato er rettet til 16. november
+
+Den 16. november 2026 bliver det muligt at filtrere på darAdresse med "equals"-operatoren og "in"-operatoren i CPRs GraphQL-tjeneste CprCustomPublicSector.
 
 Anvendere skal være opmærksom på, at ændringen kun bliver udstillet i version 5 af GraphQL-tjenesten.
 
@@ -84,7 +88,7 @@ Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79225&#xD;
-Tidsangivelse: 9. november 2026&#xD;
+Tidsangivelse: 16. november 2026&#xD;
 </content>
   </entry>
 </feed>
