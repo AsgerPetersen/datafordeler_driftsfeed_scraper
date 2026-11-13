@@ -6,7 +6,30 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-11-09T14:27:47Z</updated>
+  <updated>2026-11-13T11:50:42Z</updated>
+  <entry>
+    <id>81264</id>
+    <title
+      type="text">Ændret tilgængelighed for Filudtræk 15. december 2026</title>
+    <updated>2026-11-13T10:24:16Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81264" />
+    <content
+      type="text">Besked: Ændret tilgængelighed for Filudtræk
+
+Den 15. december 2026 ændres tilgængeligheden via FTP til maksimalt 7 dage for alle Filudtræk. Filudtræk, der i forvejen er tilgængelige i 7 dage ændres ikke. Notifikationerne via mail vil vise den aktuelle tilgængelighed.
+
+Vær opmærksom på, at Filudtræk for abonnementer bestilt til generering med større interval for eksempel månedligt, også kun vil være tilgængelige i 7 dage.
+
+Bemærk, at Datafordelerens service vedrørende Filudtræk stopper 15. januar 2027.  Filudtræk, der genereres inden den 15. januar 2027, vil være tilgængelige via FTP i maksimalt 7 dage herefter. Ingen Filudtræk vil være tilgængelige efter den 22. januar 2027.&#xD;
+Register: Alle&#xD;
+Service: Filudtræk (FTP)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81264&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
   <entry>
     <id>79418</id>
     <title
@@ -44,17 +67,19 @@ Tidsangivelse: April 2027&#xD;
   <entry>
     <id>79493</id>
     <title
-      type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 16. november 2026</title>
-    <updated>2026-11-09T14:26:53Z</updated>
+      type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 15. december 2026</title>
+    <updated>2026-11-13T11:50:42Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/79493" />
     <content
-      type="text">Besked: Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 16. november 2026
+      type="text">Besked: Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 15. december 2026
+
+13.11.2026: Dato er opdateret til 15. december 2026.
 
 09.11.2026: Dato er opdateret til 16. november.
 
-Den 16. november 2026 bliver de historiske DHM Højdekurver DHM2007, DHM2015 og DHM2023 tilgængelig som entitetsbaserede fildownload. 
+Den 15. december 2026 bliver de historiske DHM Højdekurver DHM2007, DHM2015 og DHM2023 tilgængelig som entitetsbaserede fildownload. 
 
 De historiske fildownload bliver udstillet i GeoPackage-format.
 
@@ -63,7 +88,7 @@ Register: Danmarks Højdemodel&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
 Sagsreference: 79493&#xD;
-Tidsangivelse: 16. november 2026&#xD;
+Tidsangivelse: 15. december 2026&#xD;
 </content>
   </entry>
   <entry>
