@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-17T09:12:58Z</updated>
+  <updated>2026-11-17T13:57:11Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -170,7 +170,7 @@ Periode slut: 1/1/0001 12:00:00 AM&#xD;
     <id>80394</id>
     <title
       type="text">Test04 servicevindue tirsdag den 17. november fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-11-17T09:01:56Z</updated>
+    <updated>2026-11-17T13:57:11Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/80394" />
@@ -184,7 +184,7 @@ Der er planlagt servicevindue på Test04 onsdag den 4. november 2026 fra klokken
 Der vil i tidsrummet være nedetid i testmiljøet på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
 Register: Alle&#xD;
 Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: I gang&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 80394&#xD;
 Periode start: 1/1/0001 12:00:00 AM&#xD;
 Periode slut: 1/1/0001 12:00:00 AM&#xD;
