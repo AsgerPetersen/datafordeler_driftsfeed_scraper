@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-17T13:57:11Z</updated>
+  <updated>2026-11-18T14:52:31Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -143,65 +143,19 @@ Sagsreference: 80502&#xD;
 </content>
   </entry>
   <entry>
-    <id>80261</id>
-    <title
-      type="text">PROD servicevindue mandag den 16. november fra klokken 18:00 til klokken 23:00 - flyttet fra den 9. november</title>
-    <updated>2026-11-17T07:38:02Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80261" />
-    <content
-      type="text">Besked: PROD servicevindue mandag den 16. november fra klokken 18:00 til klokken 23:00
-
-09.11.2016: Servicevinduet den 9. november er flyttet til mandag den 16. november klokken 18.00 til 23.00
-
-Der er planlagt servicevindue på PROD mandag den 16. november 2026 fra klokken 18:00 til klokken 23:00.
-
-Anvendere kan i tidsrummet opleve sporadisk nedetid på op til en time på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 80261&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
-    <id>80394</id>
-    <title
-      type="text">Test04 servicevindue tirsdag den 17. november fra klokken 10:00 til klokken 15:00</title>
-    <updated>2026-11-17T13:57:11Z</updated>
-    <link
-      rel="alternate"
-      href="https://datafordeler.dk/drift/meddelelser/80394" />
-    <content
-      type="text">Besked: Test04 servicevindue tirsdag den 17. november fra klokken 10:00 til klokken 15:00
-
-04.11.2026 klokken 08:55: Det planlagte servicevindue flyttes til tirsdag den 17. november fra klokken 10:00 til klokken 15:00.
-
-Der er planlagt servicevindue på Test04 onsdag den 4. november 2026 fra klokken 10:00 til klokken 15:00.
-
-Der vil i tidsrummet være nedetid i testmiljøet på GraphQL-tjenester, webservices, Fildownload (HTTPS) og på testmiljøets Datafordeler Administration.&#xD;
-Register: Alle&#xD;
-Service: Webservice, Selvbetjening, Fildownload (HTTPS)&#xD;
-Status: Gennemført&#xD;
-Sagsreference: 80394&#xD;
-Periode start: 1/1/0001 12:00:00 AM&#xD;
-Periode slut: 1/1/0001 12:00:00 AM&#xD;
-</content>
-  </entry>
-  <entry>
     <id>81405</id>
     <title
-      type="text">Test04 og Test06 servicevindue onsdag den 2. december fra klokken 17:00 til klokken 02:00</title>
-    <updated>2026-11-17T09:12:58Z</updated>
+      type="text">Test04 og Test06 servicevindue tirsdag den 1. december fra klokken 17:00 til klokken 02:00</title>
+    <updated>2026-11-18T14:52:31Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/meddelelser/81405" />
     <content
-      type="text">Besked: Test04 og Test06 servicevindue onsdag den 2. december fra klokken 17:00 til klokken 02:00
+      type="text">Besked: Test04 og Test06 servicevindue tirsdag den 1. december fra klokken 17:00 til klokken 02:00
 
-Der er planlagt servicevindue på Test04 og Test06, onsdag den 2. december 2026 fra klokken 17:00 til klokken 02:00.
+18.11.2026: Det planlagte servicevindue flyttes til tirsdag den 1. december fra klokken 17:00 til klokken 02:00.
+
+Der er planlagt servicevindue på Test04 og Test06, tirsdag den 1. december 2026 fra klokken 17:00 til klokken 02:00.
 
 Test-miljøerne vil være utilgængelige i hele perioden både på webservices, Fildownload (HTTPS) og Filudtræk (FTP), samt test-miljøernes Administrationsportal, Selvbetjening og Datafordeler Administration.
 
