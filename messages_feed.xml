@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceMessages</id>
-  <updated>2026-11-18T14:52:31Z</updated>
+  <updated>2026-11-20T12:43:59Z</updated>
   <entry>
     <id>79922</id>
     <title
@@ -140,6 +140,28 @@ Læs mere om udfasningen&#xD;
 Register: Alle&#xD;
 Status: I gang&#xD;
 Sagsreference: 80502&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>81518</id>
+    <title
+      type="text">Test06 servicevindue tirsdag den 24. november fra klokken 10:00 til klokken 16:00</title>
+    <updated>2026-11-20T12:43:59Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/meddelelser/81518" />
+    <content
+      type="text">Besked: Test06 servicevindue tirsdag den 24. november fra klokken 10:00 til klokken 16:00
+
+Der er planlagt servicevindue på Test06 tirsdag den 24. november 2026 fra klokken 10:00 til klokken 16:00.
+
+Der vil i tidsrummet være nedetid i testmiljøet på webservices, GraphQL-tjenester, Filudtræk (FTP), Fildownload (HTTPS), dataopdatering og hændelser, samt på testmiljøets Selvbetjening og Datafordeler Administration.&#xD;
+Register: Alle&#xD;
+Service: Webservice, Filudtræk (FTP), Hændelser, Dataopdatering, Selvbetjening, Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81518&#xD;
+Periode start: 1/1/0001 12:00:00 AM&#xD;
+Periode slut: 1/1/0001 12:00:00 AM&#xD;
 </content>
   </entry>
   <entry>
