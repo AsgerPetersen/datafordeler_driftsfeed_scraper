@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-11-13T11:50:42Z</updated>
+  <updated>2026-11-23T12:02:44Z</updated>
   <entry>
     <id>81264</id>
     <title
@@ -65,6 +65,27 @@ Tidsangivelse: April 2027&#xD;
 </content>
   </entry>
   <entry>
+    <id>81637</id>
+    <title
+      type="text">Ny version af fleksibel opslagslogik 15. december 2026</title>
+    <updated>2026-11-23T10:27:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81637" />
+    <content
+      type="text">Besked: Ny version af fleksibel opslagslogik 15. december 2026
+
+Den 15. december 2026 kommer fleksibel opslagslogik-tjenesterne flexible og flexibleCurrent i version 4 som følge af ændringer i GraphQL og Custom GraphQL for CVR.
+
+Ændringen bliver lagt på Test06 den 24. november 2026.&#xD;
+Register: Alle&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81637&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
+  <entry>
     <id>79493</id>
     <title
       type="text">Historiske DHM Højdekurver for 2007, 2015 og 2023 tilgængelig i entitetsbaserede fildownload 15. december 2026</title>
@@ -92,10 +113,103 @@ Tidsangivelse: 15. december 2026&#xD;
 </content>
   </entry>
   <entry>
+    <id>81640</id>
+    <title
+      type="text">Ny version af EJF Custom Fildownload 15. december 2026</title>
+    <updated>2026-11-23T11:30:24Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81640" />
+    <content
+      type="text">Besked: Ny version af EJF Custom Fildownload 15. december 2026
+
+Den 15. december bliver adresseringsnavn tilføjet til Ejerfortegnelsens Custom fildownload for EjerskabMedStamoplysninger, EjerskabMedStamoplysningerFortrolig, EjendomsadministratorMedStamoplysninger og EjendomsadministratorMedStamoplysningerFortrolig. Der er tale om det adresseringsnavn, som er en del af NavneObjektet.
+
+Ændringen bliver tilgængelige i EJF Custom fildownload version 2.
+
+Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
+Register: Ejerfortegnelsen (EJF)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81640&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>81636</id>
+    <title
+      type="text">Ny version af CVR graphql og custom graphql 15. december 2026</title>
+    <updated>2026-11-23T10:26:30Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81636" />
+    <content
+      type="text">Besked: Ny version af CVR graphql og custom graphql 15. december 2026
+
+Den 15. december bliver CVR GraphQL og Custom GraphQL optimeret i udsøgning af data på de bitemporale dimensioner i CVR's datamodel for CVR's entitetsbaserede og custom GraphQL-tjenester samt anvendelse i fleksibel opslagslogik. 
+Derudover bliver der tilføjet nye beskrivelser i CVR's typer og felter i datamodellen.
+
+Optimeringen bliver tilgængelig i CVR GraphQL version 3, CVR Custom GraphQL version 2 og Fleksibel Opslagslogik version 4.
+
+Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
+Register: Det Centrale Virksomhedsregister (CVR)&#xD;
+Service: Webservice&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81636&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>81642</id>
+    <title
+      type="text">Hændelser bliver gemt i 3 måneder efter 15. december 2026</title>
+    <updated>2026-11-23T11:34:11Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81642" />
+    <content
+      type="text">Besked: Hændelser bliver gemt i 3 måneder efter 15. december 2026
+
+Fra 15. december 2026 bliver hændelser gemt i 3 måneder på Datafordeleren. Det vil sige, at anvendere fremover vil kunne hente historiske hændelser op til 3 måneder tilbage i tiden på Datafordeleren.
+
+Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
+Register: Alle&#xD;
+Service: Hændelser&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81642&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
+  <entry>
+    <id>81641</id>
+    <title
+      type="text">Ny versioner af fildownload for BBR, CVR, EJF, CPR og MAT den 15. december 2026</title>
+    <updated>2026-11-23T12:02:44Z</updated>
+    <link
+      rel="alternate"
+      href="https://datafordeler.dk/drift/aendringer/81641" />
+    <content
+      type="text">Besked: Ny versioner af fildownload for BBR, CVR, EJF, CPR og MAT den 15. december 2026
+
+15. december 2026 kommer der nye versioner af fildownload for BBR, CVR, EJF, CPR og MAT på Datafordeleren.
+
+De nye versioner indeholder en rettelse til datotidstemplet for minimumsdatering i JSON fildownload, som fremadrettet er defineret i UTC tid, der ligeledes er anvendt for alle andre datotidsstempler på Datafordeleren.
+
+Anvendere skal være opmærksom på, at de nye versioner kan kræve ændringer i egne systemer, hvis de er sat op med en eksplicit håndtering af minimumsdatering.
+
+De nye versioner kommer på Test06 den 24. november 2026.&#xD;
+Register: Bygnings- og Boligregisteret (BBR), Det Centrale Personregister (CPR), Det Centrale Virksomhedsregister (CVR), Ejerfortegnelsen (EJF), Matriklen (MAT)&#xD;
+Service: Fildownload (HTTPS)&#xD;
+Status: Planlagt&#xD;
+Sagsreference: 81641&#xD;
+Tidsangivelse: 15. december 2026&#xD;
+</content>
+  </entry>
+  <entry>
     <id>79225</id>
     <title
       type="text">Ændring på CPR GraphQL CprCustomPublicSector 16. november 2026</title>
-    <updated>2026-11-09T14:27:47Z</updated>
+    <updated>2026-11-23T11:35:17Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/79225" />
@@ -111,7 +225,7 @@ Anvendere skal være opmærksom på, at ændringen kun bliver udstillet i versio
 Version 5 af CprCustomPublicSector bliver lagt på Test06 den 22. september 2026.&#xD;
 Register: Det Centrale Personregister (CPR)&#xD;
 Service: Webservice&#xD;
-Status: Planlagt&#xD;
+Status: Gennemført&#xD;
 Sagsreference: 79225&#xD;
 Tidsangivelse: 16. november 2026&#xD;
 </content>
