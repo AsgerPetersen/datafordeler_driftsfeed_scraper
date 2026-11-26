@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-11-23T12:02:44Z</updated>
+  <updated>2026-11-26T13:56:34Z</updated>
   <entry>
     <id>81264</id>
     <title
@@ -116,16 +116,16 @@ Tidsangivelse: 15. december 2026&#xD;
     <id>81640</id>
     <title
       type="text">Ny version af EJF Custom Fildownload 15. december 2026</title>
-    <updated>2026-11-23T11:30:24Z</updated>
+    <updated>2026-11-26T13:56:34Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/81640" />
     <content
       type="text">Besked: Ny version af EJF Custom Fildownload 15. december 2026
 
-Den 15. december bliver adresseringsnavn tilføjet til Ejerfortegnelsens Custom fildownload for EjerskabMedStamoplysninger, EjerskabMedStamoplysningerFortrolig, EjendomsadministratorMedStamoplysninger og EjendomsadministratorMedStamoplysningerFortrolig. Der er tale om det adresseringsnavn, som er en del af NavneObjektet.
+Den 15. december tilføjes adresseringsnavn som attribut til Navneobjektet i Ejerfortegnelsens Custom fildownload. Tilføjelse sker for EjerskabMedStamoplysninger, EjerskabMedStamoplysningerFortrolig, EjendomsadministratorMedStamoplysninger og EjendomsadministratorMedStamoplysningerFortrolig. 
 
-Ændringen bliver tilgængelige i EJF Custom fildownload version 2.
+Ændringen bliver tilgængelig i EJF Custom fildownload version 2.
 
 Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
@@ -163,14 +163,14 @@ Tidsangivelse: 15. december 2026&#xD;
     <id>81642</id>
     <title
       type="text">Hændelser bliver gemt i 3 måneder efter 15. december 2026</title>
-    <updated>2026-11-23T11:34:11Z</updated>
+    <updated>2026-11-26T13:55:21Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/81642" />
     <content
       type="text">Besked: Hændelser bliver gemt i 3 måneder efter 15. december 2026
 
-Fra 15. december 2026 bliver hændelser gemt i 3 måneder på Datafordeleren. Det vil sige, at anvendere fremover vil kunne hente historiske hændelser op til 3 måneder tilbage i tiden på Datafordeleren.
+Fra 15. december 2026 bliver hændelser gemt i 3 måneder på Datafordeleren. Det vil sige, at anvendere fremover vil kunne hente hændelser op til 3 måneder tilbage i tiden på Datafordeleren. 
 
 Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
 Register: Alle&#xD;
