@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-11-26T13:56:34Z</updated>
+  <updated>2026-11-26T14:19:03Z</updated>
   <entry>
     <id>81264</id>
     <title
@@ -163,7 +163,7 @@ Tidsangivelse: 15. december 2026&#xD;
     <id>81642</id>
     <title
       type="text">Hændelser bliver gemt i 3 måneder efter 15. december 2026</title>
-    <updated>2026-11-26T13:55:21Z</updated>
+    <updated>2026-11-26T14:19:03Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/81642" />
@@ -172,7 +172,7 @@ Tidsangivelse: 15. december 2026&#xD;
 
 Fra 15. december 2026 bliver hændelser gemt i 3 måneder på Datafordeleren. Det vil sige, at anvendere fremover vil kunne hente hændelser op til 3 måneder tilbage i tiden på Datafordeleren. 
 
-Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
+Ændringen bliver lagt på Test06 den 24. november 2026.&#xD;
 Register: Alle&#xD;
 Service: Hændelser&#xD;
 Status: Planlagt&#xD;
