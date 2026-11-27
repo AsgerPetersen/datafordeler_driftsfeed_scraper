@@ -6,7 +6,7 @@
   <subtitle
     type="text"></subtitle>
   <id>serviceChanges</id>
-  <updated>2026-11-26T14:19:03Z</updated>
+  <updated>2026-11-27T10:35:58Z</updated>
   <entry>
     <id>81264</id>
     <title
@@ -116,7 +116,7 @@ Tidsangivelse: 15. december 2026&#xD;
     <id>81640</id>
     <title
       type="text">Ny version af EJF Custom Fildownload 15. december 2026</title>
-    <updated>2026-11-26T13:56:34Z</updated>
+    <updated>2026-11-27T10:35:58Z</updated>
     <link
       rel="alternate"
       href="https://datafordeler.dk/drift/aendringer/81640" />
@@ -127,7 +127,7 @@ Den 15. december tilføjes adresseringsnavn som attribut til Navneobjektet i Eje
 
 Ændringen bliver tilgængelig i EJF Custom fildownload version 2.
 
-Ændringen bliver lagt på Test06 den 24. november 2026&#xD;
+Ændringen bliver lagt på Test06 den 1. december 2026&#xD;
 Register: Ejerfortegnelsen (EJF)&#xD;
 Service: Fildownload (HTTPS)&#xD;
 Status: Planlagt&#xD;
